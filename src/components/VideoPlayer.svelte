@@ -4,6 +4,7 @@
     import Plyr from "plyr";
     import { isAuthenticated } from "../stores/auth.js";
     import { subtitlePrefs } from "../stores/subtitle.js";
+    import { track, trackVideoProgress } from "../stores/analytics.js";
 
     export let videoId = "test-video-id";
     export let provider = "flickreels";
@@ -38,10 +39,28 @@
     // Settings panel toggle
     let showSubtitleMenu = false;
 
-    async function fetchVideoStream(res, l) {
+    // Analytics: only emit `video_start` once per (drama, episode) load and
+    // `video_complete` once when the user crosses 95% of the duration.
+    let startTracked = false;
+    let completeTracked = false;
+
+    // When true, the next fetchVideoStream() call appends ?refresh=1 to bypass
+    // the backend cache. We set this from the HLS error handler when an
+    // upstream signed URL has expired and playback fails.
+    let needsRefresh = false;
+
+    async function fetchVideoStream(res, l, { force = false } = {}) {
         try {
+            const params = new URLSearchParams({
+                res: res || "",
+                lang: l || "",
+            });
+            if (force || needsRefresh) {
+                params.set("refresh", "1");
+                needsRefresh = false;
+            }
             const resData = await fetch(
-                `/api/video/${provider}/${dramaId}/${videoId}?res=${res}&lang=${l}`,
+                `/api/video/${provider}/${dramaId}/${videoId}?${params.toString()}`,
             );
             const data = await resData.json();
             if (data.source) {
@@ -87,8 +106,44 @@
                     .play()
                     .catch((err) => console.warn("Autoplay prevented", err));
             }
+            // Record the start once the manifest is parsed and ready to play.
+            if (!startTracked) {
+                startTracked = true;
+                track("video_start", {
+                    provider,
+                    drama_id: dramaId,
+                    episode_id: videoId,
+                });
+            }
+        });
+
+        // Detect a stale signed URL and recover automatically. The most
+        // common case is the upstream CDN returning 403 because its `exp=`
+        // token has passed. We try once with ?refresh=1 to make the backend
+        // skip its cache and fetch a freshly signed URL.
+        hls.on(Hls.Events.ERROR, (_e, data) => {
+            if (!data.fatal) return;
+            const isNetwork = data.type === Hls.ErrorTypes.NETWORK_ERROR;
+            const looksLikeStaleSig =
+                isNetwork &&
+                (data.response?.code === 403 ||
+                    data.response?.code === 404 ||
+                    data.details === "manifestLoadError" ||
+                    data.details === "fragLoadError");
+            if (looksLikeStaleSig && !staleRetryDone) {
+                console.warn(
+                    "[VideoPlayer] stale stream URL detected, refreshing…",
+                );
+                staleRetryDone = true;
+                lastPosition = Math.floor(videoElement.currentTime || 0);
+                fetchVideoStream(currentRes, lang, { force: true });
+            }
         });
     }
+
+    // Set to true after we've already tried a refresh for this episode so we
+    // don't loop forever if the upstream is genuinely down.
+    let staleRetryDone = false;
 
     function initPlyr() {
         if (player) return;
@@ -144,8 +199,36 @@
     function syncHistory() {
         if (!$isAuthenticated) return;
         const currentTime = Math.floor(videoElement.currentTime);
-        if (currentTime === lastPosition) return;
 
+        // Throttled progress event (every ~30s). Goes through analytics
+        // tracker, not history. We do this even when currentTime is unchanged
+        // so that a paused-but-active session still pings periodically — the
+        // tracker itself enforces the 30s throttle.
+        trackVideoProgress({
+            provider,
+            drama_id: dramaId,
+            episode_id: videoId,
+            position: currentTime,
+        });
+
+        // Detect "completion" once per episode: >= 95% of the known duration.
+        if (
+            !completeTracked &&
+            videoElement.duration &&
+            currentTime / videoElement.duration >= 0.95
+        ) {
+            completeTracked = true;
+            track("video_complete", {
+                provider,
+                drama_id: dramaId,
+                episode_id: videoId,
+                metadata: {
+                    duration_seconds: Math.floor(videoElement.duration),
+                },
+            });
+        }
+
+        if (currentTime === lastPosition) return;
         lastPosition = currentTime;
 
         clearTimeout(syncTimeout);
@@ -168,8 +251,34 @@
         if (videoId !== loadedId) {
             lastPosition = 0;
             loadedId = videoId;
+            staleRetryDone = false;
+            // New episode loaded: reset the per-episode analytics flags so
+            // we'll emit fresh start/complete events.
+            startTracked = false;
+            completeTracked = false;
         }
         fetchVideoStream(currentRes, lang);
+    }
+
+    // For non-HLS sources (e.g. plain MP4 from moboreels) the <video> element
+    // emits a generic `error` event when the upstream signed URL is rejected.
+    // Treat it the same as the HLS NETWORK_ERROR path: refetch once with
+    // ?refresh=1 to get a freshly signed URL.
+    function handleVideoError() {
+        if (!videoElement || !videoElement.error) return;
+        if (staleRetryDone) return;
+        // MEDIA_ERR_NETWORK = 2, MEDIA_ERR_SRC_NOT_SUPPORTED = 4 — both can
+        // mean the CDN returned 403/404 mid-load.
+        const code = videoElement.error.code;
+        if (code !== 2 && code !== 4) return;
+        console.warn(
+            "[VideoPlayer] native video error",
+            code,
+            "- refreshing stream",
+        );
+        staleRetryDone = true;
+        lastPosition = Math.floor(videoElement.currentTime || 0);
+        fetchVideoStream(currentRes, lang, { force: true });
     }
 
     onMount(() => {
@@ -529,6 +638,7 @@
             bind:this={videoElement}
             on:timeupdate={syncHistory}
             on:loadedmetadata={handleLoadedMetadata}
+            on:error={handleVideoError}
             class="w-full h-full"
             crossorigin="anonymous"
             playsinline

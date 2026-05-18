@@ -48,3 +48,33 @@ CREATE TABLE IF NOT EXISTS analytics_daily_stats (
     total_views INT DEFAULT 0,
     total_subscriptions_revenue_count INT DEFAULT 0
 );
+
+/*
+ * Raw event log used to power the admin analytics dashboard.
+ *
+ * Every meaningful client-side action (page view, video start, video complete,
+ * search, login, register, content view) is appended here. Aggregations for
+ * DAU / registrations / views / top content are computed from this table plus
+ * `users` and `watch_history`.
+ *
+ * `user_id` is nullable so anonymous traffic (logged-out home page views,
+ * registration funnel) is still captured.
+ */
+CREATE TABLE IF NOT EXISTS analytics_events (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NULL,
+    event_type VARCHAR(50) NOT NULL,
+    provider VARCHAR(50) NULL,
+    drama_id VARCHAR(100) NULL,
+    episode_id VARCHAR(100) NULL,
+    path VARCHAR(255) NULL,
+    metadata JSON NULL,
+    ip VARCHAR(64) NULL,
+    user_agent TEXT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    INDEX idx_event_type (event_type),
+    INDEX idx_created_at (created_at),
+    INDEX idx_user_id (user_id),
+    INDEX idx_drama (provider, drama_id),
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE SET NULL
+);

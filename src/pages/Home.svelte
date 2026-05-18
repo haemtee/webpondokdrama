@@ -4,6 +4,7 @@
     import DramaCard from "../components/DramaCard.svelte";
     import { isAuthenticated } from "../stores/auth.js";
     import { lang } from "../stores/lang.js";
+    import { track } from "../stores/analytics.js";
 
     let provider = localStorage.getItem("dracin_provider") || "flickreels";
     let dramas = [];
@@ -131,6 +132,12 @@
             }
             return;
         }
+        // Record the search event before firing the request so it lands in
+        // analytics even if the fetch fails.
+        track("search", {
+            provider,
+            metadata: { query: searchQuery.trim() },
+        });
         loading = true;
         error = "";
         try {

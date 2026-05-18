@@ -1,10 +1,20 @@
 import { Hono } from 'hono';
-import { setCookie, deleteCookie } from 'hono/cookie';
+import { setCookie, deleteCookie, getCookie } from 'hono/cookie';
 import { db } from './db.js';
 import { cache } from './cache.js';
-import { hashPassword, comparePassword, generateToken, authMiddleware, isAdmin } from './auth.js';
+import { hashPassword, comparePassword, generateToken, authMiddleware, isAdmin, verifyToken } from './auth.js';
 import { getAdapter, PROVIDER_LIST } from './providers.js';
 import { fetchSubtitleAsVtt, isSrtUrl } from './subtitle.js';
+import {
+    recordEvent,
+    clientIpFrom,
+    getOverview,
+    getDailySeries,
+    getTopContent,
+    getSubscriptionFunnel,
+    getEventBreakdown,
+    getProviderBreakdown
+} from './analytics.js';
 
 const app = new Hono();
 
@@ -20,6 +30,14 @@ app.post('/api/auth/register', async (c) => {
             'INSERT INTO users (email, password_hash) VALUES (?, ?)',
             [email, hashedPassword]
         );
+        // Record analytics asynchronously; do not await so we don't slow the
+        // response. recordEvent is internally fault-tolerant.
+        recordEvent({
+            userId: result.insertId,
+            eventType: 'register',
+            ip: clientIpFrom(c),
+            userAgent: c.req.header('user-agent')
+        });
         return c.json({ message: 'User registered successfully', userId: result.insertId }, 201);
     } catch (error) {
         if (error.code === 'ER_DUP_ENTRY') {
@@ -48,6 +66,12 @@ app.post('/api/auth/login', async (c) => {
             sameSite: 'Strict',
             maxAge: 7 * 24 * 60 * 60
         });
+        recordEvent({
+            userId: user.id,
+            eventType: 'login',
+            ip: clientIpFrom(c),
+            userAgent: c.req.header('user-agent')
+        });
         return c.json({ message: 'Logged in successfully', user: { id: user.id, email: user.email, role: user.role } });
     } catch (error) {
         return c.json({ error: 'Internal server error' }, 500);
@@ -55,7 +79,18 @@ app.post('/api/auth/login', async (c) => {
 });
 
 app.post('/api/auth/logout', (c) => {
+    // Decode the cookie if present so we can attribute the logout event.
+    const token = getCookie(c, 'token');
+    const tokenUser = token ? verifyToken(token) : null;
     deleteCookie(c, 'token');
+    if (tokenUser?.id) {
+        recordEvent({
+            userId: tokenUser.id,
+            eventType: 'logout',
+            ip: clientIpFrom(c),
+            userAgent: c.req.header('user-agent')
+        });
+    }
     return c.json({ message: 'Logged out successfully' });
 });
 
@@ -109,6 +144,16 @@ app.post('/api/auth/subscribe', authMiddleware, async (c) => {
         } catch (logErr) {
             console.error('subscription_history insert failed:', logErr.message);
         }
+        recordEvent({
+            userId,
+            eventType: 'subscribe',
+            ip: clientIpFrom(c),
+            userAgent: c.req.header('user-agent'),
+            metadata: {
+                action: prev.subscription_status === 'active' ? 'renew' : 'subscribe',
+                expires_at: newExpiryMysql
+            }
+        });
         return c.json({
             success: true,
             subscription_status: 'active',
@@ -149,10 +194,46 @@ app.post('/api/auth/cancel', authMiddleware, async (c) => {
         } catch (logErr) {
             console.error('subscription_history insert failed:', logErr.message);
         }
+        recordEvent({
+            userId,
+            eventType: 'cancel_subscription',
+            ip: clientIpFrom(c),
+            userAgent: c.req.header('user-agent')
+        });
         return c.json({ success: true, subscription_status: 'inactive', subscription_expires_at: null });
     } catch (e) {
         console.error('cancel error:', e.message);
         return c.json({ error: 'Cancel failed' }, 500);
+    }
+});
+
+// -------------- ANALYTICS INGEST --------------
+// Frontend posts every interesting client-side event here. Authenticated
+// users get attributed via the JWT cookie; logged-out traffic is still
+// recorded with user_id = NULL.
+//
+// Body: { event_type, provider?, drama_id?, episode_id?, path?, metadata? }
+app.post('/api/track', async (c) => {
+    try {
+        const body = await c.req.json().catch(() => ({}));
+        const token = getCookie(c, 'token');
+        const tokenUser = token ? verifyToken(token) : null;
+        await recordEvent({
+            userId: tokenUser?.id || null,
+            eventType: body.event_type,
+            provider: body.provider || null,
+            dramaId: body.drama_id || null,
+            episodeId: body.episode_id || null,
+            path: body.path ? String(body.path).slice(0, 255) : null,
+            metadata: body.metadata || null,
+            ip: clientIpFrom(c),
+            userAgent: c.req.header('user-agent')
+        });
+        // Always 204 — tracking should be silent and never break the client.
+        return c.body(null, 204);
+    } catch (e) {
+        console.error('[track]', e.message);
+        return c.body(null, 204);
     }
 });
 
@@ -328,10 +409,35 @@ app.get('/api/detail/:provider/:id', authMiddleware, async (c) => {
 //     qualities: { "720p": "/api/proxy-media?url=...", ... },
 //     fromCache: bool
 //   }
+// Many provider CDNs sign their URLs with an `exp=<unix-timestamp>` token
+// (sometimes `Expires=<unix-timestamp>`). Pull out the earliest expiry and
+// return seconds-from-now. If none is found, return null (caller decides the
+// default TTL).
+function extractUrlExpirySeconds(url) {
+    if (!url) return null;
+    const candidates = [];
+    // exp=1779110606  (commonly inside a path/query token)
+    const expMatch = url.match(/[?&_-]exp(?:ires)?[=:](\d{9,11})/i);
+    if (expMatch) candidates.push(parseInt(expMatch[1], 10));
+    // Expires=...  (CloudFront / generic)
+    const expiresMatch = url.match(/[?&]Expires=(\d{9,11})/);
+    if (expiresMatch) candidates.push(parseInt(expiresMatch[1], 10));
+    // x-expires=... (TikTok-style)
+    const xexpMatch = url.match(/[?&]x-expires=(\d{9,11})/i);
+    if (xexpMatch) candidates.push(parseInt(xexpMatch[1], 10));
+    if (!candidates.length) return null;
+    const earliest = Math.min(...candidates);
+    const nowSec = Math.floor(Date.now() / 1000);
+    return earliest - nowSec;
+}
+
 app.get('/api/video/:provider/:dramaId/:episodeId', authMiddleware, async (c) => {
     const { provider, dramaId, episodeId } = c.req.param();
     const resParam = c.req.query('res');
     const langParam = c.req.query('lang') || 'id';
+    // ?refresh=1 lets the frontend bypass the cache when an upstream signed
+    // URL has expired and playback is failing with 403/404.
+    const refresh = c.req.query('refresh') === '1';
 
     const adapter = getAdapter(provider);
     if (!adapter) return c.json({ error: 'Unknown provider' }, 400);
@@ -339,12 +445,17 @@ app.get('/api/video/:provider/:dramaId/:episodeId', authMiddleware, async (c) =>
     // Per README: flickreels has 30 min TTL, stardust is permanent. Other
     // providers default to 30 min for safety. The cached value is the entire
     // normalized stream payload (source + qualities + subtitles).
-    const ttl = provider === 'stardusttv' || provider === 'stardust' ? null : 1800;
+    const baseTtl = provider === 'stardusttv' || provider === 'stardust' ? null : 1800;
     const cacheKey = `stream:${provider}:${dramaId}:${episodeId}:${resParam || 'default'}:${langParam}`;
 
-    const cached = await cache.get(cacheKey);
-    if (cached) {
-        return c.json({ ...cached, fromCache: true });
+    if (!refresh) {
+        const cached = await cache.get(cacheKey);
+        if (cached) {
+            return c.json({ ...cached, fromCache: true });
+        }
+    } else {
+        // Best-effort eviction; downstream cache.set below also overwrites it.
+        try { await cache.client?.del?.(cacheKey); } catch (_) { /* ignore */ }
     }
 
     try {
@@ -374,6 +485,20 @@ app.get('/api/video/:provider/:dramaId/:episodeId', authMiddleware, async (c) =>
             fromCache: false
         };
 
+        // Compute the actual TTL: clamp to whatever signed-URL `exp` we
+        // detected (minus a 60s safety buffer) so we never hand a client a
+        // URL that's already dead. Stardust stays permanent.
+        let ttl = baseTtl;
+        if (ttl !== null) {
+            const urlExpiry = extractUrlExpirySeconds(result.source);
+            if (urlExpiry !== null && urlExpiry > 60) {
+                ttl = Math.min(ttl, urlExpiry - 60);
+            } else if (urlExpiry !== null && urlExpiry <= 60) {
+                // Already-expired or about-to-expire URL: don't cache at all.
+                ttl = 1;
+            }
+        }
+
         // Only cache the normalized payload (not the wrapper), so we can
         // reconstruct fromCache=true cheaply.
         await cache.set(cacheKey, {
@@ -388,6 +513,7 @@ app.get('/api/video/:provider/:dramaId/:episodeId', authMiddleware, async (c) =>
         return c.json({ error: 'Bad Gateway' }, 502);
     }
 });
+
 
 // -------------- MEDIA PROXY (Bypass CORS) --------------
 app.get('/api/proxy-media', async (c) => {
@@ -499,18 +625,88 @@ app.get('/api/history', authMiddleware, async (c) => {
 });
 
 // -------------- ADMIN ANALYTICS --------------
+//
+// All endpoints below require the requester's JWT to carry `role: 'admin'`
+// (enforced by `isAdmin`). Each one returns a small JSON payload so the
+// frontend can render a card or chart without any extra processing.
+//
+// Common query param:
+//   ?days=N   window in days (default 30, capped 1..365)
+function parseDays(c) {
+    const raw = parseInt(c.req.query('days') || '30', 10);
+    if (!Number.isFinite(raw)) return 30;
+    return Math.min(365, Math.max(1, raw));
+}
+
+// Big-number cards + DAU at the top of the dashboard.
 app.get('/api/admin/analytics/overview', authMiddleware, isAdmin, async (c) => {
     try {
-        const [usersCount] = await db.query('SELECT COUNT(*) as total FROM users');
-        const [viewsCount] = await db.query('SELECT COUNT(*) as total FROM watch_history');
-        const dailyActiveUsers = [120, 150, 180, 190, 210, 250, 300];
-        const labels = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
-        return c.json({
-            totalUsers: usersCount[0].total,
-            totalViews: viewsCount[0].total,
-            chartData: { labels, data: dailyActiveUsers }
-        });
-    } catch (error) {
+        const days = parseDays(c);
+        const overview = await getOverview(days);
+        return c.json(overview);
+    } catch (e) {
+        console.error('[admin/analytics/overview]', e.message);
+        return c.json({ error: 'Database error' }, 500);
+    }
+});
+
+// Time series for the main chart: registrations / views / active users per day.
+app.get('/api/admin/analytics/timeseries', authMiddleware, isAdmin, async (c) => {
+    try {
+        const days = parseDays(c);
+        const series = await getDailySeries(days);
+        return c.json(series);
+    } catch (e) {
+        console.error('[admin/analytics/timeseries]', e.message);
+        return c.json({ error: 'Database error' }, 500);
+    }
+});
+
+// Top dramas table.
+app.get('/api/admin/analytics/top-content', authMiddleware, isAdmin, async (c) => {
+    try {
+        const days = parseDays(c);
+        const limit = Math.min(50, Math.max(1, parseInt(c.req.query('limit') || '10', 10) || 10));
+        const items = await getTopContent(days, limit);
+        return c.json({ items });
+    } catch (e) {
+        console.error('[admin/analytics/top-content]', e.message);
+        return c.json({ error: 'Database error' }, 500);
+    }
+});
+
+// Subscription funnel summary.
+app.get('/api/admin/analytics/subscriptions', authMiddleware, isAdmin, async (c) => {
+    try {
+        const days = parseDays(c);
+        const data = await getSubscriptionFunnel(days);
+        return c.json(data);
+    } catch (e) {
+        console.error('[admin/analytics/subscriptions]', e.message);
+        return c.json({ error: 'Database error' }, 500);
+    }
+});
+
+// Event-type breakdown (donut).
+app.get('/api/admin/analytics/events', authMiddleware, isAdmin, async (c) => {
+    try {
+        const days = parseDays(c);
+        const items = await getEventBreakdown(days);
+        return c.json({ items });
+    } catch (e) {
+        console.error('[admin/analytics/events]', e.message);
+        return c.json({ error: 'Database error' }, 500);
+    }
+});
+
+// Provider popularity.
+app.get('/api/admin/analytics/providers', authMiddleware, isAdmin, async (c) => {
+    try {
+        const days = parseDays(c);
+        const items = await getProviderBreakdown(days);
+        return c.json({ items });
+    } catch (e) {
+        console.error('[admin/analytics/providers]', e.message);
         return c.json({ error: 'Database error' }, 500);
     }
 });

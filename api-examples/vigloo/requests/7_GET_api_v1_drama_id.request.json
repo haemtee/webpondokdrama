@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/vigloo/api/v1/drama/15000468?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "15000468",
+    "lang": "id"
+  }
+}

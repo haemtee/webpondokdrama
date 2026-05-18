@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/bilitv/api/v1/drama/1881/episode/1?quality=720",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "1881",
+    "ep": "1",
+    "quality": "720"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "OK",
+  "payloads": [
+    {
+      "id": 15000101,
+      "title": "Populer",
+      "uiType": "CUSTOM",
+      "priority": 0,
+      "bundlesSettingId": 10000101
+    },
+    {
+      "id": 15000134,
+      "title": "Rekomendasi",
+      "uiType": "CUSTOM",
+      "priority": 1,
+      "bundlesSettingId": 10000134
+    },
+    {
+      "id": 15000141,
+      "title": "Lihat Semua",
+      "uiType": "FILTERED_PROGRAM",
+      "priority": 2,
+      "bundlesSettingId": 0
+    },
+    {
+      "id": 15000142,
+      "title": "Peringkat",
+      "uiType": "RANKING",
+      "priority": 3,
+      "bundlesSettingId": 0
+    }
+  ],
+  "timestamp": 1770088639518
+}

@@ -1,0 +1,68 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "1894702358019043329",
+      "name": "Jelajahi",
+      "type": 0,
+      "isDefault": true,
+      "remark": "explore",
+      "isGroup": true,
+      "isLatestRelease": false
+    },
+    {
+      "id": "1894773235170693121",
+      "name": "Baru",
+      "type": 3,
+      "isDefault": false,
+      "remark": "new_release",
+      "isGroup": true,
+      "isLatestRelease": true
+    },
+    {
+      "id": "1925512700977860609",
+      "name": "Kategori",
+      "type": 2,
+      "isDefault": false,
+      "remark": "categories",
+      "isGroup": false,
+      "isLatestRelease": false
+    },
+    {
+      "id": "1965372594714603522",
+      "name": "Dubbing🎤",
+      "type": 0,
+      "isDefault": false,
+      "remark": "dubbed",
+      "isGroup": true,
+      "isLatestRelease": false
+    },
+    {
+      "id": "2005494078870331394",
+      "name": "VIP",
+      "type": 4,
+      "isDefault": false,
+      "remark": "menber",
+      "isGroup": false,
+      "isLatestRelease": false
+    },
+    {
+      "id": "2028728342269657089",
+      "name": "Animasi",
+      "type": 0,
+      "isDefault": false,
+      "remark": "comic",
+      "isGroup": true,
+      "isLatestRelease": false
+    },
+    {
+      "id": "1919694988940324866",
+      "name": "🏆Ranking",
+      "type": 1,
+      "isDefault": false,
+      "remark": "rankings",
+      "isGroup": false,
+      "isLatestRelease": false
+    }
+  ]
+}

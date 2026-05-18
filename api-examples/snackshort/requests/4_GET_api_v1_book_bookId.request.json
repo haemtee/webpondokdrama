@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/snackshort/api/v1/book/123?lang=Indonesian",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "bookId": "123",
+    "lang": "Indonesian"
+  }
+}

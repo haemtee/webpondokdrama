@@ -1,0 +1,393 @@
+{
+  "data": {
+    "code": 200,
+    "msg": "success",
+    "data": [
+      {
+        "book": {
+          "book_id": 4283,
+          "chapters": 71,
+          "book_name": "The Tycoon’s Second Chance",
+          "cover_key": "o9npt",
+          "introduce": "Reborn and back to the past, he traded a can for a plane at the start, seized the opportunity with foresight and embarked on a road to wealth.",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o9npt.webp",
+          "onlineChapter": 71,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o9npu.webp"
+        },
+        "chapter": {
+          "chapter_id": 273258,
+          "prev_chapter_id": 273257,
+          "next_chapter_id": 273259,
+          "chapter_order": 6,
+          "chapter_name": "EP.6"
+        },
+        "play_url": "https://kjhwapp.drt768.com/909f2737f05771f084cc5017f0f90402/dc2f4f1614ac4a41b769e1ef5eb1d38b-47de2437f3608e896a7e37cfa2f40526-sd.m3u8?auth_key=1770091380-0-0-822a2f24a2b0df81f0ffed22d4f28cf0",
+        "sd_264_url": "https://kjhwapp.drt768.com/909f2737f05771f084cc5017f0f90402/dc2f4f1614ac4a41b769e1ef5eb1d38b-47de2437f3608e896a7e37cfa2f40526-sd.m3u8?auth_key=1770091380-0-0-822a2f24a2b0df81f0ffed22d4f28cf0",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=4283&chapterId=273258",
+        "watch_seconds": 0,
+        "share": 48,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 12330,
+        "collect": 95,
+        "tag": [
+          "Balas Dendam"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 993,
+          "chapters": 30,
+          "book_name": "When a Father Fails to Raise Well",
+          "cover_key": "o4dcd",
+          "introduce": "Winston Hake brought his whole family, including the elderly and children, to an international hospital for a medical examination. Coincidentally, he ran into Adam Davy, a director of his company. Winston Hake tried to get on friendly terms with Adam Davy, hoping to get a promotion smoothly after the Spring Festival. However, what he didn't know was that the promotion opportunity he had begged and pleaded for was ruined by his own biological son and mother within just a few hours...",
+          "book_attr": 2,
+          "drama_length": 1,
+          "image": "https://bs.kjcdn.com/i/pub/o4dcd.webp",
+          "onlineChapter": 30,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o4etx.webp"
+        },
+        "chapter": {
+          "chapter_id": 71487,
+          "prev_chapter_id": 0,
+          "next_chapter_id": 71488,
+          "chapter_order": 1,
+          "chapter_name": "EP.1"
+        },
+        "play_url": "https://kjhwapp.drt768.com/2048d80de9c271efbf935017f0f80402/50941f0556d14e3bb733f75c6e0b7bbe-592673343674c56c62771665cb214961-sd.m3u8?auth_key=1770091380-0-0-c5f1140259f98fef1d30d82dd3a90cce",
+        "sd_264_url": "https://kjhwapp.drt768.com/2048d80de9c271efbf935017f0f80402/50941f0556d14e3bb733f75c6e0b7bbe-592673343674c56c62771665cb214961-sd.m3u8?auth_key=1770091380-0-0-c5f1140259f98fef1d30d82dd3a90cce",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=993&chapterId=71487",
+        "watch_seconds": 0,
+        "share": 34,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 7917,
+        "collect": 5621,
+        "tag": [
+          "CEO"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 3214,
+          "chapters": 60,
+          "book_name": "The Princess's Severed Love",
+          "cover_key": "o5j6v",
+          "introduce": "She hid her identity to help her lover rise, only to be betrayed. Finally, she revealed her identity, punished the heartless and took charge!",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o5j6v.webp",
+          "onlineChapter": 60,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o5j7f.webp"
+        },
+        "chapter": {
+          "chapter_id": 208045,
+          "prev_chapter_id": 208044,
+          "next_chapter_id": 208046,
+          "chapter_order": 7,
+          "chapter_name": "EP.7"
+        },
+        "play_url": "https://kjhwapp.drt768.com/30c8ed69772d71f08f895017f0f80402/969525d1807741d886ba17e5a57ec917-891bc4f0dd0a637acda546d608fe36c2-sd.m3u8?auth_key=1770091380-0-0-cd061b0b8bf518245afbdb9e22666153",
+        "sd_264_url": "https://kjhwapp.drt768.com/30c8ed69772d71f08f895017f0f80402/969525d1807741d886ba17e5a57ec917-891bc4f0dd0a637acda546d608fe36c2-sd.m3u8?auth_key=1770091380-0-0-cd061b0b8bf518245afbdb9e22666153",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=3214&chapterId=208045",
+        "watch_seconds": 0,
+        "share": 25,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 14645,
+        "collect": 101,
+        "tag": [
+          "Zaman Kuno"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 4112,
+          "chapters": 60,
+          "book_name": "乞食少女の鳳羽紋章",
+          "cover_key": "o6xx3",
+          "introduce": "貧しい少女が重病の母を救うために盗みをして捕まり、血を薬引きとする秘密を打ち明け、皇室特有の鳳羽の痣が発見され、尋親・母を守る旅が始まる。",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o6xx3.webp",
+          "onlineChapter": 60,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o6xx4.webp"
+        },
+        "chapter": {
+          "chapter_id": 262948,
+          "prev_chapter_id": 262947,
+          "next_chapter_id": 262949,
+          "chapter_order": 9,
+          "chapter_name": "EP.9"
+        },
+        "play_url": "https://kjhwapp.drt768.com/8067bdfac90d71f08f8d4531959c0402/3f54f424b2b840e29b757ecfe1babc51-86975aa3af0777e06cb4897ceb518b74-sd.m3u8?auth_key=1770091380-0-0-940f182c9e1c1f75a1ccf12508e5ff02",
+        "sd_264_url": "https://kjhwapp.drt768.com/8067bdfac90d71f08f8d4531959c0402/3f54f424b2b840e29b757ecfe1babc51-86975aa3af0777e06cb4897ceb518b74-sd.m3u8?auth_key=1770091380-0-0-940f182c9e1c1f75a1ccf12508e5ff02",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=4112&chapterId=262948",
+        "watch_seconds": 0,
+        "share": 49,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 6035,
+        "collect": 46,
+        "tag": [
+          "Balas Dendam"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 229,
+          "chapters": 100,
+          "book_name": "대표님의 끔찍한 총애",
+          "cover_key": "o32j9",
+          "introduce": "오해와 속임수에 빠져 헤어졌던 두 남녀가 5년 후에 다시 만나게 되고, 이번에 그 소녀는 아이와 함께 그의 앞에 나타났다. -그의 아들인가요? 그들은 여전히 사랑하고 있나요?",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o32j9.webp",
+          "onlineChapter": 100,
+          "horizontalImage": "https://bs.kjcdn.com/es/resource/images/cover1.png"
+        },
+        "chapter": {
+          "chapter_id": 18378,
+          "prev_chapter_id": 0,
+          "next_chapter_id": 18379,
+          "chapter_order": 1,
+          "chapter_name": "EP.1"
+        },
+        "play_url": "https://kjhwapp.drt768.com/d0302253f4bd71ee8b650764b3ec0102/a1d18012aa20409bad878dcf0e09e9bb-a4f47fbaebe212f8e2036199330dcc0c-ld.m3u8?auth_key=1770091380-0-0-e10911910fa70d0035a084f047b2f243",
+        "sd_264_url": "",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=229&chapterId=18378",
+        "watch_seconds": 0,
+        "share": 58,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 16025,
+        "collect": 12339,
+        "tag": [
+          "Anak"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 1600,
+          "chapters": 70,
+          "book_name": "盲目な声：目覚めと復讐",
+          "cover_key": "o4v6m",
+          "introduce": "ガールフレンドを救うために失明し、ゴースト・シンガーとなり、裏切られて死んだ歌手。生まれ変わって視力を取り戻した彼は、偽の歌を暴露し、才能を披露し、大物と契約してスーパースターになった。",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o4v6m.webp",
+          "onlineChapter": 70,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o4v6n.webp"
+        },
+        "chapter": {
+          "chapter_id": 108187,
+          "prev_chapter_id": 108186,
+          "next_chapter_id": 108188,
+          "chapter_order": 11,
+          "chapter_name": "EP.11"
+        },
+        "play_url": "https://kjhwapp.drt768.com/0014703037c271f0bfb94531959d0402/deed780d4ed14b6d83040bd8d11246d7-6cb3a845c1145953e834d41cfc1504b3-sd.m3u8?auth_key=1770091380-0-0-4e26c4cebb90077636182eb348789f57",
+        "sd_264_url": "https://kjhwapp.drt768.com/0014703037c271f0bfb94531959d0402/deed780d4ed14b6d83040bd8d11246d7-6cb3a845c1145953e834d41cfc1504b3-sd.m3u8?auth_key=1770091380-0-0-4e26c4cebb90077636182eb348789f57",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=1600&chapterId=108187",
+        "watch_seconds": 0,
+        "share": 23,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 7338,
+        "collect": 48,
+        "tag": [
+          "Balas Dendam"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 1157,
+          "chapters": 30,
+          "book_name": "Wenn die Liebe vergeht",
+          "cover_key": "o4kjm",
+          "introduce": "Sie konnte keinerlei Untreue tolerieren, selbst er liebte sie noch.",
+          "book_attr": 2,
+          "drama_length": 1,
+          "image": "https://bs.kjcdn.com/i/pub/o4kjm.webp",
+          "onlineChapter": 30,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o4ngn.webp"
+        },
+        "chapter": {
+          "chapter_id": 80849,
+          "prev_chapter_id": 80848,
+          "next_chapter_id": 80850,
+          "chapter_order": 2,
+          "chapter_name": "EP.2"
+        },
+        "play_url": "https://kjhwapp.drt768.com/e05696010adf71f0802a4531859c0402/01c75ec1650943b0a774d7296aa787e5-a288efae2515bfaf9a96f7a8e47b8c04-sd.m3u8?auth_key=1770091380-0-0-4d8eced2272da3a0e192a2ac67ed2ce0",
+        "sd_264_url": "https://kjhwapp.drt768.com/e05696010adf71f0802a4531859c0402/01c75ec1650943b0a774d7296aa787e5-a288efae2515bfaf9a96f7a8e47b8c04-sd.m3u8?auth_key=1770091380-0-0-4d8eced2272da3a0e192a2ac67ed2ce0",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=1157&chapterId=80849",
+        "watch_seconds": 0,
+        "share": 38,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 15653,
+        "collect": 111,
+        "tag": [
+          "Pahlawan wanita",
+          "Pengkhianatan"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 3351,
+          "chapters": 60,
+          "book_name": "[Dubbed Version]The Unforgiven Blood",
+          "cover_key": "o5lw6",
+          "introduce": "Found by biological parents but mistreated, he took the blame for his foster brother and was abused in prison. After release, he cut ties, started a business with what he learned in prison, finally exposed his foster brother's true colors, got him convicted, leaving his parents regretful...",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o5lw6.webp",
+          "onlineChapter": 60,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o5lw7.webp"
+        },
+        "chapter": {
+          "chapter_id": 216259,
+          "prev_chapter_id": 216258,
+          "next_chapter_id": 216260,
+          "chapter_order": 5,
+          "chapter_name": "EP.5"
+        },
+        "play_url": "https://kjhwapp.drt768.com/e02fbb417e2d71f080075017f1f80402/afdac185f4f44e7d9bbc99905204b72d-44a69d5e94a72121144d38a38510a939-sd.m3u8?auth_key=1770091380-0-0-d25cab695261d9b057f602a167375458",
+        "sd_264_url": "https://kjhwapp.drt768.com/e02fbb417e2d71f080075017f1f80402/afdac185f4f44e7d9bbc99905204b72d-44a69d5e94a72121144d38a38510a939-sd.m3u8?auth_key=1770091380-0-0-d25cab695261d9b057f602a167375458",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=3351&chapterId=216259",
+        "watch_seconds": 0,
+        "share": 40,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 17702,
+        "collect": 135,
+        "tag": [
+          "Balas Dendam",
+          "Pengkhianatan"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 766,
+          "chapters": 60,
+          "book_name": "Vengeful Blackout",
+          "cover_key": "o3zs7",
+          "introduce": "Just imagine the pain and suffering that Luna Lynn had gone through before she decided to fight back. When no one around you, not even your family, can protect you from domestic violence, the only way is to face your fear and punch back.",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o3zs7.webp",
+          "onlineChapter": 60,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o40my.webp"
+        },
+        "chapter": {
+          "chapter_id": 59823,
+          "prev_chapter_id": 59822,
+          "next_chapter_id": 59824,
+          "chapter_order": 6,
+          "chapter_name": "EP.6"
+        },
+        "play_url": "https://kjhwapp.drt768.com/100d24f1b2d371ef9a585017f1f80402/a00e5008668ddc8ddd3ba0a6f9919e1c-sd.m3u8?auth_key=1770091380-0-0-885dc88cbc5a1344baae8bbb035b3a32",
+        "sd_264_url": "https://kjhwapp.drt768.com/100d24f1b2d371ef9a585017f1f80402/a00e5008668ddc8ddd3ba0a6f9919e1c-sd.m3u8?auth_key=1770091380-0-0-885dc88cbc5a1344baae8bbb035b3a32",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=766&chapterId=59823",
+        "watch_seconds": 0,
+        "share": 35,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 20084,
+        "collect": 12251,
+        "tag": [
+          "Balas Dendam"
+        ]
+      },
+      {
+        "book": {
+          "book_id": 4033,
+          "chapters": 58,
+          "book_name": "Last Divorce, New Life",
+          "cover_key": "o6njs",
+          "introduce": "She spent a decade helping her husband succeed from scratch, but he mistreated her, even giving the 10th divorce agreement over 47-yuan overspending. She then left to start anew, leaving him regretful.",
+          "book_attr": 2,
+          "drama_length": 2,
+          "image": "https://bs.kjcdn.com/i/pub/o6njs.webp",
+          "onlineChapter": 58,
+          "horizontalImage": "https://bs.kjcdn.com/i/pubrs/vo/go/o6njt.webp"
+        },
+        "chapter": {
+          "chapter_id": 258240,
+          "prev_chapter_id": 258239,
+          "next_chapter_id": 258241,
+          "chapter_order": 9,
+          "chapter_name": "EP.9"
+        },
+        "play_url": "https://kjhwapp.drt768.com/30a215dfb86571f0807f6723a78f0402/70d07e32023a48c1a45633915e56279d-f886eca953a7e444c7274098bdc645de-sd.m3u8?auth_key=1770091380-0-0-bde1966d937eec0fd9c55986519f6d96",
+        "sd_264_url": "https://kjhwapp.drt768.com/30a215dfb86571f0807f6723a78f0402/70d07e32023a48c1a45633915e56279d-f886eca953a7e444c7274098bdc645de-sd.m3u8?auth_key=1770091380-0-0-bde1966d937eec0fd9c55986519f6d96",
+        "sd_265_url": "",
+        "price": 0,
+        "is_lock": false,
+        "is_checked": 0,
+        "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=4033&chapterId=258240",
+        "watch_seconds": 0,
+        "share": 22,
+        "has_follow": false,
+        "has_like": false,
+        "has_collect": false,
+        "like": 13350,
+        "collect": 80,
+        "tag": [
+          "Bitter Love",
+          "Balas Dendam"
+        ]
+      }
+    ]
+  },
+  "cached": false,
+  "ttl": 86400
+}

@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "data": {
+    "videos": [
+      {
+        "PlayURL": "https://v-mps.crazymaplestudios.com/4068bbabec7571f0b7e44177d1c00102/video/6a8001d1309b44a9ae45fcf27da53165-c56cf1f46e5ec4b92a398ee0980c5d51-video-sd.m3u8",
+        "Encode": "H265",
+        "Dpi": 720,
+        "Bitrate": "544.733"
+      },
+      {
+        "PlayURL": "https://v-mps.crazymaplestudios.com/vod-112094/4068bbabec7571f0b7e44177d1c00102/6a8001d1309b44a9ae45fcf27da53165-1972b643d852d67375c77ab30fc13fbe-sd.m3u8",
+        "Encode": "H264",
+        "Dpi": 720,
+        "Bitrate": "868.784"
+      },
+      {
+        "PlayURL": "https://v-mps.crazymaplestudios.com/4068bbabec7571f0b7e44177d1c00102/6a8001d1309b44a9ae45fcf27da53165.m3u8",
+        "Encode": "H265",
+        "Dpi": 0,
+        "Bitrate": "0",
+        "MultiBit": 1,
+        "MultiDpi": 720,
+        "MultiBitrate": "1500000",
+        "MultiMap": [
+          {
+            "Width": 540,
+            "Height": 960,
+            "Dpi": 540
+          },
+          {
+            "Width": 720,
+            "Height": 1280,
+            "Dpi": 720
+          },
+          {
+            "Width": 1080,
+            "Height": 1920,
+            "Dpi": 1080
+          }
+        ]
+      }
+    ],
+    "locked": false
+  }
+}

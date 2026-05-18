@@ -1,0 +1,14 @@
+{
+  "_comment": "PLACEHOLDER - replace with actual API response captured from browser DevTools",
+  "_note": "Open DevTools > Network tab > select CubeTV > inspect response body",
+  "_endpoint": "GET https://api.cubetv.cc/c/v1/jG519q?navid=9vb8aR&os=1&langType=9&timestamp=1713234567",
+  "_headers": {
+    "authorization": "cubetv:V1.xxxx",
+    "user-agent": "Dart/3.9 (dart:io)"
+  },
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "list": []
+  }
+}

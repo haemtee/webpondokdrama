@@ -1,0 +1,175 @@
+{
+  "success": true,
+  "data": {
+    "episodeid": "ax6pNv",
+    "lockStatus": 1,
+    "linkInfo": [
+      {
+        "linkUrl": "https://video-aka.cubetv.cc/vod-1c7a3b/d097bcb93eea71f1bf80e6e6c5580102/c37dbb1b38ac46c3be2f7cefd3e38db1-197e8968e85f42df8ed39cdc1324645e-sd.m3u8?Expires=1779125963&OSSAccessKeyId=STS.NZ28uDvCA5gpJsMPFTMDQuxB1&Signature=mE%2F0evgTvQefVNSh%2FL4YYyXv2bs%3D&x-oss-process=hls%2Fsign&security-token=CAIS8AN1q6Ft5B2yfSjIr5mHc8%2Fwm5xggqWbSFX8tEYBQct9mr3p0zz2IHhMdXZsBeoYv%2Fo0n2tV7vsYlrIqFM4eGB2ZM5IqssoIr136JoHbvNeu0bsHhZv93vlygpWgjqHoeOzcYI73yZ7PAgm2K0YRrJL%2BcTK9JWjHVbSClZ9gaPkOQwC8dkAoLdxKJwxk2uN4U3zKLqSNPxfmpWDSAUF02HN7kngtxqmj5cee5xHCqVDmw41toJ%2FqcLepc%2B5mPpp0T%2F6e%2BI4TcbHaggFd9z9A9qp9kNZCm1H9s8qaHkNa7jifLuPQ6acPFgJiYbUgEKM2lpqynPZj6OvIjNa1mVQfI%2BBZXiOaT4ekxMbPBOKuMJMhcKTrJG3c3M3tdpD%2BqFEjemlJdlEIKcQgJnJ3TBcrTjXXIbOm%2F1aPegKxW7ecwa8rlthXtwy3rIHXdgXRGu%2FFj3lGZMQGAhl2Z0JM7wvIabQbdgFASVRjCouOQJ97BBIk8vuw7FKOCnc%2Bny8M5KajP66MoNw2bYTuQ5R49qYxaZpPrm82dVPzRqIRXuTgyK2zKlw%2F9d4OWffXgNftqI0YcTlLpnqoFH9OkF0DArtABAKRzIC8NDMZEy680e7%2FIlJC3W0OHmVgqH5xI48rfzgPy34i18%2BYi3I3mE%2Bw4m37lgJQGoABGualOsDs7cRyG0tziP9uy9AaS6Nh%2BmghL4rUgTXT96DF6xDAxcKRYUbWVIjMnOvf%2BALTgrpaG5spWybpJ%2BYSpfrPfc4KAGWoOxa905TsqjUEMKa4M8FbOaX2iGvno%2FDTPpAWmMYumZD8FMx%2BvF5KgoMESY3c07QXg3I9fM77WIYgAA%3D%3D",
+        "expireTime": 1779122363,
+        "source": 0,
+        "codeType": "H.264",
+        "codeRate": "SD"
+      }
+    ],
+    "episodeNumber": 1,
+    "episodeTitle": "1",
+    "chargeCoin": 0,
+    "commentCount": 0,
+    "videoCaption": [
+      {
+        "episodeid": 46450,
+        "language_code": "ar",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508432660611171.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "de",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508452472448946.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "en",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508140584526934.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "es",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508230938923768.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "fr",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508450070034741.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "id",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508440164152332.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "ja",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508143087030143.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "ko",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508145989968273.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "ms",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042509083511585990.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "pt",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508224536542318.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "th",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508442366377478.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "vi",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508444468473850.srt"
+      },
+      {
+        "episodeid": 46450,
+        "language_code": "zh",
+        "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508133881848893.srt"
+      }
+    ]
+  },
+  "raw": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "episodeid": "ax6pNv",
+      "lockStatus": 1,
+      "linkInfo": [
+        {
+          "linkUrl": "https://video-aka.cubetv.cc/vod-1c7a3b/d097bcb93eea71f1bf80e6e6c5580102/c37dbb1b38ac46c3be2f7cefd3e38db1-197e8968e85f42df8ed39cdc1324645e-sd.m3u8?Expires=1779125963&OSSAccessKeyId=STS.NZ28uDvCA5gpJsMPFTMDQuxB1&Signature=mE%2F0evgTvQefVNSh%2FL4YYyXv2bs%3D&x-oss-process=hls%2Fsign&security-token=CAIS8AN1q6Ft5B2yfSjIr5mHc8%2Fwm5xggqWbSFX8tEYBQct9mr3p0zz2IHhMdXZsBeoYv%2Fo0n2tV7vsYlrIqFM4eGB2ZM5IqssoIr136JoHbvNeu0bsHhZv93vlygpWgjqHoeOzcYI73yZ7PAgm2K0YRrJL%2BcTK9JWjHVbSClZ9gaPkOQwC8dkAoLdxKJwxk2uN4U3zKLqSNPxfmpWDSAUF02HN7kngtxqmj5cee5xHCqVDmw41toJ%2FqcLepc%2B5mPpp0T%2F6e%2BI4TcbHaggFd9z9A9qp9kNZCm1H9s8qaHkNa7jifLuPQ6acPFgJiYbUgEKM2lpqynPZj6OvIjNa1mVQfI%2BBZXiOaT4ekxMbPBOKuMJMhcKTrJG3c3M3tdpD%2BqFEjemlJdlEIKcQgJnJ3TBcrTjXXIbOm%2F1aPegKxW7ecwa8rlthXtwy3rIHXdgXRGu%2FFj3lGZMQGAhl2Z0JM7wvIabQbdgFASVRjCouOQJ97BBIk8vuw7FKOCnc%2Bny8M5KajP66MoNw2bYTuQ5R49qYxaZpPrm82dVPzRqIRXuTgyK2zKlw%2F9d4OWffXgNftqI0YcTlLpnqoFH9OkF0DArtABAKRzIC8NDMZEy680e7%2FIlJC3W0OHmVgqH5xI48rfzgPy34i18%2BYi3I3mE%2Bw4m37lgJQGoABGualOsDs7cRyG0tziP9uy9AaS6Nh%2BmghL4rUgTXT96DF6xDAxcKRYUbWVIjMnOvf%2BALTgrpaG5spWybpJ%2BYSpfrPfc4KAGWoOxa905TsqjUEMKa4M8FbOaX2iGvno%2FDTPpAWmMYumZD8FMx%2BvF5KgoMESY3c07QXg3I9fM77WIYgAA%3D%3D",
+          "expireTime": 1779122363,
+          "source": 0,
+          "codeType": "H.264",
+          "codeRate": "SD"
+        }
+      ],
+      "episodeNumber": 1,
+      "episodeTitle": "1",
+      "chargeCoin": 0,
+      "commentCount": 0,
+      "videoCaption": [
+        {
+          "episodeid": 46450,
+          "language_code": "ar",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508432660611171.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "de",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508452472448946.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "en",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508140584526934.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "es",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508230938923768.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "fr",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508450070034741.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "id",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508440164152332.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "ja",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508143087030143.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "ko",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508145989968273.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "ms",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042509083511585990.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "pt",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508224536542318.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "th",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508442366377478.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "vi",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508444468473850.srt"
+        },
+        {
+          "episodeid": 46450,
+          "language_code": "zh",
+          "url": "https://static-aka.cubetv.cc/env_prod/backend/episode/caption/2026042508133881848893.srt"
+        }
+      ]
+    }
+  }
+}

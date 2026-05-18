@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/netshort/api/v1/explore/1?lang=id_ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "page": "1",
+    "lang": "id_ID"
+  }
+}

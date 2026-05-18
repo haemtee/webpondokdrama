@@ -1,0 +1,137 @@
+{
+  "books": [],
+  "categories": [
+    {
+      "abstract": "测试分类",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "2",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Romance",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "男频暂用",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "19",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Male Lead",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "女频细分",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "16",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Billionaire",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "女频细分",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "17",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Teen Fic",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "通用分类",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "18",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Rebirth",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "灵异",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "4",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Paranormal",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "国际化网文分类",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "3",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Fantasy",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    },
+    {
+      "abstract": "hh",
+      "back_image": "",
+      "book_number": 0,
+      "dim_type": 10,
+      "icon": "",
+      "id": "5",
+      "large_icon": "",
+      "mid_pid": "",
+      "name": "Mystery",
+      "starling_key": "",
+      "tag": "",
+      "top": []
+    }
+  ],
+  "filters": [
+    {
+      "rule_key": "book_status",
+      "rule_value": [
+        {
+          "name": "All",
+          "value": "all"
+        },
+        {
+          "name": "Completed",
+          "value": "completed"
+        },
+        {
+          "name": "Ongoing",
+          "value": "ongoing"
+        }
+      ]
+    }
+  ],
+  "has_more": false
+}

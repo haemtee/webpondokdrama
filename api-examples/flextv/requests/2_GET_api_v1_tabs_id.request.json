@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/flextv/api/v1/tabs/1?page=1&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "1",
+    "page": "1",
+    "lang": "id"
+  }
+}

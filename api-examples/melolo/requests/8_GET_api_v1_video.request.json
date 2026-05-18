@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/melolo/api/v1/video?id=7602463570105732112",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "7602463570105732112"
+  }
+}

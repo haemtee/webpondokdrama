@@ -1,0 +1,1526 @@
+{
+  "status": "OK",
+  "payloads": [
+    {
+      "program": {
+        "id": 15000826,
+        "genre": {
+          "15000004": "Romantis",
+          "15000020": "Pengkhianatan",
+          "15000033": "Pesona Wanita"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000020,
+            "title": "Pengkhianatan"
+          },
+          {
+            "id": 15000033,
+            "title": "Pesona Wanita"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000042,
+            "groupName": "marriage_relationship",
+            "title": "Perceraian"
+          },
+          {
+            "id": 15000076,
+            "groupName": "love_and_romance",
+            "title": "Cinta Segitiga"
+          },
+          {
+            "id": 15000108,
+            "groupName": "tropes_1",
+            "title": "Memuaskan"
+          },
+          {
+            "id": 15000018,
+            "groupName": "second_chance",
+            "title": "Cinta Pasca Cerai"
+          },
+          {
+            "id": 15000002,
+            "groupName": "identity",
+            "title": "Identitas Rahasia"
+          },
+          {
+            "id": 15000005,
+            "groupName": "revenge_and_justice",
+            "title": "Balas Dendam"
+          },
+          {
+            "id": 15000019,
+            "groupName": "society_and_class",
+            "title": "Kalangan Atas"
+          },
+          {
+            "id": 15000024,
+            "groupName": "society_and_class",
+            "title": "Dari Nol ke Kaya"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          }
+        ],
+        "title": "Hari Ini Aku Akan Bercerai dengan Suami Superstar Korea",
+        "titleImage": "https://asset.vigloo.com/KR059P05S01/asset/title/id.png",
+        "subTitle": "Today I Divorce My Superstar Husband (TEST)",
+        "bannerImage": "",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR059P05S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10001525,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR059P05S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Setelah bercerai dari bintang Hallyu, dia akhirnya hidup atas namanya sendiri.",
+        "description": "Kang Hye-in menikah secara rahasia dengan bintang Hallyu, Choi Hyun. Sendirian menanggung hinaan dan pengkhianatan, dia akhirnya memilih bercerai setelah kehilangan anaknya. Perceraian itu membuka kehidupan lain Hye-in yang tak pernah diketahui Choi Hyun.",
+        "casting": "Jin Joo-hyung, Jung Seung-kyung, Lee Sun-min, Ahn Yi-seo",
+        "synopsis": "Kang Hye-in menikah secara rahasia dengan bintang Hallyu, Choi Hyun. Sendirian menanggung hinaan dan pengkhianatan, dia akhirnya memilih bercerai setelah kehilangan anaknya. Perceraian itu membuka kehidupan lain Hye-in yang tak pernah diketahui Choi Hyun.",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hant",
+          "es",
+          "th",
+          "id",
+          "zh-Hans",
+          "hi",
+          "pt-BR",
+          "ar"
+        ],
+        "releaseDate": "2026-01-15",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "subject",
+          "violence",
+          "language"
+        ],
+        "certificateNumber": "2026-VK00233",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 70,
+        "viewCount": 11786311,
+        "likeCount": 82305,
+        "bookmarkCount": 384802,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000793,
+            "programId": 15000826,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 70,
+            "releaseDate": "2026-01-15",
+            "rating": 15,
+            "contentInformation": [
+              "subject",
+              "violence",
+              "language"
+            ],
+            "certificateNumber": "2026-VK00233",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 10,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR059P05S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000793
+      }
+    },
+    {
+      "program": {
+        "id": 15000728,
+        "genre": {
+          "15000004": "Romantis",
+          "15000019": "Miliarder",
+          "15000036": "Balas dendam"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000019,
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000036,
+            "title": "Balas dendam"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000043,
+            "groupName": "marriage_relationship",
+            "title": "Nikah Kilat"
+          },
+          {
+            "id": 15000023,
+            "groupName": "society_and_class",
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000021,
+            "groupName": "society_and_class",
+            "title": "Cinderella"
+          },
+          {
+            "id": 15000069,
+            "groupName": "love_and_romance",
+            "title": "Romantis"
+          },
+          {
+            "id": 15000108,
+            "groupName": "tropes_1",
+            "title": "Memuaskan"
+          },
+          {
+            "id": 15000002,
+            "groupName": "identity",
+            "title": "Identitas Rahasia"
+          },
+          {
+            "id": 15000007,
+            "groupName": "revenge_and_justice",
+            "title": "Karma"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000148,
+            "groupName": "original",
+            "title": "Eksklusif"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          }
+        ],
+        "title": "Buku Harian Pernikahan Sang Putri Sulung",
+        "titleImage": "https://asset.vigloo.com/KR076P01S01/asset/title/id.png",
+        "subTitle": "Menikah kilat mengubah takdir",
+        "bannerImage": "",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR076P01S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10001074,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR076P01S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Romansa pewaris chaebol yang menyamar jadi satpam dan putri sulung miskan yang menikah kilat penuh ujian",
+        "description": "Pemilik toko roti kecil, Seonyeong menikah mendadak dengan Taesung, satpam yang ternyata pewaris chaebol. Seonyeong mempertahankan rumah tangga kecil mereka di tengah hidup sulit dan hinaan keluarga adik laki-lakinya. Saat tahu Seonyeong mencari adik perempuannya, Taesung diam-diam membantu, membuat pernikahan yang penuh kebohongan ini berubah menjadi keluarga sungguhan.",
+        "casting": "Han Seo-jun, Kim Ye-eun, \nOh Yeon-hee, Kim Geon-ho",
+        "synopsis": "Pemilik toko roti kecil, Seonyeong menikah mendadak dengan Taesung, satpam yang ternyata pewaris chaebol. Seonyeong mempertahankan rumah tangga kecil mereka di tengah hidup sulit dan hinaan keluarga adik laki-lakinya. Saat tahu Seonyeong mencari adik perempuannya, Taesung diam-diam membantu, membuat pernikahan yang penuh kebohongan ini berubah menjadi keluarga sungguhan.",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "ar",
+          "zh-Hant",
+          "zh-Hans",
+          "hi"
+        ],
+        "releaseDate": "2025-12-24",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "sexual",
+          "violence",
+          "language"
+        ],
+        "certificateNumber": "2025-VK06348",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 71,
+        "viewCount": 11143619,
+        "likeCount": 129609,
+        "bookmarkCount": 314536,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000695,
+            "programId": 15000728,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 71,
+            "releaseDate": "2025-12-24",
+            "rating": 15,
+            "contentInformation": [
+              "sexual",
+              "violence",
+              "language"
+            ],
+            "certificateNumber": "2025-VK06348",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 15,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR076P01S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000695
+      }
+    },
+    {
+      "program": {
+        "id": 15000324,
+        "genre": {
+          "15000004": "Romantis",
+          "15000013": "Komedi",
+          "15000030": "Cinta Benci"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000013,
+            "title": "Komedi"
+          },
+          {
+            "id": 15000030,
+            "title": "Cinta Benci"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000057,
+            "groupName": "youth_drama",
+            "title": "Remaja Dewasa"
+          },
+          {
+            "id": 15000067,
+            "groupName": "love_and_romance",
+            "title": "Komedi Romantis"
+          },
+          {
+            "id": 15000075,
+            "groupName": "love_and_romance",
+            "title": "Dari Musuh Jadi Cinta"
+          },
+          {
+            "id": 15000076,
+            "groupName": "love_and_romance",
+            "title": "Cinta Segitiga"
+          },
+          {
+            "id": 15000084,
+            "groupName": "romance_fantasy",
+            "title": "Harem Terbalik"
+          },
+          {
+            "id": 15000086,
+            "groupName": "romance_fantasy",
+            "title": "Hubungan Semalam"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000134,
+            "groupName": "asia",
+            "title": "Asia"
+          },
+          {
+            "id": 15000148,
+            "groupName": "original",
+            "title": "Eksklusif"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          }
+        ],
+        "title": "Energiku Kurang, Bosku Sempurna",
+        "titleImage": "https://asset.vigloo.com/KR059P01S01/asset/title/id.png",
+        "subTitle": "Gadis kerasukan dan pria berenergi",
+        "bannerImage": "https://asset.vigloo.com/KR059P01S01/asset/mainbanner/id.png",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR059P01S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10000957,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR059P01S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Bos sepertinya energimu kuat! Romansa kontrak kontak fisik Boreum dan Taeyang yang meledak-ledak",
+        "description": "Moon Boreum lahir dengan kekurangan energi hingga sering kerasukan hantu. Satu-satunya solusi adalah \"kontak fisik dengan pria berenergi positif\", tapi sulit bagi gadis pemalu yang tak pernah pacaran. Saat bertemu Sun Taeyang yang berenergi kuat, pertama kalinya dia merasa lega. Mereka terikat kontrak kontak fisik yang memicu perasaan rumit. Romansa bertahan hidup ini lebih menegangkan dari hantu!",
+        "casting": "Lee Haeum, Ki Hyunwoo, Lee Jungjun, Ko Joohee, Ryu Yijin, Cheon Woojin",
+        "synopsis": "Moon Boreum lahir dengan kekurangan energi hingga sering kerasukan hantu. Satu-satunya solusi adalah \"kontak fisik dengan pria berenergi positif\", tapi sulit bagi gadis pemalu yang tak pernah pacaran. Saat bertemu Sun Taeyang yang berenergi kuat, pertama kalinya dia merasa lega. Mereka terikat kontrak kontak fisik yang memicu perasaan rumit. Romansa bertahan hidup ini lebih menegangkan dari hantu!",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "ar"
+        ],
+        "releaseDate": "2025-08-14",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "sexual",
+          "violence",
+          "drug"
+        ],
+        "certificateNumber": "2025-VK03598",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 57,
+        "viewCount": 14569878,
+        "likeCount": 139383,
+        "bookmarkCount": 326278,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000311,
+            "programId": 15000324,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 57,
+            "releaseDate": "2025-08-14",
+            "rating": 15,
+            "contentInformation": [
+              "sexual",
+              "violence",
+              "drug"
+            ],
+            "certificateNumber": "2025-VK03598",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 9,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR059P01S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000311
+      }
+    },
+    {
+      "program": {
+        "id": 15000696,
+        "genre": {
+          "15000004": "Romantis",
+          "15000019": "Miliarder",
+          "15000023": "Pembalikan"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000019,
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000023,
+            "title": "Pembalikan"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000023,
+            "groupName": "society_and_class",
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000073,
+            "groupName": "love_and_romance",
+            "title": "Cinta Sepihak"
+          },
+          {
+            "id": 15000086,
+            "groupName": "romance_fantasy",
+            "title": "Hubungan Semalam"
+          },
+          {
+            "id": 15000017,
+            "groupName": "second_chance",
+            "title": "Reuni"
+          },
+          {
+            "id": 15000074,
+            "groupName": "love_and_romance",
+            "title": "Cinta Masa Kecil"
+          },
+          {
+            "id": 15000070,
+            "groupName": "love_and_romance",
+            "title": "Takdir"
+          },
+          {
+            "id": 15000076,
+            "groupName": "love_and_romance",
+            "title": "Cinta Segitiga"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          }
+        ],
+        "title": "Apakah semuanya kebetulan?",
+        "titleImage": "https://asset.vigloo.com/KR080P01S01/asset/title/id.png",
+        "subTitle": "Menjual malam pertama pada cinta lamaku",
+        "bannerImage": "",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR080P01S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10001057,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR080P01S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Kebetulan atau takdir? Kontrak dengan cinta terpendam kini menjadi obsesi yang menghancurkan.",
+        "description": "Di ambang kehancuran keluarga dan penyakit adiknya, Hayun menjual malam pertamanya kepada Jun-hyeok, pewaris kaya yang ia cintai sejak sekolah. Baginya, ini akhir tragis cinta pertamanya, namun Jun-hyeok hanya menganggapnya wanita bayaran. Saat identitas aslinya terungkap, penghinaan itu berubah menjadi obsesi yang gelap. Di tengah rahasia dan tarikan yang tak terelakkan, mampukah mereka mengurai benang takdir yang terjerat?",
+        "casting": "Park Si-yeon,  Ji Ho-geun",
+        "synopsis": "Di ambang kehancuran keluarga dan penyakit adiknya, Hayun menjual malam pertamanya kepada Jun-hyeok, pewaris kaya yang ia cintai sejak sekolah. Baginya, ini akhir tragis cinta pertamanya, namun Jun-hyeok hanya menganggapnya wanita bayaran. Saat identitas aslinya terungkap, penghinaan itu berubah menjadi obsesi yang gelap. Di tengah rahasia dan tarikan yang tak terelakkan, mampukah mereka mengurai benang takdir yang terjerat?",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "ar",
+          "hi"
+        ],
+        "releaseDate": "2025-12-18",
+        "isOriginal": false,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "sexual",
+          "violence",
+          "drug"
+        ],
+        "certificateNumber": "2025-VK06249",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 50,
+        "viewCount": 11628879,
+        "likeCount": 129683,
+        "bookmarkCount": 444346,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000662,
+            "programId": 15000696,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 50,
+            "releaseDate": "2025-12-18",
+            "rating": 15,
+            "contentInformation": [
+              "sexual",
+              "violence",
+              "drug"
+            ],
+            "certificateNumber": "2025-VK06249",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 6,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR080P01S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000662
+      }
+    },
+    {
+      "program": {
+        "id": 15000467,
+        "genre": {
+          "15000026": "Perselingkuhan",
+          "15000040": "Pernikahan Kilat",
+          "15000045": "Komedi Romantis"
+        },
+        "genres": [
+          {
+            "id": 15000026,
+            "title": "Perselingkuhan"
+          },
+          {
+            "id": 15000045,
+            "title": "Komedi Romantis"
+          },
+          {
+            "id": 15000040,
+            "title": "Pernikahan Kilat"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000067,
+            "groupName": "love_and_romance",
+            "title": "Komedi Romantis"
+          },
+          {
+            "id": 15000009,
+            "groupName": "infidelity_and_betrayal",
+            "title": "Perselingkuhan"
+          },
+          {
+            "id": 15000081,
+            "groupName": "love_and_romance",
+            "title": "Hubungan Palsu"
+          },
+          {
+            "id": 15000068,
+            "groupName": "love_and_romance",
+            "title": "Cinta Manis"
+          },
+          {
+            "id": 15000069,
+            "groupName": "love_and_romance",
+            "title": "Romantis"
+          },
+          {
+            "id": 15000139,
+            "groupName": "western",
+            "title": "AS"
+          },
+          {
+            "id": 15000148,
+            "groupName": "original",
+            "title": "Eksklusif"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          }
+        ],
+        "title": "Musim Panas dan Godaan Sang Pelayan",
+        "titleImage": "https://asset.vigloo.com/US003P03S01/asset/title/id.png",
+        "subTitle": "Dulu Pelayan, Kini Kekasih Musim",
+        "bannerImage": "https://asset.vigloo.com/US003P03S01/asset/mainbanner/id.png",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/US003P03S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10000552,
+            "type": 0,
+            "url": "https://asset.vigloo.com/US003P03S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Ditinggalkan saat bulan madu, Ella tak terduga tertarik akan Dylan, kepala pelayan rumah pantai yang menawan.",
+        "description": "เอลล่าเชื่อว่าเธอกำลังจะได้มีชีวิตดั่งเทพนิยายหลังแต่งงานกับลีโอ ผู้ชายที่เพอร์เฟ็กต์ทุกอย่าง แต่ในคืนฮันนีมูน ลีโอกลับทิ้งเธอไปทำงาน ปล่อยให้เธออยู่ลำพังในบ้านพักตากอากาศริมทะเลสุดหรู ที่นั่นเธอได้ใช้เวลาอยู่กับดีแลน พ่อบ้านหนุ่มเจ้าของรอยยิ้มเจ้าเล่ห์และหัวใจอ่อนโยนที่ช่วยเหลือทั้งคนและโลมาอย่างคล่องแคล่วจนทำให้เธอรู้สึกเป็นเจ้าสาวมากกว่าที่เจ้าบ่าวตัวจริงเคยทำ",
+        "casting": "Carson Polish, Lacey Katena, Molly Van Buren, Rob Touhey",
+        "synopsis": "เอลล่าเชื่อว่าเธอกำลังจะได้มีชีวิตดั่งเทพนิยายหลังแต่งงานกับลีโอ ผู้ชายที่เพอร์เฟ็กต์ทุกอย่าง แต่ในคืนฮันนีมูน ลีโอกลับทิ้งเธอไปทำงาน ปล่อยให้เธออยู่ลำพังในบ้านพักตากอากาศริมทะเลสุดหรู ที่นั่นเธอได้ใช้เวลาอยู่กับดีแลน พ่อบ้านหนุ่มเจ้าของรอยยิ้มเจ้าเล่ห์และหัวใจอ่อนโยนที่ช่วยเหลือทั้งคนและโลมาอย่างคล่องแคล่วจนทำให้เธอรู้สึกเป็นเจ้าสาวมากกว่าที่เจ้าบ่าวตัวจริงเคยทำ",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "hi",
+          "ar"
+        ],
+        "releaseDate": "2025-10-16",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "sexual",
+          "drug"
+        ],
+        "certificateNumber": "2025-VK05098",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 41,
+        "viewCount": 1273813,
+        "likeCount": 130312,
+        "bookmarkCount": 39213,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000433,
+            "programId": 15000467,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 41,
+            "releaseDate": "2025-10-16",
+            "rating": 15,
+            "contentInformation": [
+              "sexual",
+              "drug"
+            ],
+            "certificateNumber": "2025-VK05098",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 12,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "US003P03S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000433
+      }
+    },
+    {
+      "program": {
+        "id": 15000694,
+        "genre": {
+          "15000004": "Romantis",
+          "15000019": "Miliarder",
+          "15000035": "Reuni"
+        },
+        "genres": [
+          {
+            "id": 15000019,
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000035,
+            "title": "Reuni"
+          },
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000023,
+            "groupName": "society_and_class",
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000086,
+            "groupName": "romance_fantasy",
+            "title": "Hubungan Semalam"
+          },
+          {
+            "id": 15000018,
+            "groupName": "second_chance",
+            "title": "Cinta Pasca Cerai"
+          },
+          {
+            "id": 15000012,
+            "groupName": "family_relationship",
+            "title": "Ibu Tunggal"
+          },
+          {
+            "id": 15000021,
+            "groupName": "society_and_class",
+            "title": "Cinderella"
+          },
+          {
+            "id": 15000069,
+            "groupName": "love_and_romance",
+            "title": "Romantis"
+          },
+          {
+            "id": 15000108,
+            "groupName": "tropes_1",
+            "title": "Memuaskan"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000148,
+            "groupName": "original",
+            "title": "Eksklusif"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          }
+        ],
+        "title": "Keajaiban Seorang Ibu Tunggal",
+        "titleImage": "https://asset.vigloo.com/KR059P04S01/asset/title/id.png",
+        "subTitle": "Cinta muncul di tengah neraka",
+        "bannerImage": "",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR059P04S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10000990,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR059P04S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Hidup Sua yang penuh ancaman berubah drastis saat cinta pertamanya, Seojun, kembali muncul.",
+        "description": "Choi Sua bekerja keras demi hidup dan menghadapi perlakuan kasar bos bar. Setelah menolong CEO kaya, Han Seojun, mereka tidak sengaja menghabiskan malam bersama. Sua kabur, tapi dua bulan kemudian dia hamil, saat mantan suaminya yang obsesif kembali dan mengancam. Dan Seojun muncul di saat genting bersama ibunya...",
+        "casting": "Go Joo-won, Kim Bo-mi",
+        "synopsis": "Choi Sua bekerja keras demi hidup dan menghadapi perlakuan kasar bos bar. Setelah menolong CEO kaya, Han Seojun, mereka tidak sengaja menghabiskan malam bersama. Sua kabur, tapi dua bulan kemudian dia hamil, saat mantan suaminya yang obsesif kembali dan mengancam. Dan Seojun muncul di saat genting bersama ibunya...",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "zh-Hant",
+          "ar",
+          "zh-Hans",
+          "hi"
+        ],
+        "releaseDate": "2025-12-18",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "violence",
+          "language",
+          "drug"
+        ],
+        "certificateNumber": "2025-VK06282",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 64,
+        "viewCount": 5873055,
+        "likeCount": 129610,
+        "bookmarkCount": 190912,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000661,
+            "programId": 15000694,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 64,
+            "releaseDate": "2025-12-18",
+            "rating": 15,
+            "contentInformation": [
+              "violence",
+              "language",
+              "drug"
+            ],
+            "certificateNumber": "2025-VK06282",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 9,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR059P04S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000661
+      }
+    },
+    {
+      "program": {
+        "id": 15000468,
+        "genre": {
+          "15000004": "Romantis",
+          "15000014": "Realitas",
+          "15000029": "Cinta segitiga"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000014,
+            "title": "Realitas"
+          },
+          {
+            "id": 15000029,
+            "title": "Cinta segitiga"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000079,
+            "groupName": "love_and_romance",
+            "title": "Pacaran"
+          },
+          {
+            "id": 15000092,
+            "groupName": "erotic_and_adult",
+            "title": "Panas"
+          },
+          {
+            "id": 15000040,
+            "groupName": "time_and_rebirth",
+            "title": "Terlambat"
+          },
+          {
+            "id": 15000042,
+            "groupName": "marriage_relationship",
+            "title": "Perceraian"
+          },
+          {
+            "id": 15000075,
+            "groupName": "love_and_romance",
+            "title": "Dari Musuh Jadi Cinta"
+          },
+          {
+            "id": 15000069,
+            "groupName": "love_and_romance",
+            "title": "Romantis"
+          },
+          {
+            "id": 15000103,
+            "groupName": "forbidden_and_complex_love",
+            "title": "Wanita Lebih Tua"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000148,
+            "groupName": "original",
+            "title": "Eksklusif"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          }
+        ],
+        "title": "Pulau Romantis",
+        "titleImage": "https://asset.vigloo.com/KR000P05S01/asset/title/id.png",
+        "subTitle": "Perang Cinta yang Dipicu oleh Mantan Suami, Cinta Pertama, dan Pacar",
+        "bannerImage": "https://asset.vigloo.com/KR000P05S01/asset/mainbanner/id.png",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR000P05S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10000692,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR000P05S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Yeji bertemu mantan suami, cinta pertama, dan pacar sekarang di acara kencan 19+. 'Dan aku harus bersama mereka bertiga?'",
+        "description": "Untuk pacarnya yang kehilangan seluruh hartanya, Yeji mengikuti acara kencan 19+ dengan hadiah besar.\nCara memenangkan hadiah 1,9 miliar won adalah bermalam dengan pria lain.\nDi sana, ia bertemu kembali dengan Jae-hyun, cinta pertamanya, dan Do-hyuk, mantan suami yang ia tinggalkan setelah perselingkuhan.\nApakah Yeji akan memilih cinta sejati, hadiah 1,9 miliar won, atau keinginannya sendiri?",
+        "casting": " Lee Jiyeon, Ki Hyunwoo, Kim Hanyoung \nKim Nuri, Won Yubin, Kim Yunseo ",
+        "synopsis": "Untuk pacarnya yang kehilangan seluruh hartanya, Yeji mengikuti acara kencan 19+ dengan hadiah besar.\nCara memenangkan hadiah 1,9 miliar won adalah bermalam dengan pria lain.\nDi sana, ia bertemu kembali dengan Jae-hyun, cinta pertamanya, dan Do-hyuk, mantan suami yang ia tinggalkan setelah perselingkuhan.\nApakah Yeji akan memilih cinta sejati, hadiah 1,9 miliar won, atau keinginannya sendiri?",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "ar",
+          "hi",
+          "zh-Hant"
+        ],
+        "releaseDate": "2025-10-23",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "subject",
+          "sexual",
+          "drug"
+        ],
+        "certificateNumber": "2025-VK04862",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 60,
+        "viewCount": 12587254,
+        "likeCount": 131605,
+        "bookmarkCount": 353533,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000463,
+            "programId": 15000468,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 60,
+            "releaseDate": "2025-10-23",
+            "rating": 15,
+            "contentInformation": [
+              "subject",
+              "sexual",
+              "drug"
+            ],
+            "certificateNumber": "2025-VK04862",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 8,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR000P05S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000463
+      }
+    },
+    {
+      "program": {
+        "id": 15000895,
+        "genre": {
+          "15000004": "Romantis",
+          "15000030": "Cinta Benci",
+          "15000036": "Balas dendam"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000030,
+            "title": "Cinta Benci"
+          },
+          {
+            "id": 15000036,
+            "title": "Balas dendam"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000023,
+            "groupName": "society_and_class",
+            "title": "Miliarder"
+          },
+          {
+            "id": 15000000,
+            "groupName": "identity",
+            "title": "Identitas Tersembunyi"
+          },
+          {
+            "id": 15000021,
+            "groupName": "society_and_class",
+            "title": "Cinderella"
+          },
+          {
+            "id": 15000005,
+            "groupName": "revenge_and_justice",
+            "title": "Balas Dendam"
+          },
+          {
+            "id": 15000025,
+            "groupName": "society_and_class",
+            "title": "Pewaris"
+          },
+          {
+            "id": 15000070,
+            "groupName": "love_and_romance",
+            "title": "Takdir"
+          },
+          {
+            "id": 15000072,
+            "groupName": "love_and_romance",
+            "title": "Cinta Tulus"
+          },
+          {
+            "id": 15000008,
+            "groupName": "infidelity_and_betrayal",
+            "title": "Pengkhianatan"
+          },
+          {
+            "id": 15000125,
+            "groupName": "plot_tropes_2",
+            "title": "Plot Twist"
+          },
+          {
+            "id": 15000134,
+            "groupName": "asia",
+            "title": "Asia"
+          }
+        ],
+        "title": "Pelukan di Ujung Derita",
+        "titleImage": "https://asset.vigloo.com/KR081P03S01/asset/title/id.png",
+        "subTitle": "Trapped in the Old Mansion, He Falls for Her Scheme",
+        "bannerImage": "",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR081P03S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10001529,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR081P03S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Terjebak di rumah tua, ia pura-pura gila memanfaatkan sang elit. Ia menyelamatkannya, tahu kebenaran, rela dimanfaatkan seumur hidup.",
+        "description": "Yu Jin tumbuh di Yangcheng. Ayahnya menderita skizofrenia dan ibunya meninggal lebih awal. Setelah mewarisi harta kakeknya, ia dikurung oleh keluarga Shen di rumah kayu tua dan berpura-pura gila demi bertahan hidup. Untuk membalas dendam dan melarikan diri, ia menargetkan Mo Yang, pewaris berkuasa dari Jinzhou, menjadikan dirinya umpan dan menariknya selangkah demi selangkah. Suatu hari, Mo Yang menggendongnya keluar dari keluarga Shen, menyatakan bahwa jika keluarga Shen tidak mau memeliharanya, maka dialah yang akan melakukannya. Saat Yu Jin memanfaatkan Mo Yang untuk menghancurkan keluarga Shen dan hendak pergi, ia ditahan olehnya. Tatapan mata dan senyum di wajah Mo Yang membuatnya tersadar bahwa semuanya telah diketahui sejak lama. Mo Yang memeluknya dan berkata bahwa ia sudah tahu sejak awal dan rela dimanfaatkan olehnya seumur hidup.",
+        "casting": "Li Mengran, Chen Yu",
+        "synopsis": "Yu Jin tumbuh di Yangcheng. Ayahnya menderita skizofrenia dan ibunya meninggal lebih awal. Setelah mewarisi harta kakeknya, ia dikurung oleh keluarga Shen di rumah kayu tua dan berpura-pura gila demi bertahan hidup. Untuk membalas dendam dan melarikan diri, ia menargetkan Mo Yang, pewaris berkuasa dari Jinzhou, menjadikan dirinya umpan dan menariknya selangkah demi selangkah. Suatu hari, Mo Yang menggendongnya keluar dari keluarga Shen, menyatakan bahwa jika keluarga Shen tidak mau memeliharanya, maka dialah yang akan melakukannya. Saat Yu Jin memanfaatkan Mo Yang untuk menghancurkan keluarga Shen dan hendak pergi, ia ditahan olehnya. Tatapan mata dan senyum di wajah Mo Yang membuatnya tersadar bahwa semuanya telah diketahui sejak lama. Mo Yang memeluknya dan berkata bahwa ia sudah tahu sejak awal dan rela dimanfaatkan olehnya seumur hidup.",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh-Hant",
+          "zh-Hans",
+          "es",
+          "th",
+          "id",
+          "ar",
+          "hi",
+          "pt-BR"
+        ],
+        "releaseDate": "2026-01-29",
+        "isOriginal": false,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "subject"
+        ],
+        "certificateNumber": "2025-VK00000",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 135,
+        "viewCount": 165601,
+        "likeCount": 20377,
+        "bookmarkCount": 3173,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000862,
+            "programId": 15000895,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 135,
+            "releaseDate": "2026-01-29",
+            "rating": 15,
+            "contentInformation": [
+              "subject"
+            ],
+            "certificateNumber": "2025-VK00000",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 9,
+            "hasTrailer": false,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR081P03S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 1,
+        "seasonId": 15000862
+      }
+    },
+    {
+      "program": {
+        "id": 15000344,
+        "genre": {
+          "15000004": "Romantis",
+          "15000020": "Pengkhianatan",
+          "15000029": "Cinta segitiga"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000020,
+            "title": "Pengkhianatan"
+          },
+          {
+            "id": 15000029,
+            "title": "Cinta segitiga"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000050,
+            "groupName": "professional_genre",
+            "title": "Kantoran"
+          },
+          {
+            "id": 15000047,
+            "groupName": "marriage_relationship",
+            "title": "Kehamilan"
+          },
+          {
+            "id": 15000086,
+            "groupName": "romance_fantasy",
+            "title": "Hubungan Semalam"
+          },
+          {
+            "id": 15000019,
+            "groupName": "society_and_class",
+            "title": "Kalangan Atas"
+          },
+          {
+            "id": 15000076,
+            "groupName": "love_and_romance",
+            "title": "Cinta Segitiga"
+          },
+          {
+            "id": 15000081,
+            "groupName": "love_and_romance",
+            "title": "Hubungan Palsu"
+          },
+          {
+            "id": 15000020,
+            "groupName": "society_and_class",
+            "title": "Keluarga Elite"
+          },
+          {
+            "id": 15000067,
+            "groupName": "love_and_romance",
+            "title": "Komedi Romantis"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000149,
+            "groupName": "original",
+            "title": "Vigloo Asli"
+          },
+          {
+            "id": 15000005,
+            "groupName": "revenge_and_justice",
+            "title": "Balas Dendam"
+          }
+        ],
+        "title": "Romansa Rahasia Firma Hukum",
+        "titleImage": "https://asset.vigloo.com/KR017P02S01/asset/title/id.png",
+        "subTitle": "Ponsel tertinggal, malam tertukar",
+        "bannerImage": "https://asset.vigloo.com/KR017P02S01/asset/mainbanner/id.png",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR017P02S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10000616,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR017P02S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Mabuk dan bermalam dengan atasan yang mengira dia adalah orang lain, membuat Seoyeon dilema besar.",
+        "description": "Kang Seoyeon yang bekerja di firma hukum tanpa sengaja menghabiskan malam dengan atasannya, pengacara Yoon Dojin, setelah mabuk. Namun Dojin salah mengira bahwa dia menghabiskan malam dengan teman Seoyeon, Hwang Yurim. Takut dipecat, Seoyeon merahasiakan kejadian itu. Tetapi tanpa disadari, Dojin mulai tertarik padanya.",
+        "casting": "Kim Hanyoung, Moon Da-in, Kim Jiyun, Kim Yeong-guk",
+        "synopsis": "Kang Seoyeon yang bekerja di firma hukum tanpa sengaja menghabiskan malam dengan atasannya, pengacara Yoon Dojin, setelah mabuk. Namun Dojin salah mengira bahwa dia menghabiskan malam dengan teman Seoyeon, Hwang Yurim. Takut dipecat, Seoyeon merahasiakan kejadian itu. Tetapi tanpa disadari, Dojin mulai tertarik padanya.",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "ar",
+          "hi"
+        ],
+        "releaseDate": "2025-09-04",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "sexual",
+          "drug",
+          "imitative"
+        ],
+        "certificateNumber": "2025-VK04149",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 48,
+        "viewCount": 9066712,
+        "likeCount": 135874,
+        "bookmarkCount": 227783,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000326,
+            "programId": 15000344,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 48,
+            "releaseDate": "2025-09-04",
+            "rating": 15,
+            "contentInformation": [
+              "sexual",
+              "drug",
+              "imitative"
+            ],
+            "certificateNumber": "2025-VK04149",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 8,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR017P02S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000326
+      }
+    },
+    {
+      "program": {
+        "id": 15000350,
+        "genre": {
+          "15000001": "Drama",
+          "15000004": "Romantis",
+          "15000014": "Realitas"
+        },
+        "genres": [
+          {
+            "id": 15000004,
+            "title": "Romantis"
+          },
+          {
+            "id": 15000014,
+            "title": "Realitas"
+          },
+          {
+            "id": 15000001,
+            "title": "Drama"
+          }
+        ],
+        "metaTags": [
+          {
+            "id": 15000077,
+            "groupName": "love_and_romance",
+            "title": "Multi Segitiga"
+          },
+          {
+            "id": 15000092,
+            "groupName": "erotic_and_adult",
+            "title": "Panas"
+          },
+          {
+            "id": 15000057,
+            "groupName": "youth_drama",
+            "title": "Remaja Dewasa"
+          },
+          {
+            "id": 15000161,
+            "groupName": "others",
+            "title": "Game"
+          },
+          {
+            "id": 15000159,
+            "groupName": "relationship",
+            "title": "Saingan"
+          },
+          {
+            "id": 15000097,
+            "groupName": "erotic_and_adult",
+            "title": "Ciuman"
+          },
+          {
+            "id": 15000111,
+            "groupName": "tropes_2",
+            "title": "Telenovela"
+          },
+          {
+            "id": 15000133,
+            "groupName": "characteristic",
+            "title": "Modis"
+          },
+          {
+            "id": 15000136,
+            "groupName": "asia",
+            "title": "Korea"
+          },
+          {
+            "id": 15000134,
+            "groupName": "asia",
+            "title": "Asia"
+          },
+          {
+            "id": 15000107,
+            "groupName": "tropes_1",
+            "title": "Fantastis"
+          }
+        ],
+        "title": "Harus Sharehouse2",
+        "titleImage": "https://asset.vigloo.com/KR059P02S01/asset/title/id.png",
+        "subTitle": "Acara romansa ekstrem hadir kembali",
+        "bannerImage": "https://asset.vigloo.com/KR059P02S01/asset/mainbanner/id.png",
+        "thumbnail": "",
+        "thumbnailExpanded": "https://asset.vigloo.com/KR059P02S01/asset/thumbnail_expanded/id.png",
+        "thumbnails": [
+          {
+            "id": 10000614,
+            "type": 0,
+            "url": "https://asset.vigloo.com/KR059P02S01/asset/thumbnails/default/id.png"
+          }
+        ],
+        "logLine": "Harus Sharehouse 2 kembali lebih panas dan sensual. Tapi… akukah si pengacau itu?",
+        "description": "Haeri tampil sebagai \"si pengacau\" di acara \"Harus Sharehouse\", dengan hak istimewa memilih pasangan kencan pertamanya. Tapi aturan ekstrem memicu emosi lama antara mantan dan wajah baru. Cinta tulus atau sekadar strategi? Dengan misi malam dan hadiah fantastis, Sharehouse 2 hadir lebih panas dan rumit.",
+        "casting": "Lee Yoon-seo, Min Ha-ram, Jang Eui-su, Jang Eun-bi, Ahn Jun-won, Joo Hye-won",
+        "synopsis": "Haeri tampil sebagai \"si pengacau\" di acara \"Harus Sharehouse\", dengan hak istimewa memilih pasangan kencan pertamanya. Tapi aturan ekstrem memicu emosi lama antara mantan dan wajah baru. Cinta tulus atau sekadar strategi? Dengan misi malam dan hadiah fantastis, Sharehouse 2 hadir lebih panas dan rumit.",
+        "seasonCount": 1,
+        "captionLanguages": [
+          "ko",
+          "en",
+          "ja",
+          "zh",
+          "es",
+          "th",
+          "id",
+          "ar",
+          "hi"
+        ],
+        "releaseDate": "2025-09-11",
+        "isOriginal": true,
+        "ongoingStatus": 0,
+        "rating": 15,
+        "contentInformation": [
+          "subject",
+          "sexual"
+        ],
+        "certificateNumber": "2025-VK04196",
+        "isExplicit": false,
+        "isFree": false,
+        "episodeCount": 58,
+        "viewCount": 19124155,
+        "likeCount": 158584,
+        "bookmarkCount": 389661,
+        "readyToPublish": true,
+        "seasons": [
+          {
+            "id": 15000330,
+            "programId": 15000350,
+            "seasonNumber": 1,
+            "title": "",
+            "thumbnail": "",
+            "description": "",
+            "episodeCount": 58,
+            "releaseDate": "2025-09-11",
+            "rating": 15,
+            "contentInformation": [
+              "subject",
+              "sexual"
+            ],
+            "certificateNumber": "2025-VK04196",
+            "isExplicit": false,
+            "isFree": false,
+            "appFreeEpCount": 5,
+            "hasTrailer": true,
+            "ongoingStatus": 0
+          }
+        ],
+        "programCode": "KR059P02S01",
+        "badges": [],
+        "expirationDate": null
+      },
+      "extra": {
+        "episodeNumber": 0,
+        "seasonId": 15000330
+      }
+    }
+  ],
+  "timestamp": 1770089644366
+}

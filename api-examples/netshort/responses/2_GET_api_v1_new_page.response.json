@@ -1,0 +1,365 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "2015696609715171329",
+      "title": "Permainan Kekuasaan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015696198274920449/1769927284035-.973579569244507-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Menghukum Penjahat",
+        "Intrik Kekuasaan"
+      ]
+    },
+    {
+      "id": "2013859651786317826",
+      "title": "Ayah Jaksaku, Cepat Tolong Ibu!",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013859618986860545/1769590826354-7227134521507794-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Perebutan Harta",
+        "Menghukum Penjahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2014158099565502466",
+      "title": "Tinju Amarah",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014158057710542850/1769497518812-4610886679622057-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Baik vs Jahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2013534408922095618",
+      "title": "Tak Bisa Lagi Remehkan Dia",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013534359404142593/1769570530187-7599655972314943-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Perjalanan Waktu",
+        "Konflik Keluarga Kaya",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "2016417699577282561",
+      "title": "Saat Harta Memilih Pemiliknya",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015750975339900929/1769915234571-3199000771977607-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Kaya Mendadak",
+        "Kepuasan",
+        "Fantasi Kreatif"
+      ]
+    },
+    {
+      "id": "2015239924651405314",
+      "title": "Diawali Kontrak, Diakhiri Cinta",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015239866459631617/1769673328932-.690992670275426-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Cinta Kontrak",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2015696609715171329",
+      "title": "Permainan Kekuasaan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015696198274920449/1769927284035-.973579569244507-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Menghukum Penjahat",
+        "Intrik Kekuasaan"
+      ]
+    },
+    {
+      "id": "2016417699577282561",
+      "title": "Saat Harta Memilih Pemiliknya",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015750975339900929/1769915234571-3199000771977607-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Kaya Mendadak",
+        "Kepuasan",
+        "Fantasi Kreatif"
+      ]
+    },
+    {
+      "id": "2015700143349182466",
+      "title": "Ramalan yang Menukar Takdir",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015700075439206401/1769928209596-5533858477441029-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Kocak",
+        "Perjalanan Waktu",
+        "Pertumbuhan Wanita"
+      ]
+    },
+    {
+      "id": "2015989977207742466",
+      "title": "Tipu Muslihat Calon Istriku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015989942889693186/1769919737776-9515250641559259-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Persaingan Bisnis",
+        "Mafia"
+      ]
+    },
+    {
+      "id": "2015698688294793218",
+      "title": "Cinta yang Kutulis Ulang",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015697833617272833/1769914086804-5172911248185703-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Nikah Pengganti",
+        "Penyesalan",
+        "Romantis"
+      ]
+    },
+    {
+      "id": "2015617542915633154",
+      "title": "Pembalasan Putri Manja",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015617487445962753/1769848753748-6822851761497891-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Pertumbuhan Wanita",
+        "Menghukum Penjahat",
+        "Balas Dendam"
+      ]
+    },
+    {
+      "id": "2015629342826573825",
+      "title": " Mencintai Gadis Nakal",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015629273536671745/1769829765014-8806108024113892-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Remaja dan Kampus",
+        "Bangkit Kembali",
+        "Lucu"
+      ]
+    },
+    {
+      "id": "2014675603592589313",
+      "title": "Takdir Kembali ke Awal",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014674932654944258/1769832084996-4737328861203045-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Cinta Pahit"
+      ]
+    },
+    {
+      "id": "2014677266537656322",
+      "title": "Jebakan Pernikahan Kilat",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014676858821947393/1769830070915-9168364627879426-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Tumbuh Perlahan",
+        "Pasangan Bertengkar tapi Mesra",
+        "Kekasih Masa Kecil"
+      ]
+    },
+    {
+      "id": "2016699793289330690",
+      "title": "(Sulih suara) Makin Boros, Rezeki Malah Lancar",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/304794346_20260131-114823.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sistem",
+        "Persaingan Bisnis"
+      ]
+    },
+    {
+      "id": "2015248091472998401",
+      "title": "Cinta dalam Kebencian",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015248011726696451/1769744425109-0958046755469848-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Cinta di Kantor",
+        "Plot Twist"
+      ]
+    },
+    {
+      "id": "2015619158007885825",
+      "title": "Kebenaran di Balik Penculikan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015619098801090562/1769755962720-.912030927666467-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Identitas Rahasia",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "2015654548819423234",
+      "title": "Sistem Kekayaan Putri",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015636475118891010/1769759595684-2653724792038178-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Kepuasan",
+        "Dunia Fiksi",
+        "Fantasi Kreatif"
+      ]
+    },
+    {
+      "id": "2013867246229905409",
+      "title": "Teknologi di Akhir Zaman",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013867115573141505/1769758264286-7436553516719445-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Menghukum Penjahat",
+        "Perjalanan Waktu"
+      ]
+    },
+    {
+      "id": "2007667132754300930",
+      "title": "Dewi Melamarku, Aku jadi Ayah?",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2007667056296333314/1769679315220-0069807497883998-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hamil dan Lari",
+        "One Night Stand",
+        "Romantis Perkotaan"
+      ]
+    },
+    {
+      "id": "2015239924651405314",
+      "title": "Diawali Kontrak, Diakhiri Cinta",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2015239866459631617/1769673328932-.690992670275426-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Cinta Kontrak",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2013532195734675458",
+      "title": "Takdir Kasih Kejutan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013532159940485121/1768992399441-7408907163556805-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Pasangan Bertengkar tapi Mesra",
+        "Cinta Kontrak",
+        "Romantis"
+      ]
+    },
+    {
+      "id": "2014152102275129346",
+      "title": "Dewa Dihukum ke Dunia Fana",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014152063618113537/1769668550003-6781716814488775-3比4png~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Fantasi dan Pahlawan Abadi",
+        "Bangkit Kembali",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "2014527148145238018",
+      "title": "Dusta di Antara Mereka",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014527116625043458/1769669192872-6608355616931825-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Misteri",
+        "Balas Dendam",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2014628948949065729",
+      "title": "Slime Mengalahkan Naga Raksasa",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014628917821251585/1769582915593-8019603333371859-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sistem",
+        "Perjalanan Waktu",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2013534408922095618",
+      "title": "Tak Bisa Lagi Remehkan Dia",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013534359404142593/1769570530187-7599655972314943-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Perjalanan Waktu",
+        "Konflik Keluarga Kaya",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "2014630509460840450",
+      "title": "Pendekar dari Balik Wajan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014630467454885889/1769573209106-5976076060138178-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Fantasi dan Pahlawan Abadi",
+        "Menghukum Penjahat",
+        "Sistem"
+      ]
+    },
+    {
+      "id": "2013859651786317826",
+      "title": "Ayah Jaksaku, Cepat Tolong Ibu!",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013859618986860545/1769590826354-7227134521507794-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Perebutan Harta",
+        "Menghukum Penjahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2014612484129021954",
+      "title": "Gejolak di Dunia Hitam",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014612450790809601/1769586560046-6956674187163865-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Dunia Persilatan"
+      ]
+    },
+    {
+      "id": "2013066287529865218",
+      "title": "(Sulih suara) Cinta yang Terukir di Hati",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/44040149_20260128-112227.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Kekasih Masa Kecil",
+        "Menghukum Penjahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2008365089449279490",
+      "title": "Cinta yang Terukir di Hati",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2008365044299096066/1768561233104-1442293759768583-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Kekasih Masa Kecil",
+        "Menghukum Penjahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2014158099565502466",
+      "title": "Tinju Amarah",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014158057710542850/1769497518812-4610886679622057-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Baik vs Jahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2014625669748039681",
+      "title": "Penjinak Naga Legendaris",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014625633620189185/1769510192112-5991915203290262-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sistem",
+        "Bangkit Kembali",
+        "Kampus"
+      ]
+    },
+    {
+      "id": "2014896310570201089",
+      "title": "Ayah, aku anakmu!",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2014531858590015490/1769510710202-3265581193422674-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Perebutan Harta"
+      ]
+    },
+    {
+      "id": "2013186646195445761",
+      "title": "Meninggalkan Duniamu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2013186216450260993/1769511505989-6261001857763357-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Kepuasan"
+      ]
+    }
+  ]
+}

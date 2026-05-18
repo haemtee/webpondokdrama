@@ -1,0 +1,278 @@
+{
+  "ok": true,
+  "data": {
+    "current": 1,
+    "indexClassInfos": [
+      {
+        "className": "Menyarankan",
+        "classType": 0,
+        "id": "255745023377936384"
+      },
+      {
+        "className": "Baru Rilis",
+        "classType": 0,
+        "id": "255747206257319936"
+      },
+      {
+        "className": "Kategori",
+        "classType": 1,
+        "id": "255748254887841792"
+      },
+      {
+        "className": "Roman",
+        "classType": 0,
+        "id": "255748400585383936"
+      }
+    ],
+    "pages": 0,
+    "records": [
+      {
+        "columnId": "127790304144396288",
+        "columnName": "banner-印尼语",
+        "columnType": 1,
+        "displaySubscript": 0,
+        "recallSource": 0,
+        "records": [
+          {
+            "contentId": "274478419591569408",
+            "contentName": "Pembunuh Bayaran Ternyata Putri Konglomerat",
+            "ext": {
+              "position": 4
+            },
+            "jumpType": 0,
+            "remindMe": 0,
+            "reserveFlag": false,
+            "shortIntroduce": "Pembunuh Bayaran Ternyata Putri Konglomerat",
+            "tag": -1,
+            "url": "https://static.serealshort.com/new-media/prod/content/cover/iddhvcvthfqma666sp0cqe0fiapsk0in.jpg"
+          },
+          {
+            "contentId": "274176652005867520",
+            "contentName": "Bereinkarnasi Mendidik Pemalas Menjadi Kaisar",
+            "ext": {
+              "position": 2
+            },
+            "jumpType": 0,
+            "remindMe": 0,
+            "reserveFlag": false,
+            "shortIntroduce": "Bereinkarnasi Mendidik Pemalas Menjadi Kaisar",
+            "tag": -1,
+            "url": "https://static.serealshort.com/new-media/prod/content/cover/cy5var91t7k8qp8oqd1sv1bd0g5qnlri.jpg"
+          },
+          {
+            "contentId": "274527288970977280",
+            "contentName": "Pengabdian Sepenuh Hati Seorang Ibu",
+            "ext": {
+              "position": 3
+            },
+            "jumpType": 0,
+            "remindMe": 0,
+            "reserveFlag": false,
+            "shortIntroduce": "Pengabdian Sepenuh Hati Seorang Ibu",
+            "tag": -1,
+            "url": "https://static.serealshort.com/new-media/prod/content/cover/7glxkaf2bt39ud7g4aztikmh7r00z9oc.jpg"
+          },
+          {
+            "contentId": "274166954896654336",
+            "contentName": "Cinta Sejati Setelah Pengkhianatan",
+            "ext": {
+              "position": 6
+            },
+            "jumpType": 0,
+            "remindMe": 0,
+            "reserveFlag": false,
+            "shortIntroduce": "Cinta Sejati Setelah Pengkhianatan",
+            "tag": -1,
+            "url": "https://static.serealshort.com/new-media/prod/content/cover/pnvp5gbtmia6oqa8dbp84jf43r1j3gq9.jpg"
+          },
+          {
+            "contentId": "278202347333885952",
+            "contentName": "Putri Iblis Selamatkan Keluarga",
+            "ext": {
+              "position": 1
+            },
+            "jumpType": 0,
+            "remindMe": 0,
+            "reserveFlag": false,
+            "shortIntroduce": "Putri Iblis Selamatkan Keluarga",
+            "tag": -1,
+            "url": "https://static.serealshort.com/new-media/prod/content/cover/u1h75z2qzec7gy6r7wnf386hhxplpueu.jpg"
+          }
+        ]
+      },
+      {
+        "columnId": "255745634550947840",
+        "columnName": "九宫格-印尼语",
+        "columnType": 15,
+        "contentNum": 9,
+        "displaySubscript": 0,
+        "displayTitle": 0,
+        "recallSource": 1,
+        "records": [
+          {
+            "contentId": "364475973388996608",
+            "contentName": "Petugas Kebersihan Jadi Ny. Miliarder",
+            "ext": {
+              "expId": "ER2_L3#EG4_L4",
+              "position": 2,
+              "retrieveId": "UserLanguageHotRecall",
+              "score": 0.016174188
+            },
+            "jumpType": 0,
+            "playNum": "1.9M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/phsrtjl4wr3uphawto87cgbfkztzled1.jpg"
+          },
+          {
+            "contentId": "384675167030480896",
+            "contentName": "Bangkitnya Pewaris Terbuang",
+            "ext": {
+              "expId": "ER2_L3#EG4_L4",
+              "position": 4,
+              "retrieveId": "UserLanguageHotRecall",
+              "score": 0.018348241
+            },
+            "jumpType": 0,
+            "playNum": "46.5K",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": 3,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/7lw5bddpmdvzc1tq8oh5t2fqpcw4pely.jpg"
+          },
+          {
+            "contentId": "255729896083693568",
+            "contentName": "[Gratis] Langkah Terakhir Sang Ahli",
+            "ext": {
+              "position": 2
+            },
+            "jumpType": 0,
+            "playNum": "42.3M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/xbhzdvy2dypa31e842r8dsrq1whnj10f.jpg"
+          },
+          {
+            "contentId": "332899049181282304",
+            "contentName": "Wanita Idaman si Pak Bos",
+            "ext": {
+              "expId": "ER2_L3#EG4_L4",
+              "position": 6,
+              "retrieveId": "UserLanguageHotRecall",
+              "score": 0.018298656
+            },
+            "jumpType": 0,
+            "playNum": "5.7M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/zj1sb8gepznzle4wr2tqhpojodrytfc0.jpg"
+          },
+          {
+            "contentId": "268695496602955776",
+            "contentName": "[Gratis] Kala Bintang Tak Lagi Menanti Fajar",
+            "ext": {
+              "position": 3
+            },
+            "jumpType": 0,
+            "playNum": "15.4M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/pm8t9jrrzojpafy3uq7xv8s6lc2e3gpk.jpeg"
+          },
+          {
+            "contentId": "265491167674916864",
+            "contentName": "[Gratis] Suamiku Adik Iparku",
+            "ext": {
+              "position": 1
+            },
+            "jumpType": 0,
+            "playNum": "20.2M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/u9ohdfkft1lcdz7sp2wjucxwc06heb78.jpg"
+          },
+          {
+            "contentId": "335461195219996672",
+            "contentName": "Cinta Rasa Teh Persik",
+            "ext": {
+              "expId": "ER2_L3#EG4_L4",
+              "position": 1,
+              "retrieveId": "NewItemRecall",
+              "score": 0.012492329
+            },
+            "jumpType": 0,
+            "playNum": "69.5K",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/3a76q7d3iva5uo9x4eebizpslbv2nemc.jpg"
+          },
+          {
+            "contentId": "278202347333885952",
+            "contentName": "Putri Iblis Selamatkan Keluarga",
+            "ext": {
+              "position": 4
+            },
+            "jumpType": 0,
+            "playNum": "34.7M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/rab279zhltlvsz48gfscju0fyoqhcdxm.jpg"
+          },
+          {
+            "contentId": "279235275128053760",
+            "contentName": "Pahit Jadi Manis, Anak Imut Datang",
+            "ext": {
+              "position": 6
+            },
+            "jumpType": 0,
+            "playNum": "3.2M",
+            "remindMe": 0,
+            "reserveFlag": false,
+            "tag": -1,
+            "url": "https://static.serealshort.com//new-media/prod/content/cover/tcdj7ymyposzg4qx7d6xae8sqmarf8e4.jpg"
+          }
+        ]
+      },
+      {
+        "clientColumnCategoryInfo": {
+          "categoryList": [
+            {
+              "id": "184745566088204330",
+              "name": "Bos yang Dominan"
+            },
+            {
+              "id": "184745566084009994",
+              "name": "Konflik Keluarga"
+            },
+            {
+              "id": "184745566084010004",
+              "name": "Pengkhianatan dan Balas Dendam"
+            },
+            {
+              "id": "184745566079815680",
+              "name": "Pria"
+            }
+          ],
+          "pos": 1,
+          "title": "Tebak Favoritmu"
+        },
+        "columnId": "255746955375026176",
+        "columnName": "首页-双列推荐-印尼语",
+        "columnType": 16,
+        "displayCategory": 1,
+        "displaySubscript": 0,
+        "displayTitle": 0,
+        "recallSource": 1
+      }
+    ],
+    "size": 0,
+    "total": 3
+  }
+}

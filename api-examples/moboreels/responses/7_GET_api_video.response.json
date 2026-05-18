@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "cached",
+  "seriesId": 17435414,
+  "episNum": 1,
+  "episId": "110779878979023234",
+  "mediaUrl": "https://cdn6video.cdreader.com/4c1b3983vodhk1310397514/64bdf89b1397757902966428980/f0.mp4?__token__=exp=1777269239~acl=/4c1b3983vodhk1310397514/64bdf89b1397757902966428980/f0.mp4?*~hmac=641f222c70cd0a1d75dd397fc9c2b5b822b712bb91ffc1010bef3f44319ff144",
+  "episMedia": [
+    {
+      "codec": "h265",
+      "resolution": 1080,
+      "fileFormat": "mp4",
+      "mediaUrl": "https://cdn6video.cdreader.com/4c1b3983vodhk1310397514/0eb5b36b1397757902965065122/f0.mp4?__token__=exp=1777269239~acl=/4c1b3983vodhk1310397514/0eb5b36b1397757902965065122/f0.mp4?*~hmac=464ee69817d1172269a3c51e300cb15c775521950edd8fe68c59a571b872e994"
+    },
+    {
+      "codec": "h264",
+      "resolution": 720,
+      "fileFormat": "mp4",
+      "mediaUrl": "https://cdn6video.cdreader.com/4c1b3983vodhk1310397514/cfbcb5e41397757902964669759/f0.mp4?__token__=exp=1777269239~acl=/4c1b3983vodhk1310397514/cfbcb5e41397757902964669759/f0.mp4?*~hmac=6a7f78e10e4467dbdf27b7df24fed07e6f9c216df8aa3f68799d9810ae81981e"
+    },
+    {
+      "codec": "h265",
+      "resolution": 720,
+      "fileFormat": "mp4",
+      "mediaUrl": "https://cdn6video.cdreader.com/4c1b3983vodhk1310397514/c85e5a6d1397757902964311671/f0.mp4?__token__=exp=1777269239~acl=/4c1b3983vodhk1310397514/c85e5a6d1397757902964311671/f0.mp4?*~hmac=c0e98d594041696453fb60e330ad092cd8f6983fec61794daefd1483e98a4d11"
+    },
+    {
+      "codec": "h264",
+      "resolution": 1080,
+      "fileFormat": "mp4",
+      "mediaUrl": "https://cdn6video.cdreader.com/4c1b3983vodhk1310397514/64bdf89b1397757902966428980/f0.mp4?__token__=exp=1777269239~acl=/4c1b3983vodhk1310397514/64bdf89b1397757902966428980/f0.mp4?*~hmac=641f222c70cd0a1d75dd397fc9c2b5b822b712bb91ffc1010bef3f44319ff144"
+    }
+  ],
+  "resolution": 1080,
+  "duration": 134,
+  "_cached": true
+}

@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "msg": "Permintaan berhasil",
+  "data": {
+    "series_id": 5510,
+    "series_name": "(Sulih Suara)Tiran Cilik Go",
+    "lang": "",
+    "cover": "https://file-cdn.flextv.cc/image/3c/28a7e23de21396041f5467bf5774c6.jpg?image_process=resize,w_540/quality,Q_70",
+    "video_type": 1,
+    "serial_status": 1,
+    "description": "Di tengah kota yang keras, Guru Glenn yang hidup serba kekurangan tak mampu lagi mengurus murid kecilnya, Anna. Ia pun mengirimnya ke Klub Nova Go di bawah asuhan Guru Parker Jordana. Tak disangka, bocah jenius itu berhasil memecahkan “Langkah Raja”—teka-teki Go yang tak terjawab selama dua dekade—hanya dalam semalam. Parker langsung menerima Anna sebagai murid, namun bahaya muncul kembali ketika “Raja Go” Burung Hantu datang menantang. Tenang dan tak tergoyahkan, Anna membongkar strategi demi strategi, membuat sang raja yang kalah berlutut dan memohon menjadi muridnya. Setelah badai reda, Parker menceritakan rahasia hidupnya: tekad mengikuti “Kejuaraan Zenith Go” demi mengungkap misteri kematian istrinya. Maka, perjalanan takdir mereka pun dimulai.",
+    "watch_num": 2317497,
+    "release_date": "2025-09-01",
+    "series_level": "",
+    "series_library_id": 10685,
+    "video_duration": "",
+    "max_series_no": 87,
+    "director": " -",
+    "writer": " -",
+    "starring": " -",
+    "tag": [
+      {
+        "tag_id": 0,
+        "tag_name": "13+"
+      },
+      {
+        "tag_id": 33,
+        "tag_name": "Banting Habis",
+        "url_title": "Banting-Habis"
+      },
+      {
+        "tag_id": 15,
+        "tag_name": "Bayi",
+        "url_title": "Bayi"
+      }
+    ]
+  },
+  "is_encrypt": 1,
+  "request_id": "4F82DAFC-A57B-BB61-46FF-CFF49880A598",
+  "response_time": 1772583076
+}

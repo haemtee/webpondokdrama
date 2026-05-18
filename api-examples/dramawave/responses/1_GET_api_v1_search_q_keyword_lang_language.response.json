@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "page_info": {
+      "next": "",
+      "has_more": false
+    }
+  }
+}

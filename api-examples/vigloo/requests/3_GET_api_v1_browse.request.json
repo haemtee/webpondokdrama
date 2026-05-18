@@ -1,0 +1,15 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/vigloo/api/v1/browse?sort=POPULAR&limit=30&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "sort": "POPULAR",
+    "genre": "",
+    "country": "",
+    "limit": "30",
+    "lang": "id"
+  }
+}

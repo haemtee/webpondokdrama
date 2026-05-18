@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "msg": "Permintaan berhasil",
+  "data": {
+    "video_url": "https://video-vod.flextv.cc/wz/mp4/f/a/fa7dcbec4dab009b97caac0f3ec98fcb/6bddc4a9c40ab12fbc70f0256ec5c0b6/1080.mp4",
+    "progressive": [
+      {
+        "title": "1080P-MAX",
+        "video_url": "https://video-vod.flextv.cc/wz/mp4/f/a/fa7dcbec4dab009b97caac0f3ec98fcb/ab7de21390afa0c0a4b063c835871165/1080p-max.mp4"
+      },
+      {
+        "title": "1080P",
+        "video_url": "https://video-vod.flextv.cc/wz/mp4/f/a/fa7dcbec4dab009b97caac0f3ec98fcb/6bddc4a9c40ab12fbc70f0256ec5c0b6/1080.mp4"
+      },
+      {
+        "title": "720P",
+        "video_url": "https://video-vod.flextv.cc/wz/mp4/f/a/fa7dcbec4dab009b97caac0f3ec98fcb/6f380eef83e7d9d663ffa684734fbc60/720.mp4"
+      }
+    ],
+    "subtitle": [],
+    "is_trial": 0,
+    "unlock_type": -1,
+    "duration": 209,
+    "upload_date": 1756462753
+  },
+  "is_encrypt": 1,
+  "request_id": "003C3A5A-BF05-FDE4-F4B8-900697E3A6A5",
+  "response_time": 1772555689
+}

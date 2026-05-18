@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/sereal/api/index/search/cinta?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "cinta",
+    "lang": "id"
+  }
+}

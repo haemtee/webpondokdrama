@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/vigloo/api/v1/search?q=love&limit=20&lang=en",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "love",
+    "limit": "20",
+    "lang": "en"
+  }
+}

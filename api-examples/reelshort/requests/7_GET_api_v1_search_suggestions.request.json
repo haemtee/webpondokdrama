@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/reelshort/api/v1/search/suggestions?lang=in",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "lang": "in"
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "code": 0,
+  "msg": "success",
+  "server_time": 1770102067,
+  "clientTraceId": "17701020670257726",
+  "data": {
+    "tag_name": "Lebih Banyak Untuk Dijelajahi",
+    "bank_name": "Semua Orang Menyukainya",
+    "tag_data": [
+      {
+        "tag_id": "66124bba32b773444c0609ce",
+        "lang": "in",
+        "tag_type": 1,
+        "tag_name": "Membalas Dendam"
+      },
+      {
+        "tag_id": "6348f5093c6ca761764d85f3",
+        "lang": "in",
+        "tag_type": 1,
+        "tag_name": "Berpura-pura bodoh"
+      }
+    ],
+    "book_rank_data": [
+      {
+        "theme": [
+          "Pengembangan diri"
+        ],
+        "t_book_id": "509000000000000858",
+        "book_title": "Bangkit Jadi Dewa Perang!",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/0d93ddc0-57ef-11f0-b471-b9eef54adbd8.jpg",
+        "book_source": 2,
+        "special_desc": "Radit terlahir di Negara Arta yang menganut sistem matriarki, dia hidup sederhana dengan ibunya sambil berdagang daging babi dan sering kali dihina oleh perempuan. Meski dilarang belajar bela diri, tapi Radit diam-diam berlatih bela diri dan menyimpan mimpi untuk membela negara. Demi mengejar impiannya, dia nekat ikut Turnamen Dewa Perang, bukan hanya kekuatannya yang bangkit, tapi juga rahasia kelam tentang asal-usulnya yang akan mengguncang seluruh negeri...",
+        "tag": [
+          "Pengembangan diri"
+        ],
+        "share_text": "Dibuang karena terlahir sebagai pria, namun Radit berhasil melawan takdirnya dan menemukan identitas aslinya.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "book_id": "6858eae8004dc69451090574",
+        "read_count": 2712934,
+        "collect_count": 52608,
+        "chapter_count": 55,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 17230,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1751535362,
+        "is_preview": 0,
+        "online_at": 1751535303,
+        "score": 4558,
+        "is_new": 0,
+        "first_chapter_id": "f7693mozpq",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "f7693mozpq",
+          "duration": 176,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/6a3d47ed2c049a78.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "wef0uGWv3dLB1BtZl851zAonXpcxjPR4GKuivg8H2gEFwDSa2LqZSdAq+5KPHztwdNfRtvRO+3HmMM7WAuosWfk7mKm/arMw7+2H0MwTkiMSyvZkB2BGoPiEy/cMgSqxRq+dh2K9//GuGI5ctMce2inigTHy+94sKKQL3N1LTV5dcBfSkId2Qvzb47ffgVu7kTEm45GJa7rJCp1NAIRKULbjLPdvoSwrBkbm/kmnlGvGU15thd9pXzful5EGqvGcxG1HyGVF5V0DIpxgKKMezp/fdqjR8T6oowv617lU+KgGHmWfcUw0xyhYUL5byU9CeExqKDaJlOul2EJjVIQiLWZOWCbNAHksiFxF/Tdr6IYTfYnKCNtCeNYok5Bfr3t4VkLunA5+ZeT2HWUklgQlbg1A6PQi+d2n4310pPSpo1WGO8fRoozynl6FWvos3xIkJikob7+gT2HAywpFx1Qgst38KHc90LI+KxTCwFdFZxR/h/OZjJ12PI73fH28Sz2BABGNzII7SlT2o6lyt3CU52ctW7C7uWhuv5Lrsz5+dV/+tBF+4UknU1Rf3xAHnEwi2FKIR7OrpqQn/AMtwflCVQ==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "6858eae8004dc69451090574",
+        "is_collect": 0,
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b12",
+            "tag_name": "Pengembangan diri"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"1d98a22f-e9c3-44d7-8a93-201b4f6244d7\"}"
+      },
+      {
+        "theme": [
+          "Berpura-pura bodoh"
+        ],
+        "t_book_id": "509000000000003116",
+        "book_title": "Penipuan Jalanan, Legenda Bela Diri",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/c86f2250-fcfc-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "Gabriel, seorang kurir, membeli kitab bela diri 'palsu' dari pengemis tua, namun malah membangkitkan kekuatan dahsyat. Usai tak sengaja melukai Mia Russell, ia menjadi menantu di klan bela diri yang tengah terpuruk itu. Ketika ia dengan santai menguasai Tai Chi Purba yang telah lama hilang, semua orang mengiranya mahaguru tersembunyi. Gabriel pun melibas lawan elit satu per satu, membangkitkan keluarga Russell, dan menyadari dirinya adalah jenius bela diri langka.",
+        "tag": [
+          "Berpura-pura bodoh"
+        ],
+        "share_text": "Bela diri palsu menjadikannya mahaguru yang tak terduga?",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "697716944967c93b090f0fcf",
+        "read_count": 302073,
+        "collect_count": 7297,
+        "chapter_count": 63,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 31345,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1769760005,
+        "has_video": true,
+        "is_preview": 0,
+        "online_at": 1769682693,
+        "vtt_lang": [],
+        "score": 5493,
+        "is_new": 0,
+        "first_chapter_id": "duxlzsam19",
+        "min_paid_start": 12,
+        "paid_start": 12,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "duxlzsam19",
+          "duration": 132,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/e2fc123d14be222d.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "DxEymvMKiTYVxy11KFPZ4yob3gQJpgnUid8dVPX+ee7UvK/AlAQDc5TCpwuwKhSwlaRi7KUbdCu7ANNI8j7XUXrdDcOgTrx8ESjHF7JAzeyVckrkwIepRVap4NnOj/uFqxuLhOYVj8mVqmxtxv3nWZR3fo6i1fJZTFm2cBtYmkgPuv9OSZzjcV6GJk86I6Refhy8Gba2/TRGfVHQyVzVzIh13PkB4eQsMVvhPgDAR1tvgdPQaJm0nHtTX7FMWAoJFxKstOIAMQODzgtrtFykkUYbr6Wrk3QIpB0zt/aS7iNLFdO8INIJnAPvuXDmu/tnZopoqKJeOInCaI/2v1Q3fT3+F9majlK4BOVtDbYNMADDVmqigewlIwi5q6k/Q9CGMIdyp8egkiLTGfCRF6lxjfFts9VRRqA1vC/cjh833/OG9MR8bL9vaPPPOowkRHawbcIiKHbO5u9RhSOeJLHhtbON9mAWHzPcLlnf8Lit9T2dpwTIadFpTFYuf2w4wx8Xam85R4YiBvfUuEOGlF+KpkNMnBEOMdHHCyKa1+uzKWE52kk2IMyzjPpwFrHTN12vnJy44Zn3vgWm/VclbJPcag==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "697716944967c93b090f0fcf",
+        "is_collect": 0,
+        "tag_list": [
+          {
+            "tag_id": "6348f5093c6ca761764d85f3",
+            "tag_name": "Berpura-pura bodoh"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"21f88103-471d-40ec-9933-3cce32ce2154\"}"
+      },
+      {
+        "theme": [
+          "Pernikahan Kilat"
+        ],
+        "t_book_id": "500001000000002182",
+        "book_title": "[Versi Dub] Minggir, Akulah Sang Raja Berita",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/424b5ae0-c60b-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 1,
+        "special_desc": "Cassius yang diam-diam membangun perusahaan sukses, \nGrup Enros dengan nama samara Tuan S. Saat dia ingin melamar pacarnya, Isabella, Ia diputuskan karena Isabella ingin menikahi pria yang sukses seperti Tuan S. Namun nasib berkata lain dan tanpa sengaja Cassius akhirnya menikah dengan Freya, CEO cantik dari Grup Mirror Media.",
+        "tag": [
+          "Pernikahan Kilat"
+        ],
+        "share_text": "CEO yang cantik dan dingin mengajakku menikah.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "694116cb7ef115195e02bcff",
+        "read_count": 21135692,
+        "collect_count": 408502,
+        "chapter_count": 72,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 40941,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1767090363,
+        "vtt_lang": [],
+        "has_video": true,
+        "score": 59360,
+        "is_preview": 0,
+        "online_at": 1767090044,
+        "is_new": 0,
+        "first_chapter_id": "ocd9j32esv",
+        "min_paid_start": 14,
+        "paid_start": 14,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "1vf6nu5x61",
+          "duration": 187,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/0fa8bf871ed7a679.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 1,
+          "play_info": "Q+GxxqXA46GCBHes4tGcTLGccIuDpqt+fixYTwArdBK0E1vyWe+EvNNR6AEwEfgYF+RjdsIgQXqLTezWq3SrbWF5eYmHsqZOd5/VjXaqt4HkMMV0o1jwB2/muhye3hRkEXUOZ5il9hSlEws05VxXcimFmTwduE+0LymQAZcJFh56p58sOqaE4sksan8png/dTtZNkWgcyNAohxKRyPJfDaHmgdzuN2eX2VMn9s8CHOlcVlRbj4zDgk1cL0VAP9fIzj8G4hYPghkhuVJZYPpxyjeLlnAdVKXfmPfhxK/OpKx+atm74+8s94UxqUCY/CPCYCt/FZhc/KKuO9IKHLCQGBfs/6o0Q4rs/W/U5ejCGwxkCCf2z1qVF9orIzBZbHeky3wCLtjZ/XuvA1io07l6jn7Mns1FviuPIGcrQBt1zbhexcY+CebMp1TWuXoTxt7KKZXcQiWXwT3WKRV7eX780gpaMvxkL2hzwHmCm2PZ57WxI0PfmPzQ8HrGCiZIcla/p1sm8GbVeurOJFXRz6/gZbtjjHAza0wkM8S2OrRsDlxlmLvwaHj4QuTAYMYDqi6BdHGrO9cT7dgW3s+M4XG3eQ==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "694116cb7ef115195e02bcff",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FF6F3DFF",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbed"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210e4582b53a14081ae6",
+            "tag_name": "Pernikahan Kilat"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"d4253df6-032f-45f9-a41d-46f99d71be7b\"}"
+      },
+      {
+        "theme": [
+          "Karma"
+        ],
+        "t_book_id": "509001000000000930",
+        "book_title": "[Versi Dub]Ibu! Saatnya untuk Ayah Baru",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/fa54f5fc966f55be.jpg",
+        "book_source": 2,
+        "special_desc": "Terlahir kembali sebagai anak lima tahun, Talia hanya ingin melindungi ibunya. Namun, pesona dan bakat rahasianya segera memikat para tetua yang berkuasa dan membungkam para peragu. Dengan ayah seorang taipan, ayah tiri yang lebih kaya, dan calon suami miliarder, dia tumbuh sebagai kesayangan keluarga, membuktikan bahwa bahkan bintang terkecil pun bisa bersinar paling terang.",
+        "tag": [
+          "Karma"
+        ],
+        "share_text": "Ketika ayahmu kaya, ayah tirimu lebih kaya, dan suamimu paling kaya...",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "6968886a33a9adb1d70aec42",
+        "read_count": 1385635,
+        "collect_count": 24556,
+        "chapter_count": 87,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 34125,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1769595903,
+        "score": 23398,
+        "vtt_lang": [],
+        "is_preview": 0,
+        "online_at": 1769595837,
+        "is_new": 0,
+        "first_chapter_id": "1qflcxg25b",
+        "min_paid_start": 12,
+        "paid_start": 12,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "1qflcxg25b",
+          "duration": 229,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/4363a5cff06e2e06.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "olcy5cQnpZBpfsm/BEbmm1+k7GtT1jjzYG1QXolJQIapFFwCoZohxLVwyAFwlz4/0GOZ3T2Bz+fhQCU3YaXdMDt78MQgX6xnEDNRwLtiHhkPBLJqGsgTeloPk4CEvkub2qxdUmihDHQeL0CnNLNqxpbh+6Fi33eSGkJkm1jTLXdc50WLD4m5+soRIv43s2A4k1SXfX8+Xcr+fSr0HD+uD1IhWsSOLa7Gl6olQ4vhuWWcoEG6rDCVhVqrMI8UM7EkGtZLVWeF8I07tbHzh7d2MOqJWYbaA7ZKiCvQNvqwQuz2J/idyOaBU6wVtfMowjWIoe0wNhBLAxqLy6WD/zfyl0rg4hQxmixTB1/bVeyTrDD4uxo/4XLDM+u4k32Z8IIYQOZLqDExHyGYMGjNKMmH+dbfqQ/GFGugOpsb/eLeXwbGEyF4eVAt5sLRoE9axJJ3lunsTypsFv3IVIJ47UuI8bljz4dWTnYW8CsykBY/hl/NIyiuCtE6ZuQbnq7UBJ7wU0N9WHOjisxUYVzFnPtW8ddD6CStl8ky4JojNQ2paBHJBitHcNMrkAYG2DtpuBu8zjoVKRiOW84O4w/3N/qz2A==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "6968886a33a9adb1d70aec42",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FF6F3DFF",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbed"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b0f",
+            "tag_name": "Karma"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"75418162-4e39-49e3-9d1a-7212dbcdd288\"}"
+      },
+      {
+        "theme": [
+          "Cinta Setelah Menikah"
+        ],
+        "t_book_id": "509001000000000933",
+        "book_title": "[Versi Dub] Terjebak di Dalam Novel: Bangkitnya Istri Jahat",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/21c2fbc0-9780-11f0-a06b-bdb674869ea1.jpg",
+        "book_source": 2,
+        "special_desc": "Mahasiswi modern, Yesi Bara, tiba-tiba terbangun dalam tubuh mantan istri jahat tokoh utama pria di sebuah novel era lama. Demi jadi istri pejabat, dia pernah mengkhianati suami dan menggugurkan kandungannya. Akhirnya, hidupnya berakhir tragis bersama pria kasar.",
+        "tag": [
+          "Cinta Setelah Menikah"
+        ],
+        "share_text": "Terjebak dalam tubuh istri jahat, mampukah dia membalikkan takdir?",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "68ca69ea4385e3fd030db94b",
+        "read_count": 3396948,
+        "collect_count": 58769,
+        "chapter_count": 49,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 29090,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1760003522,
+        "has_video": true,
+        "is_preview": 0,
+        "online_at": 1760003501,
+        "score": 11955,
+        "is_new": 0,
+        "first_chapter_id": "uvlln774e3",
+        "min_paid_start": 10,
+        "paid_start": 10,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "uvlln774e3",
+          "duration": 236,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/366acf60447b10de.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "PY7hX5P0utruLKRbWAtOz27UpuCVMaXn3AV+82nMZ9PDsJMmHaGOTD8QS9Jkx54IeqZVVxVOmnCHfgfW6P9Ur6qVJHYz0nLmtuaqqAkRYsLs+4UrHYjroxdGOko+/evwk2h/3fgVKCH+3OORakIkWOsHB1iVs9LglIQQAAkQVCQTP8ryeOIDrI3jOPVAavPZWBNKWDDjUFf33bKaXjSCWvPksmmPtXJN87qskmNqOF70mQO+s9lwI3VZWTdwUyE7btxnCDtTKYOSSH1acVOg+UwCjeme9nBVKWzwv3yqdLF9fuKyY9E2hKjYWg66CflGJ9gisGpbcRaaMwJ9lOpbMAxedKeQRErsWz8H02s0C4Tc8WKlT+DMkU4pjrsG9aBvgyjeJJFREvK2bH2YekkvpOW3NbjY9aFBnaHDdhkxIzoQlaePDSiYZTyJtoAJ7O0A7YA0LoPsJlzR/lxFGgXkYJbdmyw7i9h+LB6WJH2Or4GLcHIFMOitfYAx7TNCgIJhy2WLu/1xYC7SJ3fKVv6lORs9Kv7vmsusPYAfnCiLhCB0RzJQ1rlThEfPRfClB14P1PXsOJ+PZgXEv5juYZmAcQ==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "68ca69ea4385e3fd030db94b",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FF6F3DFF",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbed"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210e4582b53a14081ae8",
+            "tag_name": "Cinta Setelah Menikah"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"1b572a79-5f76-4181-b45c-475e67ff28e5\"}"
+      },
+      {
+        "theme": [
+          "Karma"
+        ],
+        "t_book_id": "509000000000000930",
+        "book_title": "Ibu! Saatnya untuk Ayah Baru",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/fa54f5fc966f55be.jpg",
+        "book_source": 2,
+        "special_desc": "Sella terlahir kembali jadi anak berumur 5 tahun, sebenarnya dia hanya mau melindungi ibunya dengan cara sederhana, tapi keterampilan tersembunyinya malah membuat banyak orang suka padanya. Bahkan berhasil melindungi keluarganya, juga menggunakan bakatnya menjadi orang terkaya. Bisa dibilang, dia menulis ulang hidupnya dan semuanya berakhir dengan sempurna.",
+        "tag": [
+          "Karma"
+        ],
+        "share_text": "Masalahku itu, kok semua pria-pria di sisiku kaya raya?",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "691b06e2a7de1af87a0244a7",
+        "read_count": 2501432,
+        "collect_count": 36749,
+        "chapter_count": 87,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 41493,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1768296122,
+        "score": 2786,
+        "is_preview": 0,
+        "online_at": 1768296060,
+        "vtt_lang": [],
+        "is_new": 0,
+        "first_chapter_id": "jxe1hl5ktq",
+        "min_paid_start": 12,
+        "paid_start": 12,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "jxe1hl5ktq",
+          "duration": 229,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/095bd64f8d09fd0c.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "rleVA6eJ5CY2g3AQTamHKn+d0h9A8ENx20mLxCCYeDQ9snF72dLwwJKbiOapazZWRFf7Z0LzSP31NLLHSHkEyzYLe/v5j5Lj5ZHZ0FOXwt3tMxzebPOKRv0bL97PVDJ2hfFKrmtsq6PKPUWmpifS7nZb8BnjXrxo0OksdbNauq23/QjDnbnLUZKEdni0KNAlTSqg8NQFBRNAa9BFbXuNF12rzH3A/Cot6jmxi7VKYIJtDI1QfIprGU6m3h4xN2SYDAOU1ePmGTwgkzzohqNbu41sAap6PIa3qkvcRZMFadnhlPahcRP04YtSQq337qx/PbgsPTeKQXLyU7v2gO/ikxjh8xk8GjzoKc0oWwP1aOouzAM8Q1HExYtxvKMP07bRRV5rkLzZwLi9RexTuyC4hj1McVXiudAp2OJGgzlH4OuyUS3iexIWBMkI21mnUsRRHfxG+83A3b9jQlnyCjX2WXcyzkyJ2KAKx9SvIquKzCoRq4XsrZL7udV4scmkY1JXK3J+qnUq2Zb67KU3EBLrdbtNqt+n0aqPoOKSvCLIKKscR9VdzVCjoPPccpu8V8Jhd3Cu5tJq16XRqMBKOwUQDA==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "691b06e2a7de1af87a0244a7",
+        "is_collect": 1,
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b0f",
+            "tag_name": "Karma"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"c9b5fd76-0ca2-460f-82a7-84c55fd43e0a\"}"
+      },
+      {
+        "theme": [
+          "Pengembangan diri"
+        ],
+        "t_book_id": "509001000000000858",
+        "book_title": "[Versi Dub]Bangkit Jadi Dewa Perang!",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/0d93ddc0-57ef-11f0-b471-b9eef54adbd8.jpg",
+        "book_source": 2,
+        "special_desc": "Radit terlahir di Negara Arta yang menganut sistem matriarki, dia hidup sederhana dengan ibunya sambil berdagang daging babi dan sering kali dihina oleh perempuan. Meski dilarang belajar bela diri, tapi Radit diam-diam berlatih bela diri dan menyimpan mimpi untuk membela negara. Demi mengejar impiannya, dia nekat ikut Turnamen Dewa Perang, bukan hanya kekuatannya yang bangkit, tapi juga rahasia kelam tentang asal-usulnya yang akan mengguncang seluruh negeri...",
+        "tag": [
+          "Pengembangan diri"
+        ],
+        "share_text": "Dibuang karena terlahir sebagai pria, namun Radit berhasil melawan takdirnya dan menemukan identitas aslinya.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "book_id": "6964a65beeae6b57c20a547b",
+        "read_count": 1997226,
+        "collect_count": 50049,
+        "chapter_count": 55,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 36811,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1769238482,
+        "score": 19867,
+        "is_preview": 0,
+        "online_at": 1769238447,
+        "grade_country": "",
+        "vtt_lang": [],
+        "is_new": 0,
+        "first_chapter_id": "ahxta5o5ij",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "ahxta5o5ij",
+          "duration": 176,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/409c8dd30f2fc556.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "9CKiAdi5G2zi3P9lkjYSx+L58FcOqEuIjcNhc6GPiyqFZqyfyt7lovvGjvRYhSZRwOAfYmWqSch2Znj67YE+TKBHusZZ1Ec+VKzZvaiCHpy+12hfQ2H6sLGM6XRvGwu90B81IKlGFW4DroHAvqB7NwBbvuEEM38IL53qVvItF6fiCoIOBmOLWAOl7UIeipJK9/fXQXbQ2gdh8mkANMTfve0kNtu/JgBNJDvEr4UTgvVUBfbMU/xMVPJZPauF9ErqSWdx0rT4ga1iH/dSy9Wz92knuRCHDzDV83BZQzJSjm5li0C2X9utDE4DqJABDvVz5mAwddAEARpdt+gybFPYypOFL0BB4BV4Izd7zYR9e8lbmNQHvE+DZPrceXfa7MNdfSCsvta9suGFSo7V+5veUHLlavuNBCtz6EW937UFQCxcT4OSDdyBIxFpHF3+PIvaWYk3HjUcV59kRsNuc6WcidDd1ObMgcCWi/AJZUWHio3Pjs2vX8najyWQwFELhfoZYBtKmodKYGfn1sSVvowzAWUwBBhOKg331WCeq7Arqb6JFVdwKkgsusv682xMygkbgnUruaq8fHy9+Zxj6BbAPQ==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "6964a65beeae6b57c20a547b",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FF6F3DFF",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbed"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b12",
+            "tag_name": "Pengembangan diri"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"c05077f8-4696-4870-8085-1d4026e4093d\"}"
+      },
+      {
+        "theme": [
+          "Pernikahan Kilat"
+        ],
+        "t_book_id": "500000000000002502",
+        "book_title": "Ikatan Sunyi: Jatuh Cinta pada Petani Duda",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/9e7ca670-e15e-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 1,
+        "special_desc": "Natalie dijodohkan oleh nenek dan keluarganya dengan Rhett, seorang petani duda yang membesarkan putrinya yang bisu, Ellie. Kehadirannya ditolak, dan Ellie sering ditindas oleh orang-orang di sekitar mereka. Perlahan, Natalie membangun ikatan dengan Ellie. Saat gadis kecil itu berbicara untuk pertama kalinya demi menyelamatkannya, segalanya berubah. Kini, Natalie bertekad melindungi cinta dan keluarga yang telah ia bangun, apa pun risikonya.",
+        "tag": [
+          "Pernikahan Kilat"
+        ],
+        "share_text": "Natalie menikahi petani yang memiliki putri bisu.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "694507027c33a39ff605a951",
+        "read_count": 6535681,
+        "collect_count": 72676,
+        "chapter_count": 83,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 41716,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1766646124,
+        "vtt_lang": [],
+        "is_preview": 0,
+        "online_at": 1766645797,
+        "score": 5177,
+        "is_new": 0,
+        "first_chapter_id": "er50t7iupf",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "qyh3c4ctkn",
+          "duration": 106,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/7d5e891bf527ba23.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 1,
+          "play_info": "olcy5cQnpZBpfsm/BEbmm7J0rPn2sTeHjA/QZbpKd3YBhItdvTc82uxuXcfuiiIqgjd5CUnrYS+YDztdHUARk5hZBg6rm8S5vo/5nVJibev3lkUHemnvZ1CLXxPPGZExzSvnKlhXKRTytl/Rh+Lb83mJWbfqmtb/3BjPRY2B47hgqffLAHFRMSdjoWt+aVujzwjFs7vhP+9rxBbw0yncZowAp6rpr9Bjp4O0PoccDNFAUaz873ItTVGNwTqcX+X1mog3lGcgjvTG0WB8jjIxTfOOUB0hq+hfYMZBB4z6/a2ENvYbHuvlzm9rCJAhTxemJ8PaSt+e0q6ceTpfLwUNV9aAqoL12Hv+kwppBFwrHf1hfBq+Xt7XXR/HKqD37oLO/dF9i474muztPw8HqEIeOG8maJK9LoFTXDMt5n/wKtrEht8cGpJRzh+B7vM/r8MfpPLqikcmhFTqWa5+aT8FWoVnJt7uuuqu9v8LymK1xHFcm1YXwTpbQQaZznUl1/C0z1NQJrE/kxMgjoT4QZ9z44Xwq3fKBYfkbLxEgqooqL2v+SikNY4me1UxE2ap/CtbQHwksx4HyRnaKuIRTRuhFw==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "694507027c33a39ff605a951",
+        "is_collect": 0,
+        "tag_list": [
+          {
+            "tag_id": "676d210e4582b53a14081ae6",
+            "tag_name": "Pernikahan Kilat"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"0eb08c7b-2b91-4627-abbe-e602ab2972ce\"}"
+      },
+      {
+        "theme": [
+          "Karma"
+        ],
+        "t_book_id": "509001000000002719",
+        "book_title": "[Versi Dub]Pewaris Baru, Pembalasan Baru",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/5defaca0-e63c-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "Sepulang ke rumah, CEO Esther dipermalukan wanita yang mengaku istri putranya. Mengetahui putranya ingin meresmikan selingkuhan di pesta penyambutannya, Esther membalas dendam: ia mencabut hak waris putranya dan menunjuk menantunya, Rachel, sebagai pewaris baru.",
+        "tag": [
+          "Karma"
+        ],
+        "share_text": "Darah tak menentukan pewaris. Kesetiaanlah penentunya.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69607200ac0e1a1bdc0a0ee1",
+        "read_count": 3193004,
+        "collect_count": 86073,
+        "chapter_count": 49,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 35528,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1768901762,
+        "has_video": true,
+        "vtt_lang": [],
+        "score": 7878,
+        "is_preview": 0,
+        "online_at": 1768901722,
+        "is_new": 0,
+        "first_chapter_id": "ntlnmc268s",
+        "min_paid_start": 10,
+        "paid_start": 10,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "ntlnmc268s",
+          "duration": 98,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/67f66c026972ca4b.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "olcy5cQnpZBpfsm/BEbmmyS3Kg/6l2vqQH1bhBfyy0cH8ZH0ua6dFtVpQoCSK4vsH/XzDy3SD0zzcy620Ip3apWH65BYOl7o46F5+I8K5O+VVaBHaSsnzRfrSFuhWKgVkEE8zl5u7XJELLmHM4kH7cJPtX5nmhg+EdsvbHthyUHeE3IHaR0tKM8L5U6ciRWy8CR+v6R7EldE5EdPmGqm/V0kvtsdze6G2BCaD8Yjk+1iLk51cRc1AJgsrNJLVwBR5vLmwkxSXY5/Yd32lgWEOwgLy7ruqtnVji/I1tNaHPr/IDEGy6TweDtrCXgdraJ+FOjhJX2RG7DsdVOF9G3rdiNhYGR0tYR6SgXSQX+WCVIdkG65wniiKSmWyc1s5LPMlFpBYf6hcOu3QIorlT4IUdoNeMr5m0Ufre7SlIiG2tRVwUQyaYxN9uAZHnD8BxhK52RhMc2B2iO5sITblYB818YkTVBYc7RDKY5m1CKdsF+JML8D18+ivDysWKkat8uK3fFw7m175vIyMB7B+ELp2vmsI79GqEIsqbgD72PK5W7a7tw3bppLvpCcuXUEmdGXqFB0nf4YAZFSeeKviDBPIw==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69607200ac0e1a1bdc0a0ee1",
+        "is_collect": 1,
+        "book_mark": {
+          "type": 4,
+          "color": "#FF6F3DFF",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbed"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b0f",
+            "tag_name": "Karma"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"f26c2af1-6472-46ce-92f0-deb006c335c6\"}"
+      },
+      {
+        "theme": [
+          "Kelahiran Kembali"
+        ],
+        "t_book_id": "509000000000003134",
+        "book_title": "Saat Aku Pergi, Hidupnya Runtuh",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/2365c860-fb6f-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "Miles mendedikasikan hidupnya demi menjadikan Wendy ratu bisnis, namun malah dikhianati dan dibunuh. Mendapat kesempatan hidup kedua, Miles memutuskan mencampakkan Wendy. Namun, Wendy yang juga terlahir kembali yakin kesuksesannya tak bergantung pada Miles. Saat hidup diulang, realitas berubah: Miles tak lagi mengejarnya dan punya cinta baru, sementara Jack ternyata lelaki brengsek.",
+        "tag": [
+          "Kelahiran Kembali"
+        ],
+        "share_text": "Dia pikir dia tak butuh pria itu. Ternyata dia salah.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "697737616097cb6dfd0abd83",
+        "read_count": 306846,
+        "collect_count": 7073,
+        "chapter_count": 80,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 31942,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1769565905,
+        "has_video": true,
+        "is_preview": 0,
+        "online_at": 1769528650,
+        "vtt_lang": [],
+        "score": 2993,
+        "is_new": 0,
+        "first_chapter_id": "1tdq5xbe74",
+        "min_paid_start": 13,
+        "paid_start": 13,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "1tdq5xbe74",
+          "duration": 207,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/515a4b28d6240ba5.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "ausGktpm/WlJ/0NHDguqIzvZRglV0ey6XSHHizsdUU0CRruGRYc4QgufFKH5n+T+KW8dFLX+ZBTY+ueiDSN2ESIHrpEFkuBJpuGE4GsbcK/KXfAwkGGCg8wzE2tP2HOVrIGuDrnM9jJ5zTCieLUDgZFworkNNbXRWJUAqp5KVs9iWQdF0EZWaA+CS4zXT64BBU7fJwtr7TsK875sidFh3qy7t/KfiCVKhFQYT/coRRlEhuBOvU8oHOgOTh/t+7duoM3K00aX0EI3nMfrCmObYmCpNcDyMx983tHkOKyiLAe84HU9opXQDS2WHmIfMdUArttkFBvdqhf8hjHkFlma4xYJOOE8At3Vj24faCyPBXRvUAF8ys8o/gA3eINg+Nr1c+eJqzgeaq428CQ4mQA8dnXshbFHC3unnKkpt/3mcVEsHq51ngCfKQgBDREwGS12JrXWtYydhsFBC6eIJs2yFTveQr1u9mCMqMctKx94S8a604Mdj71RuDxIUZ2u/wcr1O/LqAOq4aUuiGeiTEgl9Lgq3+2BXwlJWSsRGzohOloPRS4TWOexswJ4DFjAs6EvA4ZPt4UnAaribV1N0vXJ6A==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "697737616097cb6dfd0abd83",
+        "is_collect": 1,
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b06",
+            "tag_name": "Kelahiran Kembali"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"e352a941-df1e-456c-b718-e673ad64c888\"}"
+      }
+    ]
+  }
+}

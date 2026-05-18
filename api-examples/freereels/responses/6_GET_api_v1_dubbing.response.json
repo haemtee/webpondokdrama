@@ -1,0 +1,2359 @@
+{
+  "items": [
+    {
+      "type": "recommend",
+      "module_type": "",
+      "module_name": "Dubbing",
+      "module_key": "1065",
+      "module_desc": "",
+      "show_title": false,
+      "items": [
+        {
+          "key": "BTRhXQ9fOC",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/1d092c14-4ba5-42c4-aedd-aecef25c59a7.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Tak Pernah Terkalahkan Selalu Berkuasa(Sulih Suara)",
+          "desc": "13 tahun lalu, Li Muchen kehilangan kakeknya dan dibawa dewa dari Kunlun. Kini ia kembali sebagai pendekar, bertekad memutus pertunangan lama. Ia bersumpah: Nama keluarganya akan menjadi legasi yang abadi.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Top 11 Tahunan",
+            "Romansa",
+            "Fantasi",
+            "Kembali",
+            "Abadi",
+            "Berkemauan Kuat",
+            "Dunia Ajaib",
+            "Laki-Laki",
+            "Percaya Diri",
+            "Kuat"
+          ],
+          "content_tags": [
+            "Top 11 Tahunan",
+            "Balas Dendam",
+            "Teka-Teki Identitas"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 66,
+          "follow_count": 10697,
+          "view_count": 0,
+          "episode_info": {
+            "id": "VeBZ6QzcYJ",
+            "name": "Tak Pernah Terkalahkan Selalu Berkuasa(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/30c007867073466ca07e6908eb7f91ee.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/4bd37d10-42a1-4dda-80c4-e1dea81fd868/h264-31fdd634-ad7e-41b4-929f-37bae3db14f9.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/4bd37d10-42a1-4dda-80c4-e1dea81fd868/h265-31fdd634-ad7e-41b4-929f-37bae3db14f9.m3u8",
+            "subtitle_list": [
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/88065a7d-1025-447b-8c0a-ef54be9e0d6f.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "ta-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/7b1494c5-a308-49c0-adf5-742f9fea4651.srt",
+                "display_name": "Tamil"
+              },
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/a298a53c-8503-43d9-add2-ef25d32ed9cc.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "te-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/d0891c70-6938-455e-aace-5a305652e67f.srt",
+                "display_name": "Telugu"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/f371b9b7-5ac3-4eb0-b12b-b83949e99bad.srt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/4583bf2e-91db-4abe-9a65-4b065c00fa93.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/af136125-5ef5-4276-85df-155f4debbd5e.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/prod/15092/1_0c64f6aa-e07d-438c-b440-c94b3a8ccae5.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/f1f2d997-7958-4d5b-8145-dbe1679f878a.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/88abf5cc-6aeb-4bf6-8c15-1efaf24897c3.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/e21894e0-2a6d-442b-bd3e-df6ed8c7e862.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/897ce846-fa27-4e28-abda-349c16dabb6b.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/c2952e71-6972-46a9-81ce-d7c9f62133f9.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/d1d1f67c-ecdd-466f-9af9-42f1d64e05ba.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/99a1f1ca-9f4c-4951-b749-19663d982ab8.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/fc41ed09-35a6-43be-a261-3db63c137d84.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/bf59550e-1493-44ae-8ae9-544327a2e7b2.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/470893cc-bc14-4c7a-a1de-481987e51694.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/5f0f1dd5-f2cb-4e3d-a52c-682f9352780a.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/f8cb9c05-08d7-4b1d-a37f-83d4e881cd83.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/98a0c318-868e-40ba-aaf4-280a1252a128.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15092/24f13705-3977-4981-a804-4f5edfa4aaa1.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 254,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1767343981,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=BTRhXQ9fOC",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "1"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":188516855,\"item_idx\":\"1\",\"item_key\":\"VeBZ6QzcYJ\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":83644,\"series_key\":\"BTRhXQ9fOC\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "module_card": {
+            "module_type": "annually"
+          },
+          "style": 2,
+          "pay_index": 11,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "IgvYsGqok9",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/2ad9267b-b83a-44bc-ae3e-0c4247c91d92.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Cinta Terlarang pada Kakak Tiri(Sulih Suara)",
+          "desc": "Aiden,  cowok kaya yang bermasalah, dan Vivian, cewek polos yang keras kepala, terpaksa jadi saudara tiri. Dari saling bermusuhan hingga terjerat cinta terlarang, mereka harus menghadapi tekanan moral, luka keluarga, dan juga perundungan di sekolah.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Romansa",
+            "Cinta Terlarang",
+            "Larangan",
+            "Penindasan",
+            "Saudara Tiri",
+            "Keluarga",
+            "Sekolah Menengah",
+            "Perempuan",
+            "Panas",
+            "Bersemangat"
+          ],
+          "content_tags": [
+            "Musuh Jadi Kekasih",
+            "Kebetulan Manis"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 57,
+          "follow_count": 6514,
+          "view_count": 0,
+          "episode_info": {
+            "id": "sG6c7DxRjQ",
+            "name": "Cinta Terlarang pada Kakak Tiri(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/42b5e3caa99b43228620506bbd94dc09.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/b8c884f8-25b3-4f8e-8499-1dea65586ccd/h264-c82b1e73-93fa-4d29-b516-660e910eb130.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/b8c884f8-25b3-4f8e-8499-1dea65586ccd/h265-c82b1e73-93fa-4d29-b516-660e910eb130.m3u8",
+            "subtitle_list": [
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/f3c3ba5c-ff36-4317-9463-6d5707e11e73.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/343ae7a8-6b4f-45a4-a4d9-6accff47ff79.srt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "ta-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/ut/15548/1_e664ee0f-4073-4977-bcbc-b40ffdcd805e.srt",
+                "display_name": "Tamil"
+              },
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/a03472d5-e3d2-4f82-a5dc-9c638ac5b87b.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "te-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/4a5aade5-178a-4761-b28e-4b9a6ce2befb.srt",
+                "display_name": "Telugu"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/7b9b997a-55c8-492f-ab57-86d11d3e696d.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/dc26086c-7c76-44cc-837b-053c71647cf1.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/prod/15548/1_3014f360-b4cf-4af6-b936-a8c072fdb6a5.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/9bc98481-7c1a-407b-9042-051f43f891cd.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/e3492bb1-e3ca-412f-b4bf-f08105a6f711.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/84410b6c-5aa0-46d4-a188-00f2ce0e744c.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/ea54856d-92fe-4955-9aa4-c26bb884e267.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/124968ec-a2f9-4ca5-a283-bf3c4f4eb709.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/f1146622-7d51-45c8-8956-894531d6fca8.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/518e4952-8d26-497c-b3fc-b911eed0d2a3.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/595f27e0-718b-4b58-928a-0df0ecace176.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/c54e58b5-6ec2-4e51-b348-5ce44ceb05cb.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/cb4dc338-bc3c-49c4-b678-db5e6a8b8070.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/e01665de-2edd-4315-93a2-a3482188e746.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/e53e1eef-9bd8-40c7-9a45-b59bea123bcf.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/92308507-b898-441b-94ba-11fe73a3c21b.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15548/c2f9a221-a5f8-451a-94d8-804a5be3c53a.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "en-US",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 158,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1767683713,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=IgvYsGqok9",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "2"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":189082331,\"item_idx\":\"2\",\"item_key\":\"sG6c7DxRjQ\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":87458,\"series_key\":\"IgvYsGqok9\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "style": 4,
+          "pay_index": 11,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "LadlKSC2MO",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/762f51d4-bb39-4cd2-964d-d62d2a5935a1.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Mata Keberuntungan(Sulih Suara)",
+          "desc": "Pengantar makanan Lu Fan melihat pacarnya selingkuh dengan Lin He dan terluka oleh pecahan gelang giok yang memberinya kemampuan melihat serta menilai barang. Dengan kemampuan itu ia menarik perhatian Tang Wei, dan bertaruh menemukan harta miliaran dalam tiga hari untuk balas dendam.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Fantasi",
+            "Perkotaan",
+            "Petualangan",
+            "Balas Dendam",
+            "Bangkit si Lemah",
+            "Cinta Selingkuh",
+            "Pewaris Wanita",
+            "Berkemauan Kuat",
+            "Kontemporer",
+            "Kota",
+            "Laki-Laki",
+            "Misterius",
+            "Ambisius",
+            "Percaya Diri"
+          ],
+          "content_tags": [
+            "Balas Dendam",
+            "Miskin Jadi Kaya"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 87,
+          "follow_count": 62990,
+          "view_count": 0,
+          "episode_info": {
+            "id": "P9oSEaWXGC",
+            "name": "Mata Keberuntungan(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/731cb1d55a504afca943d4fe31b62302.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/9cbe893f-77e1-40b6-bb47-0d930ef2b87e/h264-0fa0705d-7b16-41fe-93c5-02037d8af906.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/9cbe893f-77e1-40b6-bb47-0d930ef2b87e/h265-0fa0705d-7b16-41fe-93c5-02037d8af906.m3u8",
+            "subtitle_list": [
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/febfbed5-d229-4a04-805d-753224311b42.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/86cc09b0-1a1b-49cf-8a82-05863daf0464.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/a94ba274-2912-49d7-a79e-ff54041c73ea.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/resource/netdisk/15056/1_a37513ce-7348-4852-9501-61283f177c15.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/ab6dc62c-03b6-4f88-88e0-23d1946bc6aa.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/33fff113-90c3-494f-9514-48775a74f3cb.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/9a61ca17-e978-4164-a7ef-0bb5e1f41a6e.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/b8cb5889-7be2-4fa0-b222-0c945428a198.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/f90ab6d0-b124-4e96-b226-9a8b9bdc961b.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/18aa4880-0564-4253-a3ba-c228d2bfc2a0.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/b40fbcce-84ed-4520-a7e8-968274368482.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/6834e852-c147-4d44-b499-2209a0648ed1.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/1b9cf945-1def-4392-adb0-231b37b6fe96.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/69410c7a-3510-48f1-8829-b15d7b49ca7b.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/514cb2fa-b64b-466b-8acc-43494ccb584f.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/a10adefd-ccfd-43ca-9a14-0d108b58a2d6.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/bb88c9d7-568f-463d-aa62-9cfa6199195c.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15056/f4d33dfd-10f3-4ffd-81e1-ea61e840a708.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 229,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1767686295,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=LadlKSC2MO",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "3"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":185726961,\"item_idx\":\"3\",\"item_key\":\"P9oSEaWXGC\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":80864,\"series_key\":\"LadlKSC2MO\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "style": 4,
+          "pay_index": 12,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "yOrGjoWAQl",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/ee8589a5-7a3f-4db0-9d34-4fa4a8406320.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Pengawal Tak Terkalahkan(Sulih Suara)",
+          "desc": "Lin Shuang, seorang pengawal, dipaksa melindungi CEO Su Wanqiao. Ia kaget mengetahui wanita itu adalah cinta masa kecilnya. Saat rahasia keluarganya terbongkar dan dendam masa lalu terungkap, Lin Shuang yang tak terkalahkan pun memulai jalan balas dendam.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Top 16 Harian",
+            "Romansa",
+            "Aksi",
+            "Identitas Tersembunyi",
+            "Balas Dendam",
+            "CEO / Bos",
+            "Pahlawan Wanita Kuat",
+            "Pengawal",
+            "Kontemporer",
+            "Kota",
+            "Laki-Laki",
+            "Misterius",
+            "Romantis",
+            "Percaya Diri",
+            "Kuat"
+          ],
+          "content_tags": [
+            "Top 16 Harian",
+            "Balas Dendam",
+            "Teka-Teki Identitas"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 77,
+          "follow_count": 56285,
+          "view_count": 0,
+          "episode_info": {
+            "id": "3hNebGACDf",
+            "name": "Pengawal Tak Terkalahkan(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/1c41d8840ea3495fa22a5daf7ebd50f8.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/af70d2b6-87a3-461d-ab5e-267ac34f4e1b/h264-3b055891-1c3e-4cac-afa1-22570aa1fcf0.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/af70d2b6-87a3-461d-ab5e-267ac34f4e1b/h265-3b055891-1c3e-4cac-afa1-22570aa1fcf0.m3u8",
+            "subtitle_list": [
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/ut/14865/1_56f09d68-fde9-4f5e-a97d-b6d911fd5286.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/aa615ff2-4f30-4e09-8bfa-a65ba8fed58f.srt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/5098e918-0c15-40e2-aa90-baf0819d09db.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "ta-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/ut/14865/1_3c0f0209-6e42-4ad1-ad3a-51c2b079d3d1.srt",
+                "display_name": "Tamil"
+              },
+              {
+                "language": "te-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/95654f2c-51f0-44cf-815a-bf536c0f768c.srt",
+                "display_name": "Telugu"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/8e29c46e-43de-4065-8a5f-55dae0edc52b.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/c03d7fe3-417d-441d-ad1b-eb8c93fa615b.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/resource/netdisk/14865/1_9a868c10-842a-4b4f-b6a0-a4b5642be8f1.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/ebd61c8a-9de8-4138-964c-23ba00cd57b4.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/0e3c1b69-d096-48af-b05d-a3e3bf0e2014.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/e28be90e-9ba5-42bf-8c27-2ee9174c73af.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/bdb10313-c1fc-4b27-a35b-6363e2514aec.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/87873492-8f55-4884-a577-0165b6c692f3.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/919d7f79-a362-47cc-8ffb-f802e47bd9fa.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/f4f63832-99ff-4fac-af15-d42517bb323c.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/e603afba-96ce-40ce-8e16-845d2ad0bc71.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/2a6907b3-ff19-4087-8aa7-79f2aa2a17d3.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/de37dee7-099c-4699-8c8c-3c36eaf06c00.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/defa3275-5fad-49ce-a859-5316d7ef04ba.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/fa6611da-ea35-4235-b4a4-dbe1c237d507.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/e4d6ac75-48be-4fc4-aff2-71dbec617b4b.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14865/612c0e45-03a2-48c9-b252-f15204b0ae21.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 237,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1767586681,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=yOrGjoWAQl",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "4"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":184687029,\"item_idx\":\"4\",\"item_key\":\"3hNebGACDf\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":73936,\"series_key\":\"yOrGjoWAQl\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "module_card": {
+            "module_type": "daily"
+          },
+          "style": 2,
+          "pay_index": 13,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "p59BvnisxH",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/8710ec9a-0e3a-4dff-bcf5-cfd528719f4b.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Aku dan Murid Nakalku(Sulih Suara)",
+          "desc": "Haley, siswi pintar yang sering ditindas karena kutu buku, harus menjadi tutor Ethan, putra nakal kepala sekolah. Demi impian almarhum ibunya untuk sekolah ke Harvard, ia bertahan dari keisengan Ethan. Tapi kenapa jantungnya berdebar setiap dekat dengan dia? Benarkah itu cuma benci?",
+          "tag": [
+            "Gratis",
+            "Dubbing",
+            "Baru"
+          ],
+          "series_tag": [
+            "Top 7 Harian",
+            "Romansa",
+            "Remaja",
+            "Dari Musuh ke Kekasih",
+            "Pertumbuhan Karakter",
+            "Anak Nakal",
+            "Siswa SMA",
+            "Sekolah Menengah",
+            "Kampus",
+            "Perempuan",
+            "Dewasa Muda",
+            "Mengharukan",
+            "Romansa Manis",
+            "Ambisius",
+            "Keras Kepala"
+          ],
+          "content_tags": [
+            "Top 7 Harian",
+            "Teman Jadi Cinta",
+            "Musuh Jadi Kekasih"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 61,
+          "follow_count": 5033,
+          "view_count": 0,
+          "episode_info": {
+            "id": "dcddDN7sA0",
+            "name": "Aku dan Murid Nakalku(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/757b56068a7442c4a2d17ed68f4cfbab.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/1cb11f27-f29e-4f0b-9268-138bf7f6b62d/h264-12cfacad-b9ce-403f-8c48-36d5ec2f2b76.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/1cb11f27-f29e-4f0b-9268-138bf7f6b62d/h265-12cfacad-b9ce-403f-8c48-36d5ec2f2b76.m3u8",
+            "subtitle_list": [
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/426d7e82-24e0-4c90-8b71-66e4b619d236.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/457d6a14-d174-46fc-b90b-7b0b06830764.srt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/60c7c9df-1154-4a48-9939-8a37e5042e72.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/944a7ec0-2dca-414f-bfd7-2e32206b56fd.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/02f7e01a-e678-4049-880b-7869578b41c5.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/ut/16076/1_926fb734-5877-4b0f-a723-27d0ed0b9b35.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/1b990b2d-7413-496f-81cd-7a753dd8e315.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/eca78411-6b67-4f13-b61d-4d6648761524.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/f9eeecc2-aded-4082-b786-d837c70640e8.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/437e821b-ff84-4354-a0b0-cd33f7cce1ae.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/934ee8c1-003e-4192-9865-bb2578f687d9.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/24fc4902-c421-4ae8-8abc-3e33d61a79f6.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/5f5a18ef-9814-404a-b79c-6fff6f4aaa5f.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/b6b16652-225e-4c2e-9ae5-ad0847215099.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/e1690f59-586d-45f8-884d-3767c44f43bc.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/d264f337-6e46-4118-921c-1b383c038048.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/8866764b-699c-4cc0-af2e-a2129d5e6898.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/f39cbd80-d000-4b92-924b-39f593560769.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/37edd57d-e3ef-467e-88a1-769881d36ba7.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16076/c73cc52f-efd1-4568-8707-75b9c41fdd94.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "en-US",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 83,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1769687706,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=p59BvnisxH",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "5"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":194961809,\"item_idx\":\"5\",\"item_key\":\"dcddDN7sA0\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":120403,\"series_key\":\"p59BvnisxH\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "module_card": {
+            "module_type": "daily"
+          },
+          "style": 2,
+          "pay_index": 12,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "oghKx1Ao0X",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/848ad11c-b709-4d73-97ae-a3eb02becbc3.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Hitungan Mundur Takdir(Sulih Suara)",
+          "desc": "Kurir Su Chen ditabrak CEO Xiao Wan’er dan mendapat kekuatan melihat sisa usia orang. Ia gunakan kemampuannya untuk menyelamatkan nyawa, mempermalukan lawan, meraih kekayaan, serta dikelilingi wanita cantik.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Top 2 Tahunan",
+            "Fantasi",
+            "Paranormal",
+            "Kekuatan Super",
+            "Perkotaan",
+            "Identitas Tersembunyi",
+            "Dari Miskin ke Kaya",
+            "CEO / Bos",
+            "Pahlawan Wanita Kuat",
+            "Kota",
+            "Perempuan",
+            "Misterius",
+            "Petualang",
+            "Percaya Diri",
+            "Kuat"
+          ],
+          "content_tags": [
+            "Top 2 Tahunan",
+            "Balas Dendam",
+            "Teka-Teki Identitas"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 68,
+          "follow_count": 52859,
+          "view_count": 0,
+          "episode_info": {
+            "id": "HJfllojl4j",
+            "name": "Hitungan Mundur Takdir(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/7bc6ff3487f147ba8211d72294889184.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/52c1c315-e152-438a-a792-3d968c3ebdf1/h264-068fb948-d4de-45e1-a6d7-e73718927c27.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/52c1c315-e152-438a-a792-3d968c3ebdf1/h265-068fb948-d4de-45e1-a6d7-e73718927c27.m3u8",
+            "subtitle_list": [
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/0252899a-ab74-4459-be12-55ad149774a5.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/0b5525fe-788b-4f49-990c-0b6edf305a7e.srt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "te-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/8a396c36-0157-4021-ad04-d0d4a7ad52db.srt",
+                "display_name": "Telugu"
+              },
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/fda9d0d7-b180-4eb1-a4b9-aff7443fd756.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/791f0ee3-a029-4d50-95c9-3f0fe4ba6e84.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/ff1c0cf3-5c5a-4766-8f67-985f1f681e97.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/resource/netdisk/14783/1_69adb7c5-e07e-47b3-b25f-7094fb7481cc.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/0e905e41-7fde-426e-9c49-dfbcbb7c22ef.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/aa07d20c-113b-4c7d-9afb-1eb4d22858e5.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/b90dfbed-4f92-439c-beeb-ba22242ae953.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/9c82f73f-7c54-47dd-9699-06205d320caf.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/13c3759a-b56d-49f6-99fa-8a5f7dc7a1eb.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/c4ee7d15-5460-485a-ba37-bd59b92aa01b.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/5ed5f19d-c5f7-41f6-b1ad-4185c9cb5f31.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/84c5b7d6-ce93-4096-8e9f-10c353a3a165.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/4f92d943-2ced-4e6e-b8ce-e86d85a91648.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/7066326a-45ef-4a35-babf-cf3e9a00bc38.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/1d54e1a9-75fe-451e-9f02-cce555df8719.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/08b2bee3-c266-41f8-ac69-2828dba373f0.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/dd752bc6-9752-467a-bfa9-a0800f4973a2.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14783/8f3b4c44-a28c-4b8a-a5ed-aef09b87cf55.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 202,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1767174421,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=oghKx1Ao0X",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "6"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":184804783,\"item_idx\":\"6\",\"item_key\":\"HJfllojl4j\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":74348,\"series_key\":\"oghKx1Ao0X\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "module_card": {
+            "module_type": "annually"
+          },
+          "style": 2,
+          "pay_index": 7,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "cJ0yrFP7jm",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/ccf802cd-1c11-4a00-a4e2-ac00bdeb273d.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "CEO-ku, Keajaibanku(Sulih Suara)",
+          "desc": "Luo Xin dan Chen Fan tak sengaja satu malam bersama. Kekuatan Luo Xin memberinya kemampuan luar biasa. Esoknya Chen Fan kaget, Luo Xin ternyata CEO baru di perusahaannya. Dengan kekuatannya, Chen Fan membantu Luo Xin memecahkan masalah perusahaan. Dari sana kisah cinta penuh kejutan pun dimulai.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Romansa",
+            "Romansa Kantor",
+            "Hubungan Satu Malam",
+            "CEO / Bos",
+            "Wanita Mandiri",
+            "Kontemporer",
+            "Kota",
+            "Perempuan",
+            "Panas",
+            "Ambisius",
+            "Menggoda"
+          ],
+          "content_tags": [
+            "Musuh Jadi Kekasih",
+            "Teka-Teki Identitas"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 69,
+          "follow_count": 40051,
+          "view_count": 0,
+          "episode_info": {
+            "id": "Y3DQ1U1xNe",
+            "name": "CEO-ku, Keajaibanku(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/1ece9dba15944834a58f39d78a06fb92.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/4f409560-d0f4-4762-b884-961cd80dc98a/h264-27c819e3-183a-494c-b1f9-64da106b4339.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/4f409560-d0f4-4762-b884-961cd80dc98a/h265-27c819e3-183a-494c-b1f9-64da106b4339.m3u8",
+            "subtitle_list": [
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/ut/14787/1_b8d1e865-34a6-4b1d-96a6-7dffa5e9c62d.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "te-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/371bb577-7cb7-4fde-9d41-e07d4e8765aa.srt",
+                "display_name": "Telugu"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/96ef4f38-e27a-48bc-9f5a-b7290eeb0258.srt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/4acd28f6-d697-44de-9fea-4ab6e309fa7b.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "ta-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/64a932e6-d5ca-43fd-881b-22057a141d03.srt",
+                "display_name": "Tamil"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/ddeadeb0-5f49-4353-9a9a-a1011219a8c4.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/375842da-d7da-4e08-9d85-0fc839064236.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/resource/netdisk/14787/1_423df633-4dfc-4d80-99c8-a4537caf02e0.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/ut/14787/1_44fbe2c1-24fd-49df-a1ee-cc6e5684ea74.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/81069259-ce98-4c8c-a15f-70feead7781b.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/be75c2bb-131d-4892-aa3f-79b2065747b3.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/98e9a263-f813-4e12-8ad2-b26562ecedb8.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/8fbbb677-4543-4edf-9dbf-754350583ae8.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/a7a174bb-9136-4c32-a1c4-415c56b82ba0.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/e3d6e628-4f41-4139-b250-b6284f89703f.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/87b05bb0-5e56-4088-81ee-d978a3c5d974.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/ut/14787/1_63445043-2ef3-4523-916f-0169588c7d3a.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/6f10e103-689d-4442-973c-8e340be67fab.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/8edd857f-5c8a-4a7e-994e-9fa1baf242eb.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/d5d0c90a-5de5-4761-9046-f248607af7d1.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/494ccab2-4be5-4e82-a41c-a9b311ed36e8.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14787/c0280c00-12fd-4aeb-8e6e-fc38aa0e0259.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 128,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1767686550,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=cJ0yrFP7jm",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "7"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":188944863,\"item_idx\":\"7\",\"item_key\":\"Y3DQ1U1xNe\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":86430,\"series_key\":\"cJ0yrFP7jm\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "style": 4,
+          "pay_index": 9,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "WZwi2bSVYK",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/435b2801-540b-4008-8ac6-10c2355e4b39.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Dari Petani Jadi Suami Sang Permaisuri(Sulih Suara)",
+          "desc": "Seorang doktor sejarah jatuh ke dunia kuno dan hidup sebagai petani. Saat hampir menyerah, ia dapat sistem \"Menikah Bikin Kuat\" dan mulai naik dari petani jadi penguasa. Adaptasi dari novel: 《让你当兵，你造反娶皇后？》 karya 满洲里电鳗",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Fantasi",
+            "Sejarah",
+            "Militer",
+            "Bangkit si Lemah",
+            "Dari Miskin ke Kaya",
+            "Perjalanan Waktu",
+            "Reinkarnasi",
+            "Pertumbuhan Karakter",
+            "Tentara",
+            "Komandan",
+            "Berkemauan Kuat",
+            "Dunia Lain",
+            "Abad Pertengahan",
+            "Laki-Laki"
+          ],
+          "content_tags": [
+            "Teka-Teki Identitas",
+            "Miskin Jadi Kaya"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 74,
+          "follow_count": 24239,
+          "view_count": 0,
+          "episode_info": {
+            "id": "ZFFkEMX7zx",
+            "name": "Dari Petani Jadi Suami Sang Permaisuri(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/c6e11b9c1a93465a9faabfd887f4f24f.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/e8065561-c506-41cd-b8e4-be3507f9df15/h264-73c6cb4f-1485-4fb3-ab44-b824788afc1b.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/e8065561-c506-41cd-b8e4-be3507f9df15/h265-73c6cb4f-1485-4fb3-ab44-b824788afc1b.m3u8",
+            "subtitle_list": [
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/3b872eef-9e7a-4b1a-ad0c-d59489f6b60f.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/c359c0db-a32f-469f-afd2-f8719755d378.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/b7403437-7897-44ac-82fa-2e186535534b.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/prod/15121/1_5c52bc50-4182-4771-b3a0-dcb248b2d095.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/4566282b-60d6-492b-8b70-2bdc79fc4461.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/03df1619-9619-4638-8f39-ffdd93a910a0.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/d0acb881-9c60-4ee6-a67d-ab7ffc8635a5.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/c27b0764-2ea4-45be-aeb2-d8fef272cc9d.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/ed51b588-d7f1-48f7-ba46-445d7583d8e4.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/ae762dfb-0eff-4a8f-8926-924ef63cb45b.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/ee0e3f9a-3ab1-4fc5-9b7c-1b6057525ed6.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/82e0836b-c893-4488-a91a-a5691e1d9d0c.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/4ab35162-7441-433f-a9ad-312c0e36cdeb.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/1d8ca83e-80f9-4b0f-88b6-c2a14fec5a24.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/9ff698cc-288f-4c31-ab0e-fa013024aa34.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/1f0fb141-9a23-4fec-88b9-d18bdefe9e2a.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/5c1d2d40-5877-4173-946e-09c9600f65a5.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/15121/aa3a0c21-dc4f-45c3-a6d2-e1dfec4d7a00.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 231,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1769064005,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=WZwi2bSVYK",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "8"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":188846631,\"item_idx\":\"8\",\"item_key\":\"ZFFkEMX7zx\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":85597,\"series_key\":\"WZwi2bSVYK\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "style": 4,
+          "pay_index": 6,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "gFBOFrOceA",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/062c2a27-3a2c-4b64-a370-38e7a9d2dc6f.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Ayah Pembalap: Balas Dendam di Atas Roda(Sulih Suara)",
+          "desc": "Lin Jianfeng, mantan pembalap legendaris yang kini jadi pencuci mobil, kembali ke dunia balap demi menyelamatkan putranya. Ia mengungkap pembunuh istrinya, membuka jati diri, mengalahkan tim asing, dan menuntut para pelaku.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Aksi",
+            "Drama",
+            "Ketegangan",
+            "Identitas Tersembunyi",
+            "Balas Dendam",
+            "Bangkit si Lemah",
+            "Kisah Kembali",
+            "Berkemauan Kuat",
+            "Laki-Laki",
+            "Serius",
+            "Berani",
+            "Pelindung"
+          ],
+          "content_tags": [
+            "Balas Dendam",
+            "Miskin Jadi Kaya"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 58,
+          "follow_count": 18349,
+          "view_count": 0,
+          "episode_info": {
+            "id": "49Ll614uhN",
+            "name": "Ayah Pembalap: Balas Dendam di Atas Roda(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/3d095822358a42288a7354b61c287857.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/81f3648e-61d9-4c8a-a094-0036ebc3eaf2/h264-7b90eae9-2d70-420c-a143-aa62d32f44e5.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/81f3648e-61d9-4c8a-a094-0036ebc3eaf2/h265-7b90eae9-2d70-420c-a143-aa62d32f44e5.m3u8",
+            "subtitle_list": [
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/5a688c9f-a9b0-4c34-a286-b158647a395d.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_7cd81a76-230d-40a3-8419-3a337c001c58.vtt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "te-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/b310e64b-1195-4e5c-a323-85dfc7c51629.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_acb1253a-0660-47e5-880a-289701dfa9af.vtt",
+                "display_name": "Telugu"
+              },
+              {
+                "language": "bn-BD",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/ae80fc41-02a6-43d6-a02c-7bfd1586e5f8.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_44594160-6bed-4ae5-ac76-da19d1a52c2b.vtt",
+                "display_name": "Bengali"
+              },
+              {
+                "language": "ta-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/7dfdad9f-13a8-41ea-8574-f71a990111ad.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_723459b5-25a2-478a-b3a8-3ea6b97e3f06.vtt",
+                "display_name": "Tamil"
+              },
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/3b5e2ced-471c-4180-b35f-d13ebc4759fa.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_42a9c7f5-aa90-4dd9-9ecc-1454fe1bbf22.vtt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/90421a0f-dc6b-40a3-9362-9ff1b9c60e12.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_c7e076e2-4d92-4bfa-91a2-6cfcd69dee7e.vtt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/592bee0c-e7d7-4d5c-beb9-94c1967a2f92.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_dfd0f059-e770-4265-b45d-289dc74c913a.vtt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/prod/16318/1_5e3c0b29-bedc-4cdc-8621-c899b0519fff.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_a673931c-79e5-4f2b-ba7b-44507ff7103f.vtt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/c8e83756-6d76-43d0-86e3-f64d45ba98f0.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_65feeb5e-dc68-4242-9522-90734aa8d2ec.vtt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/49ea5fd4-8bd2-41f6-8f19-d38e5945b1a2.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_8d77eb08-6528-487c-b1de-9e962191b8ed.vtt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/abc5b8b3-14ad-40bb-9b33-3618c1a37394.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_c1c8d9b2-c6b0-497d-a2f6-840e15cff7e6.vtt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/ae104eaa-62ab-4a64-8cac-4bf20f65f088.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_3ccafd8a-f4f0-4491-bb7c-3b62b4dd0105.vtt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/0b06f90e-8783-47a3-a69c-763dee51e776.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_82ce93cf-625c-4c41-9c3b-eaf775a308bd.vtt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/8f8fdf5f-cd30-4c4c-9094-b708f6ed14c2.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_4ccf6f82-c5dc-4f5f-a3ca-a2f5e1ac60ef.vtt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/b57362da-1261-4f75-91ff-ba23ce795d94.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_552ab423-c4e1-4a2e-a74b-0be80122200d.vtt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/156ffcf1-23f5-4318-b278-98acdf3c5a08.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_6fc59e7a-2a42-45ce-b8ed-ae8fe33acbdd.vtt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/37fe6e82-9a35-4bcc-a1bc-f95be351a4bf.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_88771517-3f1d-403f-a38b-e182fa295d07.vtt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/6e66a6ee-0e37-4716-813e-ebcb64ee05b8.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_161d72fc-26a6-4729-95e6-c56c848efa2d.vtt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/3d158e02-a80f-42de-affe-1ff79a26aba8.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_56ce300c-f182-487e-a9c7-bcae6884363e.vtt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/e2a06c2a-94e2-40ad-be64-d13bff6057d7.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_43c6c676-92bf-49a7-8771-faf311ba44a8.vtt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/b44eb85d-0c2e-4a4d-ace2-c5e6fe5dfe81.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_2e3f1361-b781-415b-9389-a8ec348d9879.vtt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/16318/fcb099da-559e-489a-8254-a481f0124ccb.srt",
+                "vtt": "https://video-v6.mydramawave.com/ut/16318/1_ffa79116-ef90-477c-bfc2-4a64d7c9ec07.vtt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 139,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1769164921,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=gFBOFrOceA",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "9"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":194532088,\"item_idx\":\"9\",\"item_key\":\"49Ll614uhN\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":117560,\"series_key\":\"gFBOFrOceA\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "style": 4,
+          "pay_index": 12,
+          "orientation": 1,
+          "resource_type": 1
+        },
+        {
+          "key": "VpDmsec4bt",
+          "cover": "https://static-v1.mydramawave.com/vt/prod/cover/027eb6ca-ef96-4f7f-ac17-940cc1be10f0.jpg?image_process=quality,85/resize,w_600/format,webp",
+          "title": "Bangkitnya Pahlawan Jalanan(Sulih Suara)",
+          "desc": "\"Kak Mu, mau beristri tidak? Jawablah maka ia milikmu.\" Insinyur modern Xu Mu terbangun sebagai preman jalanan di era kuno dan bertemu seorang gadis kaya yang melarikan diri. Di dunia yang kacau, bersenjatakan pedang dan busur, dia bersumpah untuk melindungi keluarganya apapun yang terjadi.",
+          "tag": [
+            "Gratis",
+            "Dubbing"
+          ],
+          "series_tag": [
+            "Bertahan Hidup",
+            "Sejarah",
+            "Drama Zaman",
+            "Dari Miskin ke Kaya",
+            "Perjalanan Waktu",
+            "Reinkarnasi",
+            "Berkemauan Kuat",
+            "Insinyur",
+            "Abad Pertengahan",
+            "Timur",
+            "Perang",
+            "Laki-Laki",
+            "Petualang",
+            "Berani",
+            "Pelindung"
+          ],
+          "content_tags": [
+            "Teka-Teki Identitas",
+            "Miskin Jadi Kaya"
+          ],
+          "content_detail_tags": null,
+          "operation_tags": [
+            {
+              "text": "Dubbing",
+              "text_color": "#FFFFFF",
+              "bg_start": "#F47040",
+              "bg_end": "#F52067",
+              "tag_type": ""
+            }
+          ],
+          "episode_count": 105,
+          "follow_count": 8213,
+          "view_count": 0,
+          "episode_info": {
+            "id": "r1pHxl3N5G",
+            "name": "Bangkitnya Pahlawan Jalanan(Sulih Suara)",
+            "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/deacc5bd56244b5d821e735edcf523ed.jpg?image_process=quality,85/resize,w_600/format,webp",
+            "video_url": "",
+            "m3u8_url": "",
+            "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/294ef358-22f5-45dd-ae04-f7920287e0dd/h264-6c218478-2fed-46e6-b3e9-c7fb2f92f020.m3u8",
+            "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/294ef358-22f5-45dd-ae04-f7920287e0dd/h265-6c218478-2fed-46e6-b3e9-c7fb2f92f020.m3u8",
+            "subtitle_list": [
+              {
+                "language": "en-US",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/529e4eec-7961-4e91-81c4-ca0681997c38.srt",
+                "display_name": "Inggris"
+              },
+              {
+                "language": "pl-PL",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/d40a73ad-566c-4495-9278-55a150f8a6d7.srt",
+                "display_name": "Polandia"
+              },
+              {
+                "language": "es-MX",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/a4e47512-45de-4240-931a-480c3fbc345d.srt",
+                "display_name": "Spanyol"
+              },
+              {
+                "language": "pt-PT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/6b11415e-267a-4c0b-820c-65c36b728309.srt",
+                "display_name": "Portugis"
+              },
+              {
+                "language": "id-ID",
+                "type": "original",
+                "subtitle": "https://video-v6.mydramawave.com/vt/prod/14639/1_48db18a2-edd5-4520-8b9d-c286abdb5754.srt",
+                "display_name": "Indonesia"
+              },
+              {
+                "language": "de-DE",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/e03698d8-f972-488b-aa80-e55c5db54908.srt",
+                "display_name": "Jerman"
+              },
+              {
+                "language": "fr-FR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/0b822395-5a72-4ce7-849a-dc115462407b.srt",
+                "display_name": "Prancis"
+              },
+              {
+                "language": "ru-RU",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/3a8a727d-52f5-4be8-96de-c2f5716be30a.srt",
+                "display_name": "Rusia"
+              },
+              {
+                "language": "it-IT",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/8e9041ea-60f7-4d81-84e9-1e456f3ce3bc.srt",
+                "display_name": "Italia"
+              },
+              {
+                "language": "tr-TR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/e36bf5b7-bd17-4fc7-a07d-26ff4d363542.srt",
+                "display_name": "Turki"
+              },
+              {
+                "language": "ja-JP",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/2e8a622f-6c37-407b-96b0-5b859e25481e.srt",
+                "display_name": "Jepang"
+              },
+              {
+                "language": "ko-KR",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/22810879-745b-4c99-a7d8-4e2c69fbe17f.srt",
+                "display_name": "Korea"
+              },
+              {
+                "language": "th-TH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/c715a5c7-5b2a-4b39-b178-1f4f8a2ae59a.srt",
+                "display_name": "Thailand"
+              },
+              {
+                "language": "vi-VN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/a0143152-ff66-405e-b77d-ca7a6cfdf2f0.srt",
+                "display_name": "Vietnam"
+              },
+              {
+                "language": "tl-PH",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/834921b0-1250-4daf-8fcc-78bdebf038ce.srt",
+                "display_name": "Filipina"
+              },
+              {
+                "language": "ms-MY",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/b7872862-0581-4325-b425-6e7e7bf3c093.srt",
+                "display_name": "Melayu"
+              },
+              {
+                "language": "zh-TW",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/00ab71f3-b718-4f32-b23a-a41c38c5441c.srt",
+                "display_name": "Mandarin Tradisional"
+              },
+              {
+                "language": "hi-IN",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/5a1349f0-6ebf-458d-9a0b-ce0e5d38f7cd.srt",
+                "display_name": "Hindi"
+              },
+              {
+                "language": "ar-SA",
+                "type": "normal",
+                "subtitle": "https://video-v6.mydramawave.com/vt/14639/34264e04-2e3f-42b2-a978-2aa2f405d987.srt",
+                "display_name": "Arab"
+              }
+            ],
+            "region": null,
+            "audio": [
+              "en-US",
+              "zh-CN",
+              "zh-TW",
+              "ja-JP",
+              "ko-KR",
+              "es-MX",
+              "pt-PT",
+              "fr-FR",
+              "id-ID",
+              "ru-RU",
+              "de-DE",
+              "vi-VN",
+              "it-IT",
+              "tr-TR",
+              "ms-MY",
+              "th-TH",
+              "tl-PH",
+              "hi-IN",
+              "ar-SA",
+              "yue"
+            ],
+            "original_audio_language": "zh-CN",
+            "index": 1,
+            "unlock": true,
+            "h5_available": false,
+            "duration": 218,
+            "episode_price": 1,
+            "video_type": "free",
+            "new": false,
+            "update_time": 1769356205,
+            "user_unlocked": false,
+            "serialize_pub_status": 0,
+            "highlight_pub_status": 0,
+            "is_blooper": false,
+            "trans_resolution": "720x1280,1080x1920,540x960,480x854,360x640"
+          },
+          "link_type": 1,
+          "link": "freereels://freereels.app/detail?id=VpDmsec4bt",
+          "r_info": {
+            "session_id": "2018521211161067521",
+            "request_id": "2018521211161067520",
+            "page_num": "1",
+            "page_size": "10",
+            "item_idx": "10"
+          },
+          "r_info1": "{\"ab_exps\":\"544:1646,731:2311,807:2616,846:2772,869:2864,877:2900,880:2915,885:2933,891:2961,902:2993,909:3017,910:3021,911:3039\",\"ad_sid\":0,\"country\":\"US\",\"default_language_code\":\"id\",\"device_id\":\"a7eb309a4332e726\",\"episode_id\":0,\"ifr_idp\":1,\"item_id\":189868137,\"item_idx\":\"10\",\"item_key\":\"r1pHxl3N5G\",\"language\":\"id-ID\",\"module_id\":1065,\"module_key\":\"1065\",\"page_num\":\"1\",\"page_size\":\"10\",\"recall_labels\":[\"dubbed_tab\"],\"request_id\":\"2018521211161067520\",\"scene\":\"dubbed_series\",\"scene_source\":\"/home/Doblaje/recommend_dubbed\",\"series_id\":94461,\"series_key\":\"VpDmsec4bt\",\"session_id\":\"2018521211161067521\",\"tab_id\":516,\"tab_key\":\"Doblaje\",\"trace_id\":\"dd476236fabc3edeeb06b9d98a3f1d23-dubbed_series\",\"user_id\":94485765}",
+          "free": true,
+          "vip_type": 0,
+          "style": 4,
+          "pay_index": 10,
+          "orientation": 1,
+          "resource_type": 1
+        }
+      ],
+      "page_info": {
+        "next": "last_quality=0&offset=10&position_index=10000&timestamp=",
+        "has_more": true
+      },
+      "scene_source": "/home/Doblaje/recommend_dubbed"
+    }
+  ],
+  "page_info": {
+    "next": "last_quality=0&offset=10&position_index=10000&timestamp=",
+    "has_more": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/vigloo/api/v1/drama/15000468/season/15000463/episodes?lang=en",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "programId": "15000468",
+    "seasonId": "15000463",
+    "lang": "en"
+  }
+}

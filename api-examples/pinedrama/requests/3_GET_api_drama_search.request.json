@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/pinedrama/api/drama/search?keyword=cinta&language=id&region=ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "keyword": "cinta",
+    "language": "id",
+    "region": "ID"
+  }
+}

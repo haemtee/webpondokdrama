@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/sereal/api/content/recommend-smart/1?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "page": "1",
+    "lang": "id"
+  }
+}

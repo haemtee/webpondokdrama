@@ -1,0 +1,240 @@
+{
+  "is_sug_style_better": false,
+  "query_key": "love",
+  "query_result": [
+    "Love by Mistake",
+    "Belated Love",
+    "Crowned by His Love",
+    "The Unforgettable Love",
+    "Unexpected Love with My Boss",
+    "Love Conquers All",
+    "Hidden Heiress, Unwanted Love",
+    "Love Beyond Sight",
+    "Forgive Me, I Love You",
+    "Love Misplaced"
+  ],
+  "search_hight_light": [
+    {
+      "high_light_position": [
+        [
+          0,
+          4
+        ]
+      ],
+      "rich_text": "<em>Love</em> by Mistake",
+      "text": "Love by Mistake"
+    },
+    {
+      "high_light_position": [
+        [
+          8,
+          4
+        ]
+      ],
+      "rich_text": "Belated <em>Love</em>",
+      "text": "Belated Love"
+    },
+    {
+      "high_light_position": [
+        [
+          15,
+          4
+        ]
+      ],
+      "rich_text": "Crowned by His <em>Love</em>",
+      "text": "Crowned by His Love"
+    },
+    {
+      "high_light_position": [
+        [
+          18,
+          4
+        ]
+      ],
+      "rich_text": "The Unforgettable <em>Love</em>",
+      "text": "The Unforgettable Love"
+    },
+    {
+      "high_light_position": [
+        [
+          11,
+          4
+        ]
+      ],
+      "rich_text": "Unexpected <em>Love</em> with My Boss",
+      "text": "Unexpected Love with My Boss"
+    },
+    {
+      "high_light_position": [
+        [
+          0,
+          4
+        ]
+      ],
+      "rich_text": "<em>Love</em> Conquers All",
+      "text": "Love Conquers All"
+    },
+    {
+      "high_light_position": [
+        [
+          25,
+          4
+        ]
+      ],
+      "rich_text": "Hidden Heiress, Unwanted <em>Love</em>",
+      "text": "Hidden Heiress, Unwanted Love"
+    },
+    {
+      "high_light_position": [
+        [
+          0,
+          4
+        ]
+      ],
+      "rich_text": "<em>Love</em> Beyond Sight",
+      "text": "Love Beyond Sight"
+    },
+    {
+      "high_light_position": [
+        [
+          14,
+          4
+        ]
+      ],
+      "rich_text": "Forgive Me, I <em>Love</em> You",
+      "text": "Forgive Me, I Love You"
+    },
+    {
+      "high_light_position": [
+        [
+          0,
+          4
+        ]
+      ],
+      "rich_text": "<em>Love</em> Misplaced",
+      "text": "Love Misplaced"
+    }
+  ],
+  "search_infos": [
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7623674489280138293",
+      "search_source_id": "sug#1776319420AFAF3D25#0#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7628447564727077893",
+      "search_source_id": "sug#1776319420AFAF3D25#1#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 0,
+      "search_source_book_id": "",
+      "search_source_id": "sug#1776319420AFAF3D25#2#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 12
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7509699805648522256",
+      "search_source_id": "sug#1776319420AFAF3D25#3#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7490887199529896961",
+      "search_source_id": "sug#1776319420AFAF3D25#4#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 0,
+      "search_source_book_id": "",
+      "search_source_id": "sug#1776319420AFAF3D25#5#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 12
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7617465224416726069",
+      "search_source_id": "sug#1776319420AFAF3D25#6#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7606291815884393525",
+      "search_source_id": "sug#1776319420AFAF3D25#7#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7433410493391309841",
+      "search_source_id": "sug#1776319420AFAF3D25#8#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    },
+    {
+      "is_mark_word_type": false,
+      "reason_starling": "",
+      "recommend_reason": "drama_queue",
+      "recommend_strategy": "",
+      "search_jump_schema": "",
+      "search_source_book_genre": 203,
+      "search_source_book_id": "7622861066866789429",
+      "search_source_id": "sug#1776319420AFAF3D25#9#bG92ZXx8LXx8#",
+      "style_type": 0,
+      "word_type": 2
+    }
+  ]
+}

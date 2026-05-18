@@ -1,0 +1,15 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/velolo/dramas?q=cinta&page=1&limit=10&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "cinta",
+    "labelId": "",
+    "page": "1",
+    "limit": "10",
+    "lang": "id"
+  }
+}

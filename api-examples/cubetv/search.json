@@ -1,0 +1,9 @@
+{
+  "_comment": "PLACEHOLDER - replace with actual API response captured from browser DevTools",
+  "_endpoint": "GET https://api.cubetv.cc/c/v1/1Eoz4XJ?page=1&pagesize=20&keyword=cinta&type=1&os=1&langType=9&timestamp=1713234567",
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "list": []
+  }
+}

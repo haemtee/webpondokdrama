@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/velolo/suggest?q=cinta",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "cinta"
+  }
+}

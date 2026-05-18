@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/melolo/api/v1/search?q=love&lang=en&limit=100&offset=0",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "love",
+    "lang": "en",
+    "limit": "100",
+    "offset": "0"
+  }
+}

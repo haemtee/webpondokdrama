@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/cubetv/api/v1/home",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "<TOKEN>"
+  },
+  "params": {
+    "lang": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/moboreels/api/proxy/subtitle?episId=110779878979023234&langId=11",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "episId": "110779878979023234",
+    "langId": "11"
+  }
+}

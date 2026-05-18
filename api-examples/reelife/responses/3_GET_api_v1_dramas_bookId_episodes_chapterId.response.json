@@ -1,0 +1,60 @@
+{
+  "ts": 1770089553160,
+  "code": 0,
+  "nowCh": "RLA20250818",
+  "data": {
+    "bookVo": {
+      "bookId": "42000003903",
+      "bookName": "Tahanan Jadi Legenda",
+      "coverWap": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003903/42000003903.jpg?t=1768209143242",
+      "introduction": "| Xiao Chen awalnya putra buangan keluarga Xiao, tapi karena difitnah masuk penjara. Siapa sangka meski dalam penjara, Xiao Chen masih bersinar, jadi Naga Penjara yang terkenal empat penjuru. Tiga tahun sudah habis, depan ada wanita cantik berbagai kekuatan berdatangan, belakang ada dewi perang terkenal melemparkan janji pernikahan. Xiao Chen tidak peduli, hanya ingin cepat pulang, balas dendam kasus pembunuhan ibu dulu. |",
+      "status": true,
+      "lastChapterId": "100",
+      "iconType": 0,
+      "chapterId": "1",
+      "likeStatus": false,
+      "likeNum": 0,
+      "collStatus": false,
+      "collNumStr": "",
+      "collNum": 10
+    },
+    "chapterContentList": [
+      {
+        "bookId": "42000003903",
+        "chapterId": "1",
+        "chapterName": "第一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.mp4.jpg",
+        "likeNum": 9,
+        "likeNumStr": "",
+        "likeStatus": false,
+        "mp4720p": "https://nhwmfvideo.dramahue.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.540p.narrowv2.mp4?Expires=1770174000&Signature=dzJfVzih5kpVmOjiXDIBJg4EE0BVXaU09kpuGqVSAUeijWEhsnThkgnwr3CQtKxcAVyiV6~FmRn6JYd-VuNrkOrrePsmK8-iqJx52~5tEMR7hLv2f5IWNgNPSjapGElKXNCKXIDhEqu8GpHVKmxKd3fNWtBcShCiwQ075IYau2NKJ9g4BVd0DwTUjhNOC4zd1mFWTNK0dzbx-8Z4gN5BmjjJp-j57v7hX5IowtM4Yy8qVUMyG4k1y9JwORta1yflHmXxx4HInMg3DpB1zgCJsNdljPC5Y80ijVAbVCBqmoCgCP-836pyXhEePwHxzuAqo5iZeu~Xc~GXrprNc48aTA__&Key-Pair-Id=K43OH222FHZ9Q",
+        "mp4720pStandByUrl": [],
+        "videoInfoList": [
+          {
+            "quality": 720,
+            "videoPath": "https://nhwmfvideo.dramahue.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.720p.narrowv3.mp4?Expires=1770174000&Signature=hJeNEBm8smVxnvHWVvD-6Eb99pawqfHdw9Gxttu1XrLwRo9yaAYLO3Bx8TJQvlrefD~ZHDzFT7nYRilP80I4zuxlQMJx1C~JApjX3Fz-bCBrodsuquJjf6jUTFF-smTZwsOPyDPjKVIBk1HQt2EkA6sBn18q9pMPJDrygphRhIrzldAEk0jvbRprdBAFm4qlTWCpnfBKOJdxp7URSg7-rsMTwUrIJ0HIVu5HxJ3-b3RMqrcaXxz3l8KH7~YRl6u-oYj9lZh-yz7nnGobdZImDkSuEKWzUE3X-n~bDN7NBGAUN5kmUgzzuV5OkECBO4CQ98qA-Sz55LF4mkRpLGYVjQ__&Key-Pair-Id=K43OH222FHZ9Q"
+          },
+          {
+            "quality": 540,
+            "videoPath": "https://nhwmfvideo.dramahue.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.540p.narrowv2.mp4?Expires=1770174000&Signature=dzJfVzih5kpVmOjiXDIBJg4EE0BVXaU09kpuGqVSAUeijWEhsnThkgnwr3CQtKxcAVyiV6~FmRn6JYd-VuNrkOrrePsmK8-iqJx52~5tEMR7hLv2f5IWNgNPSjapGElKXNCKXIDhEqu8GpHVKmxKd3fNWtBcShCiwQ075IYau2NKJ9g4BVd0DwTUjhNOC4zd1mFWTNK0dzbx-8Z4gN5BmjjJp-j57v7hX5IowtM4Yy8qVUMyG4k1y9JwORta1yflHmXxx4HInMg3DpB1zgCJsNdljPC5Y80ijVAbVCBqmoCgCP-836pyXhEePwHxzuAqo5iZeu~Xc~GXrprNc48aTA__&Key-Pair-Id=K43OH222FHZ9Q"
+          },
+          {
+            "quality": 360,
+            "videoPath": "https://nhwmfvideo.dramahue.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.360p.mp4?Expires=1770174000&Signature=eC8mwznTBvlu51ipR1ELgFpwHePDiPQBWyq8YO6Hcj1aimzB6L6-qmkJJtpcI7iN~bXiCVQlFhYAX0ZaaETbFHLxsHOgZNVutk0kh~ToSZxFqv3eySi2tXjsp-Z9a4GbQBSSIDPVgVaXQ0~26g7gZPM3Pc2yW8uzM5zJgGgoYd8svsAyabywkkPE6qeq2S-AvSi5IklE5NKpeuMbPGlA9Bx09tdvLGJNJigQXCYSBahFMKRQUJteSWEEznvNeIOzPThqMutLwusU2Lbij6X6KuRBIIaMB67r6BPjwGCfJg5xywnIAxV-zcKeegZLlxmO~qXoAr07Pq6VKB5ZWMfn3g__&Key-Pair-Id=K43OH222FHZ9Q"
+          },
+          {
+            "quality": 144,
+            "videoPath": "https://nhwmfvideo.dramahue.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.144p.mp4?Expires=1770174000&Signature=XmYnFwoTBeeoh~EZFaT8vHzqUr9CRBU-bewEWcKrME1wfNW2lGGGdfp1EbJNjJqoa081VaVHhfdXL1-KztztM3etlbUypjUODSOqqD7-BaXjVTWKyPmNwxhmOhA1hlgIer1VdT8sCqgLW5Gg5RyDGxrGgmmdJYTjuhaztfmnYFEglYbP5EGEckcp8rsTQlPoZkuhEIOpGhRpZvfGPuqxyZuZ9Olesq24DNphJg4aZmX9Y1kgqXdghniR1Y~Itq6KdBMFTrP5c88nufHEyBDw42xhtBRr1yEIt6ccNsA7NUJhy5cvk9Jk4D4Q-LQfqhDXa50KxG-kzbqE08iBXUiKKA__&Key-Pair-Id=K43OH222FHZ9Q"
+          }
+        ]
+      }
+    ],
+    "myTickets": 0
+  },
+  "regTime": 1770020065,
+  "nowChTime": 1770020065,
+  "video_url": "https://nhwmfvideo.dramahue.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.540p.narrowv2.mp4?Expires=1770174000&Signature=dzJfVzih5kpVmOjiXDIBJg4EE0BVXaU09kpuGqVSAUeijWEhsnThkgnwr3CQtKxcAVyiV6~FmRn6JYd-VuNrkOrrePsmK8-iqJx52~5tEMR7hLv2f5IWNgNPSjapGElKXNCKXIDhEqu8GpHVKmxKd3fNWtBcShCiwQ075IYau2NKJ9g4BVd0DwTUjhNOC4zd1mFWTNK0dzbx-8Z4gN5BmjjJp-j57v7hX5IowtM4Yy8qVUMyG4k1y9JwORta1yflHmXxx4HInMg3DpB1zgCJsNdljPC5Y80ijVAbVCBqmoCgCP-836pyXhEePwHxzuAqo5iZeu~Xc~GXrprNc48aTA__&Key-Pair-Id=K43OH222FHZ9Q",
+  "cached": false
+}

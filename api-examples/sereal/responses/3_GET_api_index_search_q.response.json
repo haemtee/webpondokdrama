@@ -1,0 +1,379 @@
+{
+  "ok": true,
+  "data": {
+    "hasMore": true,
+    "hitPromotionPassword": 0,
+    "keyword": "cinta",
+    "list": [
+      {
+        "chapterNumber": 61,
+        "contentCoverFileId": "266216235837181952",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/c7kmlj6gp32ihvkykdgci5gnujmc6rg4.jpg",
+        "contentId": "265483612349292544",
+        "contentName": "Cinta Segitiga Penuh Pengorbanan",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 1
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> Segitiga Penuh Pengorbanan",
+        "introduce": "Gladys dan Rianto saling mencintai di masa muda. Karena suatu hal, hubungan mereka pun kandas. Empat tahun kemudian, Gladys telah menjadi pacarnya sahabat Rianto, yaitu Alvon. Pada saat bersamaan, Rianto kembali. Mereka bertiga terjebak dalam cinta segitiga. Demi menolong ayahnya, Gladys melawan kekuasaan. Sementara itu, Rianto rela merendahkan diri demi bisa memberi dukungan kepada Gladys. Pada akhirnya, setelah melewati berbagai tantangan, mereka bertiga menjadi lebih dewasa.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta yang Menyakitkan"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 30,
+        "contentCoverFileId": "223380920038858752",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/cr76e8rnpzce1wvw912esum2tc4kr3bl.jpg",
+        "contentId": "223075091104411648",
+        "contentName": "Cinta Setelah Kepergian",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 2
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> Setelah Kepergian",
+        "introduce": "Avira dan Gavin bersama selama tiga tahun, namun Avira menyadari Gavin hanya menganggapnya sebagai pengganti Cindy, teman masa kecilnya. Atas saran ibunya, Avira memutuskan kuliah di luar negeri dan perlahan meninggalkan Gavin dalam sebulan. Saat hari keberangkatan, Avira telah melepaskan masa lalu, sementara Gavin baru menyadari bahwa dia mencintai Avira.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta yang Menyakitkan"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 47,
+        "contentCoverFileId": "254303065249951744",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/qqqitsfg281va2m3q3eai4an6livn6nh.jpg",
+        "contentId": "254300405457235968",
+        "contentName": "Pengkhianatan dalam Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 3
+        },
+        "highlightName": "Pengkhianatan dalam <font color='#CBF147'>Cinta</font>",
+        "introduce": "Di hari pernikahannya, Weni Javier mengalami penderitaan ganda, sahabatnya Yuna Suandi menabrak ibunya dan tunangannya mengkhianatinya. Dalam keputusasaannya, teman masa kecilnya, John Gala melamarnya. Dia mengira dia telah menemukan dukungan, tetapi dia menemukan bahwa pernikahan itu adalah penipuan yang dirancang John untuk menyelamatkan Yuna. Weni bertekad untuk membongkar kebenaran dan balas dendam untuk ibunya.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta yang Menyakitkan"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 41,
+        "contentCoverFileId": "263606994865508352",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/psj7ztrdfi1iava2afayysjtsdax0ev1.jpg",
+        "contentId": "262942314463506432",
+        "contentName": "Kebohongan Dibalik Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 4
+        },
+        "highlightName": "Kebohongan Dibalik <font color='#CBF147'>Cinta</font>",
+        "introduce": "Putri mereka meninggal karena alergi setelah memakan biskuit yang mengandung stroberi. Saat itu, Yudhi Linardi sedang menderita kanker. Ketika tahu penyebab kematian putrinya adalah istrinya sendiri, ia memilih memikul kesalahan agar sang istri tidak dihantui rasa bersalah. Namun, sang istri justru membenci Yudhi dan menyiksanya dengan berbagai cara, menuntutnya menebus dosa atas kematian sang anak. Baru saat Yudhi sekarat, kebenaran pun terungkap dan penyesalan datang terlambat.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta yang Menyakitkan"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 73,
+        "contentCoverFileId": "259326277927051264",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/xr400ka8v3k506lg58n3gjoh8wq6bdx5.jpeg",
+        "contentId": "259324416142618624",
+        "contentName": "Amnesia Mempertemukan Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 5
+        },
+        "highlightName": "Amnesia Mempertemukan <font color='#CBF147'>Cinta</font>",
+        "introduce": "Marita berusaha keras untuk merebut kembali perusahaan milik ibunya. Di sebuah klub, Marita bertemu Runo. Tanpa di duganya, ternyata Runo adalah orang terkaya di kota itu yang telah mengalami amnesia karena kecelakaan. Karena suatu hal, akhirnya Runo dan Marita jadi bersama. Sebenarnya, sekian tahun lalu, Runo telah mencintai Marita sampai begitu mendalam. Runo yang telah pulih ingatannya, berusaha menyembunyikan identitasnya sambil membantu Marita merebut kembali perusahaan ibunya.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta pada Pandangan Pertama"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 70,
+        "contentCoverFileId": "232891906844266496",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/lvl12eszj58uu2pkbclwutujfjyd033j.jpg",
+        "contentId": "232521994607013888",
+        "contentName": "Cinta yang Salah Lintas Waktu",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 6
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> yang Salah Lintas Waktu",
+        "introduce": "Nala Lora, pemilik supermarket yang bisa melakukan perjalanan waktu, menyelamatkan Jenderal Xander Cakra dari Dinasti Agung. Dengan pengetahuan modern, ia membantu Xander menjadi Dewa Perang dan melahirkan putranya. Namun, suami dan putranya berbalik ingin mengeksekusinya. Setelah terlahir kembali, Nala memutuskan menghancurkan terowongan waktu, mengambil uang pembongkaran, dan memulai hidup baru.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Takdir Cinta"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 30,
+        "contentCoverFileId": "227436915178352640",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/oddff6eptf917dqktju336ww2zdzvo0j.jpg",
+        "contentId": "227388116846252032",
+        "contentName": "Cinta Sejati di Masa Tua",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 7
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> Sejati di Masa Tua",
+        "introduce": "Fanny Gabrian adalah seorang pembersih. Setelah memenangkan lotre sejumlah dua triliun, dia memutuskan untuk pergi ke kota dan memberikan uang tersebut kepada putranya, Willy Gabrian. Namun, Willy, istrinya dan ibu mertuanya tidak menyambut kedatangan Fanny. Willy bahkan mengatur ibunya pergi kencan buta agar tidak menyusahkan dia. Tanpa diduga, Fanny menikah kilat dengan CEO, Tony Zantoni dan menggunakan uangnya untuk menyelamatkan Grup Zantoni, sedangkan keluarga Willy kena batunya sendiri.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta Setelah Menikah"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 80,
+        "contentCoverFileId": "129594410865541120",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/c7o9626corci7z1yzhjk4pfkdry2amu4.jpg",
+        "contentId": "127433082499510272",
+        "contentName": "Anak Pintar Penyatu Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 8
+        },
+        "highlightName": "Anak Pintar Penyatu <font color='#CBF147'>Cinta</font>",
+        "introduce": "Seorang desainer genius bernama Tia dijebak di pesta pernikahannya. Telah terungkap adanya foto-foto mesra dirinya dengan pria misterius, sehingga membuat nama baiknya rusak, keluarganya pun jadi hancur. Lima tahun kemudian, bersama dengan putranya yang bernama Rico, dia kembali lagi dengan berani. Dia ingin menyelidiki dengan tuntas fakta tentang pria misterius itu. Dalam kondisi penuh kesusahan, dia masuk ke perusahaan milik John dan bekerja sebagai desainer. ",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta Tumbuh Seiring Waktu"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 80,
+        "contentCoverFileId": "129905416611315712",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/pvlvhc4l7tnmvipazfx7eugdtq9rgx7c.jpg",
+        "contentId": "129878915518054400",
+        "contentName": "Ada Cinta di Rumah Mewah",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 9
+        },
+        "highlightName": "Ada <font color='#CBF147'>Cinta</font> di Rumah Mewah",
+        "introduce": "Mantan putri tunggal Keluarga Wales hidup menderita demi cintanya. Setelah meninggal, Intan menemukan bahwa semua ini adalah rencana suaminya yang bajingan dan ayahnya tidak meninggal karena kecelakaan. Intan yang hidup kembali menggunakan semua ingatannya untuk balas dendam kepada Keluarga Christian dan mencari tahu apa yang terjadi saat itu. Alhasil, Menteri Talung menyadari perubahan Intan dan mereka saling menguji satu sama lain. ",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta Tumbuh Seiring Waktu"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 75,
+        "contentCoverFileId": "222742376438046720",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/c2ead9vd86xlyotim6xwbqghdr5c5t85.jpg",
+        "contentId": "222735083537440768",
+        "contentName": "Cinta Bersemi Dalam Semalam",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 10
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> Bersemi Dalam Semalam",
+        "introduce": "Bisakah pria dan wanita dengan latar belakang, pengalaman, dan usia yang berbeda jauh bersatu? Leni, pengacara top berumur 29 tahun, dan Hans, pewaris Grup Wansa berumur 19 tahun, saling jatuh cinta. Akankah mereka mampu melewati perbedaan dan bertahan, atau kembali ke dunia masing-masing?",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta pada Pandangan Pertama"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 96,
+        "contentCoverFileId": "131717276440465408",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/tgtushesah1gsmia1hwiezg7c6urdfe1.jpg",
+        "contentId": "131499064222294016",
+        "contentName": "CEO Tampan Jatuh Cinta di Malam Pertama",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 11
+        },
+        "highlightName": "CEO Tampan Jatuh <font color='#CBF147'>Cinta</font> di Malam Pertama",
+        "introduce": "Setelah putri kandung dari keluarga kaya yang hilang kembali, Fenny yang jadi putri angkat mereka pun diusir. Olivia tidak hanya merebut pacarnya, tapi, dia juga menghasut ibunya untuk menikahkan Fenny dengan playboy untuk mendapatkan Pratama Grup. Di pesta pernikahan, Fenny mengaku sedang hamil anak Alex dan meminta bantuan padanya. Tapi, Alex malah memberi dia cek untuk menggugurkan anaknya. ",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta Tumbuh Seiring Waktu"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 80,
+        "contentCoverFileId": "222719219371089920",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/vh05er0lzvcqsovegvdz5isxm947nwm0.jpg",
+        "contentId": "222366870463062016",
+        "contentName": "Cinta Datang di Waktu yang Tepat",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 12
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> Datang di Waktu yang Tepat",
+        "introduce": "Enam tahun lalu, Widya Lingga menjalin hubungan dengan Justin Casper. Namun, karena tidak ingin dianggap sebagai wanita matre, Widya memilih untuk pergi tanpa menyadari bahwa dirinya telah mengandung anak Justin. Enam tahun kemudian, ketika bibinya memaksanya untuk menikah, Widya terpaksa meminta putrinya mencari Justin untuk meminta bantuan. Dari sinilah kisah cinta mereka pun dimulai.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta yang Menyakitkan"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 98,
+        "contentCoverFileId": "242666010463965184",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/zboslzhdrvqrly3wemisnma70d6ysfis.jpg",
+        "contentId": "241532409458462720",
+        "contentName": "Kupikir Cinta, Rupanya Derita.",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 13
+        },
+        "highlightName": "Kupikir <font color='#CBF147'>Cinta</font>, Rupanya Derita.",
+        "introduce": "Setelah naksir bertahun-tahun, Agnes Sonia yang menyembunyikan identitasnya berhasil menikah dengan pujaan hatinya, Lukas Lorda.  Dalam pernikahannya, Agnes difitnah dan dihina oleh Keluarga Lorda. Lukas juga bersikap kejam dan tidak peduli kepadanya. Namun, khayalan ini sepenuhnya hancur ketika Julia Mansa memfitnah Agnes telah mendorongnya ke dalam air,  lalu Lukas memaksanya untuk berlutut dan membiarkan keluarga menjalankan hukuman. Agnes memilih bercerai tanpa keraguan sedikitpun Setelah ke",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Cinta yang Menyakitkan"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 84,
+        "contentCoverFileId": "361877500491735040",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/eh97nztmay63c2qavxvlg340y7trq703.jpg",
+        "contentId": "361844162821361664",
+        "contentName": "Jebakan Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 14
+        },
+        "highlightName": "Jebakan <font color='#CBF147'>Cinta</font>",
+        "introduce": "\"Burung kenari\" yang kupelihara menjadikan nyawanya sebagai umpan untuk jebakan maut. Tapi, sang Tuan Muda rela menemaninya sampai akhir meski tahu itu jebakan.",
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 70,
+        "contentCoverFileId": "348158544119595008",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/agnob0s2aop2dbzej6zcqd28fmmjvhrz.jpg",
+        "contentId": "347710112024231936",
+        "contentName": "Tragedi Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 15
+        },
+        "highlightName": "Tragedi <font color='#CBF147'>Cinta</font>",
+        "introduce": "Tujuh tahun lalu, Hana Rason tidak sengaja terjatuh ke jurang dan menjadi idiot. Karena kondisinya yang kurang baik, putrinya terpaksa mengemis di Kota Bara untuk bertahan hidup. Kemudian, Leon menemukan mereka dan menjemput mereka pulang.",
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 62,
+        "contentCoverFileId": "367677141149818880",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/nntc5natinq6t0xjl3qz96e6al35lan8.jpg",
+        "contentId": "367362701036621824",
+        "contentName": "Rencana Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 16
+        },
+        "highlightName": "Rencana <font color='#CBF147'>Cinta</font>",
+        "introduce": "Pengacara Juwita dikhianati tunangannya. Di saat terpuruk,  Logan Raditya muncul dan menolongnya. Tanpa ia sadari, semua itu bukan kebetulan, melainkan jebakan cinta Logan, Sang Pewaris Konglomerat. Dia diam-diam menolong Juwita merebut kembali kariernya, dan membalas dendam. Saat identitas asli terungkap, Juwita justru terseret ke permainan cinta dan intrik bisnis yang jauh lebih berbahaya.",
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 65,
+        "contentCoverFileId": "232894041430429696",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/sveuf5jl16yfa4haputh99tr63qbds12.jpg",
+        "contentId": "232525876124987392",
+        "contentName": "Cinta di Balik Lagu Musim Panas",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 17
+        },
+        "highlightName": "<font color='#CBF147'>Cinta</font> di Balik Lagu Musim Panas",
+        "introduce": "Jenifer Laura dan Luke Oscar memiliki hubungan satu malam. Setelah itu identitas Jenifer diambil alih oleh kakaknya, Rosie Laura. Enam tahun kemudian, Jenifer Laura menjadi penasihat hukum Luke Oscar, dan perlahan-lahan cinta mereka bersemi. Rosie yang takut kehilangan posisinya berulang kali mencoba menjatuhkan Jenifer, tetapi setiap kali upayanya digagalkan oleh Luke. Akhirnya, kebenaran terungkap, dan keluarga Jenifer akhirnya bersatu kembali.",
+        "labelList": [
+          {
+            "id": "0",
+            "name": "Takdir Cinta"
+          }
+        ],
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 76,
+        "contentCoverFileId": "360806533032058880",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/op9fuo39eh8uhswtcmecth0ae0sji79f.jpg",
+        "contentId": "360793073812508672",
+        "contentName": "Kisah Cinta Maharani",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 18
+        },
+        "highlightName": "Kisah <font color='#CBF147'>Cinta</font> Maharani",
+        "introduce": "Ray Luron reinkarnasi ke tubuh seorang bupati di Beril. Dengan pengetahuan modernnya, dia mengembangkan teknologi, melatih pasukan dan memperkuat negaranya. Lima tahun kemudian, Maharani, Jessi membawa putrinya menemui dia, perasaan mereka perlahan tumbuh dan bersama-sama menumpas pemberontakan.",
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 30,
+        "contentCoverFileId": "385798391629877248",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/70vrdbzf3bkodah0jp5mne23krbcyaxj.jpg",
+        "contentId": "385745567319597056",
+        "contentName": "Reinkarnasi Demi Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 19
+        },
+        "highlightName": "Reinkarnasi Demi <font color='#CBF147'>Cinta</font>",
+        "introduce": "Demi menyelamatkan kakeknya, Melisa Qiana menerima tawaran Nyonya Jeana untuk jadi perawat dan mendekati Helson Jinara, putra sulung Keluarga Jinara yang lumpuh. Dalam sebulan, ia harus bangkitkan kembali semangat hidupnya. Awalnya yang cuma transaksi, berubah menjadi cinta tulus. Namun di hari pernikahan mereka, anak haram Keluarga Jinara, Martin Jinara,  membongkar kebenarannya.",
+        "recallType": 0
+      },
+      {
+        "chapterNumber": 63,
+        "contentCoverFileId": "359703945326895104",
+        "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/5x3wxq4sqt1i2keavu64lwv55row0971.jpg",
+        "contentId": "359698640698351616",
+        "contentName": "Terlena Oleh Cinta",
+        "ext": {
+          "expId": "rerank_0",
+          "position": 20
+        },
+        "highlightName": "Terlena Oleh <font color='#CBF147'>Cinta</font>",
+        "introduce": "Sejak kecil, Winny Jinaro putus hubungan dengan ayah kandungnya dan tiba-tiba diculik untuk menikah dengan Tuan Muda cacat, Yodi Janaka. Setelah menikah, segala sesuatunya tampak lancar, membuatnya mengira keberuntungannya berubah. Ternyata, Yodi diam-diam selalu mendukung dan memanjakannya. Suaminya ternyata pura-pura lemah dan sebenarnya pemegang kendali di balik layar.",
+        "recallType": 0
+      }
+    ],
+    "page": 1,
+    "requestId": "android-1779071037740-0-1",
+    "size": 20,
+    "totalHit": 115,
+    "type": 0
+  }
+}

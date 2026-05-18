@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/pinedrama/api/drama/play?collection_id=7633642976383783953&episode=1&language=id&region=ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "collection_id": "7633642976383783953",
+    "episode": "1",
+    "language": "id",
+    "region": "ID"
+  }
+}

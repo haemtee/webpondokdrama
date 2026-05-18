@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/cubetv/search/5ZMAoZ/episodes?page=1&pageSize=20&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "videoid": "5ZMAoZ",
+    "page": "1",
+    "pageSize": "20",
+    "lang": "id"
+  }
+}

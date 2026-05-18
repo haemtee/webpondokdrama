@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/sereal/api/watch/179663844862607360/1?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "contentId": "179663844862607360",
+    "ep": "1",
+    "lang": "id"
+  }
+}

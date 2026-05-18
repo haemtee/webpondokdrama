@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/sarostv/api/series/episode?id=100&ep=1&lang=en_US",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "100",
+    "ep": "1",
+    "lang": "en_US"
+  }
+}

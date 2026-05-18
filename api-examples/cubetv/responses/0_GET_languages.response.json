@@ -1,0 +1,271 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "中文",
+      "key": "zh",
+      "langType": 1,
+      "androidKey": "zh_CN",
+      "iosKey": "zh-Hans",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "English",
+      "key": "en",
+      "langType": 2,
+      "androidKey": "en_US",
+      "iosKey": "en_US",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "日本語",
+      "key": "ja",
+      "langType": 3,
+      "androidKey": "ja_JP",
+      "iosKey": "ja_JP",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "한국인",
+      "key": "ko",
+      "langType": 4,
+      "androidKey": "ko_KR",
+      "iosKey": "ko_KR",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Português",
+      "key": "pt",
+      "langType": 5,
+      "androidKey": "pt_PT",
+      "iosKey": "pt_PT",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Español",
+      "key": "es",
+      "langType": 6,
+      "androidKey": "es_ES",
+      "iosKey": "es_ES",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "اللغة العربية",
+      "key": "ar",
+      "langType": 7,
+      "androidKey": "ar_SA",
+      "iosKey": "ar_SA",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Bahasa Melayu",
+      "key": "ms",
+      "langType": 8,
+      "androidKey": "ms_MY",
+      "iosKey": "ms_MY",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Bahasa Indonesia",
+      "key": "id",
+      "langType": 9,
+      "androidKey": "id_ID",
+      "iosKey": "id_ID",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "ภาษาไทย",
+      "key": "th",
+      "langType": 10,
+      "androidKey": "th-TH",
+      "iosKey": "th-TH",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Tiếng Việt",
+      "key": "vi",
+      "langType": 11,
+      "androidKey": "vi-VN",
+      "iosKey": "vi-VN",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Français",
+      "key": "fr",
+      "langType": 12,
+      "androidKey": "fr-FR",
+      "iosKey": "fr-FR",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    },
+    {
+      "name": "Deutsch",
+      "key": "de",
+      "langType": 13,
+      "androidKey": "de-DE",
+      "iosKey": "de-DE",
+      "fileUrl": "",
+      "osType": "",
+      "version": ""
+    }
+  ],
+  "raw": {
+    "code": 200,
+    "msg": "success",
+    "data": [
+      {
+        "name": "中文",
+        "key": "zh",
+        "langType": 1,
+        "androidKey": "zh_CN",
+        "iosKey": "zh-Hans",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "English",
+        "key": "en",
+        "langType": 2,
+        "androidKey": "en_US",
+        "iosKey": "en_US",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "日本語",
+        "key": "ja",
+        "langType": 3,
+        "androidKey": "ja_JP",
+        "iosKey": "ja_JP",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "한국인",
+        "key": "ko",
+        "langType": 4,
+        "androidKey": "ko_KR",
+        "iosKey": "ko_KR",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Português",
+        "key": "pt",
+        "langType": 5,
+        "androidKey": "pt_PT",
+        "iosKey": "pt_PT",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Español",
+        "key": "es",
+        "langType": 6,
+        "androidKey": "es_ES",
+        "iosKey": "es_ES",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "اللغة العربية",
+        "key": "ar",
+        "langType": 7,
+        "androidKey": "ar_SA",
+        "iosKey": "ar_SA",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Bahasa Melayu",
+        "key": "ms",
+        "langType": 8,
+        "androidKey": "ms_MY",
+        "iosKey": "ms_MY",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Bahasa Indonesia",
+        "key": "id",
+        "langType": 9,
+        "androidKey": "id_ID",
+        "iosKey": "id_ID",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "ภาษาไทย",
+        "key": "th",
+        "langType": 10,
+        "androidKey": "th-TH",
+        "iosKey": "th-TH",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Tiếng Việt",
+        "key": "vi",
+        "langType": 11,
+        "androidKey": "vi-VN",
+        "iosKey": "vi-VN",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Français",
+        "key": "fr",
+        "langType": 12,
+        "androidKey": "fr-FR",
+        "iosKey": "fr-FR",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      },
+      {
+        "name": "Deutsch",
+        "key": "de",
+        "langType": 13,
+        "androidKey": "de-DE",
+        "iosKey": "de-DE",
+        "fileUrl": "",
+        "osType": "",
+        "version": ""
+      }
+    ]
+  }
+}

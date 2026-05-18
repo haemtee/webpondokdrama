@@ -1,0 +1,243 @@
+{
+  "status": "OK",
+  "drama": {
+    "id": 15000287,
+    "genre": {
+      "15000004": "Romance",
+      "15000021": "Destiny",
+      "15000030": "Hate Love"
+    },
+    "genres": [
+      {
+        "id": 15000004,
+        "title": "Romance"
+      },
+      {
+        "id": 15000030,
+        "title": "Hate Love"
+      },
+      {
+        "id": 15000021,
+        "title": "Destiny"
+      }
+    ],
+    "metaTags": [
+      {
+        "id": 15000045,
+        "groupName": "marriage_relationship",
+        "title": "Contract Marriage"
+      },
+      {
+        "id": 15000092,
+        "groupName": "erotic_and_adult",
+        "title": "Steamy"
+      },
+      {
+        "id": 15000023,
+        "groupName": "society_and_class",
+        "title": "Billionaire"
+      },
+      {
+        "id": 15000046,
+        "groupName": "marriage_relationship",
+        "title": "Marriage Before Love"
+      },
+      {
+        "id": 15000102,
+        "groupName": "forbidden_and_complex_love",
+        "title": "Toxic Love"
+      },
+      {
+        "id": 15000133,
+        "groupName": "characteristic",
+        "title": "Chic"
+      },
+      {
+        "id": 15000136,
+        "groupName": "asia",
+        "title": "Korea"
+      },
+      {
+        "id": 15000134,
+        "groupName": "asia",
+        "title": "Asian"
+      },
+      {
+        "id": 15000148,
+        "groupName": "original",
+        "title": "Exclusive"
+      },
+      {
+        "id": 15000149,
+        "groupName": "original",
+        "title": "Vigloo Original"
+      },
+      {
+        "id": 15000011,
+        "groupName": "infidelity_and_betrayal",
+        "title": "Toxic Relationship"
+      },
+      {
+        "id": 15000007,
+        "groupName": "revenge_and_justice",
+        "title": "Karma"
+      },
+      {
+        "id": 15000004,
+        "groupName": "revenge_and_justice",
+        "title": "Tit for Tat"
+      },
+      {
+        "id": 15000043,
+        "groupName": "marriage_relationship",
+        "title": "Flash Marriage"
+      },
+      {
+        "id": 15000041,
+        "groupName": "marriage_relationship",
+        "title": "Marriage"
+      },
+      {
+        "id": 15000048,
+        "groupName": "professional_genre",
+        "title": "Medical"
+      },
+      {
+        "id": 15000062,
+        "groupName": "advanture_and_survival",
+        "title": "Crime"
+      },
+      {
+        "id": 15000065,
+        "groupName": "advanture_and_survival",
+        "title": "Noir"
+      },
+      {
+        "id": 15000068,
+        "groupName": "love_and_romance",
+        "title": "Sweet Love"
+      },
+      {
+        "id": 15000097,
+        "groupName": "erotic_and_adult",
+        "title": "Kiss"
+      },
+      {
+        "id": 15000110,
+        "groupName": "tropes_2",
+        "title": "Surreal"
+      },
+      {
+        "id": 15000111,
+        "groupName": "tropes_2",
+        "title": "Telenovela"
+      },
+      {
+        "id": 15000105,
+        "groupName": "tropes_1",
+        "title": "Tacky"
+      },
+      {
+        "id": 15000109,
+        "groupName": "tropes_1",
+        "title": "Delightful"
+      },
+      {
+        "id": 15000125,
+        "groupName": "plot_tropes_2",
+        "title": "Plot Twist"
+      },
+      {
+        "id": 15000126,
+        "groupName": "plot_tropes_2",
+        "title": "Fast Paced"
+      },
+      {
+        "id": 15000124,
+        "groupName": "plot_tropes_2",
+        "title": "High Tension"
+      },
+      {
+        "id": 15000147,
+        "groupName": "ip_based",
+        "title": "Webnovel Original"
+      }
+    ],
+    "title": "Sold to Love",
+    "subTitle": "Love was the only reason to possess you",
+    "titleImage": "https://asset.vigloo.com/KR055P01S01/asset/title/en.png",
+    "bannerImage": "https://asset.vigloo.com/KR055P01S01/asset/mainbanner/en.png",
+    "thumbnail": "",
+    "thumbnailExpanded": "https://asset.vigloo.com/KR055P01S01/asset/thumbnail_expanded/en.png",
+    "thumbnails": [
+      {
+        "id": 10000861,
+        "type": 0,
+        "url": "https://asset.vigloo.com/KR055P01S01/asset/thumbnails/default/en.png"
+      }
+    ],
+    "description": "Forcibly married off to Tae-hyun, In-a must have a baby in 2 years due to her mother-in-law Ae-ra. Their marriage without love gradually turns into passion when cold-blooded Tae-hyun starts to feel his past first love lies inside In-a. While struggling against all the crises to protect each other, love and hate keep tangling. Will it become true love or end up as a collapse of obsession?",
+    "logLine": "Marriage started without love gradually turns into passion. Will it be true love or end up as a collapse of obsession?",
+    "casting": "SEONG TAE. Lee Ji Yeon, Hwang Hanna",
+    "synopsis": "Forcibly married off to Tae-hyun, In-a must have a baby in 2 years due to her mother-in-law Ae-ra. Their marriage without love gradually turns into passion when cold-blooded Tae-hyun starts to feel his past first love lies inside In-a. While struggling against all the crises to protect each other, love and hate keep tangling. Will it become true love or end up as a collapse of obsession?",
+    "seasonCount": 1,
+    "captionLanguages": [
+      "ko",
+      "en",
+      "ja",
+      "zh",
+      "es",
+      "th",
+      "id",
+      "ar",
+      "hi"
+    ],
+    "releaseDate": "2025-05-29",
+    "isOriginal": true,
+    "ongoingStatus": 0,
+    "readyToPublish": true,
+    "rating": 15,
+    "contentInformation": [
+      "subject",
+      "sexual",
+      "violence"
+    ],
+    "certificateNumber": "2025-VK02147",
+    "isExplicit": false,
+    "isFree": false,
+    "isLandscape": false,
+    "episodeCount": 59,
+    "viewCount": 9319442,
+    "likeCount": 139277,
+    "bookmarkCount": 146943,
+    "seasons": [
+      {
+        "id": 15000281,
+        "programId": 15000287,
+        "seasonNumber": 1,
+        "title": "",
+        "thumbnail": "",
+        "description": "",
+        "episodeCount": 59,
+        "releaseDate": "2025-05-29",
+        "rating": 15,
+        "contentInformation": [
+          "subject",
+          "sexual",
+          "violence"
+        ],
+        "certificateNumber": "2025-VK02147",
+        "isExplicit": false,
+        "isFree": false,
+        "appFreeEpCount": 10,
+        "hasTrailer": false,
+        "isLandscape": false,
+        "ongoingStatus": 0
+      }
+    ],
+    "programCode": "KR055P01S01",
+    "badges": [],
+    "created": 1748481176013,
+    "expirationDate": null
+  }
+}

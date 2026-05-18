@@ -1,0 +1,19 @@
+{
+  "data": {
+    "code": 200,
+    "success": true,
+    "data": {
+      "playUrl": "https://kjhwapp.drt768.com/b62bdde01bdb71ee93445107e0c90102/666a19ad57bd4bbd995354b026ba4bf5-1e34997747761300f6ab30552957508f-ld.m3u8?auth_key=1770091382-0-0-92405b94ab04451011b9e6fe4cd430e6",
+      "isLock": false,
+      "chapter": {
+        "chapter_id": 1,
+        "prev_chapter_id": 0,
+        "next_chapter_id": 2,
+        "chapter_order": 1,
+        "chapter_name": "EP.1"
+      }
+    }
+  },
+  "cached": false,
+  "ttl": 1500
+}

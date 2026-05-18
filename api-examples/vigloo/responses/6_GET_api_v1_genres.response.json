@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "payloads": [
+    {
+      "id": 15000004,
+      "title": "Romantis"
+    },
+    {
+      "id": 15000019,
+      "title": "Miliarder"
+    },
+    {
+      "id": 15000020,
+      "title": "Pengkhianatan"
+    },
+    {
+      "id": 15000033,
+      "title": "Pesona Wanita"
+    },
+    {
+      "id": 15000036,
+      "title": "Balas dendam"
+    },
+    {
+      "id": 15000023,
+      "title": "Pembalikan"
+    },
+    {
+      "id": 15000030,
+      "title": "Cinta Benci"
+    },
+    {
+      "id": 15000001,
+      "title": "Drama"
+    },
+    {
+      "id": 15000021,
+      "title": "Takdir"
+    },
+    {
+      "id": 15000035,
+      "title": "Reuni"
+    },
+    {
+      "id": 15000029,
+      "title": "Cinta segitiga"
+    },
+    {
+      "id": 15000014,
+      "title": "Realitas"
+    },
+    {
+      "id": 15000013,
+      "title": "Komedi"
+    },
+    {
+      "id": 15000003,
+      "title": "Thriller"
+    },
+    {
+      "id": 15000018,
+      "title": "LGBTQ+"
+    }
+  ],
+  "timestamp": 1770039678939
+}

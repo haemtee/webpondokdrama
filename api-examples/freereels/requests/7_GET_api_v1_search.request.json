@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/freereels/api/v1/search?q=love&page=0&lang=id-ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "love",
+    "page": "0",
+    "lang": "id-ID"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "data": {
+    "id": "NbG8Tt9MZZ",
+    "name": "Ayah Tunanganku Menginginkanku",
+    "cover": "https://static-v1.mydramawave.com/vt/video/cover/episode/e2d7b69a11ef4c2781c1bc34e7431687.jpg?image_process=quality,85/resize,w_600/format,webp",
+    "video_url": "https://video-v6.mydramawave.com/vt/21eed6c2-daae-4750-9d16-4fb1e6d2df61/h264-f698af95-dcd9-4262-bb4a-8b01de6a67c0-v4.m3u8",
+    "m3u8_url": "",
+    "external_audio_h264_m3u8": "https://video-v6.mydramawave.com/vt/21eed6c2-daae-4750-9d16-4fb1e6d2df61/h264-f698af95-dcd9-4262-bb4a-8b01de6a67c0-v4.m3u8",
+    "external_audio_h265_m3u8": "https://video-v6.mydramawave.com/vt/21eed6c2-daae-4750-9d16-4fb1e6d2df61/h265-f698af95-dcd9-4262-bb4a-8b01de6a67c0-v4.m3u8",
+    "subtitle_list": [
+      {
+        "language": "bn-BD",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/e5d2bde2-cfea-4bca-b6ef-4a51c0212987.srt",
+        "display_name": "Bengali"
+      },
+      {
+        "language": "ta-IN",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/39b9742b-b0af-4338-8d29-8ee4ed14d008.srt",
+        "display_name": "Tamil"
+      },
+      {
+        "language": "pl-PL",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/0ed62698-3d1c-4cc7-9acc-db834049cada.srt",
+        "display_name": "Polandia"
+      },
+      {
+        "language": "te-IN",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/2a6c47bc-6750-4cc6-8ffe-d21471e4febc.srt",
+        "display_name": "Telugu"
+      },
+      {
+        "language": "cs-CZ",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/370805b9-d587-4f47-814c-ec1f052a997b.srt",
+        "display_name": "Ceko"
+      },
+      {
+        "language": "en-US",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/5aa3e971-a7c6-40f4-8471-57932706f7f2.srt",
+        "display_name": "Inggris"
+      },
+      {
+        "language": "ro-RO",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/4a0190e9-0b33-4735-ae25-3ea502a0d132.srt",
+        "display_name": "Rumania"
+      },
+      {
+        "language": "es-MX",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/cad6ebb9-11f2-424d-81a4-012e2f9bd58a.srt",
+        "display_name": "Spanyol"
+      },
+      {
+        "language": "pt-PT",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/8ab88d0e-8161-4d5b-8fcc-682d4e8bcfd6.srt",
+        "display_name": "Portugis"
+      },
+      {
+        "language": "id-ID",
+        "type": "original",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/b2a0f52d-e03d-4ee6-9e7d-8b18db6f6e9d.srt",
+        "display_name": "Indonesia"
+      },
+      {
+        "language": "de-DE",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/db66bc6d-9121-42b4-a6ca-8b0e5a96df25.srt",
+        "display_name": "Jerman"
+      },
+      {
+        "language": "fr-FR",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/15f77250-ff62-4633-9c76-136210459f75.srt",
+        "display_name": "Prancis"
+      },
+      {
+        "language": "ru-RU",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/a79c281d-a1f6-4c8e-8f96-204d7c109a65.srt",
+        "display_name": "Rusia"
+      },
+      {
+        "language": "it-IT",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/b25498a3-9d16-4eb5-86ff-615ac7b54da1.srt",
+        "display_name": "Italia"
+      },
+      {
+        "language": "tr-TR",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/eda767ff-19ff-4022-affa-3249372b3b73.srt",
+        "display_name": "Turki"
+      },
+      {
+        "language": "ja-JP",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/82c58e41-94aa-4819-9882-3480150cbe9a.srt",
+        "display_name": "Jepang"
+      },
+      {
+        "language": "ko-KR",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/9e229e95-d24d-4355-859e-3e80a0f9f36d.srt",
+        "display_name": "Korea"
+      },
+      {
+        "language": "th-TH",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/94368187-724a-4243-98ba-552b013c1437.srt",
+        "display_name": "Thailand"
+      },
+      {
+        "language": "vi-VN",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/b82ba4db-7310-424a-8a2a-6e69d7e70dc7.srt",
+        "display_name": "Vietnam"
+      },
+      {
+        "language": "tl-PH",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/10aeb053-53c9-400e-b836-69ec1ec4d055.srt",
+        "display_name": "Filipina"
+      },
+      {
+        "language": "ms-MY",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/f8b07d32-da6a-4749-a930-f18b424aa50b.srt",
+        "display_name": "Melayu"
+      },
+      {
+        "language": "zh-TW",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/c25a5363-3ab6-43a6-ab22-f323a885cc01.srt",
+        "display_name": "Mandarin Tradisional"
+      },
+      {
+        "language": "hi-IN",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/3830f328-5b90-46c1-9565-dde42ac2967e.srt",
+        "display_name": "Hindi"
+      },
+      {
+        "language": "ar-SA",
+        "type": "normal",
+        "subtitle": "https://video-v6.mydramawave.com/vt/15576/d53a535b-9792-4059-9bd8-f3d99830d17e.srt",
+        "display_name": "Arab"
+      }
+    ],
+    "vtt_list": null,
+    "original_audio_language": "en-US",
+    "index": 15,
+    "unlock": true,
+    "audio": null,
+    "h5_available": true,
+    "duration": 94,
+    "episode_price": 25,
+    "video_type": "charge",
+    "update_time": 1773543502,
+    "playload": "{\"series_id\":79704,\"episode_id\":185754068}",
+    "trans_resolution": "1080x1920,720x1280,540x960,480x854,360x640,240x426"
+  }
+}

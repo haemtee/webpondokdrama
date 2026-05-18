@@ -1,0 +1,95 @@
+{
+  "status": "OK",
+  "payloads": [
+    {
+      "id": 15000677,
+      "title": "Sedang Tren",
+      "uiType": "RANKING",
+      "dataType": "RANK",
+      "priority": 0,
+      "personalizationType": "PUBLIC"
+    },
+    {
+      "id": 15000555,
+      "title": "Rekomendasi untuk {username}",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_PERSONAL",
+      "priority": 1,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000556,
+      "title": "Cinta Tulus",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 2,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000557,
+      "title": "Identitas Tersembunyi",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 3,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000558,
+      "title": "Panas",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 4,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000559,
+      "title": "Komedi Romantis",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 5,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000560,
+      "title": "Kalangan Atas",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 6,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000696,
+      "title": "Drama Korea Terpopuler",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 5,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000561,
+      "title": "Cinta Segitiga",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 7,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000562,
+      "title": "Fantasi Romantis",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 8,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    },
+    {
+      "id": 15000563,
+      "title": "Hubungan Semalam",
+      "uiType": "RECOMMEND_HORIZONTAL_LIST",
+      "dataType": "RECOMMEND_BYTEPLUS_META_TAG",
+      "priority": 9,
+      "personalizationType": "BYTEPLUS_PERSONAL"
+    }
+  ],
+  "next": "bundles/v2/tabs/15000101?offset=15000563&limit=20",
+  "timestamp": 1770089642327
+}

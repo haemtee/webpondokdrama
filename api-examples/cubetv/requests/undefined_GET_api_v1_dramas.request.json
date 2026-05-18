@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/cubetv/api/v1/dramas",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "<TOKEN>"
+  },
+  "params": {
+    "lang": "",
+    "page": ""
+  }
+}

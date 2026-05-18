@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/sereal/api/content/detail?contentId=179663844862607360&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "contentId": "179663844862607360",
+    "lang": "id"
+  }
+}

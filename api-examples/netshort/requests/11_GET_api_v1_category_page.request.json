@@ -1,0 +1,15 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/netshort/api/v1/category/1?region=0&audio=0&tagId=1983832175469740041&lang=id_ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "page": "1",
+    "region": "0",
+    "audio": "0",
+    "tagId": "1983832175469740041",
+    "lang": "id_ID"
+  }
+}

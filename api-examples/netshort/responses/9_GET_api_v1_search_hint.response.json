@@ -1,0 +1,116 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": [
+    {
+      "id": "2014243497820233729",
+      "language": "id_ID",
+      "name": "(Sulih suara) Jagal Tak Terkalahkan",
+      "shortPlayId": "1997949622037180417",
+      "shortPlayLibraryId": "1997949565380521985",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014243663147114497",
+      "language": "id_ID",
+      "name": "(Sulih suara) Dinikahi Setelah Putus",
+      "shortPlayId": "1999696993278885889",
+      "shortPlayLibraryId": "1999696621319618562",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039529713747099649",
+      "language": "id_ID",
+      "name": "(Sulih suara) Dua Kuasa Menjadi Satu",
+      "shortPlayId": "2020778605549871106",
+      "shortPlayLibraryId": "2020774384830144513",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039530067536642050",
+      "language": "id_ID",
+      "name": "🔥Satu Langkah Menjadi Dewa",
+      "shortPlayId": "2034157133506805762",
+      "shortPlayLibraryId": "2034157060395892737",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039531216557834242",
+      "language": "id_ID",
+      "name": "(Sulih suara) Dunia Game Ini, Aku yang Berkuasa",
+      "shortPlayId": "2029132719207743489",
+      "shortPlayLibraryId": "2029118333982343169",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039531643613478913",
+      "language": "id_ID",
+      "name": "💥(Sulih suara) Topeng Pemboros 2",
+      "shortPlayId": "2026614964822736897",
+      "shortPlayLibraryId": "2026609089563328513",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039532031636930562",
+      "language": "id_ID",
+      "name": "⚡(Sulih suara) Legenda yang Tersembunyi",
+      "shortPlayId": "2016758760443842562",
+      "shortPlayLibraryId": "2016756484722737153",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039532300038832130",
+      "language": "id_ID",
+      "name": "(Sulih suara) Cinta Palsu Hancurkan Kita",
+      "shortPlayId": "2005646840590766081",
+      "shortPlayLibraryId": "2005646442643591169",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039532447388925954",
+      "language": "id_ID",
+      "name": "(Sulih suara) Amarahku Sudah Membara",
+      "shortPlayId": "2018950839459205121",
+      "shortPlayLibraryId": "2018945598160457730",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2039532771029811201",
+      "language": "id_ID",
+      "name": "💘Bikin Dia Kehilangan Kontrol",
+      "shortPlayId": "2034157133829767169",
+      "shortPlayLibraryId": "2034156092652519426",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    }
+  ]
+}

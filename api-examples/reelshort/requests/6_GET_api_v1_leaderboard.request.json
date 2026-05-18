@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/reelshort/api/v1/leaderboard?lang=in",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "period": "",
+    "page": "",
+    "lang": "in"
+  }
+}

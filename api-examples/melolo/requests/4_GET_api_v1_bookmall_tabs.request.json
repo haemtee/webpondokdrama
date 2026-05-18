@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/melolo/api/v1/bookmall/tabs?gender=0&lang=en",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "gender": "0",
+    "lang": "en"
+  }
+}

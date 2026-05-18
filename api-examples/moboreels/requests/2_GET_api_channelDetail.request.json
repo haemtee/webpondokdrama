@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/moboreels/api/channelDetail?channelId=162979468352028714&langId=11",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "channelId": "162979468352028714",
+    "langId": "11"
+  }
+}

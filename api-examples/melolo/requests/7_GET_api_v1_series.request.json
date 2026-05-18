@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/melolo/api/v1/series?id=7602461581250661429&lang=en",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "7602461581250661429",
+    "lang": "en"
+  }
+}

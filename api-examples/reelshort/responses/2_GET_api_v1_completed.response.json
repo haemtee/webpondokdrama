@@ -1,0 +1,2243 @@
+{
+  "code": 0,
+  "mark": "go-ms",
+  "msg": "success",
+  "service_time": 1770103414,
+  "server_time": 1770103414,
+  "clientTraceId": "17701034138384377",
+  "data": {
+    "hall_id": 4000450,
+    "search_keyword_list": [
+      "Tembakan Sang Raja Senjata",
+      "Kekasihku adalah Ayah Mantan Pacarku",
+      "Pewaris Sejati Menguasai SMA",
+      "Cinta yang Terikat Sumpah",
+      "Menjadi Ratu di Kerajaan Mafia",
+      "Petugas Kebersihan Ternyata Miliarder Dunia!?",
+      "Raja Judi Tanpa Mahkota",
+      "Bangkit Lagi!  Mama Petinju Mengguncang Dunia",
+      "Sang Dewa Abadi dalam Tubuh Suami Pengecut?!",
+      "[Versi Dub] Hidupmu Dulu, Sekarang Milikku!",
+      "Bayinya Terjebak oleh Miliarder",
+      "Bos Rahasia Pemilik Kunci Emas",
+      "Dia Kembali dengan Wajah Suamiku",
+      "Menyambar miliarder untuk menjadi suamiku",
+      "Istri yang Diceraikan Adalah Ahli Bedah Genius",
+      "Aku Terlahir Kembali… Sebagai Ikan?!",
+      "[Versi Dub] Kembar Imut Satukan Keluarga!",
+      "Jangan Cari Masalah Sama Putri Ahli Waris",
+      "Menculik Pangeran, Kujadikan Suamiku",
+      "Berpura-puralah Sampai Kamu Mencintaiku",
+      "[Versi Dub] Cinta yang Terikat Sumpah",
+      "Cinta Eksklusif Sang Tuan Muda",
+      "Si Miskin yang Kini Dimanja Sang Bos",
+      "Nikah Instan",
+      "Sang Raja Bangkit Kembali",
+      "Minggir! Ratu Mafia Asli Telah Kembali",
+      "[Versi Dub] Hanya untuk Putriku",
+      "Perselingkuhan Bos",
+      "[Versi Dub] Main HP, Jadi Dewa, Nikahi Dewi!",
+      "Cinta Tak Terduga"
+    ],
+    "tabs_md5": "FThjbERuXuJ0vLxTdF9ZAg==",
+    "tab_list": [
+      {
+        "tab_id": 42954,
+        "tab_name": "POPULER",
+        "last_modified_time": 1765538291,
+        "tab_md5": "H/TKlk0rfU8z2x8WstPGiw==",
+        "sort": 1
+      },
+      {
+        "tab_id": 42955,
+        "tab_name": "TERBARU",
+        "last_modified_time": 1762151368,
+        "tab_md5": "zaDBzRsiIpBkkNKjd9wpsQ==",
+        "sort": 2
+      },
+      {
+        "tab_id": 42956,
+        "tab_name": "RANKING",
+        "last_modified_time": 1760593572,
+        "tab_md5": "ck8jMFPN5OPUOXcHtfD2WA==",
+        "sort": 3,
+        "tab_category": 2
+      },
+      {
+        "tab_id": 42957,
+        "tab_name": "ASIA",
+        "last_modified_time": 1762151359,
+        "tab_md5": "f73A7tBXwxPD+aj/HAHYZQ==",
+        "sort": 4
+      },
+      {
+        "tab_id": 42958,
+        "tab_name": "KATEGORI",
+        "last_modified_time": 1758510372,
+        "is_current": 1,
+        "tab_md5": "R7rnUipSj5ADhcsfahry/A==",
+        "sort": 5,
+        "tab_category": 3
+      },
+      {
+        "tab_id": 42959,
+        "tab_name": "KHUSUS PRIA",
+        "last_modified_time": 1753425677,
+        "tab_md5": "iZuXXzZsMM2RmMRudNQibw==",
+        "sort": 6
+      },
+      {
+        "tab_id": 42960,
+        "tab_name": "KHUSUS WANITA",
+        "last_modified_time": 1753425692,
+        "tab_md5": "HzulV4Rrm/gNuImdR40scA==",
+        "sort": 7
+      }
+    ],
+    "lists": [
+      {
+        "bs_id": 41005334,
+        "tab_id": 42958,
+        "ui_style": 12,
+        "books": [
+          {
+            "book_id": "68f1b5b0b29916927a01fb88",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Ting! Suamiku yang Super Tajir Muncul",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/a6b20760-aeee-11f0-a06b-bdb674869ea1.jpg",
+            "special_desc": "Setelah tanpa sengaja mengetahui bahwa dirinya ternyata telah menikah, Selena Lesmana memulai perjalanan lucu untuk mencari cintanya. Dalam berbagai kesalahpahaman dengan suaminya, Revan Sudiro, perlahan keduanya membuka hati, saling memahami dan akhirnya saling jatuh cinta. Berkat bantuan Nenek, keduanya berani menghadapi perasaan masing-masing, hingga cinta sejati mempertemukan mereka kembali.",
+            "chapter_count": 82,
+            "theme": [
+              "Segitiga Cinta"
+            ],
+            "collect_count": 15274,
+            "init_collect_count": 1581,
+            "read_count": 1381320,
+            "t_book_id": "509000000000001210",
+            "online_at": 1761183897,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "vo2px7ivc1",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "vo2px7ivc1",
+              "duration": 115,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/9a9c936dfc53fcaf.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "+Uv3wSD6cZy+QDA5iDOGraZQdPOmX2WgBbk+I5k8rBoNmqSPnX1PE/9l044TCf3qFfKdRUWG73j9PLAnGiLDwFEmZAUj1J5EyQ5aiDJLo/Vgx+XvdnaElmpx2ci9zPc2od9IfOlT14PngCB06r+yv67Ta37h58Yr1zL8XOMws0gV+XHBhl8Ua2EVYq45Y6B7u02rsMC+KcUaMw605SMRWa1w7yIgOhOGQn/sRhafLlt36wCyK2h4wZ1z39hRHK11Oe6f4Ij8KHVwv2J3rzXNO4bX81LMIyfg5+BevyzIgc45DEzdXKU3HyMrbhuMCdaFoxDE/ii67ZFkL1rHnPS31zCmQ5D7/T83384KjqNVZBWp50Fax3OH2GwkqTgT5SHFEOxxhFsnBxOFOhbNlfdCIK+bhdbD8LfSvM+3/yvwa/rz1hmkfsFC00kuAfs4LpB513ABoGJGTaRcyymbKvXgJ4Brf++pDY38QPXBz0h1E/C0Rnchhdcr74iqu0PKkY7iLZu9bVloitrOyiViZTRI93G8Ikry0hFkmYhrm7flef2OPheCDfTFQJvFZCvPGpPI0Smt40/735P1792Nfqpby1J+Vfh7aYaRrgpUyeDkHJ5R2Nq6ZMUnz9UZ51cBWPbiLu1ma4gjUl1Per6VAlVI0g==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081af0",
+                "tag_name": "Segitiga Cinta"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.28839999437332153}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\"},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.049422141164541245,\\\"click_pred\\\":0.07077153772115707,\\\"paywall_pred\\\":0.9700871109962463,\\\"pay_pred\\\":0.0002336933248443529,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Calon suamiku diam-diam menikahiku? Kami berdua malah lupa pernah menikah?!",
+            "score": 154,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {},
+            "is_collect": 1
+          },
+          {
+            "book_id": "668c0528aed7e52e1f011b58",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Anak Kecil Jadi Bos?",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/c2e43050-54ab-11ef-838e-777d81c2a9c7.jpg",
+            "special_desc": "Lina putri keluarga ternama mendapati tunangannya selingkuh. Lina yang sedang berpikiran kacau akhirnya berhubungan cinta di bawah pengaruh obat bersama seorang gigolo yang tak ia kenal. Lina diberitakan mengandung anak gigolo dan membuat keluarganya hancur. Ibunya bunuh diri, ayahnya koma, ia juga harus membesarkan anaknya yang kembar lima seorang diri, dan perusahaan keluarganya diambil alih oleh saudari tirinya dan tunangannya. Setelah lima tahun, Lina pun bertemu lagi dengan pria gigolo yang nggak ia sadari ternyata pria itu adalah CEO dari tempatnya bekerja.",
+            "chapter_count": 101,
+            "theme": [
+              "Bayi Jenius"
+            ],
+            "collect_count": 4905,
+            "init_collect_count": 294,
+            "read_count": 1270833,
+            "t_book_id": "509000000000000343",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "c9fv10hbwi",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "c9fv10hbwi",
+              "duration": 117,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/279d768f704f12ae.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "H0wfMZO1lW60AUBJ21ahEAqOFXGWSq10OPGALqJBgIkOqU/0Ub/RiObD8EHIyOsnj8O6cgPR+uo86dw+SqQuW+gILiXyKdG7FrWD37/Lsv4u4JOJdMbCqeIZuNcKwDcMjczNgXJFwTNrrU+uHUBAsnyhxVGLw+wXWkJZu68INMawHickTrgZAx0sHOfMJUKqj6R/Ygn4FG1h7Vt/2sshmN2qTvYauET+zCKqXDS+2y0NlEzdVvIjDq7Jz05PsEZj4bescz3GX+8Qqh7So0G/GqLI3J2PKjQ9Yp2WhaO6rvcSmGrMN/9jiQAMxU6lI7Vz56zoKJchSLwjI2pNeZBrRWoAHUa31lh/fOV8WhaV9JP5/drhpcFLkqvpyQwhobQNt+IIfFprAS6WJtfabJ+bhp7pasSJW5Q27Eyzyr5E5565iZH0e5T5r521V5xz+pdyx0P3eMEBaSz03xLnterVgXdCgRkjYTTDDHt/jUYxCG3IrEXtwppPN2jfpp+pqUGquqB/jw2gn+hkG4sm4JmQey9l1+vqpSy8BxfJtx2zza4LOe7nk6DafrUOWbAEx9LwKTH9hUhjN3uba6CxD5Dbr0P6fTPATFOjZchE6trFqnw=",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081afe",
+                "tag_name": "Bayi Jenius"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.2517000138759613}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":1},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.04056193679571152,\\\"click_pred\\\":0.07109495997428894,\\\"paywall_pred\\\":0.894190788269043,\\\"pay_pred\\\":0.00014331936836242676,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Setelah lima tahun, Lina pun bertemu lagi dengan pria gigolo yang nggak ia sadari ternyata pria itu adalah CEO dari tempatnya bekerja.",
+            "score": 24,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {},
+            "is_collect": 1
+          },
+          {
+            "book_id": "682d740e2d2b89d99e0611b3",
+            "book_type": 2,
+            "book_source": 1,
+            "book_title": "Panggung Gelap, Rahasia Terbuka",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/42b6c4b0-3ad3-11f0-b65a-27549cd2a91e.jpg",
+            "special_desc": "Ellie menjalani hidup penuh rahasia—mahasiswi cemerlang di siang hari, penari bertopeng di malam hari. Saat Jason Surya, pria menawan dan misterius, muncul di klub, Ellie tak pernah menyangka bahwa pria itu adalah dosennya sendiri. Ketika ketertarikan semakin dalam dan batas antara siang dan malam mulai kabur, Ellie harus memilih—menjaga rahasia atau mengikuti suara hatinya.",
+            "chapter_count": 71,
+            "theme": [
+              "Perbedaan Usia"
+            ],
+            "collect_count": 53402,
+            "init_collect_count": 607,
+            "read_count": 3914851,
+            "t_book_id": "500000200000000022",
+            "online_at": 1748333989,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "0000",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "0001",
+              "duration": 93,
+              "video_pic": "https://v-mps.crazymaplestudios.com/vod-112094/30daa57f824771f0bb0b87c7361c0102/snapshots/aaac764a18d2407c89bbaecd51e5f625-00001.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "V7mtavIHLNOVfkaw+bKE7+C02q+ufa3QAEphPcwQpCPPknPKNvvnLqOrdy5qcc4fNVFyCqH/Uj9Ab7beP7Jr3fIrwJ0tqwP502oqEqgvnfHqkBPiYhsA+waIXvdN1L/C9rI8Omovp71t55HZHZSWY+bkLAizylvtn1doPYRi1EMbF+MKnUHT2HZpEAtEpgLyFtfJH0VnsnEtjq1WGdRzSC/k82pfyTU79kYn9zFawTU5U3i9xEeW56pKp7sy/uKEfo05HzV7jqqk4SD1/8agxRlEZKPL3mJuyBcK0tbVel0Has/VyjBqIt2gQVKFf4Fw882jn1kVXWzXSdVG84M6zQcnQyTRp/OVmQZjAdKnNTizMwlZCkA2fEb77kszAGMy/4fC7vUE1WMYv2JPYc8OCe74vE41ga1+XPOcsp71BrDQXm1q5sTsZ/gh+aO20KSiFb/1cw9XerwUHnGseGb1nKZwoBB4mJHx/+AAdKqjVHo=",
+              "clip_id": "001",
+              "sum_clip_id": "0001001",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081aec",
+                "tag_name": "Perbedaan Usia"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3231000006198883}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":2},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.03464154154062271,\\\"click_pred\\\":0.06633546948432922,\\\"paywall_pred\\\":0.6250216960906982,\\\"pay_pred\\\":0.0007136762142181396,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Aku mahasiswi sekaligus penari striptis favorit dosenku.",
+            "score": 580,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "6926d628695299b1e4051b42",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Saatnya Jadi Nona Kaya!",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/29df4ea0-ce88-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Bella sudah berusaha keras untuk bisa menikah dengan Calvin, tapi dirinya ternyata dikhianati dan dibohongi selama bertahun-tahun. Rumah yang dia beli malah diberikan oleh Calvin kepada wanita bernama Siska. Setelah itu, Bella pun sadar, sebenarnya dia nggak perlu menikah dengan Calvin. Saat dirinya berdiri di Biro Urusan Sipil, dia bertemu dengan teman lamanya yang bernama Ken dan hal pertama yang Bella ajukan padanya adalah menikah dengannya. Setelah itu, Bella pun melaksanakan balas dendamnya kepada orang yang sudah menyakitinya!",
+            "chapter_count": 64,
+            "theme": [
+              "Pengembangan diri"
+            ],
+            "collect_count": 9484,
+            "init_collect_count": 1411,
+            "read_count": 681281,
+            "t_book_id": "509000000000002405",
+            "online_at": 1764727200,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "4aoe50j8mr",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "4aoe50j8mr",
+              "duration": 168,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/2df0b13e6fe7f603.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "bpqzoZ984QhfXwM+6IGnG7jZ3tKhRGv78UiBDuVVhwlbv6s2Z6IAHElzvQo3SwSFOS5iBrVB7vO4qy7U7naG16Z+hss4V2PnDEKJkVNyBmmIahRzeVPsjtfEOBPfehIjo6iaESZqNC5lubyNoLbRB0ZIDdBzO+jfDDYPhGlxuhOoKiz2vnL6RX/39uiOqpiahCFUIcXo5wG6o+WPrtZMVKZAPinPE/Sz0DuY5BUs2xiq95MsOJFb0kG1pG2TY6C7kA4V/ow78juJnoDTPb0lBprXCgMmodUXjRI47yys52Rt7gkCovbJIZpoaQU0fNGMgQ/EAePyleI7WU20egvD3W+wXm4/14lqWptw4jnzjsc9BYB45ZQM1LEF6pV8W4B8Dt3mB4UGxaWx1O9KqSYLTQGrZ1sO/Fj3l955JNbpCbmQHeURG6bj/iecwJTisHEIaXWQgiN8fUxoDvubqa7WtOM3Iw5DcWK/a2QfTVv6JXu5YkK8Z/jrkKIjKxyQOGIeakU9yFUZhGzv2Ue7frQREgQ8Ehqhxd2VFB+nAy8jUqNu6fjbNozbRA3ohbQNjDyUlP61F7L1Znksr1wfZabW/lDu4sZvVnLRUjaOKqAnX2mUgZZ39qhMmawlQSl0TDUIH/1OS+P7g5Tcyt9u+WoqPA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b12",
+                "tag_name": "Pengembangan diri"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.31049999594688416}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":3},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.03140160068869591,\\\"click_pred\\\":0.13320398330688477,\\\"paywall_pred\\\":0.582051694393158,\\\"pay_pred\\\":0.00014202769671101123,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Rumah pengantin lenyap, malah dapat suami CEO.",
+            "score": 434,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "67d39652f2d0b05be2061559",
+            "book_type": 2,
+            "book_source": 1,
+            "book_title": "Diselamatkan oleh Koboi yang seksi",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/34dce740-062e-11f0-a38f-0d66b56fc320.jpg",
+            "special_desc": "Eva sedang melarikan diri dari mantan pacarnya yang kasar. Si mantannya itu tidak pernah menyerah untuk mendapatkan dirinya kembali. Namun, Eva kemudian bertemu dengan seorang koboi seksi yang menyelamatkannya dan mengajarinya bagaimana seharusnya seorang wanita dicintai. Bisakah Eva belajar mencintai lagi? Ataukah mantan pacarnya yang kasar itu menangkap Eva sebelum dirinya memiliki kesempatan membebaskan diri?",
+            "chapter_count": 74,
+            "theme": [
+              "Petualangan"
+            ],
+            "collect_count": 108731,
+            "init_collect_count": 7489,
+            "read_count": 4503743,
+            "t_book_id": "500000200000000017",
+            "online_at": 1742545981,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "0000",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "0001",
+              "duration": 52,
+              "video_pic": "https://v-mps.crazymaplestudios.com/vod-112094/50dfe6bc16c971f0bff44177d1c00102/snapshots/d8cb446e673c462293d194abbe9c7597-00001.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "8FHs4zFUOKvjCbQezK12997tONDfeUouvfFwKmvhcChxo7zbfYxrSdrrhckXWY1a5iZYHbJiw0mXfvZOiYVZ+AtBsuc2A9iwdzOdzk8NFy+SZvCkMjpJT0qs98s0H7kDYC+IHx5dqjWDQC3CDi6T7Kc1o/3Oenerw4Xav4M+4OrTEXdW4H/mCDEZ9+syqxY+OfR3ozGdI8wwf4DFEyjssGLQP1ZkAw8xCkClpblNoPpHEUyIWQbMG/O1K6NxhaaZjPmNvg6bA0nWdt1ydL6qaSq5Pb/jNPcv21nj0k8dwSP0CZl2K2w7WhtMntCaoy1UAwPiO3uaDNQJZofRnm+awWDWJGdhJoh4KRJoDhIm//QvDVhyacFwWC+Lbvx+JIMyQJQPDCZrXpP11sONrtBDR/zWyDzGF5hHRlaa6IUGoZ1+ZvtjIquWOtolFgXF6xBR5uACU1U49ZRxqR3LpyLIFP45qEe/A7dUtt11nvFUzPw=",
+              "clip_id": "001",
+              "sum_clip_id": "0001001",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b17",
+                "tag_name": "Petualangan"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.32820001244544983}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":4},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.030348332598805428,\\\"click_pred\\\":0.0729917585849762,\\\"paywall_pred\\\":0.5757489800453186,\\\"pay_pred\\\":0.0004961788654327393,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Seorang koboi seksi menyelamatkan diriku…",
+            "score": 926,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "663020df8bf689932c0a65de",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Bangun Hamil",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/886728aece3aa6ec.jpg",
+            "special_desc": "Perselingkuhan Dawn dengan orang asing baru saja menghasilkan keuntungan miliaran dolar: kehamilan yang mengejutkan, dan ayah bayinya tidak lain adalah miliarder kekasih Isaac Stanton! Anda mungkin mengira Dawn mendapatkan jackpot… kecuali mengapa dia melarikan diri?!",
+            "chapter_count": 86,
+            "theme": [
+              "Kehamilan"
+            ],
+            "has_preview": true,
+            "collect_count": 49430,
+            "init_collect_count": 122,
+            "read_count": 3466579,
+            "t_book_id": "500000000000000042",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "auqnnb3w8r",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "j0t1m0pz1w",
+              "duration": 99,
+              "video_pic": "https://v-mps.crazymaplestudios.com/vod-112094/100f0691075671efbf961426d1810102/snapshots/8392c305d64541c881ca715e05f1bf54-00001.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "DSiYfpDSRteYy24TVw87nlu7TGhB7A0ke145u4ln8OUDJ8OufBunlsFCpUlSFxKHPY+NEgMn138qp1dJ1AB5TVtqS5ARj6JwtadY0zzEao3GzUGw0oQ5fIjpnX/Lpn2+pplmRslycX8n1DYTZRxFLuJZ/JZ39jvcvz10BNwRRVbUU9GekXxwnD8OXgk2b9OWmosVyzz3kOIp7L6yUqkgDynRZ4nP/2eRb6L32NjTXjskpgRZZ178Dv7k3vPWoeIqlN0tRBVZ5PRP7zN9Kx1rqxJvAWF2H1UX/RmNVDiYeh+PSJGK93Hs20wiNev/ZDEJtq4TLYwTQnfDO1YT4za7jd1Vf6pEpraTxXDA1PSsH0qR9TS7t/O8+Q2/ziALTfp/tIzDNMKCqn7Ms7Nq6+kRXnSfhnjDzJgNb6tXQYX9B1CSVqEGF1KS+4CUTTx0DmtrlCiXLmS8y3kJbOUuulctlyYMsoLH+lxjYyDDU5j6HPKhlfVp3i5siRMnabU0kpoVCBKRov565878GUDG0zC2B2b5XJE2I2eDYTPZ55Br4G9/7B8o74J55cZR/JAtTJj+2f/5jUriS7EqNgTKrvgcYQHTM0+ffnRF8J/yLX0PUXQ=",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081afa",
+                "tag_name": "Kehamilan"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.30709999799728394}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":5},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.028723545372486115,\\\"click_pred\\\":0.12240538001060486,\\\"paywall_pred\\\":0.5902785062789917,\\\"pay_pred\\\":0.00010063897934742272,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Mimpi atau mimpi buruk? Anda dihajar oleh seorang miliarder!",
+            "score": 152,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "6960cfa4b3fdf10cd70081a4",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Tepat Hati, Tepat Kamu",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/623d3430-f2c6-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Selama tujuh tahun, Summer dan Shawn memendam rasa. Namun, setelah ciuman tak terduga, Shawn malah menjauh dengan sikap yang membingungkan. Kecewa, Summer beralih ke Julian yang tulus mencintainya, meski Shawn terus mengusik. Saat hubungan mereka makin dalam, Julian tiba-tiba menghilang...",
+            "chapter_count": 71,
+            "theme": [
+              "Persahabatan"
+            ],
+            "collect_count": 3107,
+            "init_collect_count": 1667,
+            "read_count": 185353,
+            "t_book_id": "509000000000002848",
+            "online_at": 1768559666,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "sfownn69rb",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "sfownn69rb",
+              "duration": 265,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/dbdcd6f8ec740535.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "glu2f7EboyVDVzPQTVc6BmgLm/3cEbtl2CeRYoBk6bHKxxN7om8n6Hd2dBMcM5iRqFZQV3LRQYn+zhSIeqerLjD7C5T8XrjvkidmaKyLfKZpAUDW1eWYo2moMZxpJn+PQBOOFwsQhzibU9h8JdKd+TlllX1LGkgt/iyFM9Lbex5Rtor5Czzm9Rt6zEw8raFIUbuxkf6Z45sSFKnV+0UrK1UIck1JL+6Lln/KR7ZHuJfqx5SLwTbv+6Kurc5bcLnisX+1K5jiePM3SitI8SNVmsmk5E/td57mmOAOWhsE+X7WkUV1bybb77JA0CkxReP1ROtxBhNfN6EO6xf4PiWR8GYN73TTRrbzaC/PQh1jEPRGE0ihByl4e5Nnqisoxx87bQNaBalH8g0tyHJtQ8D7qmhC5bpgthn/BLky5oiezB2rLMsWDYKTcg03HqizG3ePc4JDe8KECnIgkwS/RzfibWwl6mL/eOtG1B1VFXDwzEtCWYVoTgp+qlEw1akdn90bI/XbOBclkEIEs0wgNmn0FPaGZovcJEZroAZBQwDYP5Q8Oy4xOqR3+SwagWyX0GzxZMdqIUx/7mO6uuV6VdrLUaecpaGbuofr8BNXqTHs9Vyeb+gQEoUCGY2npr/bDU86FxiKJBdSSjUedKN3B+LQNQ==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b14",
+                "tag_name": "Persahabatan"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3163999915122986}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":6},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.028392301872372627,\\\"click_pred\\\":0.10896815359592438,\\\"paywall_pred\\\":0.5409389734268188,\\\"pay_pred\\\":0.00021315220510587096,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Akankah Summer menemukan kebahagiaannya?",
+            "score": 122,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "669788307a2e0b2c3f0f4439",
+            "book_type": 2,
+            "book_source": 1,
+            "book_title": "Kekasihku adalah Ayah Mantan Pacarku",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/f06cbe30-5e14-11ef-838e-777d81c2a9c7.jpg",
+            "special_desc": "Sehari sebelum koasisten, calon dokter magang Lucy mendapati pacarnya sedang bercinta dengan sahabatnya. Dia yang kesal akhirnya memutuskan pacarnya dan tanpa sengaja merusak mobil seseorang. Karena hati Lucy sedang kalang kabut, ia menerima ajakan orang tersebut dan bercinta dengannya. Keesokan paginya, Lucy ke rumah sakit untuk menjalani koasisten dengan sahabat dan mantan pacarnya. Tanpa ia duga, orang yang kemarin bercinta dengannya merupakan ahli dokter bedah dan juga atasannya. Nggak berhenti di situ, Lucy mendapati fakta mengejutkan lainnya bahwa orang tersebut adalah ayah mantan pacarnya! Setelah mereka mengetahui fakta mengejutkan ini, Lucy dan atasannya, Surya memutuskan untuk hanya menjadi atasan dan bawahan saja tanpa ada hubungan khusus lainnya. Namun, tanpa diduga setelah tiga bulan, Lucy ternyata hamil anak Surya dan diam-diam Surya masih menyukai Lucy. Apa yang akan terjadi pada bayi Lucy? Apakah Lucy akan kembali dengan Surya? Bagaimanakah dengan Justin, mantan pacarnya? Nantikan kelanjutan kisahnya!",
+            "chapter_count": 53,
+            "theme": [
+              "Perbedaan Usia"
+            ],
+            "has_video_edit": true,
+            "collect_count": 133176,
+            "read_count": 6313297,
+            "t_book_id": "500000200000000001",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "0001",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "0001",
+              "duration": 30,
+              "video_pic": "https://v-mps.crazymaplestudios.com/vod-112094/10f5af4144d871efbfc05014c1da0102/snapshots/444403be390749dab4fb96e03fa63146-00001.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "V7mtavIHLNOVfkaw+bKE705NYBy8kyBYdgYEFbnUE2R27UMve+OFG+Hz1yw6F5EsLeSMgQ2ZNtlCsgPbJpim8XW9OPfk4/y+0BjrEJ4NhzK0V5Lawy4q9aO/oXyjBQjb1qXcWlNYqBgvyCCe/2W8C/0WoZ/5EcZbdKuFZLdbozN4kWIGDlWGeUTXAiq3NQJmGp2eCBXrVYGkO0u4COCCvzdMnQEz7obUF+K5IBxqQYZ8lK0IgxV76rTDl/aHwwRbDZCyJADDPBRhst40u7Ar/xD7G5hZdAQWtNO5NYisX14oeH1lvqCJlw/6BiM/dHWK1AjlDl6pAlO+kMk12Ub5q0bzZJahG49XzVUy9HfhbzdtczD9skW9bf4YzduoW4Yc7d0oZNkeuylRmM1FZEaKnL8LOc1b3h1nu7hjqp62XRZtSuYkAFytnbERM+OpznlsgDKS70/IBiwdaeEcYmDTGjTgppeEAGKdget6k6VPRu4=",
+              "clip_id": "001",
+              "sum_clip_id": "0001001",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081aec",
+                "tag_name": "Perbedaan Usia"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.33309999108314514}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":7},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.027971385046839714,\\\"click_pred\\\":0.09497454762458801,\\\"paywall_pred\\\":0.5075397491455078,\\\"pay_pred\\\":0.00040137767791748047,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Satu malam penuh gairah berubah menjadi tes positif: kamu hamil oleh bos barumu, yang juga ayah dari mantanmu!",
+            "score": 264,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "67beabd15a18c2fbb80b7e5b",
+            "book_type": 2,
+            "book_source": 1,
+            "book_title": "Terikat oleh Penjaga Penjaraku",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/da2f3ec0-f4fc-11ef-a38f-0d66b56fc320.jpg",
+            "special_desc": "Ketika Saskia Jovita dipenjara untuk sebuah kejahatan yang tidak dia lakukan, dia menjadi perhatian penjaga penjara tampan, Jordan Raharja. Mereka saling jatuh cinta. Jordan ingin menyelamatkan Saskia dari penjara dan membalas perlakuan Edgar, seorang penjahat terkenal yang berkuasa.",
+            "chapter_count": 73,
+            "theme": [
+              "Dari Musuh Jadi Kekasih"
+            ],
+            "collect_count": 131830,
+            "init_collect_count": 366,
+            "read_count": 5668260,
+            "t_book_id": "500000200000000014",
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "0000",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "0001",
+              "duration": 24,
+              "video_pic": "https://v-mps.crazymaplestudios.com/vod-112094/001e8ab8fee571efa0a65014c1da0102/snapshots/369944e5529149c38ec0234d22e787fe-00001.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "PABDc/DNgjvnkKiikKS1FfkkhBQjV4Kh+EJr5HXvKmiZ7RBRsz2ywasB80hFPkLrVmoEMxKdY+77+WliBQIIzS+o+DiukA03hQq/29mcNJWhJXojgWpOALriFK/LMiRegABZpGtuqhI/ryuQ42tjzcOHKk890tpiaJnXLXjyvlmEykFBwl7rSN7HCJIk1GBE31M2tCrfiVi1jp+XqjsFJ610SMHzm0bdocjE+P/Vevp924ADwnN9WVbbTGKlt3gcdvCuELwkZgmEuEy2pxCJWIiZ3tmWpjtmlkJF2kZ9PI/MHnRRrRaO8yPteatbjgKEKbsiDqNLu+pDpIo2aA+jyNbJHvMtVQFbQkFPo1HNNVNjdvySwntsA65atMzJ7PBIxoh7sdBlBqJXUfQZODdkZC25/6pBIsmkrqHlO3WuvRJAne9bcozc/FozuPSUEnSgsW+SMON/w2H44bpHWWRnYzldzo69q10dppiQmNC42dM=",
+              "clip_id": "001",
+              "sum_clip_id": "0001001",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081afb",
+                "tag_name": "Dari Musuh Jadi Kekasih"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3386000096797943}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":8},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.02614562027156353,\\\"click_pred\\\":0.06710955500602722,\\\"paywall_pred\\\":0.5496056079864502,\\\"pay_pred\\\":0.0003802478313446045,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Saskia merayu penjaga penjaranya, Jordan, untuk melarikan diri!",
+            "score": 540,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {},
+            "is_collect": 1
+          },
+          {
+            "book_id": "665612d844b3d0d4ab028484",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Lihat Apa yang Kau Buat Aku Lakukan",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/c3e8a338d02f921f.jpg",
+            "special_desc": "Dalam dunia modeling yang glamor namun kejam, Claire Duval menemukan pengkhianatan tunangannya pada malam pernikahan mereka. Bekerja sama dengan maestro Christian Cross demi pernikahan yang nyaman, dia memulai perjalanan untuk mendapatkan kembali kehidupan dan kariernya, menavigasi cinta, penipuan, dan keinginan akan keadilan dengan latar belakang industri mode yang berisiko tinggi.",
+            "chapter_count": 82,
+            "theme": [
+              "Kekasih Kontrak"
+            ],
+            "has_preview": true,
+            "collect_count": 26169,
+            "init_collect_count": 339,
+            "read_count": 3349783,
+            "t_book_id": "500000000000000054",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "ax1e23f96v",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "8oosjd1f46",
+              "duration": 90,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/1a02c7d007bc6261.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "DSiYfpDSRteYy24TVw87ngjoM2G8eywQMx4LzYft3hb/TuQya6cRedYrbPUlgOdA1rX3uVrziU7dyKrPlPJiYEyQEJnP1n/E2Mbxcsmnej/zYOy6IF8o9PZoGUnCuAs04FZksNTNQp+YtPmB/eBNQaeLh3TEaZ6JgBqnJsm2xZJdEDQ07mZ7gHtAPY9rhr5PrfK4lM3SSdcIlvyIT10tGLshoq7ftOIUrCf9GKZma9SrfnaidXKth1Nu9j0DjSDopolBFK7x7SYtv6Ptzn2kSYfXCvcAvHnre0uH0+jqkDvIZpjeIeYCcSiMGrMWGQXEZ0BNQZsTgjf4t0tfVp6h5ns3gO2Uq0nYjm1jzsZbpOd7ec+DHFkzCR/HmK+xEhvy8XpETkTK9GtrZlZPsO5L2dlQtZ/bCVKoJXiQoLImp3/RrdAPFYfXs8V4/7uJTbR+UHHuPkuYrq8CC/QBvMHN+3eh7t3LnV1k05J6zql6/SyZo3nakCsz+TOkL9OAxTPUPAB7+3F3eKMwoeZj/y2jYxXZyMbYm4mgVMGfJmhfhmD4mfypyyGZlKTs98FyAjQC9JoP+U1nNclg6UpSmytL84vze2a6f6LuE1F2UhqnkpA=",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081ae7",
+                "tag_name": "Kekasih Kontrak"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.30219998955726624}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":9},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.025696368888020515,\\\"click_pred\\\":0.07594850659370422,\\\"paywall_pred\\\":0.6198427081108093,\\\"pay_pred\\\":0.00012451410293579102,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Balas dendam bisa terasa manis jika Anda memiliki orang yang tepat di sisi Anda – inilah saatnya bal",
+            "score": 156,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "692d606ab6bd5e6ece00c7d7",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Cerai, Bangkit, Berkuasa",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/0968c160-cf32-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Jocelyn mengorbankan karier teknologinya demi pernikahan, tetapi malah dikhianati dan dipaksa melayani selingkuhan suaminya. Ia pun bangkit: menceraikannya, merebut kembali patennya, dan menjatuhkan perusahaannya dalam satu malam. Setelah menikah kilat dengan Steven, mantan rivalnya, ia kembali ke dunia teknologi dan mencapai puncak karier, sementara mantan suaminya kehilangan segalanya.",
+            "chapter_count": 89,
+            "theme": [
+              "Karma"
+            ],
+            "collect_count": 26827,
+            "init_collect_count": 1868,
+            "read_count": 1474977,
+            "t_book_id": "509000000000002415",
+            "online_at": 1764647883,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "k8k07xtu7o",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "k8k07xtu7o",
+              "duration": 164,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/e5335c8f583f1a56.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "+Uv3wSD6cZy+QDA5iDOGrXRFv817YF/G0rNBnOs02nP0ACLSlVKZ26QkyJGNZ6rqgjMFRWHoEWCQs9uLGujCIe872GRCIgayhf214e8YFPOt48IS13WkTqBvM+DhMs80bS8QiD39WcjERQ5KqDdNG3zyHUkEBFqZTvn6poFajH0qrmxNgYgCDX31f8ptRLobciahP2sGdj8RxDcb7RcgiQ3WuMQlwLx7+Rh645RH7/c4FLm9xvFkbfLrVNbUigHU7XOStRY9Rzp80ANJUgLh8oqeYT92mlVCbmGQ36mW22Wv80WnmyIn8yseGX5FFmniJ/wblVzoCDnjalYonuRcbceTRCeRpyAFTM56cY0z66FCvzLdw+cg6nhEWVEC9gYU13UY5x6fpBzucIl3ixp7ARO8e+gIf1KyCpDFSTP7mv3XZ/XWfLTIDoWQ3ZEmPGzrgY+xa9pqooLD/o3dYZk6uvgTQPB8bL4cKodmyPcBwqEjAfweHtryC5yF+TVfAAD30n6/Bv16Qv0bSdyQ5YAx8j24lhe8BSrqhGjD7I/I0JsXHwgdsoaHgPYeeRGvy/suNdaDaPmRgL1Sk3kc7ORK6P2jSDCuqwgKZsp52Siuh5XS9WL30TQdCMQdCTPMeLXqU0I6PokmqjQ5np4eu3bmFg==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b0f",
+                "tag_name": "Karma"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.32839998602867126}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":10},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.025614609941840172,\\\"click_pred\\\":0.09185438603162766,\\\"paywall_pred\\\":0.5308323502540588,\\\"pay_pred\\\":0.00021050756913609803,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Khianati dia, dan saksikan duniamu terbakar.",
+            "score": 801,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {},
+            "is_collect": 1
+          },
+          {
+            "book_id": "671b0b5b4c2513f2b1097c92",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Cinta Satu-Satunya",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/8cdcc3a0-9754-11ef-a2d6-41216ff1602c.jpg",
+            "special_desc": "Lila yang dipaksa bekerja di kasino dan bermain curang oleh ibunya akhirnya bertemu dengan pria yang menyelamatkannya, Leo. Lila yang tahu dirinya bukan anak kandung dan hamil anak Leo memutuskan untuk menerima tawaran Leo dan menikah kontrak dengannya. Leo yang tulus mencintai Lila berusaha mendapatkan hatinya. Ia memperlakukannya dengan baik dan juga membantu mencari orang tua kandung Lila yang selama ini ia curigai adalah temannya sendiri, sang taipan terkaya. Namun usaha Leo nggak mudah karena Kesia, anak adopsi Ken menganggap Lila sebagai saingannya yang merebut pria yang dicintainya dan juga ayah kaya raya yang sayang padanya.",
+            "chapter_count": 80,
+            "theme": [
+              "Perbedaan Usia"
+            ],
+            "collect_count": 87357,
+            "init_collect_count": 254,
+            "read_count": 6246241,
+            "t_book_id": "500000000000000112",
+            "online_at": 1730364733,
+            "trailer_bookshelf_color": "#393d21",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "0kow2ejazc",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "lquzi9ei8e",
+              "duration": 174,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/9135d5dccd7245da.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "FcVr0+5zGOe3HC88pjRMyzwETO/fP9iV95oxXPGTD/V6vqNYzux5a5Q3PJIHi0tTmPdAZIQefk04PJSLNJplRlqwdtdrCegYcfOMLnGXmgAeZYuZen9sMwG0ERpgjJMjblXTwcQLdWPwAX54AYmnDJOlBPAJloJuO8mAnU4OnhRv/NFTdhjSbrfYV/1MlG2JuJ1PypYMa22tSLDRqJ1mS8b9dQXSR9iUJoCGnX5OQE5w2x+kPb71DJx+Npur44UcbliarveC8fjckI1ahoU15oVktQOopxh7NNH5Q93eoYqk/CG0idYeSDrdkjTn/orim+tAZVDdGGWYo76L/7YHB0v9TWTjUxb1xFJNZJWIBZx3eT/JB1mCqmMXTQwnWPuV5+gs8G2qVoVLbYxTJBkRVEgdsiiOZ44682qoklWXi45+bW/ZbKOfQgLccg5MM2/M8HVvE9ftyyUsAlqsXFCO23RdxFjpYSqSi7ert5lAJjdCNJnxPiQ+AMOLZZ3kHOqTcKFWvDw9vQY/Kk+HmK69BJjVmq7Cy3o+69reyqXEHq4FkOrOR0C5ORbdDy6PngyUpY2rh3ViAEGBS2LnkmLnrO/MwzAy5PAAYqZMleTOccKtXJwhAvTKCHRlKh32CRY6oII1ZanoX8XRsnoa+eJLkA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081aec",
+                "tag_name": "Perbedaan Usia"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413951,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3427000045776367}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":11},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.025271594524383545,\\\"click_pred\\\":0.06778522580862045,\\\"paywall_pred\\\":0.6335203051567078,\\\"pay_pred\\\":0.00012909030192531645,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Ketika kamu menyelamatkan seorang presiden yang menawan dan dewasa, hidupmu yang kurang beruntung akan mulai berubah. Jangan khawatir, ini adalah ujian dari dewi takdir!",
+            "score": 419,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "696070277590ee21ca0e7de5",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Nikah Demi Balas Dendam, Jatuh Cinta Tanpa Sadar",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/1d061380-ed41-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Dikhianati oleh kekasihnya, Aaron, Mia Wood secara impulsif menerima lamaran Lucas Moore—atasan sang mantan. Pernikahan mereka bermula sebagai kontrak balas dendam, namun ketulusan Lucas perlahan menyembuhkan hati Mia. Tanpa Mia sadari, pernikahan 'kebetulan' ini sebenarnya buah dari cinta diam-diam Lucas selama bertahun-tahun. Saat sandiwara mereka berubah menjadi cinta nyata, kebohongan masa lalu dan kenekatan Aaron mengancam menghancurkan hubungan mereka yang baru bersemi.",
+            "chapter_count": 68,
+            "theme": [
+              "Terlambat Sudah"
+            ],
+            "collect_count": 2684,
+            "init_collect_count": 1502,
+            "read_count": 113608,
+            "t_book_id": "509000000000002756",
+            "online_at": 1768571123,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "e8hwwg6gem",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "e8hwwg6gem",
+              "duration": 176,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/1e30300bb26c6a8e.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "FcVr0+5zGOe3HC88pjRMy623OS5Dux52VTQNNwyXsmxRy+iOwyo57uNPBap8QK8lEOKN0LZ8YJU0gnW9rAfWZZJe0JIADzwCfSc0lG4VytEO8Dl9mrftwUPuZg1scknTEa+tip1imu8aEryMxLdFO6HA+PRqD4qnKMFLKBeVeL9a8sRCcrbe4sMHbha4LOs/ouYJ9Y3S4QLjyh1dDxdLT2XSkrpv7tyvT/Oo1UrW8HPlsYGgscaY/0rQh8tRidCv+NO84qhfN2jSIXqksMkACY2TNO8uJkNgtticyOzI9B9uh9pASSX2Kbgwp0/HRvx1wAGO5VcTbIsXy9wRzk864Fd1k95kdKbiFzfxh4P/DIiGnnxLfOzBf9fOZs5GVIkJzqZj8faj3oQ2SdeO4lXqCNrAdo79rTQq49CR6jRWBZaKbkUUmk4wEHfG1BbbH+KRntz7jl4rWT4JwNjSW6davpaCryIPL3rJHbm4HO1O0l2/za8IsqIhOWqtGUZuAxz/ieP1dnVD9lN9ME3IxcoaEWQYTsZgXyzf3Z4nYhNBPPq5Wyd72jYkcAuADCEngiGkcw8gb3CG0KkDO3fd8bHlk/33jtJSPRHAVcw1808Ff1zk6axU9EcNWjfuEaW1vA/Ej3HZdD7fDt920XRDHGA/AA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081aed",
+                "tag_name": "Terlambat Sudah"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.31349998712539673}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":12},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.02419896051287651,\\\"click_pred\\\":0.11065353453159332,\\\"paywall_pred\\\":0.49906736612319946,\\\"pay_pred\\\":0.00015323371917475015,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Pernikahan mereka palsu, tapi perasaan mereka nyata.",
+            "score": 228,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {},
+            "is_collect": 1
+          },
+          {
+            "book_id": "65fccca0f3c756372b0c1a2b",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Kami Akan Mencintai Lagi",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/e3161bdeef90dc22.jpg",
+            "special_desc": "Anda meninggalkan Noah Preston, cinta dalam hidup Anda, ketika dia sangat miskin dan tidak punya apa-apa. 5 tahun kemudian, dia sekarang menjadi miliarder yang ingin mengakuisisi perusahaan Anda dan membuat hidup Anda seperti neraka. Akankah Anda mengatakan yang sebenarnya kepadanya tentang alasan Anda benar-benar meninggalkannya, atau apakah sudah terlambat untuk mendapatkan kesempatan kedua dalam cinta?",
+            "chapter_count": 53,
+            "theme": [
+              "Cinta Pertama"
+            ],
+            "collect_count": 63768,
+            "init_collect_count": 176,
+            "read_count": 3430172,
+            "t_book_id": "500000000000000036",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "pcw3s1lhrc",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "pcw3s1lhrc",
+              "duration": 106,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/8b3324340b8f3297.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "FcVr0+5zGOe3HC88pjRMy0lD7umx/ia/lz98ovDQSpRV2K8/X73u+6M3Z3eElJr6rzibvyvAF5TKIacDoq6vxpSG0f8Dq8cXnnvqpPFucKXQZj742v1l2gQRmSfkzpycCBbIYM4xoR5CRnV8lU/12byWgmZsSTqUHzU2DxGK2ZSSys3XYrYajSkJxBaTYIPM4FWz7Xmylo55ydUUjFaZ7jjUYv7HsY+FjObZ84BMLLqoxIh25olzOCEWKw1SO4fGBoZHgUONCH992ymyPRSyZQyIZoZOgQpcKiGit1uD/EkGU3zEJmu7xserwB7DukFxlIxFdwJTXxVkW+fVQ6jiaxc2g38SqyTSSOu24SSkv1y3oISSjRe3+MkHLUca1R7jwdeOtfALYN5voaic1rveo0ijcVRmq3EuBZXzv0pZpqnZvHP2NJJ3+6eljrczwco/6nJwvPJrpavxqx+AdLpytlvderEv92JOf/GeZKeQy4ZEEbcLlk1YIrTRmxUj3qWwHQBWUkAY7ebe/LJO7WtfSDjBJyCXGKag5QnBSbH5QLhBG11hJDh9de17u5JvPXNZdeP3DStmS8HATHL/7IXT9KpyeI9npP4wVE4yn88D4BrwaImtEjb2Pr37tgLNxwx62+OO0jntVc+3+ZyJ7gOwrg==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b08",
+                "tag_name": "Cinta Pertama"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.2892000079154968}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":13},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.023703280836343765,\\\"click_pred\\\":0.08754783868789673,\\\"paywall_pred\\\":0.548719048500061,\\\"pay_pred\\\":0.00012937188148498535,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Anda mencampakkan Noah Preston ketika dia tidak punya apa-apa, tapi sekarang dia menjadi miliarder!",
+            "score": 165,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "6944c37e52172b74920cfbbd",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Selamanya Tawananmu",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/c3659e80-dfef-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Reporter Nina berhasil memenangkan kepercayaan bos mafia Leon Mann dan menjatuhkannya. Tiga bulan kemudian, Nina kembali bertemu Leon di gala stasiun TV, hanya untuk mendapati pria itu telah berubah menjadi Chase Kane, sosok dengan reputasi tanpa cela. Melalui penyelidikan, Nina memastikan Chase adalah Leon dan curiga pria itu ingin balas dendam. Saat berhadapan dengan tipu muslihat yang rumit ini, Nina merasa tak berdaya di hadapan Leon yang licik. Tanpa pilihan lain, ia harus mempertaruhkan segalanya untuk melancarkan serangan balasan.",
+            "chapter_count": 70,
+            "theme": [
+              "Petualangan"
+            ],
+            "collect_count": 3227,
+            "init_collect_count": 1459,
+            "read_count": 189637,
+            "t_book_id": "509000000000002658",
+            "online_at": 1766562900,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "rgm3gaw5d8",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "rgm3gaw5d8",
+              "duration": 143,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/ad19c0078472e085.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "ZZlXspeNdFxOGR0dvgI9/krW9KdfhwlFrOI2PYCeuHV9Ltt1lXWMSxMTScb/S1YsREQEe9G7y6qgi18FV2wER9M9IfmEgqEUH/ct64e+6lT2hjOPHumQpLmRPllIWvcP2+8pUnCvJkn6V9NM/2v4jcW5bOnG9nXMC7TggmahJDM3CKmQA1FEkgVA6KXCDNN/YEb9ksx42l6nEONq2MByPWe1HlkvzbqAG9eBMyhtxGFkvBKa6yL00LJEuur+ZwnpHcxoi2iZzgEgHRJLDd6yb+GGXK3jDjLRgnYti1BKK8aUy4S/42ZkRRVONUHHEpGs7ExLZM5R43Dqg+EPRtMgeRMhrkNKOGuzeBjtCZwEt+LrsrpnqvOmi5bASTXebmuKyqDrc7JEUxl8TKT6Ktxt3Yc036Kk4ruSiC96CBGtIF2du+lpEZx0XyX5OyJ3m/W8/RlId1eexOoo6l1nCWSXFncUg3R9Ij5moANirNjYNJTCDRA/mKt3e4Xpl7XQ7We7xJwAsI+ae3eg54RcbY2OfUhHeImny8bTePumPkE0DLsFziVgSm7+6A5awsXVQvEKtwBJFr6VhzuY1UDthK3xiBcvplox8nqH55zhk3hTQT/7X83p23T3Ac+6YQIv6LPw",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b17",
+                "tag_name": "Petualangan"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.30959999561309814}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":14},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.023430483415722847,\\\"click_pred\\\":0.08468154072761536,\\\"paywall_pred\\\":0.5534889698028564,\\\"pay_pred\\\":0.0001246631145477295,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Saat masa lalu kembali hadir, apakah arti balas dendam masih sama?",
+            "score": 70,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "6925593605bef17390057d56",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Gosip dan Cinta: Cara Mendapatkan Bintang Film",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/15c042e0-cf45-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Cleo Marlowe, asisten casting ambisius, nekat membujuk bintang film Blake Wilder untuk bermain di filmnya. Setelah tertangkap paparazzi keluar dari rumah Blake, ia dicap memanfaatkan skandal untuk naik daun. Saat reputasinya hancur, Blake yang terkenal dingin justru muncul sebagai satu-satunya orang yang mendukungnya.",
+            "chapter_count": 60,
+            "theme": [
+              "Perasaan Tersembunyi"
+            ],
+            "collect_count": 7121,
+            "init_collect_count": 1786,
+            "read_count": 706956,
+            "t_book_id": "500000000000002251",
+            "online_at": 1764655734,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "xxuhrhbpff",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "jgblbm7zjf",
+              "duration": 173,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/d22c60968c741986.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "sfwkXXkVjrAUlQSHu6hCQzdmGtpYNdkTolzYWIpRiSqrSm8x5spim8bns5M9F0Ip4skxd1AMSC2GM92ZJ/AYFN+EudsGVL6jF89pwx0gDfe2qTFPKXgP5dc2YfCsCCz0HGT74+tPi6C6271eYp24he86Ld8MgFZcsnEh92LAgSsRXwj0KO1nxF1dRPTNjOM7G/FGedzVWvVKVISqjTgkq0QrOTROH2VMjVWQbsGLyzS46ZZK/xphc1oAMpXbxw8GIwYFegFHnktoHMCA04iibeu7WgDYDjucYSMg+zVTtU8gvRci0cSDiboagiId5IooNCMWOEidXkcJUS3itUj/ulH7BpYP9CSr5JeufCb6l63HY6S+2x6yfqhJPl5OJF0DwGSH/3DXe8fJS3CqAPHxbM9n+aG0XrQ9o2pbW6RlVqS4LEkX42cSIbs9s59AQaaYuMk0U28v5sFr7LVA2jAMtCgyuknT75LJ9zyd+heLzV6F2n/UZaOnk16VfrwVYrkW7D98UAe8xwIJmpUywyGzQ1QBdv0LXzEcPstXrgMMqlQOhdn63ysDFM+liiWalvjkpqgGmZqneUpL1xqhY70Jqb3Dg8lRCYxA5BTigNKR5cnfAIWgEz8QUdq7dNK4RGvC",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b10",
+                "tag_name": "Perasaan Tersembunyi"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3224000036716461}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":15},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.02342144027352333,\\\"click_pred\\\":0.07908177375793457,\\\"paywall_pred\\\":0.5792788863182068,\\\"pay_pred\\\":0.00010917810868704692,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Cinta bukan bagian dari rencana, sampai dia mengubah semuanya.",
+            "score": 499,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "689c3546307dbbd5a503e82f",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Daisy Tucker dan Pria Kota",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/4b8b01d0-7bdf-11f0-a06b-bdb674869ea1.jpg",
+            "special_desc": "Setelah pernikahan mendadak, gadis desa bernama Daisy mendapati dirinya menikah dengan bos barunya, Hamilton Smith, pemilik Smith Media. Namun, kesalahpahaman dan intrik dari wakil presdir jahat Hamilton, Bianca, mengancam untuk menghancurkan hubungan mereka sebelum mereka sempat saling mengungkapkan cinta mereka.",
+            "chapter_count": 77,
+            "theme": [
+              "Pernikahan Kilat"
+            ],
+            "collect_count": 2718,
+            "init_collect_count": 889,
+            "read_count": 382572,
+            "t_book_id": "500000000000000306",
+            "online_at": 1755695989,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "4l6uvr2ieh",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "mt81tfjxah",
+              "duration": 168,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/684c79b28e8714fa.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "sfwkXXkVjrAUlQSHu6hCQ8kphUBsZPAKLgaUSsFUZMTqWHQtzEOlztyoIJZwJuyZF+ZhsA6vQ0/GblRnTLkUFQgo4XqwqlsCsGEovZHR/XshGiU4JuJi7NoWGTm3PGyDtYM9f7wnVxpk4dP2cUchAi13O2XVSTK+uJXOTIQnD/+AiXr0NM2tmJwia683LT6uhsKtY1OcPwbm/lHlnGG8GUX40iuisAsE6rK8CXfhO/Ihsr0dAiv+rBG8jXq0EkmFUSzZ+T/aZfnYw+PZpDDHv3v4xJPJ/xdXuaKa3THC9QfPRyKKBdD7dPFS7LesChRVd8YC0JA0qQhAkSGK5/n8gCZpats9cBygd6/0tU+f6x/9bWI5XmZaJp4S1+5P0qIVpa59A6SxqEx/AZkbb3MuCVZmnp+NaCU/DWN/3xGfDdSjnbBpzgLaBeHtJ6XHYiMXGqZCtb08kebcLJaYDSCN9B/DxDGtU91iQYn6gHR+sEO+00jNwV3HoI2tSAXY0aPB3blHKTW1rNUmLdJCPVpsJy/YDid8IxSWBt1KtP0OfB908nvOwIyuf1NhtZNOpQ1Qx4JYCo4kkeXxlqSezj32lHdPvJ5kXw9tuSrnef3LvUi3iHi7DFQzV3c7uK7bIGf5",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081ae6",
+                "tag_name": "Pernikahan Kilat"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.29179999232292175}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":16},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.02340315841138363,\\\"click_pred\\\":0.06701579689979553,\\\"paywall_pred\\\":0.5507113933563232,\\\"pay_pred\\\":0.00021651387214660645,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Dia gadis desa. Dia pria kota. Kini, mereka telah menikah.",
+            "score": 83,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "685e044d2e51bcef2207813c",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Terobsesi Dengan Istri Bisunya",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/4fc77020-620e-11f0-a06b-bdb674869ea1.jpg",
+            "special_desc": "Eva yang menjadi anak asuh di Keluarga Calvert, selalu mencintai Declan Calvert, anak laki-laki yang tumbuh sebagai pelindungnya. Dia yang tidak bisa berbicara sejak lahir, berjuang untuk mengungkapkan perasaannya dalam pernikahan yang dibangun atas dasar tugas. Declan menikahinya hanya untuk menghormati keinginan terakhir kakeknya. Eva yang terjebak dalam hubungan yang beracun, menanggung kekejaman Declan dan rencana kejam selingkuhannya, Selene, untuk mengusirnya. Terlepas dari semua itu, Eva berpegang teguh pada harapan bahwa Declan dapat menemukan kembali cinta yang pernah ada di antara mereka saat kecil. Eva yang terikat oleh kesunyian, harus memutuskan: memperjuangkan hati Declan atau membebaskan diri sebelum terlambat.",
+            "chapter_count": 85,
+            "theme": [
+              "Terlambat Sudah"
+            ],
+            "collect_count": 11153,
+            "init_collect_count": 605,
+            "read_count": 1734837,
+            "t_book_id": "500000000000000264",
+            "online_at": 1752647419,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "obmj9n5dab",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "44f15ox6ot",
+              "duration": 164,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/2744c2511559e217.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "FcVr0+5zGOe3HC88pjRMyycjzmaRT2bGUPEhpYyP/lEsZSqp0GDoOL8O7mwHIoxhYeDt72hyaoElX8++1R77eO55OxWrdmVjxXPAD0FDQwhewoHQeTjQ6RBO5BarD21GNt/zvtqiqRsn0GApsWjgB4gPwq2uO8hjDf4PegDLtSRCnMmkjlIss2vHrt5EUWbQQbAvIdY9YCfjSyysLbB5abe85zaYK9li3OG4PAKNQxXz1TgEkex5CbBt9y8RXusdn0P+QmVjP00gotwWRNEmdc82jYDNs/iPb4Be7Jtnil57iIGmbVhIPEfcFYzSRU5bZPtTc8F4g3MuUKOdZD1valeI1LaM412dLPNIKLBJWIRHndoR5xkL8JQc0HIxI9qyTNKR2r2kkjlw0kK++Yd3M4UfjeHbTNDOYduBmzouhRD/MYGyd7oxjlAQ6tjsPs0jfGg3DHQyucil2wV8nGw5ozQRQa2Lq+2rTRWVxRJgU59z2KEo+UCWbQFO9KR5e78TU4PT8D4UeJlaGx4KVJ52rDH7UF7aLuORKEkhbDhkXzV48+pWEpgvCfj8Pje/2ECQXEk47SUZh0XBw2D3jjM0KTSMyA+yOquCqlLD4OISYi9RS6jIh1Wwtr9a8pDkVhw7epj//x2n4uLTBLxykhwXLA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081aed",
+                "tag_name": "Terlambat Sudah"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3009999990463257}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":17},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.023391684517264366,\\\"click_pred\\\":0.0498654842376709,\\\"paywall_pred\\\":0.6197148561477661,\\\"pay_pred\\\":0.0002008378505706787,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Akankah kau mencintaiku sebelum kesunyianku menghancurkan kita?",
+            "score": 281,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {},
+            "is_collect": 1
+          },
+          {
+            "book_id": "66d86185e420d7a19608d858",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Patahkan Hatiku Lagi",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/88e35090-4116-11f0-b65a-27549cd2a91e.jpg",
+            "special_desc": "Lucy putus dengan pacarnya Felix, karena utang orang tuanya. Ia terlibat dengan rentenir yang memanfaatkannya dengan bunga yang sangat tinggi. Karena nggak ingin pacarnya ikut menderita dengannya, Lucy memutuskan Felix dengan membohonginya bahwa dia ingin kaya dan selingkuh pada teman baiknya, Heri. Setelah bertahun-tahun, Lucy melamar ke kantor Felix tanpa ia sadari. Felix menerimanya karena ingin balas dendam padanya. Namun, tanpa disadari kedua orang itu, benih-benih cinta mereka pun mulai terbentuk kembali.",
+            "chapter_count": 80,
+            "theme": [
+              "Cinta Pertama"
+            ],
+            "collect_count": 80249,
+            "init_collect_count": 303,
+            "read_count": 4296276,
+            "t_book_id": "500000000000000086",
+            "online_at": 1725346800,
+            "trailer_bookshelf_color": "#07525a",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "5ieqn2y9lr",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "3wenr3ya1o",
+              "duration": 131,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/2eb35f5211f3a88e.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 1,
+              "play_info": "sfwkXXkVjrAUlQSHu6hCQ8kphUBsZPAKLgaUSsFUZMQBqk/iL7LUj0NewBzm7gm/xVGgz/BiXAM5Cbjx6ixSsZWZUPOiJdd+PJhW1vnnl5rvyBgVlBXszJr1FN13zos7Y5Khn2MKCjFU5axM54fbzvNVgRp5JdUhhVQkUG6g/2zfRMCrdZMUPWIsvK35iYPYGksxESrTLaTstSyos1b/BE+GgLAqcf0Qz5YTDcMuPCct+aLI36p2oNgKLVpkBCvUfFp1c0ynCX3b1Caj53dPcfh0qAWmGHtpBHTagcab2dpILh/7BsELtfHzG6jxpK1w4OkcChe6J+O/1PW2Y2qP/RZiKQf320vhycOhoHHJa/KIz2CMuZ6xhEUuygdXnR252tLHTvPgzxZQP1XkeD460JHewZ399TpsisR7yFLZqQe7Pw5qLObBZti8ZnijJ1fj0z0Xf9eu+NbUkFQ/eGy+OmPArwILx25cCohzVt11xELsbTFn1zyIbQtt+OHiFgStqipnLEx+A74uEgMzs+/JDBNnUQFuUjA2fqwdrf99dVVTaZHI7KLUuFtdBK/tkMHf0v7iwCTz7X68JHtKzHAfAhOYTBVa5C489WOUFCACBVoUQw/oobmAYpI60FweHc7E",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b08",
+                "tag_name": "Cinta Pertama"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.2913999855518341}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":18},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.023306427523493767,\\\"click_pred\\\":0.07328157126903534,\\\"paywall_pred\\\":0.5585032105445862,\\\"pay_pred\\\":0.00015886100300122052,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Balas dendam dingin atau cinta lama... mana yang akan menang?",
+            "score": 119,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "691fa381d30a02efe7079ead",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Aku Jadi Ibu Tiri Mantanku",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/f44475f0-c76f-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Setelah tahu pacarnya, Marco, berselingkuh dengan Jessica, Gretchen Hayes menikahi Lorenzo Sterling, CEO miliarder yang baru ia temui. Namun, balas dendamnya berubah tak terduga saat mantannya menjadi anak tirinya. Di dunia penuh kemewahan dan kebohongan, Gretchen harus lebih cerdik dari para musuhnya untuk merebut kekuasaan—dan mungkin menemukan cinta sejati.",
+            "chapter_count": 81,
+            "theme": [
+              "Pernikahan Kilat"
+            ],
+            "collect_count": 6089,
+            "init_collect_count": 1911,
+            "read_count": 463400,
+            "t_book_id": "509000000000002391",
+            "online_at": 1763949600,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "d41f79myac",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "d41f79myac",
+              "duration": 251,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/2d43143b55106619.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "FcVr0+5zGOe3HC88pjRMyzwETO/fP9iV95oxXPGTD/V6vqNYzux5a5Q3PJIHi0tTmPdAZIQefk04PJSLNJplRlqwdtdrCegYcfOMLnGXmgAeZYuZen9sMwG0ERpgjJMjblXTwcQLdWPwAX54AYmnDORPDKH7hDZ1ot21J1W2d95Z6vwuuXMSKd9N2delfmFHoKONvtU8RFdfIUGrjaxpaeSLlLs4rfqnzQwiOUsHT/eYsAFky4kQeHXVtNZ7EBBRU8AlYcec4nOljSRpQ4UqMuv0NvXrk6DjyVj9/tSfOYseE//pBowvX7KuExVtQ0oks3eK/pxddWPm94d/D7mlP5hFojY2O5V6d0Iew0/Aet0IiB14zrxDON5dPlec6zjg90rCmjx57TIe0RRtJUcppV8s7e+KWI2AV9vcJAHSGYyB+O1KUWi8AgTjao2H2qMISR+/xOLWFJa1+HCKig4VG3NkBh1LWJV1goEVMiplU2fWByIK4iNJa+Tj78SFF9biH9ZihtsKWR6pVPsgT7Vaqn9V43sLa5zWeN7cXe75cgcmU7UeOl87H4XKoHfnIcbg+jojoO+tF7g1vIUqzu5uxv+L8Kyu79x7ZTuDMIBCjosCZqaiCcvOLiaNrpf4NX6sEODV3ZBS0xxS34NkHYqNRw==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081ae6",
+                "tag_name": "Pernikahan Kilat"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3280999958515167}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":19},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.023084569722414017,\\\"click_pred\\\":0.07955744862556458,\\\"paywall_pred\\\":0.5335311889648438,\\\"pay_pred\\\":0.00016753896488808095,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Dia menikahi bosnya. Kini, mantannya jadi anak tirinya.",
+            "score": 203,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "69686bc09b801b37c20bdcbf",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Pelukan Sang Raja Ular",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/583d3740-f524-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Demi ibunya yang mulai bersisik ular, Leah mengorbankan diri dan terikat takdir dengan Sean, Dewa Ular, hingga mengandung sembilan telur. Saat Sean harus pergi demi ujian langit, Leah pulang namun dituduh sebagai siluman dan nyaris dibunuh warga. Sean kembali menyelamatkannya dan menyadari Leah adalah putri penolong masa lalunya.",
+            "chapter_count": 62,
+            "theme": [
+              "Petualangan"
+            ],
+            "collect_count": 3165,
+            "init_collect_count": 1256,
+            "read_count": 155300,
+            "t_book_id": "509000000000002986",
+            "online_at": 1768820969,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "52jg096qze",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "52jg096qze",
+              "duration": 149,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/22c7c1bcc7d4dd45.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "wwkqR/ag/RETPc99xyEMJdYDxJUuBsktnaw6MN6SKTI6cIxBRhFHi9pH9yT0J/HxfPaNtC4O84motOg2zYy5GRYrrYhiiJmwGzajXfSFjOLL0s6HkzxoXXpUOxbCe0clOkSgKgIy6BNJA+H+6GPk8EPo6kE5MkO0sBOHqe52RmHtjejStO6pChhW4PujixG4+fRVehSAZErhdWPVu4QmrS+UyrgE1umrpDqCD2yQTzDCA5rjM4gwI/j0Yy67KCc8JUenNfvN79osRy1Etv94m4MFLEMcyYxb8AeOGC/8taFaC2FeZ5pIHdRaKOExvg+QK03j53RPtf3Lz2itLTovrCQenA8uOO+JBvOZeMk5h4YSmSUtSpXN9EXfgquZ2aVUPaBL/06V+uhpSo94gSSj32SZcB3CUXjmgdpxqYcAMIPdxygCR8iUR+0tTMxsnoAH9rQTKB4vedy1swMgMejT0VA6KcxOnYPfS8EmLu6oUKU7XUPR+Q89+XBTu9wKwyERTmFCANKc+lQXp84C/2/DXHs0muKm7RehNrl0xsqRAqRqaRi8pgdXuUWV7sOnw7rac2mo3d/thUiSI46qKv9HtpHVwtJyIzugabSchWh/P5MbYsYuP5N42AgH61TrEJ8+kjTrwwTKllf69Oq7jQcMDg==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b17",
+                "tag_name": "Petualangan"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3303000032901764}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":20},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.022925663739442825,\\\"click_pred\\\":0.0554889440536499,\\\"paywall_pred\\\":0.538915753364563,\\\"pay_pred\\\":0.0003419220447540283,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Saat dunia memusuhinya, Dewa Ular memilihnya.",
+            "score": 563,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "695cae1d355657e10c0041b3",
+            "book_type": 1,
+            "book_source": 1,
+            "book_title": "Mampus! Bosku Punya Foto Telanjangku!",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/f1e0aff0-ef7d-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Seorang karyawan wanita tak sengaja mengirim foto pribadinya kepada sang bos. Skandal, ketegangan, dan rahasia pun mengguncang kantor—dan hatinya.",
+            "chapter_count": 75,
+            "theme": [
+              "Romansa Manis"
+            ],
+            "collect_count": 3282,
+            "init_collect_count": 1669,
+            "read_count": 207406,
+            "t_book_id": "500000000000002712",
+            "online_at": 1768202835,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "wk1mtkw6c2",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "wk1mtkw6c2",
+              "duration": 86,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/fb057631735520fc.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "+Uv3wSD6cZy+QDA5iDOGrU+PeJUh3ne0wlal6hhW2doRP7yS0Ddxgka/fl1IYLgD9fD/hLQApAR4N7pGE51F+frwTrGMDi0Q/zYuEV1af1Ehkh+JJmNFRm1aPrRjAnRReMWwT+pwj4PrkKbxyvNf2hezajOM1SKln04usbpzgXeZTfGUaeSxyL9mwd4NDBJrFfNEWem51HG0C8MX3Wy3sWw9jgy8TuoIC6ZRtyz6K2aJlnQuAWJ36ruKTHQD3ZwmUUE+Sv5KGXY1mXlG83tcSduEwLdpRiKUBZx3ASjVELoy4WpyiGMyiB90VUs2HPgBua3ihTAaBCrd9PgIXNfsgHvvT9hUNww2l5gqR6loZk8Ot3ceCE8IzW39mABF/AZNU3q9+CKNvAy6qPH5/dNfKZYM4GnnKc8hM4R2FpC46qPge33hDWXpqUkJgdigVWsmEhyeODB1Ok6a6oUceJs3N6RAvlFaDXbnkLR5/8tcXooaqJQibXgbXL0yyuSFcXN4kdxrzoYlvl8gFypBijLGSDBWvEZu/7J/Xkd95eyd0hGbbEBx+e8qTPkSwM6KbiBi8Vez2wA38/Dx5102Q5aFjLmmk9+hcHKeAdRZgP9HUNoDTdCizKvW6RuiwxdZfHg80AucaibixJUgb13CEOduTA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "669f977a9cd11175a80c949a",
+                "tag_name": "Romansa Manis"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3301999866962433}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":21},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.022917157039046288,\\\"click_pred\\\":0.0811803936958313,\\\"paywall_pred\\\":0.4941391944885254,\\\"pay_pred\\\":0.000249326229095459,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Wanita ini tidak sengaja mengirim foto seksi pada BOSNYA YANG TAMPAN. Sekarang, si bos datang menghampirinya.",
+            "score": 209,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "6960715076077c9b2202ee38",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Cinta Diam-Diam yang Berakhir di Pelukanmu",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/718e0cb0-ed40-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Elliot mencintai Fredric sejak SMA, cinta yang telah bertahan lima tahun. Akibat perjodohan demi memberi keturunan, ia pun tinggal bersama Fredric. Namun, Fredric yang mencurigai Elliot sebagai mata-mata ibu tirinya terus mempersulit hidupnya. Padahal, Elliot adalah pendukung setianya di saat terpuruk. Saat Elliot pergi, barulah Fredric menyadari cintanya.",
+            "chapter_count": 66,
+            "theme": [
+              "Terlambat Sudah"
+            ],
+            "collect_count": 4304,
+            "init_collect_count": 1910,
+            "read_count": 201426,
+            "t_book_id": "509000000000002751",
+            "online_at": 1768473692,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "z0trtai4x1",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "z0trtai4x1",
+              "duration": 234,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/3213546428135681.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "glu2f7EboyVDVzPQTVc6Btnhew1hTHX492nCVPnOGipIx3+02OmtA742A75iIAJDe+UkF4URw4LHpFBxHDFKtsepjP7qqwWPVY2aGLS32Nau+j9Z9mrATxPFnvUA5WAVWdr8gasgRD31knqQT/SxbkLVIKToRLb5O2fZR91y+8hDCiHG0k8j31hZq+5hpYDYUJGpqz7ids35dVZjg/wdaihHAfTXtvUT+gAkDEmjUylwsKd2NQseiyKIQ6d9wFf1RJ8pSTaQYF8ku1PRwP4VUCLOyTPngeY+JPPqr6+lDq5jEEh2GHRBxvBS6bho8ckNTvNtEeWjpi9kLynNyCcUPP3g+S3a6SwOYQztgJHmKH3cQpfjpL19Uz3OwE6OYZQVrvYyDT8HJ1We7UcaistLSclg60Pl7rkbthNBpgAVnpU/Jyrh48FmIqKTCucKkaMNS8eEQjhLjo5+oQ+dl9HhV0bctAmnwdjIsU6z6YUnRMRJ64GiNjVTKZRrw8rI7l47khCb8Czn4v5Q4Qjmbbzt0zUHdzgy6zi5AY4aNvrPl33nF3z+CzPXRBnuaQMNq33OMWiBIbrxBa76KrmMXY9C65AriGRabgvGGQQx/Zqh+MBpQvYuPqPLuu3OHSqw1RqkYlOkDg8xOpjVP7U/rw2qkA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210e4582b53a14081aed",
+                "tag_name": "Terlambat Sudah"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.3391999900341034}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":22},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.02282480150461197,\\\"click_pred\\\":0.09277869015932083,\\\"paywall_pred\\\":0.45373180508613586,\\\"pay_pred\\\":0.0003083677729591727,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "\"Aku tidak menyukaimu.\"\n\"Lalu, kenapa kau terus kembali padaku?\"",
+            "score": 349,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          },
+          {
+            "book_id": "695fa118f1ff75b44f077ea9",
+            "book_type": 1,
+            "book_source": 2,
+            "book_title": "Putuskan Masa Lalu, Ku Ciptakan Masa Depan",
+            "book_pic": "https://v-mps.crazymaplestudios.com/images/93836030-f1c4-11f0-84ad-6b5693b490dc.jpg",
+            "special_desc": "Setelah tiga tahun menderita, Sasha menceraikan suami CEO-nya yang otoriter. Fokus berkarier, ia bangkit dan dikelilingi banyak pengagum. Saat sang mantan murka soal anak yang dikira telah tiada, Sasha kian tak terjangkau. Ketika ia buang gengsi demi kembali, sadarlah ia: semua mungkin sudah terlambat.",
+            "chapter_count": 73,
+            "theme": [
+              "Pengembangan diri"
+            ],
+            "collect_count": 2753,
+            "init_collect_count": 1695,
+            "read_count": 114764,
+            "t_book_id": "509000000000002914",
+            "online_at": 1768565673,
+            "trailer_bookshelf_color": "#2E2E2E",
+            "screen_mode": 1,
+            "start_play_episode": 1,
+            "first_chapter_id": "m0bhqi68td",
+            "start_play": {
+              "screen_mode": 1,
+              "chapter_id": "m0bhqi68td",
+              "duration": 195,
+              "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/a9dc00a511f5bc60.jpg",
+              "video_type": 1,
+              "chapter_index": 1,
+              "episode_index": 0,
+              "play_info": "FcVr0+5zGOe3HC88pjRMyycjzmaRT2bGUPEhpYyP/lEsZSqp0GDoOL8O7mwHIoxhYeDt72hyaoElX8++1R77eO55OxWrdmVjxXPAD0FDQwhewoHQeTjQ6RBO5BarD21GNt/zvtqiqRsn0GApsWjgB6AhvjUGzmjsoHJvIvHpYPZHSLUZRzdsIs+wfqBXDd/5BBwT1n15PV8bk3GlWPMo9eGgD03iNf2BUhLk+WjYhFaFC1kdFUDxK4yhfIYSc8sDPGO0yE4r+Oz/u/uyVPEEeuLzKO6mXFtdTYOy779cwpxbfq0hN2DoWGwVY2NNIX4MmmQ9BMHeQao1ZzbMIB1wgNZT8OuF7dFzjvWA82eMATaCu62aB8VoRl4x+ZTywG4aICvcGzMs50LydUwcL0EnpFpeUdm02/xsocDJOL+opA2xBYUQ+g60Z2svBCHzYKwRKNERDdBGI5WwsjBUlZDpMMcS3z2iLm3gWQOTAZoxGqhDoKz6lj06UrjpJHIQ6bLDpX1HdbzOWOTv03tciheeQBVrErFJbvgkZHVP6VXrnSdJKr6/jy+F215OYnBe6yc6KHuFy1ymIC1jFr9EjBwzheIUhWaBH+dysfMsB7i2yqoYpGYAQ3LmMMS7yoLtkjY6Knv0tETG7QHpuA3YVB9KyA==",
+              "clip_id": "",
+              "sum_clip_id": "",
+              "adult_content_remind": 0,
+              "need_show_pre_roll": false,
+              "aspect_ratio": 0.56,
+              "is_voiceover": false
+            },
+            "tag_list": [
+              {
+                "tag_id": "676d210f4582b53a14081b12",
+                "tag_name": "Pengembangan diri"
+              }
+            ],
+            "have_trailer": true,
+            "report": "{\"is_manual\":0,\"recall_level\":\"{\\\"id\\\":\\\"17701034138384377\\\",\\\"ts\\\":1770103413952,\\\"algo\\\":[{\\\"type\\\":\\\"category\\\",\\\"score\\\":0.31139999628067017}],\\\"user\\\":{\\\"uid\\\":\\\"615141293\\\",\\\"life_type\\\":\\\"old\\\",\\\"vip_type\\\":\\\"vip\\\"},\\\"ctx\\\":{\\\"scn\\\":\\\"recommendedCategory\\\",\\\"pos\\\":23},\\\"metrics\\\":{\\\"qscore\\\":0,\\\"rank_score\\\":0.022451046854257584,\\\"click_pred\\\":0.10021301358938217,\\\"paywall_pred\\\":0.5068028569221497,\\\"pay_pred\\\":0.00011957684182561934,\\\"is_new_user_feature\\\":\\\"1\\\"}}\",\"show_session_id\":\"221d1834-7d44-451c-af9c-5f6b1208fc97\",\"data_page\":1}",
+            "start_read_info": {
+              "screen_mode": 0,
+              "chapter_id": "",
+              "chapter_index": 0,
+              "adult_content_remind": 0,
+              "char_offset": 0,
+              "comic_index": 0
+            },
+            "NovelWords": 0,
+            "rank_tag": {},
+            "share_text": "Dia tak sekadar bebas; dia telah melampauinya.",
+            "score": 255,
+            "book_mark": {},
+            "hallPic": {
+              "jump_param": {
+                "start_play": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "duration": 0,
+                  "video_pic": "",
+                  "video_type": 0,
+                  "chapter_index": 0,
+                  "episode_index": 0,
+                  "play_info": "",
+                  "clip_id": "",
+                  "sum_clip_id": "",
+                  "adult_content_remind": 0,
+                  "need_show_pre_roll": false,
+                  "aspect_ratio": 0,
+                  "is_voiceover": false
+                },
+                "preLoad": {},
+                "start_read_info": {
+                  "screen_mode": 0,
+                  "chapter_id": "",
+                  "chapter_index": 0,
+                  "adult_content_remind": 0,
+                  "char_offset": 0,
+                  "comic_index": 0
+                }
+              },
+              "book_mark": {}
+            },
+            "continue_watch": {}
+          }
+        ],
+        "double_two_rank_info": {},
+        "last_book_id": "695fa118f1ff75b44f077ea9"
+      }
+    ],
+    "show_session_id": "221d1834-7d44-451c-af9c-5f6b1208fc97"
+  }
+}

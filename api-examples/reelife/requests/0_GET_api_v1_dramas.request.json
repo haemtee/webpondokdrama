@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/reelife/api/v1/dramas?tab=0&page=1&size=20",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "tab": "0",
+    "page": "1",
+    "size": "20"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "ok": true,
+  "data": {
+    "current": 1,
+    "hasMore": true,
+    "pages": 0,
+    "records": [
+      {
+        "chapterNum": 125,
+        "classList": [
+          {
+            "id": "84",
+            "name": "Anak Lucu"
+          },
+          {
+            "id": "53",
+            "name": "Reinkarnasi"
+          },
+          {
+            "id": "56",
+            "name": "Bangkit dari Keterpurukan"
+          },
+          {
+            "id": "7",
+            "name": "Pertumbuhan Anak Lucu"
+          },
+          {
+            "id": "6",
+            "name": "Fantasi Xianxi"
+          },
+          {
+            "id": "2",
+            "name": "Wanita"
+          },
+          {
+            "id": "83",
+            "name": "Ayah/Ayah Tunggal"
+          }
+        ],
+        "contentId": "274176652005867520",
+        "contentName": "Bereinkarnasi Mendidik Pemalas Menjadi Kaisar",
+        "ext": {
+          "expId": "ER2_L3#EG4_L4",
+          "position": 1,
+          "retrieveId": "UserLanguageHotRecall",
+          "score": 0.017079994
+        },
+        "finishStatus": 1,
+        "introduce": "Di kehidupan lalu, Sofia adalah putri kandung Putra Mahkota, tetapi harus hidup telantar selama sepuluh tahun. Setelah akhirnya diakui kembali sebagai anggota keluarga kerajaan, dia berusaha menyenangkan mereka. Namun, Putra Mahkota dan istrinya justru menganggapnya sebagai aib. Tiga kakak laki-lakinya tidak pernah menganggapnya sebagai keluarga. Akhirnya, dia justru dibunuh adik kembarnya dan meninggal dengan penuh kebencian. Setelah bereinkarnasi, Sofia pun ingin memperbaiki segalanya.",
+        "jumpType": 0,
+        "remindMe": 0,
+        "reserveFlag": false,
+        "url": "https://static.serealshort.com//new-media/prod/content/cover/wdxew44b1b3sr1bohb261ua12986l9tq.jpg"
+      },
+      {
+        "chapterNum": 65,
+        "classList": [
+          {
+            "id": "36",
+            "name": "Perbedaan Usia"
+          },
+          {
+            "id": "26",
+            "name": "Cinta yang Menyakitkan"
+          },
+          {
+            "id": "22",
+            "name": "Pengkhianatan dan Balas Dendam"
+          },
+          {
+            "id": "3",
+            "name": "Romansa Modern"
+          },
+          {
+            "id": "2",
+            "name": "Wanita"
+          }
+        ],
+        "contentId": "346280726393786368",
+        "contentName": "Obsesi Sang Adik",
+        "ext": {
+          "expId": "ER2_L3#EG4_L4",
+          "position": 2,
+          "retrieveId": "UserLanguageHotRecall",
+          "score": 0.012375582
+        },
+        "finishStatus": 1,
+        "introduce": "Demi merebut cinta kakaknya, sang adik merekayasa kecelakaan kepada kakaknya. Di tengah gejolak yang terjadi dalam keluarganya, perlahan rahasia kelam keluarga mereka terbongkar dan pembatas antara mereka berdua dapat dilampaui.",
+        "jumpType": 0,
+        "remindMe": 0,
+        "reserveFlag": false,
+        "url": "https://static.serealshort.com//new-media/prod/content/cover/230f7042m0p2ft7svrp06ku4l9igg55u.jpg"
+      },
+      {
+        "chapterNum": 68,
+        "classList": [
+          {
+            "id": "65",
+            "name": "Kota Modern"
+          },
+          {
+            "id": "74",
+            "name": "Orang Kaya"
+          },
+          {
+            "id": "77",
+            "name": "Pewaris"
+          },
+          {
+            "id": "73",
+            "name": "Bos yang Dominan"
+          },
+          {
+            "id": "60",
+            "name": "Cinta yang Dipaksakan"
+          },
+          {
+            "id": "26",
+            "name": "Cinta yang Menyakitkan"
+          },
+          {
+            "id": "2",
+            "name": "Wanita"
+          }
+        ],
+        "contentId": "385030474189504512",
+        "contentName": "Dendam yang Menyisakan Cinta",
+        "ext": {
+          "expId": "ER2_L3#EG4_L4",
+          "position": 3,
+          "retrieveId": "UserLanguageHotRecall",
+          "score": 0.018212205
+        },
+        "finishStatus": 1,
+        "introduce": "Demi membuat putranya, Yuandra Baldric, meninggalkan mimpi fotografi dan meneruskan bisnis keluarga, Merry Salim menyusun rencana agar Maria Susanto mendekati lalu meninggalkan Yuandra. Namun selama bersama, Maria benar-benar jatuh hati, tapi terpaksa putus karena ancaman Merry. Dua tahun kemudian, Yuandra telah menjadi CEO Grup Balax. Ia menemukan Maria dan memaksanya menikah sebagai balasan, namun akhirnya kembali tenggelam dalam perasaannya. ",
+        "jumpType": 0,
+        "remindMe": 0,
+        "reserveFlag": false,
+        "url": "https://static.serealshort.com//new-media/prod/content/cover/fczfwra6kwhq6cmblmjd8zkvwhhezc84.jpg"
+      },
+      {
+        "chapterNum": 66,
+        "classList": [
+          {
+            "id": "71",
+            "name": "Masyarakat Masa Kini"
+          },
+          {
+            "id": "56",
+            "name": "Bangkit dari Keterpurukan"
+          },
+          {
+            "id": "52",
+            "name": "Melintasi Waktu"
+          },
+          {
+            "id": "2",
+            "name": "Wanita"
+          }
+        ],
+        "contentId": "346689359338278912",
+        "contentName": "Jebakan Cinta Peran Pendukung",
+        "ext": {
+          "expId": "ER2_L3#EG4_L4",
+          "position": 4,
+          "retrieveId": "UserLanguageHotRecall",
+          "score": 0.0181362
+        },
+        "finishStatus": 1,
+        "introduce": "Sonia Winata, seorang dokter, terseret dalam sebuah novel, menjadi selir Panglima yang mati muda. Untuk mengubah takdirnya, dia menggoda Jeremy Atmaja, Panglima, yang juga tokoh utama pria novel tersebut.",
+        "jumpType": 0,
+        "remindMe": 0,
+        "reserveFlag": false,
+        "url": "https://static.serealshort.com//new-media/prod/content/cover/bnzm0lfev31cqtn8pm3n24tq1k6zoxru.jpg"
+      },
+      {
+        "chapterNum": 46,
+        "classList": [
+          {
+            "id": "78",
+            "name": "Putri Orang Kaya"
+          },
+          {
+            "id": "65",
+            "name": "Kota Modern"
+          },
+          {
+            "id": "59",
+            "name": "Membalas dengan Keras"
+          },
+          {
+            "id": "56",
+            "name": "Bangkit dari Keterpurukan"
+          },
+          {
+            "id": "22",
+            "name": "Pengkhianatan dan Balas Dendam"
+          },
+          {
+            "id": "12",
+            "name": "Konflik Keluarga"
+          },
+          {
+            "id": "3",
+            "name": "Romansa Modern"
+          },
+          {
+            "id": "2",
+            "name": "Wanita"
+          }
+        ],
+        "contentId": "262888835711774720",
+        "contentName": "Hari Itu Aku Memilih Pergi",
+        "ext": {
+          "expId": "ER2_L3#EG4_L4",
+          "position": 5,
+          "retrieveId": "UserLanguageHotRecall",
+          "score": 0.00776942
+        },
+        "finishStatus": 1,
+        "introduce": "Sera, putri dari keluarga kaya Grup Soni, sudah lama menjalin cinta dengan Hadi. Tapi tepat di hari pernikahannya, Sera memilih pergi karena menolak permintaan nggak masuk akal dari calon ibu mertua, Heni. Saat Keluarga Lufi mencoba menahannya, orang tua Sera datang dan membongkar kebenaran yang selama ini tersembunyi. Akibatnya, Heni dan Keluarga Lufi harus menerima konsekuensinya, sementara Hadi kehilangan segalanya.",
+        "jumpType": 0,
+        "remindMe": 0,
+        "reserveFlag": false,
+        "url": "https://static.serealshort.com//new-media/prod/content/cover/s5zexoy9a8ofe5znymzf66pr92vvjlvj.jpg"
+      },
+      {
+        "chapterNum": 41,
+        "classList": [
+          {
+            "id": "82",
+            "name": "Ibu/Ibu Tunggal"
+          },
+          {
+            "id": "83",
+            "name": "Ayah/Ayah Tunggal"
+          },
+          {
+            "id": "67",
+            "name": "Dunia Kerja"
+          },
+          {
+            "id": "65",
+            "name": "Kota Modern"
+          },
+          {
+            "id": "59",
+            "name": "Membalas dengan Keras"
+          },
+          {
+            "id": "26",
+            "name": "Cinta yang Menyakitkan"
+          },
+          {
+            "id": "23",
+            "name": "Saling Menyelamatkan"
+          },
+          {
+            "id": "12",
+            "name": "Konflik Keluarga"
+          },
+          {
+            "id": "2",
+            "name": "Wanita"
+          }
+        ],
+        "contentId": "262942314463506432",
+        "contentName": "Kebohongan Dibalik Cinta",
+        "ext": {
+          "expId": "ER2_L3#EG4_L4",
+          "position": 6,
+          "retrieveId": "UserLanguageHotRecall",
+          "score": 0.017121945
+        },
+        "finishStatus": 1,
+        "introduce": "Putri mereka meninggal karena alergi setelah memakan biskuit yang mengandung stroberi. Saat itu, Yudhi Linardi sedang menderita kanker. Ketika tahu penyebab kematian putrinya adalah istrinya sendiri, ia memilih memikul kesalahan agar sang istri tidak dihantui rasa bersalah. Namun, sang istri justru membenci Yudhi dan menyiksanya dengan berbagai cara, menuntutnya menebus dosa atas kematian sang anak. Baru saat Yudhi sekarat, kebenaran pun terungkap dan penyesalan datang terlambat.",
+        "jumpType": 0,
+        "remindMe": 0,
+        "reserveFlag": false,
+        "url": "https://static.serealshort.com//new-media/prod/content/cover/psj7ztrdfi1iava2afayysjtsdax0ev1.jpg"
+      }
+    ],
+    "size": 6,
+    "total": 6
+  }
+}

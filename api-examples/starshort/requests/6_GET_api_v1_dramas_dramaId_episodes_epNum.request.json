@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/starshort/api/v1/dramas/Gaen/episodes/15?lang=4",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "dramaId": "Gaen",
+    "epNum": "15",
+    "lang": "4"
+  }
+}

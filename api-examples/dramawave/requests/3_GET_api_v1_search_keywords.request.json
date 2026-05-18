@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/dramawave/api/v1/search/keywords?q=love&lang=id-ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "love",
+    "lang": "id-ID"
+  }
+}

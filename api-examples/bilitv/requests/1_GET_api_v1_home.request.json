@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/bilitv/api/v1/home?page=1&limit=20&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "page": "1",
+    "limit": "20",
+    "lang": "id"
+  }
+}

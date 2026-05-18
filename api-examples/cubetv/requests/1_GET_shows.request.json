@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/cubetv/shows?page=1&pageSize=20&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "page": "1",
+    "pageSize": "20",
+    "lang": "id"
+  }
+}

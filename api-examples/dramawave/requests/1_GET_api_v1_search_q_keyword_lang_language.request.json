@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/dramawave/api/v1/search?q={keyword}&lang={language}?keyword=cinta&language=id-ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "keyword": "cinta",
+    "language": "id-ID"
+  }
+}

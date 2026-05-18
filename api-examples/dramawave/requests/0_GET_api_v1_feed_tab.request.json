@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/dramawave/api/v1/feed/popular?page=1&lang=id-ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "tab": "popular",
+    "page": "1",
+    "lang": "id-ID"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/moboreels/api/video?seriesId=17435414&episNum=1&langId=11",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "seriesId": "17435414",
+    "episNum": "1",
+    "langId": "11"
+  }
+}

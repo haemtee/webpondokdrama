@@ -1,0 +1,2752 @@
+{
+  "status": "OK",
+  "payloads": [
+    {
+      "id": 15000287,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000030,
+          "title": "Hate Love"
+        },
+        {
+          "id": 15000021,
+          "title": "Destiny"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000045,
+          "groupName": "marriage_relationship",
+          "title": "Contract Marriage"
+        },
+        {
+          "id": 15000092,
+          "groupName": "erotic_and_adult",
+          "title": "Steamy"
+        },
+        {
+          "id": 15000023,
+          "groupName": "society_and_class",
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000046,
+          "groupName": "marriage_relationship",
+          "title": "Marriage Before Love"
+        },
+        {
+          "id": 15000102,
+          "groupName": "forbidden_and_complex_love",
+          "title": "Toxic Love"
+        },
+        {
+          "id": 15000133,
+          "groupName": "characteristic",
+          "title": "Chic"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        },
+        {
+          "id": 15000134,
+          "groupName": "asia",
+          "title": "Asian"
+        },
+        {
+          "id": 15000148,
+          "groupName": "original",
+          "title": "Exclusive"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        },
+        {
+          "id": 15000011,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Toxic Relationship"
+        },
+        {
+          "id": 15000007,
+          "groupName": "revenge_and_justice",
+          "title": "Karma"
+        },
+        {
+          "id": 15000004,
+          "groupName": "revenge_and_justice",
+          "title": "Tit for Tat"
+        },
+        {
+          "id": 15000043,
+          "groupName": "marriage_relationship",
+          "title": "Flash Marriage"
+        },
+        {
+          "id": 15000041,
+          "groupName": "marriage_relationship",
+          "title": "Marriage"
+        },
+        {
+          "id": 15000048,
+          "groupName": "professional_genre",
+          "title": "Medical"
+        },
+        {
+          "id": 15000062,
+          "groupName": "advanture_and_survival",
+          "title": "Crime"
+        },
+        {
+          "id": 15000065,
+          "groupName": "advanture_and_survival",
+          "title": "Noir"
+        },
+        {
+          "id": 15000068,
+          "groupName": "love_and_romance",
+          "title": "Sweet Love"
+        },
+        {
+          "id": 15000097,
+          "groupName": "erotic_and_adult",
+          "title": "Kiss"
+        },
+        {
+          "id": 15000110,
+          "groupName": "tropes_2",
+          "title": "Surreal"
+        },
+        {
+          "id": 15000111,
+          "groupName": "tropes_2",
+          "title": "Telenovela"
+        },
+        {
+          "id": 15000105,
+          "groupName": "tropes_1",
+          "title": "Tacky"
+        },
+        {
+          "id": 15000109,
+          "groupName": "tropes_1",
+          "title": "Delightful"
+        },
+        {
+          "id": 15000125,
+          "groupName": "plot_tropes_2",
+          "title": "Plot Twist"
+        },
+        {
+          "id": 15000126,
+          "groupName": "plot_tropes_2",
+          "title": "Fast Paced"
+        },
+        {
+          "id": 15000124,
+          "groupName": "plot_tropes_2",
+          "title": "High Tension"
+        },
+        {
+          "id": 15000147,
+          "groupName": "ip_based",
+          "title": "Webnovel Original"
+        }
+      ],
+      "title": "Sold to Love",
+      "titleImage": "https://asset.vigloo.com/KR055P01S01/asset/title/en.png",
+      "subTitle": "Love was the only reason to possess you",
+      "bannerImage": "https://asset.vigloo.com/KR055P01S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/KR055P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000861,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR055P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Marriage started without love gradually turns into passion. Will it be true love or end up as a collapse of obsession?",
+      "description": "Forcibly married off to Tae-hyun, In-a must have a baby in 2 years due to her mother-in-law Ae-ra. Their marriage without love gradually turns into passion when cold-blooded Tae-hyun starts to feel his past first love lies inside In-a. While struggling against all the crises to protect each other, love and hate keep tangling. Will it become true love or end up as a collapse of obsession?",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi"
+      ],
+      "releaseDate": "2025-05-29",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "subject",
+        "sexual",
+        "violence"
+      ],
+      "certificateNumber": "2025-VK02147",
+      "episodeCount": 59,
+      "viewCount": 9319442,
+      "likeCount": 139277,
+      "bookmarkCount": 146945,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000281,
+          "programId": 15000287,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 59,
+          "releaseDate": "2025-05-29",
+          "rating": 15,
+          "contentInformation": [
+            "subject",
+            "sexual",
+            "violence"
+          ],
+          "certificateNumber": "2025-VK02147",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 10,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Forcibly married off to Tae-hyun, In-a must have a baby in 2 years due to her mother-in-law Ae-ra. Their marriage without love gradually turns into passion when cold-blooded Tae-hyun starts to feel his past first love lies inside In-a. While struggling against all the crises to protect each other, love and hate keep tangling. Will it become true love or end up as a collapse of obsession?",
+      "casting": "SEONG TAE. Lee Ji Yeon, Hwang Hanna",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000496,
+      "genres": [
+        {
+          "id": 15000002,
+          "title": "Fantasy"
+        },
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000021,
+          "title": "Destiny"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000010,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Breakup"
+        },
+        {
+          "id": 15000017,
+          "groupName": "second_chance",
+          "title": "Reunion"
+        },
+        {
+          "id": 15000057,
+          "groupName": "youth_drama",
+          "title": "Young Adult"
+        },
+        {
+          "id": 15000029,
+          "groupName": "paranomal",
+          "title": "Supernatural"
+        },
+        {
+          "id": 15000040,
+          "groupName": "time_and_rebirth",
+          "title": "All-Too-Late"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000070,
+          "groupName": "love_and_romance",
+          "title": "Destiny"
+        },
+        {
+          "id": 15000077,
+          "groupName": "love_and_romance",
+          "title": "Multi Triangle"
+        },
+        {
+          "id": 15000081,
+          "groupName": "love_and_romance",
+          "title": "Fake Relationship"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        }
+      ],
+      "title": "Love Magic Hongsi Bar",
+      "titleImage": "https://asset.vigloo.com/KR069P08S01/asset/title/en.png",
+      "subTitle": "Fell in love after drinking Silyeonju",
+      "bannerImage": "https://asset.vigloo.com/KR069P08S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/KR069P08S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000669,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR069P08S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Is this real love? Or I'm just drunk for a bit? Will Hongsi find her true love?",
+      "description": "In this witty and heartfelt love story, Hongsi is dumped by her boyfriend and receives her grandmother's legacy \"Silyeonju\", a magic liquor that makes the drinkers fall in love with each other.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi"
+      ],
+      "releaseDate": "2025-10-30",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "subject",
+        "sexual",
+        "drug"
+      ],
+      "certificateNumber": "2025-VK01104 ",
+      "episodeCount": 55,
+      "viewCount": 945819,
+      "likeCount": 129644,
+      "bookmarkCount": 21235,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000496,
+          "programId": 15000496,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 55,
+          "releaseDate": "2025-10-30",
+          "rating": 15,
+          "contentInformation": [
+            "subject",
+            "sexual",
+            "drug"
+          ],
+          "certificateNumber": "2025-VK01104 ",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 10,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "In this witty and heartfelt love story, Hongsi is dumped by her boyfriend and receives her grandmother's legacy \"Silyeonju\", a magic liquor that makes the drinkers fall in love with each other.",
+      "casting": "Lee Jinhyuk,  Yoon Ye-joo, Jeong Soohyun, Choi Sia",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000227,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000024,
+          "title": "True Love"
+        },
+        {
+          "id": 15000035,
+          "title": "Second Chance"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000092,
+          "groupName": "erotic_and_adult",
+          "title": "Steamy"
+        },
+        {
+          "id": 15000093,
+          "groupName": "erotic_and_adult",
+          "title": "Erotic"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000070,
+          "groupName": "love_and_romance",
+          "title": "Destiny"
+        },
+        {
+          "id": 15000072,
+          "groupName": "love_and_romance",
+          "title": "Sincere Love"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        },
+        {
+          "id": 15000148,
+          "groupName": "original",
+          "title": "Exclusive"
+        },
+        {
+          "id": 15000025,
+          "groupName": "society_and_class",
+          "title": "Heiress"
+        },
+        {
+          "id": 15000023,
+          "groupName": "society_and_class",
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000016,
+          "groupName": "second_chance",
+          "title": "Second Chance"
+        },
+        {
+          "id": 15000010,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Breakup"
+        },
+        {
+          "id": 15000138,
+          "groupName": "western",
+          "title": "Western"
+        },
+        {
+          "id": 15000139,
+          "groupName": "western",
+          "title": "US"
+        },
+        {
+          "id": 15000017,
+          "groupName": "second_chance",
+          "title": "Reunion"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        }
+      ],
+      "title": "Fight for Love ",
+      "titleImage": "https://asset.vigloo.com/US009P01S01/asset/title/en.png",
+      "subTitle": "Would you risk it all for love?",
+      "bannerImage": "https://asset.vigloo.com/US009P01S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/US009P01S01/asset/thumbnails/default/en.png",
+      "thumbnailExpanded": "https://asset.vigloo.com/US009P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000892,
+          "type": 0,
+          "url": "https://asset.vigloo.com/US009P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "He went to prison for her, she became a lawyer for him. Reunited years later, their chance at love is tested again.",
+      "description": "Caleb Wilder sacrificed everything for Delaney Monroe, going to prison to protect her. Seven years later, Delaney, now a lawyer, fights to clear his name as their love rekindles. Facing buried secrets, corruption, and betrayal, they must navigate the chaos of scandal and danger, risking everything for justice and a second chance at love.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "releaseDate": "2025-02-27",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "sexual"
+      ],
+      "certificateNumber": "2025-VK00855",
+      "episodeCount": 55,
+      "viewCount": 3293601,
+      "likeCount": 136187,
+      "bookmarkCount": 32102,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000227,
+          "programId": 15000227,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 55,
+          "releaseDate": "2025-02-27",
+          "rating": 15,
+          "contentInformation": [
+            "sexual"
+          ],
+          "certificateNumber": "2025-VK00855",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 10,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Caleb Wilder sacrificed everything for Delaney Monroe, going to prison to protect her. Seven years later, Delaney, now a lawyer, fights to clear his name as their love rekindles. Facing buried secrets, corruption, and betrayal, they must navigate the chaos of scandal and danger, risking everything for justice and a second chance at love.",
+      "casting": "",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000468,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000014,
+          "title": "Reality"
+        },
+        {
+          "id": 15000029,
+          "title": "Love Triangle"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000079,
+          "groupName": "love_and_romance",
+          "title": "Dating"
+        },
+        {
+          "id": 15000092,
+          "groupName": "erotic_and_adult",
+          "title": "Steamy"
+        },
+        {
+          "id": 15000040,
+          "groupName": "time_and_rebirth",
+          "title": "All-Too-Late"
+        },
+        {
+          "id": 15000042,
+          "groupName": "marriage_relationship",
+          "title": "Divorce"
+        },
+        {
+          "id": 15000075,
+          "groupName": "love_and_romance",
+          "title": "Enemies to Lovers"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000103,
+          "groupName": "forbidden_and_complex_love",
+          "title": "Cougar"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        },
+        {
+          "id": 15000148,
+          "groupName": "original",
+          "title": "Exclusive"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        }
+      ],
+      "title": "Romantic Island",
+      "titleImage": "https://asset.vigloo.com/KR000P05S01/asset/title/en.png",
+      "subTitle": "The Love War Between Ex, First Love, and Boyfriend",
+      "bannerImage": "https://asset.vigloo.com/KR000P05S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/KR000P05S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000692,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR000P05S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "On a 19+ dating show, Yeji met her ex-husband, her first love, and her current boyfriend. 'Do I really have to spend the night with all three of them?’",
+      "description": "Yeji enters a 19+ dating show with a huge cash prize for her boyfriend who lost everything.\nThe only way to win the 1.9 billion prize is to spend the night with another man.\nThere, she meets Jae-hyun, her first love, and Do-hyuk, the ex-husband she broke up with after an affair.\nBetween true love, the 1.9 billion prize, and her own desires—what will Yeji choose?",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi",
+        "zh-Hant"
+      ],
+      "releaseDate": "2025-10-23",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "subject",
+        "sexual",
+        "drug"
+      ],
+      "certificateNumber": "2025-VK04862",
+      "episodeCount": 60,
+      "viewCount": 14262788,
+      "likeCount": 131609,
+      "bookmarkCount": 398876,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000463,
+          "programId": 15000468,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 60,
+          "releaseDate": "2025-10-23",
+          "rating": 15,
+          "contentInformation": [
+            "subject",
+            "sexual",
+            "drug"
+          ],
+          "certificateNumber": "2025-VK04862",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 8,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Yeji enters a 19+ dating show with a huge cash prize for her boyfriend who lost everything.\nThe only way to win the 1.9 billion prize is to spend the night with another man.\nThere, she meets Jae-hyun, her first love, and Do-hyuk, the ex-husband she broke up with after an affair.\nBetween true love, the 1.9 billion prize, and her own desires—what will Yeji choose?",
+      "casting": " Lee Jiyeon, Ki Hyunwoo, Kim Hanyoung \nKim Nuri, Won Yubin, Kim Yunseo ",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000340,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000020,
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000021,
+          "title": "Destiny"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000005,
+          "groupName": "revenge_and_justice",
+          "title": "Revenge"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000001,
+          "groupName": "identity",
+          "title": "Mistaken Identity"
+        },
+        {
+          "id": 15000025,
+          "groupName": "society_and_class",
+          "title": "Heiress"
+        },
+        {
+          "id": 15000116,
+          "groupName": "tropes_3",
+          "title": "Family"
+        },
+        {
+          "id": 15000100,
+          "groupName": "forbidden_and_complex_love",
+          "title": "Forbidden Love"
+        },
+        {
+          "id": 15000109,
+          "groupName": "tropes_1",
+          "title": "Delightful"
+        },
+        {
+          "id": 15000138,
+          "groupName": "western",
+          "title": "Western"
+        },
+        {
+          "id": 15000139,
+          "groupName": "western",
+          "title": "US"
+        }
+      ],
+      "title": "Revenge Marriage Sweet Love",
+      "titleImage": "https://asset.vigloo.com/CN001P04S01/asset/title/en.png",
+      "subTitle": "Revenge Sparked, Love on Trial",
+      "bannerImage": "https://asset.vigloo.com/CN001P04S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/CN001P04S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000386,
+          "type": 0,
+          "url": "https://asset.vigloo.com/CN001P04S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "To spite ex Ethan, Cate seduces Shaun and then falls for him. Exposed motives turn revenge into a risky test of love.",
+      "description": "Cate's sister Rebecca had not only stolen her boyfriend Ethan, but had also stripped her of her inheritance. Fueled by desire for revenge, a drunken Cate impulsively decided to seduce Ethan's handsome uncle, Shaun, who later was ignited by Cate and fell madly in love despite his cold demeanor. However, when they both realized Shaun was mistaken as Ethan's uncle, Shaun realized that she initially approached him only for revenge against Ethan, putting their love to the test.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "hi"
+      ],
+      "releaseDate": "2025-08-28",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [],
+      "certificateNumber": null,
+      "episodeCount": 48,
+      "viewCount": 436403,
+      "likeCount": 129764,
+      "bookmarkCount": 2385,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000323,
+          "programId": 15000340,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 48,
+          "releaseDate": "2025-08-28",
+          "rating": 15,
+          "contentInformation": [],
+          "certificateNumber": null,
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 24,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Cate's sister Rebecca had not only stolen her boyfriend Ethan, but had also stripped her of her inheritance. Fueled by desire for revenge, a drunken Cate impulsively decided to seduce Ethan's handsome uncle, Shaun, who later was ignited by Cate and fell madly in love despite his cold demeanor. However, when they both realized Shaun was mistaken as Ethan's uncle, Shaun realized that she initially approached him only for revenge against Ethan, putting their love to the test.",
+      "casting": "",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000326,
+      "genres": [
+        {
+          "id": 15000029,
+          "title": "Love Triangle"
+        },
+        {
+          "id": 15000019,
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000024,
+          "title": "True Love"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000072,
+          "groupName": "love_and_romance",
+          "title": "Sincere Love"
+        },
+        {
+          "id": 15000080,
+          "groupName": "love_and_romance",
+          "title": "Friends to Lovers"
+        },
+        {
+          "id": 15000067,
+          "groupName": "love_and_romance",
+          "title": "Rom-Com"
+        },
+        {
+          "id": 15000040,
+          "groupName": "time_and_rebirth",
+          "title": "All-Too-Late"
+        },
+        {
+          "id": 15000023,
+          "groupName": "society_and_class",
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000022,
+          "groupName": "society_and_class",
+          "title": "CEO"
+        },
+        {
+          "id": 15000061,
+          "groupName": "advanture_and_survival",
+          "title": "Battle"
+        },
+        {
+          "id": 15000070,
+          "groupName": "love_and_romance",
+          "title": "Destiny"
+        },
+        {
+          "id": 15000010,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Breakup"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000158,
+          "groupName": "relationship",
+          "title": "Enemy"
+        },
+        {
+          "id": 15000081,
+          "groupName": "love_and_romance",
+          "title": "Fake Relationship"
+        },
+        {
+          "id": 15000143,
+          "groupName": "audience_group_2",
+          "title": "Female Dominant"
+        },
+        {
+          "id": 15000157,
+          "groupName": "relationship",
+          "title": "Friendship"
+        },
+        {
+          "id": 15000076,
+          "groupName": "love_and_romance",
+          "title": "Love Triangle"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000138,
+          "groupName": "western",
+          "title": "Western"
+        },
+        {
+          "id": 15000159,
+          "groupName": "relationship",
+          "title": "Rival"
+        },
+        {
+          "id": 15000139,
+          "groupName": "western",
+          "title": "US"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        }
+      ],
+      "title": "The Love War Between My CEOs",
+      "titleImage": "https://asset.vigloo.com/US028P02S01/asset/title/en.png",
+      "subTitle": "When Love Becomes a War",
+      "bannerImage": "https://asset.vigloo.com/US028P02S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/US028P02S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000863,
+          "type": 0,
+          "url": "https://asset.vigloo.com/US028P02S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Love is a war when memory, ambition, and desire collide in a deadly triangle of secrets and longing.",
+      "description": "Sienna is caught between Damien, the protector who stayed, and Theo, the ex who shattered her world. But this isn’t just a love triangle, it’s a fight for identity, memory, and power. As secrets rise and emotions combust, Sienna must stop being someone’s choice… and become her own.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2025-08-14",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [],
+      "certificateNumber": "2025-VK04104",
+      "episodeCount": 59,
+      "viewCount": 880797,
+      "likeCount": 130707,
+      "bookmarkCount": 10792,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000313,
+          "programId": 15000326,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 59,
+          "releaseDate": "2025-08-14",
+          "rating": 15,
+          "contentInformation": [],
+          "certificateNumber": "2025-VK04104",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 10,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Sienna is caught between Damien, the protector who stayed, and Theo, the ex who shattered her world. But this isn’t just a love triangle, it’s a fight for identity, memory, and power. As secrets rise and emotions combust, Sienna must stop being someone’s choice… and become her own.",
+      "casting": "Tyler Johnson Ellis\nRyan Vincent\nAlexandria Watts",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000175,
+      "genres": [
+        {
+          "id": 15000019,
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000024,
+          "title": "True Love"
+        },
+        {
+          "id": 15000004,
+          "title": "Romance"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000000,
+          "groupName": "identity",
+          "title": "Hidden Identity"
+        },
+        {
+          "id": 15000023,
+          "groupName": "society_and_class",
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000075,
+          "groupName": "love_and_romance",
+          "title": "Enemies to Lovers"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        },
+        {
+          "id": 15000139,
+          "groupName": "western",
+          "title": "US"
+        },
+        {
+          "id": 15000067,
+          "groupName": "love_and_romance",
+          "title": "Rom-Com"
+        },
+        {
+          "id": 15000068,
+          "groupName": "love_and_romance",
+          "title": "Sweet Love"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000138,
+          "groupName": "western",
+          "title": "Western"
+        }
+      ],
+      "title": "Billionaire's Love Starts With Lies",
+      "titleImage": "https://asset.vigloo.com/US024P01S01/asset/title/en.png",
+      "subTitle": "Love Built on Lies and Trust",
+      "bannerImage": "https://asset.vigloo.com/US024P01S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/US024P01S01/asset/thumbnails/default/en.png",
+      "thumbnailExpanded": "https://asset.vigloo.com/US024P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000172,
+          "type": 0,
+          "url": "https://asset.vigloo.com/US024P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "A fiery jewelry designer and a billionaire CEO navigating betrayal and secrets to find love and success.",
+      "description": "{\"synopsis\":\"Rita Kelly, a struggling jewelry designer, meets billionaire heir Davis Hart under false pretenses. After Davis ruins a key necklace, they team up, navigating attraction, ambition, and family pressures.\\nWhen Davis’s identity is exposed, shattering Rita’s trust, she fights to succeed on her own. Davis redeems himself by exposing a rival’s schemes and winning back her love.\",\"cast\":\"Cast: Rick Shepherd, Jessica Jacoby\",\"castNames\":\"Rick Shepherd, Jessica Jacoby\"}",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2025-02-06",
+      "isOriginal": true,
+      "ongoingStatus": 1,
+      "rating": 15,
+      "contentInformation": [
+        "sexual",
+        "drug"
+      ],
+      "certificateNumber": "2025-VK00782",
+      "episodeCount": 50,
+      "viewCount": 606628,
+      "likeCount": 130298,
+      "bookmarkCount": 4190,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000175,
+          "programId": 15000175,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 50,
+          "releaseDate": "2025-02-06",
+          "rating": 15,
+          "contentInformation": [
+            "sexual",
+            "drug"
+          ],
+          "certificateNumber": "2025-VK00782",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 12,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Rita Kelly, a struggling jewelry designer, meets billionaire heir Davis Hart under false pretenses. After Davis ruins a key necklace, they team up, navigating attraction, ambition, and family pressures.\nWhen Davis’s identity is exposed, shattering Rita’s trust, she fights to succeed on her own. Davis redeems himself by exposing a rival’s schemes and winning back her love.",
+      "casting": "Rick Shepherd, Jessica Jacoby",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000135,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000015,
+          "title": "Mystery"
+        },
+        {
+          "id": 15000022,
+          "title": "Comeback"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000072,
+          "groupName": "love_and_romance",
+          "title": "Sincere Love"
+        },
+        {
+          "id": 15000076,
+          "groupName": "love_and_romance",
+          "title": "Love Triangle"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        },
+        {
+          "id": 15000010,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Breakup"
+        },
+        {
+          "id": 15000016,
+          "groupName": "second_chance",
+          "title": "Second Chance"
+        },
+        {
+          "id": 15000017,
+          "groupName": "second_chance",
+          "title": "Reunion"
+        },
+        {
+          "id": 15000138,
+          "groupName": "western",
+          "title": "Western"
+        },
+        {
+          "id": 15000139,
+          "groupName": "western",
+          "title": "US"
+        }
+      ],
+      "title": "Love Lies and Alibis",
+      "titleImage": "https://asset.vigloo.com/US004P01S01/asset/title/en.png",
+      "subTitle": "Love is the biggest mystery of all.",
+      "bannerImage": "https://asset.vigloo.com/US004P01S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/US004P01S01/asset/thumbnail/en.png",
+      "thumbnailExpanded": "https://asset.vigloo.com/US004P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000013,
+          "type": 0,
+          "url": "https://asset.vigloo.com/US004P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Ex-detective Jake Hawkins risks everything to clear his name and win back Olivia—his prime suspect and lost love.",
+      "description": "{\"synopsis\":\"When a small-town doctor is found dead at her own gala, disgraced ex-detective Jake Hawkins unravels the town's secret to solve the case, only to find himself caught in a dangerous dance of attraction with Olivia - the prime suspect - and the woman he once loved. In a high-stakes pursuit for justice and redemption, he must decide whether to follow his head—or his heart.\",\"cast\":\"Cast: Robert Palmer Watkins, Grace Swanson\",\"castNames\":\"Robert Palmer Watkins, Grace Swanson\"}",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar"
+      ],
+      "releaseDate": "2024-12-19",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "subject",
+        "sexual",
+        "drug"
+      ],
+      "certificateNumber": "2025-VK00255",
+      "episodeCount": 58,
+      "viewCount": 639177,
+      "likeCount": 130668,
+      "bookmarkCount": 4942,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000135,
+          "programId": 15000135,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 58,
+          "releaseDate": "2024-12-19",
+          "rating": 15,
+          "contentInformation": [
+            "subject",
+            "sexual",
+            "drug"
+          ],
+          "certificateNumber": "2025-VK00255",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 10,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "When a small-town doctor is found dead at her own gala, disgraced ex-detective Jake Hawkins unravels the town's secret to solve the case, only to find himself caught in a dangerous dance of attraction with Olivia - the prime suspect - and the woman he once loved. In a high-stakes pursuit for justice and redemption, he must decide whether to follow his head—or his heart.",
+      "casting": "Robert Palmer Watkins, Grace Swanson",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000368,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000020,
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000021,
+          "title": "Destiny"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000005,
+          "groupName": "revenge_and_justice",
+          "title": "Revenge"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000100,
+          "groupName": "forbidden_and_complex_love",
+          "title": "Forbidden Love"
+        },
+        {
+          "id": 15000004,
+          "groupName": "revenge_and_justice",
+          "title": "Tit for Tat"
+        },
+        {
+          "id": 15000071,
+          "groupName": "love_and_romance",
+          "title": "Love at First Sight"
+        },
+        {
+          "id": 15000000,
+          "groupName": "identity",
+          "title": "Hidden Identity"
+        },
+        {
+          "id": 15000116,
+          "groupName": "tropes_3",
+          "title": "Family"
+        },
+        {
+          "id": 15000138,
+          "groupName": "western",
+          "title": "Western"
+        },
+        {
+          "id": 15000139,
+          "groupName": "western",
+          "title": "US"
+        }
+      ],
+      "title": "Love The Way You Lie",
+      "titleImage": "https://asset.vigloo.com/CN001P05S01/asset/title/en.png",
+      "subTitle": "Revenge Flirtation, Real Love",
+      "bannerImage": "https://asset.vigloo.com/CN001P05S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/CN001P05S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000460,
+          "type": 0,
+          "url": "https://asset.vigloo.com/CN001P05S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "After Rebecca steals Molly’s man and inheritance, she targets uncle Adrian. A rash ploy ignites unexpected love.",
+      "description": "Molly’s sister didn’t just swipe her boyfriend Connor—she also snatched her inheritance, leaving Molly high and dry. Fueled by alcohol and vengeance, Molly hatches a wild plan: seduce Connor’s attractive uncle, Adrian. Little does she know, her half-baked scheme works a little too well, because Adrian soon finds himself head over heels for Molly.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi"
+      ],
+      "releaseDate": "2025-09-11",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [],
+      "certificateNumber": null,
+      "episodeCount": 59,
+      "viewCount": 393663,
+      "likeCount": 129691,
+      "bookmarkCount": 2191,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000342,
+          "programId": 15000368,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 59,
+          "releaseDate": "2025-09-11",
+          "rating": 15,
+          "contentInformation": [],
+          "certificateNumber": null,
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 7,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Molly’s sister didn’t just swipe her boyfriend Connor—she also snatched her inheritance, leaving Molly high and dry. Fueled by alcohol and vengeance, Molly hatches a wild plan: seduce Connor’s attractive uncle, Adrian. Little does she know, her half-baked scheme works a little too well, because Adrian soon finds himself head over heels for Molly.",
+      "casting": "",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000069,
+      "genres": [
+        {
+          "id": 15000001,
+          "title": "Drama"
+        },
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000013,
+          "title": "Comedy"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000001,
+          "groupName": "identity",
+          "title": "Mistaken Identity"
+        },
+        {
+          "id": 15000061,
+          "groupName": "advanture_and_survival",
+          "title": "Battle"
+        },
+        {
+          "id": 15000105,
+          "groupName": "tropes_1",
+          "title": "Tacky"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        },
+        {
+          "id": 15000133,
+          "groupName": "characteristic",
+          "title": "Chic"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        },
+        {
+          "id": 15000148,
+          "groupName": "original",
+          "title": "Exclusive"
+        }
+      ],
+      "title": "Our Boss Loves Men",
+      "titleImage": "https://asset.vigloo.com/KR017P01S01/asset/title/en.png",
+      "subTitle": "A Life-and-Death Battle Over Love",
+      "bannerImage": "https://asset.vigloo.com/KR017P01S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/KR017P01S01/asset/thumbnail/en.png",
+      "thumbnailExpanded": "",
+      "thumbnails": [
+        {
+          "id": 10000063,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR017P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "A female and a male staff start a risky attempt to win their gay boss' love, risking the fate of their team.",
+      "description": "{\"synopsis\":\"In the peaceful sales team of Nice Group, the manager Kim Taeyoon known as the reaper of the main branch is issued. Sales team 1 and 2 face their judgment day, one group expected to disappear. When a rumor of the manager's sexuality spreads, the two teams start to compete for their lives to lure him, both with different approaches.\",\"cast\":\"Cast : Kim Min Dong, Kim Jiyun\",\"castNames\":\"Kim Min Dong, Kim Jiyun\"}",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2024-09-12",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "drug"
+      ],
+      "certificateNumber": "2024-VK04799",
+      "episodeCount": 40,
+      "viewCount": 746272,
+      "likeCount": 130160,
+      "bookmarkCount": 7654,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000069,
+          "programId": 15000069,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 40,
+          "releaseDate": "2024-09-12",
+          "rating": 15,
+          "contentInformation": [
+            "drug"
+          ],
+          "certificateNumber": "2024-VK04799",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 5,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "In the peaceful sales team of Nice Group, the manager Kim Taeyoon known as the reaper of the main branch is issued. Sales team 1 and 2 face their judgment day, one group expected to disappear. When a rumor of the manager's sexuality spreads, the two teams start to compete for their lives to lure him, both with different approaches.",
+      "casting": "Kim Min Dong, Kim Jiyun",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000089,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000002,
+          "title": "Fantasy"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000067,
+          "groupName": "love_and_romance",
+          "title": "Rom-Com"
+        },
+        {
+          "id": 15000070,
+          "groupName": "love_and_romance",
+          "title": "Destiny"
+        },
+        {
+          "id": 15000037,
+          "groupName": "time_and_rebirth",
+          "title": "Time Travel"
+        },
+        {
+          "id": 15000116,
+          "groupName": "tropes_3",
+          "title": "Family"
+        },
+        {
+          "id": 15000110,
+          "groupName": "tropes_2",
+          "title": "Surreal"
+        },
+        {
+          "id": 15000125,
+          "groupName": "plot_tropes_2",
+          "title": "Plot Twist"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        }
+      ],
+      "title": "I Became My Mom's Love Coach",
+      "titleImage": "https://asset.vigloo.com/KR023P01S01/asset/title/en.png",
+      "subTitle": "A Survival Love Coach for My Birth",
+      "bannerImage": "https://asset.vigloo.com/KR023P01S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/KR023P01S01/asset/thumbnail/en.png",
+      "thumbnailExpanded": "",
+      "thumbnails": [
+        {
+          "id": 10000026,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR023P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "The story of a relationship-advice DJ who ends up counseling her mother on love through a phone connected to the past!",
+      "description": "",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar"
+      ],
+      "releaseDate": "2024-10-24",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 12,
+      "contentInformation": [
+        "violence",
+        "fear",
+        "drug"
+      ],
+      "certificateNumber": "2024-VK05518",
+      "episodeCount": 52,
+      "viewCount": 425225,
+      "likeCount": 129837,
+      "bookmarkCount": 1643,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000089,
+          "programId": 15000089,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 52,
+          "releaseDate": "2024-10-24",
+          "rating": 12,
+          "contentInformation": [
+            "violence",
+            "fear",
+            "drug"
+          ],
+          "certificateNumber": "2024-VK05518",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 7,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "",
+      "casting": "",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000794,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000001,
+          "title": "Drama"
+        },
+        {
+          "id": 15000030,
+          "title": "Hate Love"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000086,
+          "groupName": "romance_fantasy",
+          "title": "One Night Stand"
+        },
+        {
+          "id": 15000050,
+          "groupName": "professional_genre",
+          "title": "Office"
+        },
+        {
+          "id": 15000075,
+          "groupName": "love_and_romance",
+          "title": "Enemies to Lovers"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000067,
+          "groupName": "love_and_romance",
+          "title": "Rom-Com"
+        },
+        {
+          "id": 15000001,
+          "groupName": "identity",
+          "title": "Mistaken Identity"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        }
+      ],
+      "title": "A Love Good for Nothing",
+      "titleImage": "https://asset.vigloo.com/KR069P12S01/asset/title/en.png",
+      "subTitle": "Pointless one night turns into true love",
+      "bannerImage": "",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/KR069P12S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10001222,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR069P12S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "A conservative man and a woman spend a drunken night by mistake. Should they get married? Or just let it go?",
+      "description": "Dohye, a 39-year-old unmarried woman, finally decides to accept the heart of a guy who's had a crush on her for six years, but ends up getting an unexpected invitation to his wedding with another woman. In frustration, she spends a drunken one night with a nerd who moved in next door, but shockingly enough, the nerd turns out to be her new boss later.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh-Hant",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2026-01-08",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "sexual",
+        "drug"
+      ],
+      "certificateNumber": " 2024-VK06681",
+      "episodeCount": 50,
+      "viewCount": 983920,
+      "likeCount": 129601,
+      "bookmarkCount": 26750,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000761,
+          "programId": 15000794,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 50,
+          "releaseDate": "2026-01-08",
+          "rating": 15,
+          "contentInformation": [
+            "sexual",
+            "drug"
+          ],
+          "certificateNumber": " 2024-VK06681",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 10,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Dohye, a 39-year-old unmarried woman, finally decides to accept the heart of a guy who's had a crush on her for six years, but ends up getting an unexpected invitation to his wedding with another woman. In frustration, she spends a drunken one night with a nerd who moved in next door, but shockingly enough, the nerd turns out to be her new boss later.",
+      "casting": "Lee Dong-geon, Park Ha-seon\nLee Ju-an, Yu Su-rim",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000296,
+      "genres": [
+        {
+          "id": 15000021,
+          "title": "Destiny"
+        },
+        {
+          "id": 15000019,
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000004,
+          "title": "Romance"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000086,
+          "groupName": "romance_fantasy",
+          "title": "One Night Stand"
+        },
+        {
+          "id": 15000023,
+          "groupName": "society_and_class",
+          "title": "Billionaire"
+        },
+        {
+          "id": 15000047,
+          "groupName": "marriage_relationship",
+          "title": "Pregnancy"
+        },
+        {
+          "id": 15000050,
+          "groupName": "professional_genre",
+          "title": "Office"
+        },
+        {
+          "id": 15000092,
+          "groupName": "erotic_and_adult",
+          "title": "Steamy"
+        },
+        {
+          "id": 15000045,
+          "groupName": "marriage_relationship",
+          "title": "Contract Marriage"
+        },
+        {
+          "id": 15000098,
+          "groupName": "erotic_and_adult",
+          "title": "Bed Scene"
+        },
+        {
+          "id": 15000135,
+          "groupName": "asia",
+          "title": "Japan"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        },
+        {
+          "id": 15000149,
+          "groupName": "original",
+          "title": "Vigloo Original"
+        },
+        {
+          "id": 15000070,
+          "groupName": "love_and_romance",
+          "title": "Destiny"
+        },
+        {
+          "id": 15000069,
+          "groupName": "love_and_romance",
+          "title": "Romantic"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000071,
+          "groupName": "love_and_romance",
+          "title": "Love at First Sight"
+        },
+        {
+          "id": 15000078,
+          "groupName": "love_and_romance",
+          "title": "Contract Love"
+        },
+        {
+          "id": 15000081,
+          "groupName": "love_and_romance",
+          "title": "Fake Relationship"
+        },
+        {
+          "id": 15000093,
+          "groupName": "erotic_and_adult",
+          "title": "Erotic"
+        },
+        {
+          "id": 15000125,
+          "groupName": "plot_tropes_2",
+          "title": "Plot Twist"
+        },
+        {
+          "id": 15000094,
+          "groupName": "erotic_and_adult",
+          "title": "X-rated "
+        },
+        {
+          "id": 15000096,
+          "groupName": "erotic_and_adult",
+          "title": "Sex"
+        },
+        {
+          "id": 15000097,
+          "groupName": "erotic_and_adult",
+          "title": "Kiss"
+        },
+        {
+          "id": 15000004,
+          "groupName": "revenge_and_justice",
+          "title": "Tit for Tat"
+        },
+        {
+          "id": 15000109,
+          "groupName": "tropes_1",
+          "title": "Delightful"
+        },
+        {
+          "id": 15000116,
+          "groupName": "tropes_3",
+          "title": "Family"
+        },
+        {
+          "id": 15000120,
+          "groupName": "mob_drama",
+          "title": "Gangster"
+        },
+        {
+          "id": 15000006,
+          "groupName": "revenge_and_justice",
+          "title": "Redemption"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000017,
+          "groupName": "second_chance",
+          "title": "Reunion"
+        },
+        {
+          "id": 15000019,
+          "groupName": "society_and_class",
+          "title": "High Society"
+        },
+        {
+          "id": 15000020,
+          "groupName": "society_and_class",
+          "title": "Elite Family"
+        },
+        {
+          "id": 15000021,
+          "groupName": "society_and_class",
+          "title": "Cinderella"
+        },
+        {
+          "id": 15000024,
+          "groupName": "society_and_class",
+          "title": "Rags to Riches"
+        },
+        {
+          "id": 15000030,
+          "groupName": "paranomal",
+          "title": "Alpha"
+        },
+        {
+          "id": 15000133,
+          "groupName": "characteristic",
+          "title": "Chic"
+        },
+        {
+          "id": 15000142,
+          "groupName": "audience_group_2",
+          "title": "Female"
+        },
+        {
+          "id": 15000143,
+          "groupName": "audience_group_2",
+          "title": "Female Dominant"
+        },
+        {
+          "id": 15000134,
+          "groupName": "asia",
+          "title": "Asian"
+        }
+      ],
+      "title": "Eternal Love after One-Night Stand?",
+      "titleImage": "https://asset.vigloo.com/JP014P01S01/asset/title/en.png",
+      "subTitle": "Somewhere between Love and Destiny",
+      "bannerImage": "https://asset.vigloo.com/JP014P01S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/JP014P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000510,
+          "type": 0,
+          "url": "https://asset.vigloo.com/JP014P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Destined romance of a Korean-Japanese couple with premarital pregnancy after one-night stand",
+      "description": "Haruka spends a night with a stranger in anger at her earnest boyfriend's cheating. Later, the stranger turns out to be Han Jiho, the new Director at her workplace. Even worse, Haruka and Jiho become entangled with a conglomerate family after finding out about premarital pregnancy and face tons of obstacles to tackle. Will they safely reach a happy ending?",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi"
+      ],
+      "releaseDate": "2025-06-12",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "sexual",
+        "violence",
+        "language"
+      ],
+      "certificateNumber": "2025-VK02870",
+      "episodeCount": 50,
+      "viewCount": 8227463,
+      "likeCount": 136087,
+      "bookmarkCount": 212122,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000288,
+          "programId": 15000296,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 50,
+          "releaseDate": "2025-06-12",
+          "rating": 15,
+          "contentInformation": [
+            "sexual",
+            "violence",
+            "language"
+          ],
+          "certificateNumber": "2025-VK02870",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 8,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Haruka spends a night with a stranger in anger at her earnest boyfriend's cheating. Later, the stranger turns out to be Han Jiho, the new Director at her workplace. Even worse, Haruka and Jiho become entangled with a conglomerate family after finding out about premarital pregnancy and face tons of obstacles to tackle. Will they safely reach a happy ending?",
+      "casting": "Matsuka Akari, Gong Juhan, Iino Satomi, MASAYA, Nakajima Ken",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000119,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000020,
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000036,
+          "title": "Revenge"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000009,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Affair"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        }
+      ],
+      "title": "My Cheating Husband",
+      "titleImage": "https://asset.vigloo.com/US020P13S01/asset/title/en.png",
+      "subTitle": "Secrets, choices, and love’s true test.",
+      "bannerImage": "https://asset.vigloo.com/US020P13S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/US020P13S01/asset/thumbnail/en.png",
+      "thumbnailExpanded": "https://asset.vigloo.com/US020P13S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000020,
+          "type": 0,
+          "url": "https://asset.vigloo.com/US020P13S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "A bride's faith in love is tested as her father's will uncovers secrets that could change her destiny forever.",
+      "description": "{\"synopsis\":\"Grace, a firm believer in love, is determined to marry Alex, convinced he is her soulmate despite obstacles and warnings. But her late father’s will reveals secrets that intertwine her past, present, and future. As Grace faces unexpected challenges and choices, her faith, loyalty, and love are put to the ultimate test, forcing her to decide whether love truly conquers all.\",\"cast\":\"\",\"castNames\":\"\"}",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2024-12-19",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [],
+      "certificateNumber": null,
+      "episodeCount": 50,
+      "viewCount": 369354,
+      "likeCount": 129688,
+      "bookmarkCount": 1354,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000119,
+          "programId": 15000119,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 50,
+          "releaseDate": "2024-12-19",
+          "rating": 15,
+          "contentInformation": [],
+          "certificateNumber": null,
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 5,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Grace, a firm believer in love, is determined to marry Alex, convinced he is her soulmate despite obstacles and warnings. But her late father’s will reveals secrets that intertwine her past, present, and future. As Grace faces unexpected challenges and choices, her faith, loyalty, and love are put to the ultimate test, forcing her to decide whether love truly conquers all.",
+      "casting": "",
+      "badges": [],
+      "expirationDate": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": 15000265,
+      "genres": [
+        {
+          "id": 15000002,
+          "title": "Fantasy"
+        },
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000017,
+          "title": "Period Pieces"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000082,
+          "groupName": "romance_fantasy",
+          "title": "Romantasy"
+        },
+        {
+          "id": 15000110,
+          "groupName": "tropes_2",
+          "title": "Surreal"
+        },
+        {
+          "id": 15000161,
+          "groupName": "others",
+          "title": "Game"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000099,
+          "groupName": "periodic",
+          "title": "Historical"
+        },
+        {
+          "id": 15000070,
+          "groupName": "love_and_romance",
+          "title": "Destiny"
+        },
+        {
+          "id": 15000135,
+          "groupName": "asia",
+          "title": "Japan"
+        }
+      ],
+      "title": "My Samurai Boyfriend Is From a Game!?",
+      "titleImage": "https://asset.vigloo.com/JP002P04S01/asset/title/en.png",
+      "subTitle": "Modern love with Edo soldier",
+      "bannerImage": "https://asset.vigloo.com/JP002P04S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/JP002P04S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000626,
+          "type": 0,
+          "url": "https://asset.vigloo.com/JP002P04S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "The story of an office worker who travels to the Edo period to face her destiny and to fulfill her love.",
+      "description": "Shino travels between reality and the end of the Edo period through a simulation game. There she meets Heisuke, a Shinsengumi samurai, with whom she ends up falling in love. Within the game, he interacts with other characters and decides to face his destiny, the mysteries of history and his love. What future will Shino choose, trapped between truths and lies, love and duty?\n",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar"
+      ],
+      "releaseDate": "2025-04-10",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "sexual",
+        "violence"
+      ],
+      "certificateNumber": "2025-VK03618",
+      "episodeCount": 70,
+      "viewCount": 517552,
+      "likeCount": 130101,
+      "bookmarkCount": 3435,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000261,
+          "programId": 15000265,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 70,
+          "releaseDate": "2025-04-10",
+          "rating": 15,
+          "contentInformation": [
+            "sexual",
+            "violence"
+          ],
+          "certificateNumber": "2025-VK03618",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 6,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Shino travels between reality and the end of the Edo period through a simulation game. There she meets Heisuke, a Shinsengumi samurai, with whom she ends up falling in love. Within the game, he interacts with other characters and decides to face his destiny, the mysteries of history and his love. What future will Shino choose, trapped between truths and lies, love and duty?\n",
+      "casting": "Takai Mana, Ikeda Masashi, Takao Shogo, Kawasaki Kenta, Saito Rina, Kadoma Wataru",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000433,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000003,
+          "title": "Thriller"
+        },
+        {
+          "id": 15000026,
+          "title": "Love Affair"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000002,
+          "groupName": "identity",
+          "title": "Secret Identity"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000009,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Affair"
+        },
+        {
+          "id": 15000004,
+          "groupName": "revenge_and_justice",
+          "title": "Tit for Tat"
+        },
+        {
+          "id": 15000071,
+          "groupName": "love_and_romance",
+          "title": "Love at First Sight"
+        },
+        {
+          "id": 15000076,
+          "groupName": "love_and_romance",
+          "title": "Love Triangle"
+        },
+        {
+          "id": 15000075,
+          "groupName": "love_and_romance",
+          "title": "Enemies to Lovers"
+        },
+        {
+          "id": 15000100,
+          "groupName": "forbidden_and_complex_love",
+          "title": "Forbidden Love"
+        },
+        {
+          "id": 15000111,
+          "groupName": "tropes_2",
+          "title": "Telenovela"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        }
+      ],
+      "title": "Seduce My Husband",
+      "titleImage": "https://asset.vigloo.com/KR073P01S01/asset/title/en.png",
+      "subTitle": "Su-jin vs Su-jin, Love and Revenge",
+      "bannerImage": "https://asset.vigloo.com/KR073P01S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/KR073P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000598,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR073P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Sujin loses true love through divorce, while another Sujin discovers true love through revenge.",
+      "description": "In this thrilling revenge drama with repeated reversals, the husband Park Seongho has an affair with a woman with the same name as his wife, and the wife Sung Sujin buys a young woman to seduce her husband to get divorced in their 7th year of marriage. The young woman Yang Sujin falls in love while trying to seduce Sung Sujin's husband for revenge.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "ar",
+        "hi"
+      ],
+      "releaseDate": "2025-10-02",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "sexual",
+        "violence",
+        "language"
+      ],
+      "certificateNumber": "2025-VK01723",
+      "episodeCount": 47,
+      "viewCount": 1220072,
+      "likeCount": 130437,
+      "bookmarkCount": 20577,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000400,
+          "programId": 15000433,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 47,
+          "releaseDate": "2025-10-02",
+          "rating": 15,
+          "contentInformation": [
+            "sexual",
+            "violence",
+            "language"
+          ],
+          "certificateNumber": "2025-VK01723",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 6,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "In this thrilling revenge drama with repeated reversals, the husband Park Seongho has an affair with a woman with the same name as his wife, and the wife Sung Sujin buys a young woman to seduce her husband to get divorced in their 7th year of marriage. The young woman Yang Sujin falls in love while trying to seduce Sung Sujin's husband for revenge.",
+      "casting": "Cha Hyun-seung, Lee Ru-ri, Lee Ha-eum, Gwan Woo",
+      "badges": [],
+      "expirationDate": "2026-10-02T00:00:00Z"
+    },
+    {
+      "id": 15000120,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000024,
+          "title": "True Love"
+        },
+        {
+          "id": 15000035,
+          "title": "Second Chance"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000041,
+          "groupName": "marriage_relationship",
+          "title": "Marriage"
+        },
+        {
+          "id": 15000106,
+          "groupName": "tropes_1",
+          "title": "Dramatic"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        }
+      ],
+      "title": "Her Forbidden Lovers",
+      "titleImage": "https://asset.vigloo.com/US020P14S01/asset/title/en.png",
+      "subTitle": "Love, desire, and a dangerous triangle.",
+      "bannerImage": "https://asset.vigloo.com/US020P14S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/US020P14S01/asset/thumbnail/en.png",
+      "thumbnailExpanded": "https://asset.vigloo.com/US020P14S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000011,
+          "type": 0,
+          "url": "https://asset.vigloo.com/US020P14S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "An heiress is caught in a love triangle with two brothers while navigating her father’s demand to marry within a year.",
+      "description": "{\"synopsis\":\"Heiress Audrey is shocked when her father demands she marry within a year, even providing a list of suitors at an extravagant party. Planning her escape, she crosses paths with the Vanderbilt brothers: charming Caspian and brooding Killian. A surprise trip to Bermuda entangles her in a love triangle. Will Audrey choose between them or risk losing herself in a dangerous game of love and desire?\",\"cast\":\"\",\"castNames\":\"\"}",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2024-12-19",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [],
+      "certificateNumber": null,
+      "episodeCount": 57,
+      "viewCount": 377710,
+      "likeCount": 129764,
+      "bookmarkCount": 1254,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000120,
+          "programId": 15000120,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 57,
+          "releaseDate": "2024-12-19",
+          "rating": 15,
+          "contentInformation": [],
+          "certificateNumber": null,
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 5,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Heiress Audrey is shocked when her father demands she marry within a year, even providing a list of suitors at an extravagant party. Planning her escape, she crosses paths with the Vanderbilt brothers: charming Caspian and brooding Killian. A surprise trip to Bermuda entangles her in a love triangle. Will Audrey choose between them or risk losing herself in a dangerous game of love and desire?",
+      "casting": "",
+      "badges": [],
+      "expirationDate": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": 15000039,
+      "genres": [
+        {
+          "id": 15000004,
+          "title": "Romance"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000010,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Breakup"
+        },
+        {
+          "id": 15000017,
+          "groupName": "second_chance",
+          "title": "Reunion"
+        },
+        {
+          "id": 15000040,
+          "groupName": "time_and_rebirth",
+          "title": "All-Too-Late"
+        },
+        {
+          "id": 15000111,
+          "groupName": "tropes_2",
+          "title": "Telenovela"
+        },
+        {
+          "id": 15000057,
+          "groupName": "youth_drama",
+          "title": "Young Adult"
+        },
+        {
+          "id": 15000125,
+          "groupName": "plot_tropes_2",
+          "title": "Plot Twist"
+        },
+        {
+          "id": 15000068,
+          "groupName": "love_and_romance",
+          "title": "Sweet Love"
+        },
+        {
+          "id": 15000133,
+          "groupName": "characteristic",
+          "title": "Chic"
+        },
+        {
+          "id": 15000101,
+          "groupName": "forbidden_and_complex_love",
+          "title": "Bitter Love"
+        }
+      ],
+      "title": "Real Love Variety",
+      "titleImage": "https://asset.vigloo.com/KR031P03S01/asset/title/en.png",
+      "subTitle": "My Dating Show Survival",
+      "bannerImage": "https://asset.vigloo.com/KR031P03S01/asset/mainbanner/en.png",
+      "thumbnail": "https://asset.vigloo.com/KR031P03S01/asset/thumbnail/en.png",
+      "thumbnailExpanded": "",
+      "thumbnails": [
+        {
+          "id": 10000000,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR031P03S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Just when I thought I'd never love again, I'm on a dating show? What are the odds!",
+      "description": "{\"synopsis\":\"Hyewon had become a bestseller writer through romance novels based on her own, but is experiencing writer's block after facing a tragic end with the novel's male lead. The studio producer Yiseul asks her a favor, which is to participate in a dating show she is working on, \\\"Real Love\\\". Hyewon's trauma for love makes her reject the offer, but in time is persuaded to do so.\",\"cast\":\"Cast: Jeong Riu, Yoon Jihyun, Kim Sunghak, Park Seyeon, Jeong Sehyung, Song Hwahyun, Oh Yu-an, Yoo Heejune\",\"castNames\":\"Jeong Riu, Yoon Jihyun, Kim Sunghak, Park Seyeon, Jeong Sehyung, Song Hwahyun, Oh Yu-an, Yoo Heejune\"}",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id"
+      ],
+      "releaseDate": "2024-06-29",
+      "isOriginal": true,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "drug"
+      ],
+      "certificateNumber": "2024-VK03466",
+      "episodeCount": 50,
+      "viewCount": 1091800,
+      "likeCount": 346124,
+      "bookmarkCount": 2682,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000039,
+          "programId": 15000039,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 50,
+          "releaseDate": "2024-06-29",
+          "rating": 15,
+          "contentInformation": [
+            "drug"
+          ],
+          "certificateNumber": "2024-VK03466",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 15,
+          "hasTrailer": false,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Hyewon had become a bestseller writer through romance novels based on her own, but is experiencing writer's block after facing a tragic end with the novel's male lead. The studio producer Yiseul asks her a favor, which is to participate in a dating show she is working on, \"Real Love\". Hyewon's trauma for love makes her reject the offer, but in time is persuaded to do so.",
+      "casting": "Jeong Riu, Yoon Jihyun, Kim Sunghak, Park Seyeon, Jeong Sehyung, Song Hwahyun, Oh Yu-an, Yoo Heejune",
+      "badges": [],
+      "expirationDate": null
+    },
+    {
+      "id": 15000463,
+      "genres": [
+        {
+          "id": 15000006,
+          "title": "Sci-Fi"
+        },
+        {
+          "id": 15000004,
+          "title": "Romance"
+        },
+        {
+          "id": 15000003,
+          "title": "Thriller"
+        }
+      ],
+      "metaTags": [
+        {
+          "id": 15000076,
+          "groupName": "love_and_romance",
+          "title": "Love Triangle"
+        },
+        {
+          "id": 15000008,
+          "groupName": "infidelity_and_betrayal",
+          "title": "Betrayal"
+        },
+        {
+          "id": 15000110,
+          "groupName": "tropes_2",
+          "title": "Surreal"
+        },
+        {
+          "id": 15000097,
+          "groupName": "erotic_and_adult",
+          "title": "Kiss"
+        },
+        {
+          "id": 15000060,
+          "groupName": "advanture_and_survival",
+          "title": "Suspense"
+        },
+        {
+          "id": 15000136,
+          "groupName": "asia",
+          "title": "Korea"
+        }
+      ],
+      "title": "META LOVE",
+      "titleImage": "https://asset.vigloo.com/KR074P01S01/asset/title/en.png",
+      "subTitle": "Scandal in the Metaverse",
+      "bannerImage": "https://asset.vigloo.com/KR074P01S01/asset/mainbanner/en.png",
+      "thumbnail": "",
+      "thumbnailExpanded": "https://asset.vigloo.com/KR074P01S01/asset/thumbnail_expanded/en.png",
+      "thumbnails": [
+        {
+          "id": 10000541,
+          "type": 0,
+          "url": "https://asset.vigloo.com/KR074P01S01/asset/thumbnails/default/en.png"
+        }
+      ],
+      "logLine": "Donggun has to choose between an AI girlfriend in the Metaverse and a human girlfriend in reality. Love or survival?",
+      "description": "Donggun falls into a risky love with an AI girlfriend, Luna, in the Metaverse. Luna demonstrates controlling power and develops an obsession with the free will given by Donggun. In reality, Luna helps Donggun save his kidnapped girlfriend Hyunjeong, but tries to lock his soul in a virtual world. Luna comes back to reality after being initialized, breaking the boundary between love and reality.",
+      "seasonCount": 1,
+      "captionLanguages": [
+        "ko",
+        "en",
+        "ja",
+        "zh",
+        "es",
+        "th",
+        "id",
+        "hi",
+        "ar"
+      ],
+      "releaseDate": "2025-10-16",
+      "isOriginal": false,
+      "ongoingStatus": 0,
+      "rating": 15,
+      "contentInformation": [
+        "sexual",
+        "language"
+      ],
+      "certificateNumber": "2025-VK04519",
+      "episodeCount": 50,
+      "viewCount": 708101,
+      "likeCount": 130031,
+      "bookmarkCount": 12134,
+      "readyToPublish": true,
+      "seasons": [
+        {
+          "id": 15000430,
+          "programId": 15000463,
+          "seasonNumber": 1,
+          "title": "",
+          "thumbnail": "",
+          "description": "",
+          "episodeCount": 50,
+          "releaseDate": "2025-10-16",
+          "rating": 15,
+          "contentInformation": [
+            "sexual",
+            "language"
+          ],
+          "certificateNumber": "2025-VK04519",
+          "isExplicit": false,
+          "isFree": false,
+          "appFreeEpCount": 5,
+          "hasTrailer": true,
+          "isLandscape": false,
+          "ongoingStatus": 0
+        }
+      ],
+      "isExplicit": false,
+      "isLandscape": false,
+      "synopsis": "Donggun falls into a risky love with an AI girlfriend, Luna, in the Metaverse. Luna demonstrates controlling power and develops an obsession with the free will given by Donggun. In reality, Luna helps Donggun save his kidnapped girlfriend Hyunjeong, but tries to lock his soul in a virtual world. Luna comes back to reality after being initialized, breaking the boundary between love and reality.",
+      "casting": "Oh Jae-hyung, Song Chae-yoon, Ko Hae-won",
+      "badges": [],
+      "expirationDate": "2026-10-09T00:00:00Z"
+    }
+  ],
+  "timestamp": 1775787674948
+}

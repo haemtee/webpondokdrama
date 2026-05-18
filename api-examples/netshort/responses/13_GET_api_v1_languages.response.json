@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": [
+    "zh_TW",
+    "en_US",
+    "ja_JP",
+    "ko_KR",
+    "es_ES",
+    "id_ID",
+    "th_TH",
+    "pt_PT",
+    "zh_CN",
+    "fr_FR",
+    "de_DE",
+    "it_IT",
+    "ms_MY",
+    "tr_TR",
+    "ar_AE",
+    "vi_VN"
+  ]
+}

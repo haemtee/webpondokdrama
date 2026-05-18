@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "langId": 1,
+      "name": "简体",
+      "locale": "zh"
+    },
+    {
+      "langId": 2,
+      "name": "繁體",
+      "locale": "RTW"
+    },
+    {
+      "langId": 3,
+      "name": "English",
+      "locale": "en"
+    },
+    {
+      "langId": 4,
+      "name": "Español",
+      "locale": "es"
+    },
+    {
+      "langId": 5,
+      "name": "Português",
+      "locale": "pt"
+    },
+    {
+      "langId": 6,
+      "name": "Français",
+      "locale": "fr"
+    },
+    {
+      "langId": 7,
+      "name": "Русский",
+      "locale": "ru"
+    },
+    {
+      "langId": 8,
+      "name": "Italiano",
+      "locale": "it"
+    },
+    {
+      "langId": 9,
+      "name": "日本語",
+      "locale": "ja"
+    },
+    {
+      "langId": 10,
+      "name": "العربية",
+      "locale": "ar"
+    },
+    {
+      "langId": 11,
+      "name": "Bahasa Indonesia",
+      "locale": "id"
+    },
+    {
+      "langId": 12,
+      "name": "ไทย",
+      "locale": "th"
+    },
+    {
+      "langId": 13,
+      "name": "Tiếng Việt",
+      "locale": "vi"
+    },
+    {
+      "langId": 14,
+      "name": "한국어",
+      "locale": "ko"
+    },
+    {
+      "langId": 15,
+      "name": "Filipino",
+      "locale": "fil"
+    },
+    {
+      "langId": 16,
+      "name": "Deutsch",
+      "locale": "de"
+    },
+    {
+      "langId": 17,
+      "name": "हिन्दी",
+      "locale": "hi"
+    },
+    {
+      "langId": 21,
+      "name": "Bahasa Melayu",
+      "locale": "ms"
+    },
+    {
+      "langId": 22,
+      "name": "Türkçe",
+      "locale": "tr"
+    }
+  ]
+}

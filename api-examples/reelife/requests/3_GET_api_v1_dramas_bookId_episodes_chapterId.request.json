@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/reelife/api/v1/dramas/42000003903/episodes/1",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "bookId": "42000003903",
+    "chapterId": "1"
+  }
+}

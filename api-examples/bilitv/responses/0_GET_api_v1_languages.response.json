@@ -1,0 +1,38 @@
+[
+  {
+    "code": "en",
+    "name": "English"
+  },
+  {
+    "code": "id",
+    "name": "Indonesian"
+  },
+  {
+    "code": "zh",
+    "name": "Chinese"
+  },
+  {
+    "code": "es",
+    "name": "Spanish"
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese"
+  },
+  {
+    "code": "ar",
+    "name": "Arabic"
+  },
+  {
+    "code": "th",
+    "name": "Thai"
+  },
+  {
+    "code": "vi",
+    "name": "Vietnamese"
+  },
+  {
+    "code": "ms",
+    "name": "Malay"
+  }
+]

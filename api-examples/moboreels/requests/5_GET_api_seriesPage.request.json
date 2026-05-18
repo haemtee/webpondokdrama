@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/moboreels/api/seriesPage?seriesId=17435414&pageNo=1&pageSize=80&langId=11",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "seriesId": "17435414",
+    "pageNo": "1",
+    "pageSize": "80",
+    "langId": "11"
+  }
+}

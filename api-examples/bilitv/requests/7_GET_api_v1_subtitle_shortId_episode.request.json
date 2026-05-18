@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/bilitv/api/v1/subtitle/1881/1?lang=id&format=json%7Cvtt",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "shortId": "1881",
+    "episode": "1",
+    "lang": "id",
+    "format": "json|vtt"
+  }
+}

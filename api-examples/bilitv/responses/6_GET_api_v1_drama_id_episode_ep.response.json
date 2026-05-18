@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "number": 1,
+  "title": "1",
+  "video": "https://video-akm.foshort.com/20b6ae80cff771efb1774531958d0102/video/968fff9129164497b18f68c9b704101e-8cf13dcd9535ed0a44b1d1912d509b45-video-sd.m3u8",
+  "qualities": {
+    "480": "https://video-akm.foshort.com/20b6ae80cff771efb1774531958d0102/video/968fff9129164497b18f68c9b704101e-660dcccfa6c503acd515778abc60120f-video-sd.m3u8",
+    "720": "https://video-akm.foshort.com/20b6ae80cff771efb1774531958d0102/video/968fff9129164497b18f68c9b704101e-8cf13dcd9535ed0a44b1d1912d509b45-video-sd.m3u8",
+    "1080": "https://video-akm.foshort.com/20b6ae80cff771efb1774531958d0102/video/968fff9129164497b18f68c9b704101e-8cde780fbf58f9c4cad189d1621b4e11-video-hd.m3u8"
+  },
+  "isLocked": false
+}

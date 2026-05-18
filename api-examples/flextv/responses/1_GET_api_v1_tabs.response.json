@@ -1,0 +1,212 @@
+{
+  "code": 0,
+  "msg": "Permintaan berhasil",
+  "data": {
+    "classify_info": [
+      {
+        "classify_id": 1,
+        "classify_name": "Fokus",
+        "lang": "id",
+        "sort": 20,
+        "status": 1,
+        "type": "play"
+      },
+      {
+        "classify_id": 2,
+        "classify_name": "Baru",
+        "lang": "id",
+        "sort": 18,
+        "status": 1,
+        "type": "play"
+      },
+      {
+        "classify_id": 3,
+        "classify_name": "Peringkat",
+        "lang": "id",
+        "sort": 17,
+        "status": 1,
+        "type": "play"
+      },
+      {
+        "classify_id": 9,
+        "classify_name": "Pria",
+        "lang": "id",
+        "sort": 9,
+        "status": 1,
+        "type": "play"
+      },
+      {
+        "classify_id": 7,
+        "classify_name": "Wanita",
+        "lang": "id",
+        "sort": 8,
+        "status": 1,
+        "type": "play"
+      },
+      {
+        "classify_id": 11,
+        "classify_name": "Anime",
+        "lang": "id",
+        "sort": 1,
+        "status": 1,
+        "type": "play"
+      }
+    ],
+    "banner_list": [
+      {
+        "id": 3895,
+        "recommend_name": "Memilih Setan Daripada Kamu",
+        "image": "https://file-cdn.flextv.cc/image/d6/1b04e9c84aeb03e1105eea9a988e2b.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "11223",
+        "url": "",
+        "series_id": 11223,
+        "is_collect": 0,
+        "tags": [
+          "Putri Mewah",
+          "Tokoh Utama Wanita Kuat",
+          "Royalti",
+          "Nyata & Palsu Putri",
+          "Keluarga",
+          "Cinta Kontrak",
+          "Modern",
+          "Romansa Manis",
+          "Cinta Penuh Siksaan Emosional",
+          "Kelahiran kembali",
+          "Romansa",
+          "Menikah Kilat"
+        ]
+      },
+      {
+        "id": 3710,
+        "recommend_name": "Terlalu Kaya untuk Dikasihani",
+        "image": "https://file-cdn.flextv.cc/image/c6/358aa4cc823f2f24f751452df5a7b2.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "11058",
+        "url": "",
+        "series_id": 11058,
+        "is_collect": 0,
+        "tags": [
+          "Banting Habis",
+          "Keluarga",
+          "komedi",
+          "Modern",
+          "Nyata & Palsu Putri",
+          "Sembunyikan identitas",
+          "CEO",
+          "Tokoh Utama Wanita Kuat",
+          "Hukum Pencuri",
+          "Royalti",
+          "Miliarder Ajaib"
+        ]
+      },
+      {
+        "id": 3517,
+        "recommend_name": "Pemeran Pengganti Tanpa Hati",
+        "image": "https://file-cdn.flextv.cc/image/1c/386219830bc2429dd7514ee8e150ac.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "10908",
+        "url": "",
+        "series_id": 10908,
+        "is_collect": 0,
+        "tags": [
+          "Modern",
+          "Romansa",
+          "Tokoh Utama Wanita Kuat",
+          "CEO",
+          "Serangan balik"
+        ]
+      },
+      {
+        "id": 3821,
+        "recommend_name": "Terjebak Dalam Genggamannya",
+        "image": "https://file-cdn.flextv.cc/image/5e/1d654036cb28a90d6e51e27c6eae61.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "11043",
+        "url": "",
+        "series_id": 11043,
+        "is_collect": 0,
+        "tags": [
+          "CEO",
+          "Serangan balik",
+          "Romansa Manis",
+          "Modern",
+          "komedi",
+          "Sembunyikan identitas",
+          "Orang Biasa",
+          "Banting Habis",
+          "Perkotaan",
+          "Kelahiran kembali",
+          "perjalanan waktu"
+        ]
+      },
+      {
+        "id": 3652,
+        "recommend_name": "Bersujud pada Si Anak Mukjizat",
+        "image": "https://file-cdn.flextv.cc/image/e2/ceb199dbddce9e0b0216970cd40f84.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "10602",
+        "url": "",
+        "series_id": 10602,
+        "is_collect": 0,
+        "tags": [
+          "Banting Habis",
+          "Zaman Kuno",
+          "Spiritual",
+          "Hukum Pencuri",
+          "Sembunyikan identitas",
+          "Bayi",
+          "Tokoh Utama Wanita Kuat",
+          "Putri Mewah",
+          "Dewa & Dewi",
+          "Dunia Fiksi"
+        ]
+      },
+      {
+        "id": 3471,
+        "recommend_name": "Dimanja CEO Dingin",
+        "image": "https://file-cdn.flextv.cc/image/f1/d767390e1c9b5a578230d231d12a5a.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "10709",
+        "url": "",
+        "series_id": 10709,
+        "is_collect": 0,
+        "tags": [
+          "Romansa",
+          "Modern",
+          "Romansa Manis",
+          "CEO",
+          "Serangan balik",
+          "Banting Habis",
+          "Dunia Kerja",
+          "Royalti",
+          "Profesional Sukses"
+        ]
+      },
+      {
+        "id": 2498,
+        "recommend_name": "Tiran Cilik Go",
+        "image": "https://file-cdn.flextv.cc/image/1d/3bc466c62bc7f4d33312022bd370ce.jpg?image_process=resize,w_1080/quality,Q_70",
+        "small_image": "",
+        "jump_type": "play",
+        "jump_value": "5510",
+        "url": "",
+        "series_id": 5510,
+        "is_collect": 0,
+        "tags": [
+          "Banting Habis",
+          "Bayi"
+        ]
+      }
+    ]
+  },
+  "is_encrypt": 1,
+  "request_id": "E78DF9F0-214E-2B64-E927-5CC244076AE1",
+  "response_time": 1772576442
+}

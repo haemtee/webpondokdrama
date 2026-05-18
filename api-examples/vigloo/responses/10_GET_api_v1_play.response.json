@@ -1,0 +1,12 @@
+{
+  "status": "OK",
+  "source": "pool",
+  "payload": {
+    "url": "https://secure-content.vigloo.com/media/kr025/p02/s01/e001/a468955898e44192a83cc586721833a1.m3u8",
+    "cookies": {
+      "CloudFront-Policy": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vc2VjdXJlLWNvbnRlbnQudmlnbG9vLmNvbS9tZWRpYS9rcjAyNS9wMDIvczAxL2UwMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NTc5MTI3Nn19fV19",
+      "CloudFront-Signature": "R4IScMxz~PdDQSZcoM55trHdNfmRxCOGjWeMOGEq2BTcdMw~3L9P5ViQJPpzJjZAwC0XQxEqUZb4VxEku6ncJb5FluvnWDFhyin5mF9nju~bo5VLRBIOIQaSfZVBS9Ie3OeRc3HFhmrFMXM43aBzxrcs5Nw28QwAkrV1LpHRP~ykkA6EnPqlgLwJX5~XJPP-dI2YeDHKuUgoaudCIxqTSmG9mohgKVOD-BYS96Amx6lH7K~KVGnvjB6NEHTAS1LW~eO83Lj0WVjWzFsVbuXPJ17To~ajvroUCl7gK9LS~SmQ~sx1HTcP2EWdSeuhd1M524v3k13JBbmK4Vn2MdwyEA__",
+      "CloudFront-Key-Pair-Id": "K2O1AA815RS45N"
+    }
+  }
+}

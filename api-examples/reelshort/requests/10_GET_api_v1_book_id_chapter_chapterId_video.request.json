@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/reelshort/api/v1/book/694b2440aef92798df032b95/chapter/d4sedqx299/video",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "694b2440aef92798df032b95",
+    "chapterId": "d4sedqx299"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "data": {
+    "adUnlockFlag": 0,
+    "auditStatus": 0,
+    "chapterFirstFrameImageId": "179663844887773184",
+    "chapterFirstFrameImageUrl": "https://static.serealshort.com/raw/cover/Jadi Kasim Palsu/遮罩.jpg",
+    "chapterNum": 96,
+    "classList": [
+      {
+        "id": "3",
+        "name": "Fantasi"
+      }
+    ],
+    "clientShowStatus": 1,
+    "code": 701,
+    "contentCoverFileId": "179666962123862016",
+    "contentCoverUrl": "https://static.serealshort.com//new-media/prod/content/cover/1wouxyels597odkeoiakf6y01rveyknd.jpg",
+    "contentName": "Jadi Kasim Palsu",
+    "contentScore": "4.9",
+    "cpId": "0",
+    "currentScreenStatus": 2,
+    "definition": "SD",
+    "feeType": 1,
+    "finishStatus": 1,
+    "firstShelfTime": "2024-10-22 18:39:59",
+    "id": "179663844862607360",
+    "introduce": "Seorang profesor kimia terlempar ke masa lalu dan jadi kasim? Apa? Ibu Suri penuaan dini?! Biar aku tangani! Tuan putri sakit? Sini aku buatkan obatnya! Hah!! Kaisar itu perempuan?! Pas sekali dengan harapanku! Pangerah negara lain mau beradu puisi denganku? Biar kuajar dia baik-baik! Menteri negara cari masalah dan minta aku ganti rugi? Bakal kuganti dua kali lipat!",
+    "isNewVideo": false,
+    "needPayChapterMinNo": 13,
+    "notUnlockChapterNum": 0,
+    "playNum": "444.5M",
+    "priceAmount": 1,
+    "reserveFlag": false,
+    "reserveNum": "7.3M",
+    "screenStatus": 2,
+    "shortIntroduce": "",
+    "tag": -1,
+    "tagList": [
+      {
+        "id": "76",
+        "name": "Dokter Ajaib"
+      },
+      {
+        "id": "56",
+        "name": "Bangkit dari Keterpurukan"
+      },
+      {
+        "id": "54",
+        "name": "Harem"
+      },
+      {
+        "id": "52",
+        "name": "Melintasi Waktu"
+      },
+      {
+        "id": "6",
+        "name": "Fantasi Xianxi"
+      },
+      {
+        "id": "1",
+        "name": "Pria"
+      }
+    ],
+    "trailerCount": 0
+  }
+}

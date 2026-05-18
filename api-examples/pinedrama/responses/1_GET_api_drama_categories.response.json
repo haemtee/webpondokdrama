@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "message": "Success",
+  "data": {
+    "scenes": [
+      {
+        "sceneId": 1,
+        "name": "Semua",
+        "categoryId": "0"
+      },
+      {
+        "sceneId": 2,
+        "name": "Sedang tren",
+        "categoryId": "1"
+      },
+      {
+        "sceneId": 3,
+        "name": "Cinta Rahasia",
+        "categoryId": "7475195626620190726"
+      },
+      {
+        "sceneId": 3,
+        "name": "Presiden",
+        "categoryId": "7480129001525313541"
+      },
+      {
+        "sceneId": 3,
+        "name": "Dokter Ajaib",
+        "categoryId": "7480117166257897478"
+      },
+      {
+        "sceneId": 3,
+        "name": "Rekonsiliasi",
+        "categoryId": "7480113204073463863"
+      },
+      {
+        "sceneId": 3,
+        "name": "Tubuh Ganda",
+        "categoryId": "7480116784972988422"
+      },
+      {
+        "sceneId": 3,
+        "name": "Perkotaan",
+        "categoryId": "7475195626620272646"
+      },
+      {
+        "sceneId": 3,
+        "name": "Dari nol jadi pahlawan",
+        "categoryId": "7480116663103291447"
+      },
+      {
+        "sceneId": 3,
+        "name": "CEO",
+        "categoryId": "7480119548807315461"
+      },
+      {
+        "sceneId": 3,
+        "name": "Balas Dendam",
+        "categoryId": "7480117007485075461"
+      },
+      {
+        "sceneId": 3,
+        "name": "Tensi romantis",
+        "categoryId": "7480116372064993286"
+      },
+      {
+        "sceneId": 3,
+        "name": "Wanita bos",
+        "categoryId": "7480120358620790789"
+      },
+      {
+        "sceneId": 3,
+        "name": "Masyarakat kelas atas",
+        "categoryId": "7475195943084621879"
+      }
+    ],
+    "currentScene": {
+      "category_id": "0",
+      "name": "Semua",
+      "scene": 1
+    }
+  }
+}

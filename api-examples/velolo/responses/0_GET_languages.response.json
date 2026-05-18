@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2",
+    "lan": "zh",
+    "lanDesc": "中文(简体)",
+    "robotFileUrl": "https://mata-tv-cdn.damai-tech.com/indonesiaPlay/robot_zh.json",
+    "peopleFileUrl": "https://mata-tv-cdn.damai-tech.com/indonesiaPlay/people_zh.json",
+    "fileUrl": "https://res.velolo.tv/indonesiaPlay/merge_zh/zh.json",
+    "lanType": 1,
+    "updateBy": "admin",
+    "updateTime": "2025-08-13 09:03:46"
+  },
+  {
+    "id": "1828342115602243586",
+    "lan": "id",
+    "lanDesc": "Indonesia",
+    "robotFileUrl": "https://res.velolo.tv/indonesiaPlay/robot_id/id-robot.json",
+    "peopleFileUrl": "https://res.velolo.tv/indonesiaPlay/people_id/id-people.json",
+    "fileUrl": "https://res.velolo.tv/indonesiaPlay/merge_id/id.json",
+    "lanType": 1,
+    "updateBy": "admin",
+    "updateTime": "2025-07-03 12:49:55"
+  },
+  {
+    "id": "1828967392464281601",
+    "lan": "en",
+    "lanDesc": "English",
+    "robotFileUrl": "https://res.velolo.tv/indonesiaPlay/robot_en/en-robot.json",
+    "peopleFileUrl": "https://res.velolo.tv/indonesiaPlay/people_en/en-people.json",
+    "fileUrl": "https://res.velolo.tv/indonesiaPlay/merge_en/en.json",
+    "lanType": 1,
+    "updateBy": "admin",
+    "updateTime": "2025-08-13 09:05:01"
+  }
+]

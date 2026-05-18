@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/flextv/api/v1/play/5510/385380?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "series_id": "5510",
+    "section_id": "385380",
+    "lang": "id"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "code": 0,
+  "message": "Success",
+  "data": [
+    {
+      "collectionId": "7633298783698293776",
+      "title": "Cinta Putar Balik",
+      "categories": "Reuni, Perkotaan, Tensi romantis",
+      "totalEpisodes": 56,
+      "viewCount": 112969833,
+      "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-xbj99bix8q-sg/36fe14050dad4d26a0834eb741d6a9fb~tplv-tiktokx-cropcenter:540:720.jpeg?dr=14579&refresh_token=30fb4e64&x-expires=1779091200&x-signature=vbPoWvSHNCMssrM%2BqdtkDIRHnTw%3D&t=4d5b0474&ps=13740610&shp=823fac6e&shcp=9b759fb9&idc=my2",
+      "labels": {
+        "hot": true,
+        "new": false,
+        "limitedFree": true
+      }
+    },
+    {
+      "collectionId": "7633630123840902160",
+      "title": "Cinta yang Terlupakan",
+      "categories": "CEO, Anak Imut, Pernikahan Kilat",
+      "totalEpisodes": 87,
+      "viewCount": 62807140,
+      "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-xbj99bix8q-sg/d610d90bc14f43b79920b1d75f966499~tplv-tiktokx-cropcenter:540:720.jpeg?dr=14579&refresh_token=5c9cc841&x-expires=1779091200&x-signature=9gH1m672vmshWAmfDxqXe%2BfFgP0%3D&t=4d5b0474&ps=13740610&shp=823fac6e&shcp=9b759fb9&idc=my2",
+      "labels": {
+        "hot": true,
+        "new": false,
+        "limitedFree": true
+      }
+    },
+    {
+      "collectionId": "7633642976383783953",
+      "title": "Cinta Pertama Berjuta Rasanya",
+      "categories": "Balas Dendam, Kesempatan Kedua, Dari nol jadi pahlawan",
+      "totalEpisodes": 85,
+      "viewCount": 156397837,
+      "cover": "https://p19-common-sign.tiktokcdn.com/tos-alisg-i-xbj99bix8q-sg/f7eb3fa19e7d43b9b5944103936f771d~tplv-tiktokx-cropcenter:540:720.jpeg?dr=14579&refresh_token=9e64de9a&x-expires=1779091200&x-signature=%2FmutWN8hW075bCjZbAcVWt3g4Kg%3D&t=4d5b0474&ps=13740610&shp=823fac6e&shcp=9b759fb9&idc=my2",
+      "labels": {
+        "hot": true,
+        "new": false,
+        "limitedFree": true
+      }
+    },
+    {
+      "collectionId": "7633634382657459221",
+      "title": "Cinta Gagal Paham",
+      "categories": "Cinta Segitiga, Tensi romantis, Masyarakat kelas atas",
+      "totalEpisodes": 58,
+      "viewCount": 93210397,
+      "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-xbj99bix8q-sg/f52cefdb3ffd43028f520aa226dfcbd5~tplv-tiktokx-cropcenter:540:720.jpeg?dr=14579&refresh_token=4a13bb4f&x-expires=1779091200&x-signature=dgdKCwYIRwEsP6ZCmhDqahBTkgU%3D&t=4d5b0474&ps=13740610&shp=823fac6e&shcp=9b759fb9&idc=my2",
+      "labels": {
+        "hot": true,
+        "new": false,
+        "limitedFree": true
+      }
+    },
+    {
+      "collectionId": "7633318291460756496",
+      "title": "Antara Cinta & Harta",
+      "categories": "Perkotaan, Wanita bos, Balas Dendam",
+      "totalEpisodes": 61,
+      "viewCount": 50868917,
+      "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-xbj99bix8q-sg/7fc73b08c0b645bdbb07b069b6eaa298~tplv-tiktokx-cropcenter:540:720.jpeg?dr=14579&refresh_token=61512445&x-expires=1779091200&x-signature=U1F9QAz0mkd2ZNDz1D4YhJsB2ow%3D&t=4d5b0474&ps=13740610&shp=823fac6e&shcp=9b759fb9&idc=my2",
+      "labels": {
+        "hot": false,
+        "new": false,
+        "limitedFree": true
+      }
+    },
+    {
+      "collectionId": "7635510509588190228",
+      "title": "Cinta yang Tak Mengenali",
+      "categories": "CEO, Terbalik, Perkotaan",
+      "totalEpisodes": 48,
+      "viewCount": 32752199,
+      "cover": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-xbj99bix8q-sg/f73e66c3ba544d439e46b5243f5be5c2~tplv-tiktokx-cropcenter:540:720.jpeg?dr=14579&refresh_token=75ffd753&x-expires=1779091200&x-signature=qX%2FEQ38gtzJykQb90PvJBQE%2BC%2FM%3D&t=4d5b0474&ps=13740610&shp=823fac6e&shcp=9b759fb9&idc=my2",
+      "labels": {
+        "hot": true,
+        "new": false,
+        "limitedFree": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "book": {
+        "book_id": 123,
+        "chapters": 101,
+        "book_name": "Prince of The World",
+        "cover_key": "o2yne",
+        "introduce": "Terry Fields, who lived in poverty for 28 years, changed destiny one night to become the son of a rich man and live a successful life.",
+        "book_attr": 2,
+        "drama_length": 2,
+        "image": "https://bs.kjcdn.com/i/pub/o2yne.webp",
+        "onlineChapter": 101,
+        "horizontalImage": "https://bs.kjcdn.com/es/resource/images/cover1.png"
+      },
+      "chapter": {
+        "chapter_id": 9150,
+        "prev_chapter_id": 0,
+        "next_chapter_id": 9151,
+        "chapter_order": 1,
+        "chapter_name": "EP.1"
+      },
+      "play_url": "https://kjhwapp.drt768.com/108e5c39d79571ee905a6732b68e0102/a2a64faf58e84bca876d0da766a5ad1e-f2c594a7fe208d6c1c24fb10a22ad0c2-ld.m3u8?auth_key=1770091381-0-0-c967c3a15dd97bda251eb0e5468feac7",
+      "sd_264_url": "",
+      "sd_265_url": "",
+      "price": 0,
+      "is_lock": false,
+      "is_checked": 0,
+      "share_url": "https://snackshow.tv/land/land.html?utm_source=share&deep_link_value=snackshow://snackshow.com/watchplaylet/main?bookId=123&chapterId=9150",
+      "watch_seconds": 0,
+      "share": 41,
+      "has_follow": false,
+      "has_like": false,
+      "has_collect": false,
+      "like": 13534,
+      "collect": 8662,
+      "tag": [
+        "Kaya Mendadak"
+      ],
+      "user_coin": 0,
+      "user_pop_coin": 0,
+      "user_bonus": 0,
+      "amount": 0,
+      "award_amount": 0,
+      "is_can_lock": true,
+      "fx_price": false,
+      "unlock_type": 1,
+      "is_auto_lock": false
+    }
+  },
+  "cached": false,
+  "ttl": 86400
+}

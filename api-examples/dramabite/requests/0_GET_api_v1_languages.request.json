@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/dramabite/api/v1/languages",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {}
+}

@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/bilitv/api/v1/dramas?lang=id&page=1&size=20",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "lang": "id",
+    "page": "1",
+    "size": "20"
+  }
+}

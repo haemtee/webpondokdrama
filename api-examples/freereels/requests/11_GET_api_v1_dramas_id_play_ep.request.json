@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/freereels/api/v1/dramas/KsuTN1GuYp/play/1?lang=id-ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "KsuTN1GuYp",
+    "ep": "1",
+    "lang": "id-ID"
+  }
+}

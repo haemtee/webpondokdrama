@@ -1,0 +1,776 @@
+{
+  "code": 0,
+  "msg": "success",
+  "server_time": 1775787608,
+  "clientTraceId": "17757876085501714",
+  "data": {
+    "tag_name": "More to explore",
+    "bank_name": "Semua Orang Menyukainya",
+    "tag_data": [],
+    "book_rank_data": [
+      {
+        "theme": [
+          "Identitas Tersembunyi"
+        ],
+        "t_book_id": "509001000000003528",
+        "book_title": "[Versi Dub] Tunangan sekaligus Pengawalku",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/7dc23510-1de2-11f1-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "Fano, mantan prajurit elite, terungkap identitasnya dan bertunangan dengan putri keluarga Suryo. Ia melindungi Citra di tengah bahaya dan menghadapi konspirasi besar hingga lolos dari krisis.",
+        "tag": [
+          "Identitas Tersembunyi"
+        ],
+        "share_text": "Raja Prajurit Terbongkar, Lindungi Putri dan Hancurkan Konspirasi!",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69bb9fdb6c05f6be970cf36e",
+        "read_count": 5579083,
+        "collect_count": 128931,
+        "chapter_count": 73,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 51289,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ],
+          "is_h5_all": true
+        },
+        "publish_at": 1775388722,
+        "has_video": true,
+        "vtt_lang": [],
+        "is_preview": 0,
+        "online_at": 1775388660,
+        "score": 267704,
+        "is_new": 0,
+        "first_chapter_id": "uglc7bfqeb",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "uglc7bfqeb",
+          "duration": 386,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/644ebfd8fbd55dd2.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "53ZZhGN4D1Y6EOV96wuomAgyGHFBjh9i6EmTHPFunTT6n/6RUU0MUYqgyFNYqbwT7hSzM9tINf7MLKAm/moK1ART6Wt+P6p5WYT8rjaSPKRQb29CZ8pVxv2NyYas/Wc2U1C4F3ZkbUgsQN3G7sxysTpllBInLQflOrIY/FzuvIt1N7Nj8Zgvr0PKe1pFtvB3VvFIEooB3Cr8rM8+URP1X4YwgiklsZndS7Kmn4QDpEPBue/gHqScFfd3LErQmZJiBZ3uCOLQG6bWDNEmT+Y0QdKAuAMkpyd3nCDQKdX67Thbw2f3jsfJiEA8toictiyoyPmjlKdZWrAPTzgN6fao1cKXdLD7roVVUc7B5UHrXsrOp39Dd2Wks36xi2oBPjMpBUB8DbpH9JE0VitbtAWd6F15F7LTlT90a6Ch+9PeQPa2jRDcov+IOW7gwgCi4XG14F2tsE9Xt21DkFTvuoNOZG43bN68fkXDPt1PaJuEkV1/cXkIgnw2moZ58LsGB6MSIhNXmwz9qn4yd9GbQNj46D19PmLVRrPPVymVpvBh0xj4eWzlIbG8eSa9ZS2VzMNrnnNhCnE4WKm2lPmdsjeY4g==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69bb9fdb6c05f6be970cf36e",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b02",
+            "tag_name": "Identitas Tersembunyi"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"62bae36a-55cf-4c7e-a1c9-3b73b83b0eca\"}"
+      },
+      {
+        "theme": [
+          "Identitas Tersembunyi"
+        ],
+        "t_book_id": "504400000000004230",
+        "book_title": "Istri Cantik Temani Tahun Baru",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/32cc3700-2e58-11f1-84ad-6b5693b490dc.jpg",
+        "book_source": 15,
+        "special_desc": "Untuk menghindari tekanan pernikahan, Fiona secara tidak sengaja bertemu Adrian, seorang pemuda desa yang menyembunyikan latar belakang keluarganya, dan mereka berpura-pura jadi pasangan.\nAdrian tidak tahu bahwa Fiona adalah direktur eksekutif di perusahaannya hingga ia dipindahkan menjadi asistennya. Saat keluarga mulai ikut campur, identitas Adrian perlahan terungkap dan cerita pun mulai memanas.",
+        "tag": [
+          "Identitas Tersembunyi"
+        ],
+        "share_text": "Bermula dari kebohongan sederhana untuk menghindari perjodohan, kini berubah menjadi permainan berbahaya penuh rahasia...",
+        "book_type": 1,
+        "is_reshoot": 1,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "is_preview": 0,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69c644b0e422ab28730c757b",
+        "read_count": 33959192,
+        "collect_count": 561354,
+        "chapter_count": 63,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 35352,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "is_only_vip": 0,
+        "has_video": true,
+        "online_at": 1775235600,
+        "publish_at": 1775113083,
+        "vtt_lang": [],
+        "score": 223224,
+        "is_new": 0,
+        "first_chapter_id": "y65gbi7gec",
+        "min_paid_start": 16,
+        "paid_start": 16,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "x6xax9eo3g",
+          "duration": 171,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/7492510f0e3d33cd.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 1,
+          "play_info": "ausGktpm/WlJ/0NHDguqI3q875Oov9mD3zMbwd3uQTdyL5nFHfOsqzga4RXn2L11Y1inz5U+A2wsAh4OfAPnUeoGAg93lkU3n9kTLnV9OIJJzEepyGQScXbl6Jtf/S8mpoTDn/DN3Dl2l8fT8Pci4If9AA4mXXNTQJErAVqBbzaTGWrvZ6yUxqJIWWd3oRRcD21RwCwB8e3Bi2c31bFzebSDocn9uDU4n8/pfRCi+ppx7va62pKURWrJb/8ZpwzeEDLsceg4Z7FWZ6EPOsxpO/2j9XznjxVQ8MtdBgvFcKVX3VBOjM6kTiQmF58UUwFgqTwk15SKn8lMheqcuwkLS3hgV3lrRsu4tQ/boJaBPPecbWJfiUM3ZZ7+Vcn8/OIMVL5aRHsYMGP7Ai6p0DQ3q8/bP/WlcMdH28ApR4zYSrS/k7rj9hcuhUg9npqeNmn2bqcp4oIwy09JIjVPXgR9EmqVnfVMM8Wl/Nko3vpi0sad49E2zyKiartsSiIiRXkKK/buBCB49QXgOF7VuDrNVgGtivKsTtoGnRopmd2pur5OE28mTSM+zmYTz6uvgZ7/Z0QjC2iiQkE3M8Fz4hlfQQ==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69c644b0e422ab28730c757b",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 9,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "ASLI"
+        },
+        "tag_list": [
+          {
+            "tag_id": "66124bba32b773444c0609c9",
+            "tag_name": "Identitas Tersembunyi"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"e575e272-ce46-4017-86cf-adfc6e8d52af\"}"
+      },
+      {
+        "theme": [
+          "Identitas yang Salah"
+        ],
+        "t_book_id": "509001000000003508",
+        "book_title": "[Versi Dub] Suami Rumah Tangga, Raja Judi Tersembunyi",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/b2bc4fb0-17ae-11f1-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "Harold, sang Raja Judi, menyembunyikan identitasnya demi menjaga Grace dan keluarga Dalton selama tiga tahun sesuai amanat mendiang Victor. Namun, pengorbanannya hanya dibalas hinaan. Harold bertahan hingga waktu tersisa tiga hari. Saat Grace tertipu dan keluarganya terancam rugi besar, Harold menggunakan keahlian judinya untuk mengalahkan musuh, lalu pergi meninggalkan Grace yang kini panik mencarinya.",
+        "tag": [
+          "Identitas yang Salah"
+        ],
+        "share_text": "Kau kehilangan suami yang baik, tapi tak ada jalan kembali.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69bb9182a88c4eada20bb6ae",
+        "read_count": 2743369,
+        "collect_count": 76373,
+        "chapter_count": 61,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 46977,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ],
+          "is_h5_all": true
+        },
+        "publish_at": 1775382062,
+        "has_video": true,
+        "vtt_lang": [],
+        "score": 96945,
+        "is_preview": 0,
+        "online_at": 1775382054,
+        "is_new": 0,
+        "first_chapter_id": "zhlttnbkyb",
+        "min_paid_start": 12,
+        "paid_start": 12,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "zhlttnbkyb",
+          "duration": 275,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/d9cdff6d7cfa1ea2.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "53ZZhGN4D1Y6EOV96wuomC6aTzdmQw16Un1oPRqYCEBtU7QjNSrfiZ63weoBjszmK7E6pS0wsGshZWq9Nx+9LEJFUfjF89E1Ab4R867WSdm/07PTkGJNWBPr4BbVj93nexfuNwwvZm304u0zqbT6NQyINuaOVaTxrEl+euUwMrWNLnHfzSWwMw9s9aZ1zw9mN6wNLsVSAN6y2XnzSUgcCBclJydX2+cN0xnHSGABTOzGNcQtUowYWtI1WrPQWby+OEzMSMUAoOFBz3Mdu7yJGzK+QOxg03ucAJCpxIH55rsB+ThRhcPgGrXGPhYzTHRyar6equDdZT/b0gfBXX8BT7gUxkGUIEMmEZcwuRfu1uk2wNsh+JnAS4iIJBqK2AGp0y1r7MErbHLWJOPedVBg5uDvMPE43hGxHMTBnNcSngk1FLQolO3zdIShfYgFMn36YDYV3vNzb+T5UBb7it8PY3XzCxLLXxJMdCsWr36SkQdhsdTYWdyAt8oGI8pFrVGeqtXhZ4FtECd1ZeivFFEU2aiqbmIyEAXVLtuZ1Ir9S9L1JbzCfJD2LgUZ9i/w0OM5AWNHOWgpipNKQ/kDt8ErXw==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69bb9182a88c4eada20bb6ae",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b03",
+            "tag_name": "Identitas yang Salah"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"31ebc1fc-f819-40ac-be4e-f19d3f5f8955\"}"
+      },
+      {
+        "theme": [
+          "Pernikahan Kilat"
+        ],
+        "t_book_id": "500001000000000399",
+        "book_title": "[Versi Dub] Ayah Anakku, Musuh Dunia",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/1717cc70-fc0f-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 1,
+        "special_desc": "Connor Reed, pedagang senjata paling berbahaya di dunia, menyelamatkan Scarlett Hayes dalam penyamaran dan menghabiskan satu malam bersamanya.\nEmpat tahun kemudian, Scarlett kembali—dengan anak mereka.\nKini, Connor harus melindungi mereka berdua, tanpa membongkar identitas aslinya.",
+        "tag": [
+          "Pernikahan Kilat"
+        ],
+        "share_text": "Dari pedagang senjata internasional menjadi ayah penuh waktu.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69b1416b2de679c01d07dcc8",
+        "read_count": 32762610,
+        "collect_count": 719159,
+        "chapter_count": 74,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 33279,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1773630423,
+        "vtt_lang": [],
+        "score": 72237,
+        "is_preview": 0,
+        "online_at": 1773630101,
+        "is_new": 0,
+        "first_chapter_id": "2vxpcs3v8b",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "ypo8rv9wsc",
+          "duration": 182,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/e1f28c0bf750bdfe.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 1,
+          "play_info": "PY7hX5P0utruLKRbWAtOzwK5+qgsH44GJ4ucdAYOVykbxCy6pGOu9UYK+KaHjKlOtdhtPHzl/uqPRWHNqZacT84rlMm6e46iGXWQYlbO/zzv3QGJnM+kgHZc7FrZ3JIxXbENNgMYhj+UU8izfSitPDJFVwVrvJGqPNZITGDAnjbB+potrNyxUn0TWS+360yUPeART6y+91PGzjZ9f6Cnt8BztetptqIxYSrMK9L3zfPC6dycO1cSzRAP+TXbdSR2aRJ/vIrIc0VHPjYEjSSFnV1FVkhYmR23CEqN4JBIHJJv4+OpReN2ZNEPvQkK+g8aVwzLNvOsRx0EzQF8gy1SRLCqs8e3dVleHChpmmZkEgB/BCtTQLscRVyqmvBzRXq2M12+ypm6VA0fJPLPMVAHsQrzsASykQIQRZyOKAJrV0+7BT8FtuNbHzXTRokwbN372pkoArEyyFL9mvioDV0FmL9buVpdRTwvkIFA/MXlO66loXQxGlnTJC8aV3OzoNYU12wMbvvTM9CO3x9Q0mVq6FQyxo8a4ZpUiSyek3vqMhe0ATXefhNxkYTYNTEa9FPuTP3OPhgGYqhexIAaItic5g==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69b1416b2de679c01d07dcc8",
+        "is_collect": 1,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210e4582b53a14081ae6",
+            "tag_name": "Pernikahan Kilat"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"eda836fc-3c44-4114-803d-ba942ccddb2d\"}"
+      },
+      {
+        "theme": [
+          "Identitas Tersembunyi"
+        ],
+        "t_book_id": "500001000000000443",
+        "book_title": "[Versi Dub] Kakakku Sang Ratu Perang",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/034febb0-e9e4-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 1,
+        "special_desc": "Ditinggalkan orang tua, Catherine dan Grace Blackwood tumbuh saling mengandalkan. Di pesta pertunangan Grace, Catherine yang baru pulang dari misi penyamaran justru direndahkan. Saat Grace dikhianati, Catherine mengungkap identitasnya sebagai Ratu Perang dan membuat semua orang menyesal.",
+        "tag": [
+          "Identitas Tersembunyi"
+        ],
+        "share_text": "Kakakku? Seorang Ratu Perang?",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69a10c15851589d5e00e5c38",
+        "read_count": 46975713,
+        "collect_count": 1057606,
+        "chapter_count": 68,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 39749,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1773126482,
+        "vtt_lang": [],
+        "score": 68914,
+        "is_preview": 0,
+        "online_at": 1773126370,
+        "is_new": 0,
+        "first_chapter_id": "o5xchsy4n0",
+        "min_paid_start": 15,
+        "paid_start": 15,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "y6h32bth87",
+          "duration": 146,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/234d54026bdff244.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 1,
+          "play_info": "ausGktpm/WlJ/0NHDguqI0Hz6Tge+BuqVQ0H6BYD37RyOPjKDkyGTJhB9uStC+MmdMCI52Ms03z9mdtuKinDtLMr+5a/+BdpJ3GP7JIGm7+Jm9QcVlobrb6z2vrhebk/fVGZnZj6cxNJwGQJKlFyoWMfLNEJclJLLjTLB/wRrYeMS4MMh6LiBOT5cHK4Go0oeAZxvxBq6AXbii8nOdIexRIG5WOV6AdhEmI4WGNcFxnWWk7VfAaKvHrs74f0SulpxLvj/D2BQDs4tDo7ZLvVdZNd1OXQbYMYzrfEmeMScB+l6IyAcXIpFWr5zTjeGf0hXJ1vZGlEePwlajLnvEfrJ8jq/seRZrAP5vqN6Vl4KZQncYFRfYvruuMgWSkG1WXL27cSkZZY4lc/T8DPadDODUWHmJdUE3kqO2udicF1GAxb2FlSttIO5b+t0tpa50czDmcobbI4m0xAaz2SZR4I0Dz0NMyuNJZinXMv2DBaYGE6+dVBKdljDbc9OS0QOizuhY2K71wXy4ecB5ujjOxv0DBKajbl8DTG8pHLVwqdtcZghUEioeEzmyIU55dm4Lqh0rU8CZqJeKjApJ0IvojdrA==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69a10c15851589d5e00e5c38",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b02",
+            "tag_name": "Identitas Tersembunyi"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"0b465c63-9967-4181-b21f-2a9c2a83adfd\"}"
+      },
+      {
+        "theme": [
+          "Rahasia"
+        ],
+        "t_book_id": "504101151000003594",
+        "book_title": "[Versi Dub] Gim Taklukkan Pengurus Iblis",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/b98ba550-2426-11f1-84ad-6b5693b490dc.jpg",
+        "book_source": 44,
+        "special_desc": "Linda Sari, budak korporat pecinta gim otome Pengurus Iblis, tiba-tiba jatuh dari gedung dan terbangun sebagai Lili, karakter antagonis yang kejam.\n\nEmpat pelayan yang pernah dia siksa kini siap membunuhnya. Di tengah kekacauan, sistem baru muncul: turunkan nilai kejahatan mereka atau mati!\n\nApalagi Jay di Dunia Bawah sudah hampir mencapai titik kematian—nilai kejahatannya 97!",
+        "tag": [
+          "Rahasia"
+        ],
+        "share_text": "Plot kematian sudah dimulai, apakah aku bisa tetap hidup?",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 0,
+        "is_dub": 1,
+        "book_genre": 15,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69abb81428a46f62740a9431",
+        "read_count": 6591102,
+        "collect_count": 102010,
+        "chapter_count": 75,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 28380,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1773988502,
+        "has_video": true,
+        "is_preview": 0,
+        "online_at": 1773988464,
+        "drama_comic_category": 1,
+        "vtt_lang": [],
+        "score": 42368,
+        "is_new": 0,
+        "first_chapter_id": "9s636eumf8",
+        "min_paid_start": 9,
+        "paid_start": 9,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 0,
+          "chapter_id": "9s636eumf8",
+          "duration": 220,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/c42789e66578c1e1.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "DxEymvMKiTYVxy11KFPZ4346HQDxNHCrv5oL/owDv6vEjZeH2RZ9Jtd2alWoDkX+8lz8wMsdXmJqf0e2HdvNMV/6bnvUGdZpplsPTSGgQgEyT1093sK0pFY4gtHIp9o904IcwVVPOhbLihFk+4GllEU3PqMvBdmyMrWyUpLb+26ipY6ntNm0Z9r6vgHD0ny/GlgZ7o264+ikNtVanLrMl4UYIIyqwDJrd+Q3tL6kNmPkxXC+qqWS1DgBMTnQRmsQOSkOmSJgWCS2OBMXfEnBOv7BKqu7tONCKFmBFqyC+mBQp1yaHux5s4erWgiNnpadu4j1OkTkcM8NPs6ce72kEexccVHKGaJ0NthiqNZJbkFYQWvGRCEAR8nV39IuZuiSD+ysd0/p6Wk0Xy5pHL6iqloy26drz+WfFSAEgWXP1YJZjgW/AP6+lKz/UHL9ZNOYNTTFeBtU5NWQ2+mqb9Masuqfd64cza7wf7QT7vMVFNjy/p59BnEFIjUrcJ2jgcnCdjGKdtdbVWVGuAaSShhL2uvb9OhACaBvkc1aGurPMk3sHXUnbhc/XBy3UgJCd3Q4louIkR1JNg/33q2zBn59bg==",
+          "vtt_lang": [],
+          "aspect_ratio": 1.78,
+          "adult_content_remind": 0
+        },
+        "_id": "69abb81428a46f62740a9431",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081aff",
+            "tag_name": "Rahasia"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"b56aebcb-5527-4aa9-aebc-fd3bbb7d58e5\"}"
+      },
+      {
+        "theme": [
+          "Pernikahan Kilat"
+        ],
+        "t_book_id": "500001000000002502",
+        "book_title": "[Versi Dub] Ikatan Sunyi: Jatuh Cinta pada Petani Duda",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/9e7ca670-e15e-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 1,
+        "special_desc": "Natalie dijodohkan oleh nenek dan keluarganya dengan Rhett, seorang petani duda yang membesarkan putrinya yang bisu, Ellie. Kehadirannya ditolak, dan Ellie sering ditindas oleh orang-orang di sekitar mereka. Perlahan, Natalie membangun ikatan dengan Ellie. Saat gadis kecil itu berbicara untuk pertama kalinya demi menyelamatkannya, segalanya berubah. Kini, Natalie bertekad melindungi cinta dan keluarga yang telah ia bangun, apa pun risikonya.",
+        "tag": [
+          "Pernikahan Kilat"
+        ],
+        "share_text": "Natalie menikahi petani yang memiliki putri bisu.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69a10c201c0d9ca2190ef135",
+        "read_count": 26452755,
+        "collect_count": 443510,
+        "chapter_count": 83,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 41716,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1773135122,
+        "vtt_lang": [],
+        "score": 50679,
+        "is_preview": 0,
+        "online_at": 1773135110,
+        "is_new": 0,
+        "first_chapter_id": "j1njws44q9",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "g6it6migfk",
+          "duration": 105,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/a9eab59b8111bd04.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 1,
+          "play_info": "olcy5cQnpZBpfsm/BEbmm3In7+S85fKfuG4bbHtb87QcclruL/MiHtswglpjLAGHJS4dhX6DAlNrNH5DCFmrh2a69UbahxPTK3I00NEnoWqf1dDw/I7Cfhpba1ybRpAmFNfl0jv4ymZEVwdJb3Lp/JnhP6Jr6RNVxpPEdWpnvIViC/MYMF3tqefCRgziJslZCr/L7ODUfNCqNuspVfhfX+QC+klqF9JwL27LoaFmUOyKz64k8RGbgpBMyYzy6TMBXlHS1Mpi9kZN83v8k+9kNIMg+kQmDobjMWbcvarhARx57uc38O4H0e+e6LRFP4WB7CQ0zvcT4vIXcRXMdMxHq2GMDAvG6iqV3DaqsExMPfWZyhvBR+d4PR/oRC6G4Bh0BKWWObg395KtvxUqKzttc/S+ix33U3KTqWjKLxRRthsUTZusxm4grG5nqWFJDFThmXw2uq+b3oqDhlygGYWpzFfo6emo8OFyX6UNhcUlwgptexQ2Tlry0jNQT1XcEgf9sfHC2b/7NnjXRlDZ4oxkHfiQl0/Zw/26sJf3KSUmBw+yWM7wtGWZbb31YSM1cGrZpXsxqDNbPSbhQTH84hZ3rg==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69a10c201c0d9ca2190ef135",
+        "is_collect": 1,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210e4582b53a14081ae6",
+            "tag_name": "Pernikahan Kilat"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"4e280193-0b8b-4d01-b0ff-a15adbcf8ca7\"}"
+      },
+      {
+        "theme": [
+          "Kelahiran Kembali"
+        ],
+        "t_book_id": "509001000000003072",
+        "book_title": "[Versi Dub]Aku Memilih Jadi Penjahat",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/2364b6f0-fb6f-11f0-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "‘Aku Jason Hayes, dan hari ini, aku terlahir kembali. Dulu aku lemah. Kali ini, kumilih menjadi penjahat.’ Dari pelayan biasa menjadi raja dunia bawah, Jason melawan setiap penindas dan mengungguli tokoh-tokoh terkuat, termasuk ayah mertua gembong kriminal. Aturan mutlaknya: sentuh milikku, nyawamu melayang. Saat berhenti mengalah, Jason menyadari kebenaran pahit ini: dunia memberi jalan bagi mereka yang menolak untuk minggir.",
+        "tag": [
+          "Kelahiran Kembali"
+        ],
+        "share_text": "Dulu dia dianggap lemah. Kini, mereka akan memanggilnya bos.",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 1,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "698c21fece00b2a5600904dd",
+        "read_count": 21658765,
+        "collect_count": 460969,
+        "chapter_count": 58,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 26252,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "publish_at": 1771845302,
+        "has_video": true,
+        "vtt_lang": [],
+        "score": 26914,
+        "is_preview": 0,
+        "online_at": 1771845265,
+        "is_new": 0,
+        "first_chapter_id": "zzh4hpuyjp",
+        "min_paid_start": 13,
+        "paid_start": 13,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "zzh4hpuyjp",
+          "duration": 133,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/d6e4d5deb71b7041.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "Q+GxxqXA46GCBHes4tGcTIlGd59APV4LJ42X0NKVOK5ugW/2WG3arBjEe0+b8J7OrE9dKmVXZYz7ghvv6dUE/5eM7Esq2GCwd3Ljl0aILtBBJA0Mrr5Uuaqppjf/2lJ3akc/JrClXJQEALZ7iDEOniU4beKhe7EdsAjoiQcDEPg5aNKTQ/Zm60YYRqLyXEfcEF7cxybuhVwuOqfiLNKWWpkcKLOjJEjRyf5EMnwsKoUXJkkQ3qtWUijDxjBz8U2LgXIiXCt4pSL16enht4btZ5pX0WRaLO8r+JjQQIxIzJ0pFKF2mGAtbcsN+b1Ia3Kfcnn+0l1kiqaM+0u1Tn7p5mlSUO/Os4/LBAP/hoo/b0iL75ExHmh4/MwDlz2Lqg1hAgk0jMnMt/yMyvXG5/ihBRsSmKlj+JunuYd/bZwDeSG6OmY6J5NatKlDkuwVnruBOmmhvxy+0wxTFGdFTRVaPU/xijqYdMClQ/DC5nWIQ39Nfi9XMrkDktoY8guVXWCWeeCScWF2JmZCzSZvTIJ4oOfVGT+M71HffZYci4qqwqQTQHe+7QRQE3BQnZtIzd2FlFVbIY9Jl+yH0hHh/S0tHQ==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "698c21fece00b2a5600904dd",
+        "is_collect": 0,
+        "book_mark": {
+          "type": 4,
+          "color": "#FFF26118",
+          "text_color": "#FFFFFFFF",
+          "text": "Dubbing"
+        },
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b06",
+            "tag_name": "Kelahiran Kembali"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"8f0dec9e-fc42-4e34-94a3-39285279acf0\"}"
+      },
+      {
+        "theme": [
+          "Karma"
+        ],
+        "t_book_id": "509000000000004158",
+        "book_title": "Raja Tinju yang Kembali",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/09877370-2f5a-11f1-acb2-c14bef828c82.jpg",
+        "book_source": 2,
+        "special_desc": "Delapan tahun lalu, Hadian mengalahkan dua puluh dua perguruan dan membuktikan dirinya tak terkalahkan.\nNamun kemenangan itu justru merenggut nyawa istrinya.\nDemi melindungi putrinya, ia menyamar sebagai penarik becak dan hidup dalam diam.\nSampai suatu hari, putrinya terancam.\nHadian tak lagi menahan diri.\n\nPerguruan Silat Perkasa?\nBaginya, itu bukan lawan.\n\nIa menghancurkan semua rintangan dan menyelamatkan putrinya tanpa ampun.",
+        "tag": [
+          "Karma"
+        ],
+        "share_text": "Penarik becak melawan perguruan! Demi anak, sang pendekar kembali ke dunia persilatan!",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69ce49369fa45232570890bf",
+        "read_count": 696516,
+        "collect_count": 26648,
+        "chapter_count": 60,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 46808,
+        "copyright_control": {
+          "open_country": 2,
+          "country_id": [
+            "kr"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ]
+        },
+        "has_video": true,
+        "publish_at": 1775448002,
+        "is_preview": 0,
+        "online_at": 1775254533,
+        "vtt_lang": [],
+        "score": 15707,
+        "is_new": 0,
+        "first_chapter_id": "ezcicuophx",
+        "min_paid_start": 10,
+        "paid_start": 10,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "ezcicuophx",
+          "duration": 121,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/bd4d82e1a8443e1c.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "PY7hX5P0utruLKRbWAtOzx02WenD4nHGkBlXrAurzmN4/wUBRK1yDUY/5PLr8pwM8gA4JVzt/Ytayrl1wjCobqBGEXglbrt9NZvRVYPAWutrQ0wvNcPrcUEb5B6quvKLEm38n67+ojBr3g0Oedb/jQnkvk8cb8BVT/MfF+H1cQenQs+AauG+wbwxEyoz+YYv5bmK8yJdb1m9ZHRjtn+FvBcQvrnPGtDdICnHcj0hKn3xeAJX9R6GupaRnUrdJDC2lVWnUDOr32iomNIy2A3u/9RUJmoRGeARa3KBGbv3AicHw+hG18yl3CS+jPW99ohS0TpcQlEcqTeVGDdz9IFWwgBbFwIb21V84PpP6ou/Xg3UoJ5ITMCVrC5pqILGLvYw92RZI+c2FCVAx2f2i2/EBNmCJziD2+9mkFMKo4fFRZuAeURuk88FohhyYFOyUIea8ENbIkL+mf9waywjHqLF43sMzkZanRJvxnEG/AtPm/kwodMbNWPdC/9TxUf7rpViK48FJl2aTyRHiRZKmeyAWilG39mMiBB+TB64Qlr5XhC+oZsg19XfycMDVc/Q0RYqGrYHVvmCQNx3dSYZ0cpdMg==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69ce49369fa45232570890bf",
+        "is_collect": 0,
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b0f",
+            "tag_name": "Karma"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"54047e16-3bcd-4a70-afe8-1eec2c79369d\"}"
+      },
+      {
+        "theme": [
+          "Identitas Tersembunyi"
+        ],
+        "t_book_id": "509000000000003528",
+        "book_title": "Tunangan sekaligus Pengawalku",
+        "book_pic": "https://v-mps.crazymaplestudios.com/images/7dc23510-1de2-11f1-84ad-6b5693b490dc.jpg",
+        "book_source": 2,
+        "special_desc": "Fano, mantan prajurit elite, terungkap identitasnya dan bertunangan dengan putri keluarga Suryo. Ia melindungi Citra di tengah bahaya dan menghadapi konspirasi besar hingga lolos dari krisis.",
+        "tag": [
+          "Identitas Tersembunyi"
+        ],
+        "share_text": "Raja Prajurit Terbongkar, Lindungi Putri dan Hancurkan Konspirasi!",
+        "book_type": 1,
+        "is_reshoot": 0,
+        "screen_mode": 1,
+        "is_dub": 0,
+        "book_genre": 1,
+        "grade_content": "",
+        "grade_country": "",
+        "book_id": "69afd4d176e656f70b0056bc",
+        "read_count": 873838,
+        "collect_count": 22873,
+        "chapter_count": 73,
+        "is_paid": 1,
+        "status": 1,
+        "init_read_count": 30743,
+        "copyright_control": {
+          "open_country": 1,
+          "country_id": [
+            "all"
+          ],
+          "open_channel": 1,
+          "channel_version": [
+            "all"
+          ],
+          "is_h5_all": true
+        },
+        "publish_at": 1773817204,
+        "has_video": true,
+        "is_preview": 0,
+        "online_at": 1773743645,
+        "vtt_lang": [],
+        "score": 10675,
+        "is_new": 0,
+        "first_chapter_id": "js5fet91g9",
+        "min_paid_start": 11,
+        "paid_start": 11,
+        "have_trailer": true,
+        "start_play": {
+          "screen_mode": 1,
+          "chapter_id": "js5fet91g9",
+          "duration": 386,
+          "video_pic": "https://v-mps.crazymaplestudios.com/Snapshots/e43438f03ebece46.jpg",
+          "video_type": 1,
+          "chapter_index": 1,
+          "episode_index": 0,
+          "play_info": "ausGktpm/WlJ/0NHDguqI+04PYbKl9kc0rejyDPF6W+19Mb3dj2EYv1GonvrPVC0jRpWqFzyajzuV4F3dfnIraaGUDUPPYyRWX7Q4iJAV+6OEkXlJO2HdIjnLdtzjVHQH/LaQPlyqIfc+NRQp7NBZrtvNil6D0+du9QywV7bVuA6wrYjxX/9L2hl3Hvi6nz83RJsE7adAdjhyviVLsTDicwQM6EGeMpr4pzEhqnacARNDMbEGBMLGG/VJMe0wu13WMSO1s7+jBnfb61fOmCFg9qCt9qHy66EMQOTMl7ckS4LrrbkwSfwe+FiGKOhSs+Je/ShAOnWEE3ScetpZtX7iwogXEE7pB0fPMKtNOi354jzy2QrSVOAgq+S3HL4hCyIzJMmSMBRU3hQgH90EpJ4YLjYuIwr3QmGiQytxvM0tLr03P8oDsGZlb7ZDQFzMDqFzz6cO0mwQDCq8PvrPMLpczgk881M9un9YhKQUW+6s+UaSL40RtiK/RPo1U/5WDcOZjqSUvz00dmX5yks+WKuuevhHpj2A9zy7DbdEbTeEaop1VD26zC2P3rKJ70tFdkx/r1EnUFjdNz5dSHahS31Vw==",
+          "vtt_lang": [],
+          "aspect_ratio": 0.56,
+          "adult_content_remind": 0
+        },
+        "_id": "69afd4d176e656f70b0056bc",
+        "is_collect": 1,
+        "tag_list": [
+          {
+            "tag_id": "676d210f4582b53a14081b02",
+            "tag_name": "Identitas Tersembunyi"
+          }
+        ],
+        "report": "{\"is_manual\":1,\"recall_level\":\"\",\"show_session_id\":\"bd573cfe-4d99-4155-b289-74e74b2501b4\"}"
+      }
+    ]
+  }
+}

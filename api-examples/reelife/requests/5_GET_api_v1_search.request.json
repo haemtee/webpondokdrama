@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/reelife/api/v1/search?q=cinta&page=1&size=20",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "cinta",
+    "page": "1",
+    "size": "20"
+  }
+}

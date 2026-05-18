@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/snackshort/api/v1/search?q=love&page=1&limit=20&lang=Indonesian",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "q": "love",
+    "page": "1",
+    "limit": "20",
+    "lang": "Indonesian"
+  }
+}

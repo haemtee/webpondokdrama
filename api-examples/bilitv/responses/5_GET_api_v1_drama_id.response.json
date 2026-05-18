@@ -1,0 +1,418 @@
+{
+  "id": 1881,
+  "title": "Sumpah yang Tidak Dapat Dipatahkan",
+  "cover": "https://static-sg.bilitv.com/image/drama/202501/6780e7484e41d.jpg",
+  "description": "",
+  "episodes": [
+    {
+      "id": 1,
+      "number": 1,
+      "free": true
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "free": true
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "free": true
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "free": true
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "free": true
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "free": true
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "free": true
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "free": false
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "free": false
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "free": false
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "free": false
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "free": false
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "free": false
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "free": false
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "free": false
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "free": false
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "free": false
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "free": false
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "free": false
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "free": false
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "free": false
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "free": false
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "free": false
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "free": false
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "free": false
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "free": false
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "free": false
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "free": false
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "free": false
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "free": false
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "free": false
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "free": false
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "free": false
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "free": false
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "free": false
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "free": false
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "free": false
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "free": false
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "free": false
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "free": false
+    },
+    {
+      "id": 41,
+      "number": 41,
+      "free": false
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "free": false
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "free": false
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "free": false
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "free": false
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "free": false
+    },
+    {
+      "id": 47,
+      "number": 47,
+      "free": false
+    },
+    {
+      "id": 48,
+      "number": 48,
+      "free": false
+    },
+    {
+      "id": 49,
+      "number": 49,
+      "free": false
+    },
+    {
+      "id": 50,
+      "number": 50,
+      "free": false
+    },
+    {
+      "id": 51,
+      "number": 51,
+      "free": false
+    },
+    {
+      "id": 52,
+      "number": 52,
+      "free": false
+    },
+    {
+      "id": 53,
+      "number": 53,
+      "free": false
+    },
+    {
+      "id": 54,
+      "number": 54,
+      "free": false
+    },
+    {
+      "id": 55,
+      "number": 55,
+      "free": false
+    },
+    {
+      "id": 56,
+      "number": 56,
+      "free": false
+    },
+    {
+      "id": 57,
+      "number": 57,
+      "free": false
+    },
+    {
+      "id": 58,
+      "number": 58,
+      "free": false
+    },
+    {
+      "id": 59,
+      "number": 59,
+      "free": false
+    },
+    {
+      "id": 60,
+      "number": 60,
+      "free": false
+    },
+    {
+      "id": 61,
+      "number": 61,
+      "free": false
+    },
+    {
+      "id": 62,
+      "number": 62,
+      "free": false
+    },
+    {
+      "id": 63,
+      "number": 63,
+      "free": false
+    },
+    {
+      "id": 64,
+      "number": 64,
+      "free": false
+    },
+    {
+      "id": 65,
+      "number": 65,
+      "free": false
+    },
+    {
+      "id": 66,
+      "number": 66,
+      "free": false
+    },
+    {
+      "id": 67,
+      "number": 67,
+      "free": false
+    },
+    {
+      "id": 68,
+      "number": 68,
+      "free": false
+    },
+    {
+      "id": 69,
+      "number": 69,
+      "free": false
+    },
+    {
+      "id": 70,
+      "number": 70,
+      "free": false
+    },
+    {
+      "id": 71,
+      "number": 71,
+      "free": false
+    },
+    {
+      "id": 72,
+      "number": 72,
+      "free": false
+    },
+    {
+      "id": 73,
+      "number": 73,
+      "free": false
+    },
+    {
+      "id": 74,
+      "number": 74,
+      "free": false
+    },
+    {
+      "id": 75,
+      "number": 75,
+      "free": false
+    },
+    {
+      "id": 76,
+      "number": 76,
+      "free": false
+    },
+    {
+      "id": 77,
+      "number": 77,
+      "free": false
+    },
+    {
+      "id": 78,
+      "number": 78,
+      "free": false
+    },
+    {
+      "id": 79,
+      "number": 79,
+      "free": false
+    },
+    {
+      "id": 80,
+      "number": 80,
+      "free": false
+    },
+    {
+      "id": 81,
+      "number": 81,
+      "free": false
+    },
+    {
+      "id": 82,
+      "number": 82,
+      "free": false
+    }
+  ]
+}

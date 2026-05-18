@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": 36,
+      "name": "New"
+    },
+    {
+      "id": 71,
+      "name": "Chart"
+    },
+    {
+      "id": 58,
+      "name": "Comics"
+    },
+    {
+      "id": 66,
+      "name": "Western"
+    },
+    {
+      "id": 94,
+      "name": "Asian"
+    },
+    {
+      "id": 34,
+      "name": "You Might Like"
+    }
+  ]
+}

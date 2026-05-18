@@ -1,0 +1,62 @@
+{
+  "code": 0,
+  "msg": "Permintaan berhasil",
+  "data": {
+    "paging": {
+      "page_no": 1,
+      "page_size": 20,
+      "total": 3
+    },
+    "list": [
+      {
+        "country_condition": 0,
+        "country_codes": "",
+        "series_id": 10953,
+        "cover": "https://file-cdn.flextv.cc/image/70/45662319eea2dab68ae172a86a4b65.jpg?image_process=resize,w_540/quality,Q_70",
+        "series_name": "Cinta yang Hilang dari Miliarder",
+        "description": "Jax adalah seorang miliarder yang jatuh cinta pada Daniella, seorang gadis lokal dan pemilik tunggal toko roti bernama “Love and Treats”. Hubungan mereka retak ketika orang tua Jax menuntut agar ia berhenti balap mobil dan pergi ke Denmark untuk mengelola bisnis keluarga. Mereka mengancam akan mencabut hak warisnya jika ia tidak menuruti. Jax meminta Daniella untuk ikut dengannya, tetapi dia menolak, tidak ingin meninggalkan rumah, teman, dan toko rotinya, serta menuduh Jax egois. Jax menuduh Daniella memilih menjadi tukang roti biasa daripada bersamanya. Perpisahan mereka menyakitkan.Jax berusaha tetap berhubungan dengan Daniella, tetapi dia mengabaikan panggilan dan pesannya. Lima tahun kemudian, setelah mendengar berita kematian ayahnya, Jax kembali untuk mengambil alih posisi ayahnya di perusahaan. Ia berusaha memenangkan Daniella kembali. Setelah beberapa kali percobaan, Daniella akhirnya setuju untuk bertemu, dan mereka menjadi pasangan lagi, namun Daniella tetap menjaga jarak. Semua runtuh ketika Daniella mengetahui bahwa perusahaan Jax melelang bangunannya, dan ia menerima telepon dari orang asing yang ingin membeli tokonya. Jax mengaku baru saja mengetahui kepemilikan Daniella. Setelah masa sulit dan kata-kata yang menyakitkan, Daniella mengatakan mereka tidak cocok dan mereka berpisah lagi. Jax mengemas barang-barangnya dan pergi ke Denmark secara permanen, karena tidak sanggup berada di kota yang sama tanpa Daniella. Daniella mengetahui bahwa dirinya hamil.",
+        "alias_name": "",
+        "link_id": 0,
+        "is_alias_search": 0,
+        "tags": [
+          "Cinta Penuh Siksaan Emosional",
+          "CEO"
+        ]
+      },
+      {
+        "country_condition": 0,
+        "country_codes": "",
+        "series_id": 3665,
+        "cover": "https://file-cdn.flextv.cc/image/83/b8657c3faa9700674d3a60ad0dc896.jpg?image_process=resize,w_540/quality,Q_70",
+        "series_name": "(Sulih Suara) Billion Bintang Tak Sebanding Denganmu",
+        "description": "aces a formidable challenge with the sudden reemergence of Luke’s ex-fiancée, Clara, who is bent on tearing them apart. The stakes rise when Clara uncovers a shocking secret: Emily is the true heiress of the Cassano family, switched at birth in a malicious plot. Desperate to keep this secret, Clara schemes against Emily, but her plans ultimately unravel.Reclaimed by her rightful family, Emily witnesses Clara face the consequences of her actions. Amidst the revelations and justice, Emily and Luke's love triumphs. They celebrate their journey with a grand wedding, their story becoming a legend of enduring love and resilience, as they step into a blissful married life together.",
+        "alias_name": "",
+        "link_id": 0,
+        "is_alias_search": 0,
+        "tags": [
+          "Romansa Manis",
+          "Cinta romantis"
+        ]
+      },
+      {
+        "country_condition": 0,
+        "country_codes": "",
+        "series_id": 1481,
+        "cover": "https://file-cdn.flextv.cc/image/94/2e32f8a15eb51e4971a551a699dcc7.jpg?image_process=resize,w_540/quality,Q_70",
+        "series_name": "Penyelamatan oleh Sang Miliarder",
+        "description": "aces a formidable challenge with the sudden reemergence of Luke’s ex-fiancée, Clara, who is bent on tearing them apart. The stakes rise when Clara uncovers a shocking secret: Emily is the true heiress of the Cassano family, switched at birth in a malicious plot. Desperate to keep this secret, Clara schemes against Emily, but her plans ultimately unravel.Reclaimed by her rightful family, Emily witnesses Clara face the consequences of her actions. Amidst the revelations and justice, Emily and Luke's love triumphs. They celebrate their journey with a grand wedding, their story becoming a legend of enduring love and resilience, as they step into a blissful married life together.",
+        "alias_name": "",
+        "link_id": 0,
+        "is_alias_search": 0,
+        "tags": [
+          "Romansa Manis",
+          "Cinta romantis"
+        ]
+      }
+    ],
+    "is_command": 0
+  },
+  "is_encrypt": 1,
+  "request_id": "0040FCBB-9683-7C29-E58F-3A2AC582C3E3",
+  "response_time": 1772589755
+}

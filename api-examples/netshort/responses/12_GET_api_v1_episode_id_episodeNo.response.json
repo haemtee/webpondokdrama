@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "data": {
+    "episodeId": "2003295403662745619",
+    "videos": [
+      {
+        "quality": "540p",
+        "url": "https://awscdn.netshort.com/o0vDI6iy5gscdb3PAQBvE1p2Gg0KWAV1i6iFfu?a=0&auth_key=1770669031-c10843f3b08846acbcbe2dc3de1e5bff-0-0577fd9c96fd2687956773709a9c7c98&br=925&bt=925&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=3&ds=3&eid=7fbcd09455734e1c8788e458597bff0a&er=0&l=2026012518022203B053C20DACD3C0C7D7&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VuO3A5cmhvODozMzZoNEApM2k6ODhoOzs0Nzo4PGdlOmdxMy1kMmRjaTRhMi1kXjVzc15jXzY1MTU0YGIwMjEtYGM6Yw%3D%3D&vl=&vr=&Expires=1770460159&Signature=vJydXnPBllEwdhjOrB1TkuOkQPFeCiobA0TOk6bIz7CeMQuI1uofnOQM4qk0gM6nDo-Q7LWBMe20b~B6FjKhupQrju6vWENnJd2Cw7fflQFxB1waYR6kEykLJTni21RzqRoQowJFe2dJAl9x9xs8HAqlv6hPGR~mStbrO3hXeJal0wLt5BabNaGkPOkri7Le7FPLEnKUl8Z9ScySAytfjgJOe9nALPZVDJ~h2a5Pi4vcVdqXzk7v0rmtPNE1GC0IbuvFFt1w3zLUa8hiNTPo5x6cVeKOKXPjXcnjeE2iF-t0-cYRgSFTY9R3uqC6gEKL3PA84B1bhpkS5TlT~ObV5g__&Key-Pair-Id=K15WUQYEZKHKVU"
+      },
+      {
+        "quality": "720p",
+        "url": "https://awscdn.netshort.com/o0vDI6iy5gscdb3PAQBvE1p2Gg0KWAV1i6iFfu?a=0&auth_key=1770669031-c10843f3b08846acbcbe2dc3de1e5bff-0-0577fd9c96fd2687956773709a9c7c98&br=925&bt=925&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=3&ds=3&eid=7fbcd09455734e1c8788e458597bff0a&er=0&l=2026012518022203B053C20DACD3C0C7D7&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VuO3A5cmhvODozMzZoNEApM2k6ODhoOzs0Nzo4PGdlOmdxMy1kMmRjaTRhMi1kXjVzc15jXzY1MTU0YGIwMjEtYGM6Yw%3D%3D&vl=&vr=&Expires=1770460159&Signature=vJydXnPBllEwdhjOrB1TkuOkQPFeCiobA0TOk6bIz7CeMQuI1uofnOQM4qk0gM6nDo-Q7LWBMe20b~B6FjKhupQrju6vWENnJd2Cw7fflQFxB1waYR6kEykLJTni21RzqRoQowJFe2dJAl9x9xs8HAqlv6hPGR~mStbrO3hXeJal0wLt5BabNaGkPOkri7Le7FPLEnKUl8Z9ScySAytfjgJOe9nALPZVDJ~h2a5Pi4vcVdqXzk7v0rmtPNE1GC0IbuvFFt1w3zLUa8hiNTPo5x6cVeKOKXPjXcnjeE2iF-t0-cYRgSFTY9R3uqC6gEKL3PA84B1bhpkS5TlT~ObV5g__&Key-Pair-Id=K15WUQYEZKHKVU"
+      },
+      {
+        "quality": "1080p",
+        "url": "https://awscdn.netshort.com/o0vDI6iy5gscdb3PAQBvE1p2Gg0KWAV1i6iFfu?a=0&auth_key=1770669031-c10843f3b08846acbcbe2dc3de1e5bff-0-0577fd9c96fd2687956773709a9c7c98&br=925&bt=925&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=3&ds=3&eid=7fbcd09455734e1c8788e458597bff0a&er=0&l=2026012518022203B053C20DACD3C0C7D7&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VuO3A5cmhvODozMzZoNEApM2k6ODhoOzs0Nzo4PGdlOmdxMy1kMmRjaTRhMi1kXjVzc15jXzY1MTU0YGIwMjEtYGM6Yw%3D%3D&vl=&vr=&Expires=1770460159&Signature=vJydXnPBllEwdhjOrB1TkuOkQPFeCiobA0TOk6bIz7CeMQuI1uofnOQM4qk0gM6nDo-Q7LWBMe20b~B6FjKhupQrju6vWENnJd2Cw7fflQFxB1waYR6kEykLJTni21RzqRoQowJFe2dJAl9x9xs8HAqlv6hPGR~mStbrO3hXeJal0wLt5BabNaGkPOkri7Le7FPLEnKUl8Z9ScySAytfjgJOe9nALPZVDJ~h2a5Pi4vcVdqXzk7v0rmtPNE1GC0IbuvFFt1w3zLUa8hiNTPo5x6cVeKOKXPjXcnjeE2iF-t0-cYRgSFTY9R3uqC6gEKL3PA84B1bhpkS5TlT~ObV5g__&Key-Pair-Id=K15WUQYEZKHKVU"
+      }
+    ],
+    "subtitles": []
+  }
+}

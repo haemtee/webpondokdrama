@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/netshort/api/v1/tab/1894702358019043329/1?lang=id_ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "tabId": "1894702358019043329",
+    "page": "1",
+    "lang": "id_ID"
+  }
+}

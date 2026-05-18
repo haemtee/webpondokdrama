@@ -1,0 +1,913 @@
+{
+  "ts": 1770089552585,
+  "code": 0,
+  "nowCh": "RLA20250818",
+  "data": {
+    "chapterList": [
+      {
+        "bookId": "42000003903",
+        "chapterId": "1",
+        "chapterName": "第一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/75/3x0/30x9/309x3/30930000024/700258457_1/700258457.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "2",
+        "chapterName": "第二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/85/3x0/30x9/309x3/30930000024/700258458_1/700258458.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "3",
+        "chapterName": "第三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/95/3x0/30x9/309x3/30930000024/700258459_1/700258459.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "4",
+        "chapterName": "第四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/06/3x0/30x9/309x3/30930000024/700258460_1/700258460.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "5",
+        "chapterName": "第五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/16/3x0/30x9/309x3/30930000024/700258461_1/700258461.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "6",
+        "chapterName": "第六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/26/3x0/30x9/309x3/30930000024/700258462_1/700258462.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "7",
+        "chapterName": "第七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/36/3x0/30x9/309x3/30930000024/700258463_1/700258463.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "8",
+        "chapterName": "第八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/46/3x0/30x9/309x3/30930000024/700258464_1/700258464.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "9",
+        "chapterName": "第九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/56/3x0/30x9/309x3/30930000024/700258465_1/700258465.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "10",
+        "chapterName": "第十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/66/3x0/30x9/309x3/30930000024/700258466_1/700258466.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "11",
+        "chapterName": "第十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/76/3x0/30x9/309x3/30930000024/700258467_1/700258467.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "12",
+        "chapterName": "第十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/86/3x0/30x9/309x3/30930000024/700258468_1/700258468.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "13",
+        "chapterName": "第十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/96/3x0/30x9/309x3/30930000024/700258469_1/700258469.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "14",
+        "chapterName": "第十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/07/3x0/30x9/309x3/30930000024/700258470_1/700258470.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "15",
+        "chapterName": "第十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/17/3x0/30x9/309x3/30930000024/700258471_1/700258471.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "16",
+        "chapterName": "第十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/27/3x0/30x9/309x3/30930000024/700258472_1/700258472.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "17",
+        "chapterName": "第十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/37/3x0/30x9/309x3/30930000024/700258473_1/700258473.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "18",
+        "chapterName": "第十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/47/3x0/30x9/309x3/30930000024/700258474_1/700258474.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "19",
+        "chapterName": "第十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/57/3x0/30x9/309x3/30930000024/700258475_1/700258475.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "20",
+        "chapterName": "第二十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/67/3x0/30x9/309x3/30930000024/700258476_1/700258476.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "21",
+        "chapterName": "第二十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/77/3x0/30x9/309x3/30930000024/700258477_1/700258477.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "22",
+        "chapterName": "第二十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/87/3x0/30x9/309x3/30930000024/700258478_1/700258478.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "23",
+        "chapterName": "第二十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/97/3x0/30x9/309x3/30930000024/700258479_1/700258479.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "24",
+        "chapterName": "第二十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/08/3x0/30x9/309x3/30930000024/700258480_1/700258480.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "25",
+        "chapterName": "第二十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/18/3x0/30x9/309x3/30930000024/700258481_1/700258481.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "26",
+        "chapterName": "第二十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/28/3x0/30x9/309x3/30930000024/700258482_1/700258482.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "27",
+        "chapterName": "第二十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/38/3x0/30x9/309x3/30930000024/700258483_1/700258483.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "28",
+        "chapterName": "第二十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/48/3x0/30x9/309x3/30930000024/700258484_1/700258484.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "29",
+        "chapterName": "第二十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/58/3x0/30x9/309x3/30930000024/700258485_1/700258485.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "30",
+        "chapterName": "第三十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/68/3x0/30x9/309x3/30930000024/700258486_1/700258486.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "31",
+        "chapterName": "第三十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/78/3x0/30x9/309x3/30930000024/700258487_1/700258487.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "32",
+        "chapterName": "第三十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/88/3x0/30x9/309x3/30930000024/700258488_1/700258488.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "33",
+        "chapterName": "第三十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/98/3x0/30x9/309x3/30930000024/700258489_1/700258489.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "34",
+        "chapterName": "第三十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/09/3x0/30x9/309x3/30930000024/700258490_1/700258490.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "35",
+        "chapterName": "第三十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/19/3x0/30x9/309x3/30930000024/700258491_1/700258491.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "36",
+        "chapterName": "第三十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/29/3x0/30x9/309x3/30930000024/700258492_1/700258492.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "37",
+        "chapterName": "第三十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/39/3x0/30x9/309x3/30930000024/700258493_1/700258493.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "38",
+        "chapterName": "第三十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/49/3x0/30x9/309x3/30930000024/700258494_1/700258494.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "39",
+        "chapterName": "第三十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/59/3x0/30x9/309x3/30930000024/700258495_1/700258495.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "40",
+        "chapterName": "第四十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/69/3x0/30x9/309x3/30930000024/700258496_1/700258496.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "41",
+        "chapterName": "第四十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/79/3x0/30x9/309x3/30930000024/700258497_1/700258497.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "42",
+        "chapterName": "第四十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/89/3x0/30x9/309x3/30930000024/700258498_1/700258498.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "43",
+        "chapterName": "第四十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/99/3x0/30x9/309x3/30930000024/700258499_1/700258499.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "44",
+        "chapterName": "第四十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/00/3x0/30x9/309x3/30930000024/700258500_1/700258500.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "45",
+        "chapterName": "第四十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/10/3x0/30x9/309x3/30930000024/700258501_1/700258501.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "46",
+        "chapterName": "第四十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/20/3x0/30x9/309x3/30930000024/700258502_1/700258502.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "47",
+        "chapterName": "第四十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/30/3x0/30x9/309x3/30930000024/700258503_1/700258503.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "48",
+        "chapterName": "第四十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/40/3x0/30x9/309x3/30930000024/700258504_1/700258504.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "49",
+        "chapterName": "第四十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/50/3x0/30x9/309x3/30930000024/700258505_1/700258505.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "50",
+        "chapterName": "第五十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/60/3x0/30x9/309x3/30930000024/700258506_1/700258506.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "51",
+        "chapterName": "第五十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/70/3x0/30x9/309x3/30930000024/700258507_1/700258507.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "52",
+        "chapterName": "第五十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/80/3x0/30x9/309x3/30930000024/700258508_1/700258508.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "53",
+        "chapterName": "第五十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/90/3x0/30x9/309x3/30930000024/700258509_1/700258509.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "54",
+        "chapterName": "第五十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/01/3x0/30x9/309x3/30930000024/700258510_1/700258510.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "55",
+        "chapterName": "第五十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/11/3x0/30x9/309x3/30930000024/700258511_1/700258511.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "56",
+        "chapterName": "第五十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/21/3x0/30x9/309x3/30930000024/700258512_1/700258512.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "57",
+        "chapterName": "第五十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/31/3x0/30x9/309x3/30930000024/700258513_1/700258513.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "58",
+        "chapterName": "第五十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/41/3x0/30x9/309x3/30930000024/700258514_1/700258514.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "59",
+        "chapterName": "第五十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/51/3x0/30x9/309x3/30930000024/700258515_1/700258515.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "60",
+        "chapterName": "第六十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/61/3x0/30x9/309x3/30930000024/700258516_1/700258516.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "61",
+        "chapterName": "第六十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/71/3x0/30x9/309x3/30930000024/700258517_1/700258517.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "62",
+        "chapterName": "第六十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/81/3x0/30x9/309x3/30930000024/700258518_1/700258518.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "63",
+        "chapterName": "第六十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/91/3x0/30x9/309x3/30930000024/700258519_1/700258519.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "64",
+        "chapterName": "第六十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/02/3x0/30x9/309x3/30930000024/700258520_1/700258520.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "65",
+        "chapterName": "第六十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/12/3x0/30x9/309x3/30930000024/700258521_1/700258521.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "66",
+        "chapterName": "第六十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/22/3x0/30x9/309x3/30930000024/700258522_1/700258522.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "67",
+        "chapterName": "第六十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/32/3x0/30x9/309x3/30930000024/700258523_1/700258523.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "68",
+        "chapterName": "第六十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/42/3x0/30x9/309x3/30930000024/700258524_1/700258524.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "69",
+        "chapterName": "第六十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/52/3x0/30x9/309x3/30930000024/700258525_1/700258525.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "70",
+        "chapterName": "第七十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/62/3x0/30x9/309x3/30930000024/700258526_1/700258526.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "71",
+        "chapterName": "第七十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/72/3x0/30x9/309x3/30930000024/700258527_1/700258527.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "72",
+        "chapterName": "第七十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/82/3x0/30x9/309x3/30930000024/700258528_1/700258528.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "73",
+        "chapterName": "第七十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/92/3x0/30x9/309x3/30930000024/700258529_1/700258529.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "74",
+        "chapterName": "第七十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/03/3x0/30x9/309x3/30930000024/700258530_1/700258530.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "75",
+        "chapterName": "第七十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/13/3x0/30x9/309x3/30930000024/700258531_1/700258531.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "76",
+        "chapterName": "第七十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/23/3x0/30x9/309x3/30930000024/700258532_1/700258532.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "77",
+        "chapterName": "第七十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/33/3x0/30x9/309x3/30930000024/700258533_1/700258533.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "78",
+        "chapterName": "第七十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/43/3x0/30x9/309x3/30930000024/700258534_1/700258534.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "79",
+        "chapterName": "第七十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/53/3x0/30x9/309x3/30930000024/700258535_1/700258535.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "80",
+        "chapterName": "第八十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/63/3x0/30x9/309x3/30930000024/700258536_1/700258536.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "81",
+        "chapterName": "第八十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/73/3x0/30x9/309x3/30930000024/700258537_1/700258537.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "82",
+        "chapterName": "第八十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/83/3x0/30x9/309x3/30930000024/700258538_1/700258538.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "83",
+        "chapterName": "第八十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/93/3x0/30x9/309x3/30930000024/700258539_1/700258539.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "84",
+        "chapterName": "第八十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/04/3x0/30x9/309x3/30930000024/700258540_1/700258540.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "85",
+        "chapterName": "第八十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/14/3x0/30x9/309x3/30930000024/700258541_1/700258541.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "86",
+        "chapterName": "第八十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/24/3x0/30x9/309x3/30930000024/700258542_1/700258542.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "87",
+        "chapterName": "第八十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/34/3x0/30x9/309x3/30930000024/700258543_1/700258543.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "88",
+        "chapterName": "第八十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/44/3x0/30x9/309x3/30930000024/700258544_1/700258544.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "89",
+        "chapterName": "第八十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/54/3x0/30x9/309x3/30930000024/700258545_1/700258545.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "90",
+        "chapterName": "第九十集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/64/3x0/30x9/309x3/30930000024/700258546_1/700258546.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "91",
+        "chapterName": "第九十一集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/74/3x0/30x9/309x3/30930000024/700258547_1/700258547.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "92",
+        "chapterName": "第九十二集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/84/3x0/30x9/309x3/30930000024/700258548_1/700258548.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "93",
+        "chapterName": "第九十三集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/94/3x0/30x9/309x3/30930000024/700258549_1/700258549.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "94",
+        "chapterName": "第九十四集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/05/3x0/30x9/309x3/30930000024/700258550_1/700258550.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "95",
+        "chapterName": "第九十五集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/15/3x0/30x9/309x3/30930000024/700258551_1/700258551.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "96",
+        "chapterName": "第九十六集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/25/3x0/30x9/309x3/30930000024/700258552_1/700258552.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "97",
+        "chapterName": "第九十七集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/35/3x0/30x9/309x3/30930000024/700258553_1/700258553.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "98",
+        "chapterName": "第九十八集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/45/3x0/30x9/309x3/30930000024/700258554_1/700258554.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "99",
+        "chapterName": "第九十九集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/55/3x0/30x9/309x3/30930000024/700258555_1/700258555.mp4.jpg",
+        "likeNum": 0
+      },
+      {
+        "bookId": "42000003903",
+        "chapterId": "100",
+        "chapterName": "第一百集",
+        "isCharge": 1,
+        "price": 0,
+        "chapterImg": "https://hwztvideo.dramaboxdb.com/65/3x0/30x9/309x3/30930000024/700258556_1/700258556.mp4.jpg",
+        "likeNum": 0
+      }
+    ],
+    "chapterTips": "全100集"
+  },
+  "regTime": 1770020065,
+  "nowChTime": 1770020065,
+  "cached": false
+}

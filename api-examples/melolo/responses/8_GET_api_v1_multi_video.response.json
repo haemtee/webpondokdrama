@@ -1,0 +1,490 @@
+{
+  "series": {
+    "series_id": 7602461581250661000,
+    "title": "Genius Heiress Strikes Back",
+    "intro": "Jane Carter, brilliant but betrayed by sister Lily, is wrongly sent to a mental institution by her family. After three years, she returns stronger but scarred, relying on her cat and studies. When mistreated again, she fights back—exposing Lily's lies and her own genius at the Valedictorian Gala, leaving her family behind.",
+    "episode_count": 52,
+    "episode_text": "Total 52 episodes",
+    "play_count": 1000,
+    "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/9cc720d572d36fe55353b81683807e19~tplv-shrink:640:0.heic",
+    "status": 1,
+    "is_vip": true,
+    "isVip": true,
+    "is_user_vip": true,
+    "isUserVip": true,
+    "vip_status": 1,
+    "has_subscribed": true,
+    "hasSubscribed": true
+  },
+  "total": 52,
+  "episodes": [
+    {
+      "index": 1,
+      "vid": "7602463570105732112",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463570105732112&auth_key=1776902400-0-0-7785f493726ff2f4916184b530304ff5",
+      "duration": 276,
+      "likes": 42762,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/ad617931134daba72314969330736dd5~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 2,
+      "vid": "7602463573398260753",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463573398260753&auth_key=1776902400-0-0-5aa244127c76cdf938a9d4649f275b3b",
+      "duration": 139,
+      "likes": 9120,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/0643a3c617366a38fa3971c40fca2d09~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 3,
+      "vid": "7602463575944203281",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463575944203281&auth_key=1776902400-0-0-3077ff38a3e90c71043b33ccadcc4101",
+      "duration": 216,
+      "likes": 9416,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/9a0c2e0900db81cde2752395a59478d4~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 4,
+      "vid": "7602463579274480656",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463579274480656&auth_key=1776902400-0-0-702d73a7eff676493eb21eba7bc2b4c0",
+      "duration": 117,
+      "likes": 5258,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/5677a7786c0597ab06979a20af5baba5~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 5,
+      "vid": "7602463582671866897",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463582671866897&auth_key=1776902400-0-0-7dbaca5164e3c417788801dd06ab45b4",
+      "duration": 59,
+      "likes": 3701,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/ef49cc07f86c16ffeb740a5e92f5d294~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 6,
+      "vid": "7602463585914063888",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463585914063888&auth_key=1776902400-0-0-4c91fbcb21f4b9a861509eb74d6f8e09",
+      "duration": 127,
+      "likes": 5756,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/24f6867de65fb11646c5dda36fcdd229~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 7,
+      "vid": "7602463589969955857",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463589969955857&auth_key=1776902400-0-0-95100c63bd48d2fd4f99e160d07f3e1a",
+      "duration": 124,
+      "likes": 5078,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/62a1b348fb6ff8150be0352293c78c6a~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 8,
+      "vid": "7602463593073740816",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463593073740816&auth_key=1776902400-0-0-cdf8dd3c37e921cb9f9524243fb49773",
+      "duration": 87,
+      "likes": 4313,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/c750fad9ac7bce781b2cd04df3f71429~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 9,
+      "vid": "7602463595997170704",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463595997170704&auth_key=1776902400-0-0-6fda2f5c6f4f85504105e2c5b884ac58",
+      "duration": 131,
+      "likes": 4478,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/308b08327455ba7b04ada7f451b31bce~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 10,
+      "vid": "7602463598723468304",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463598723468304&auth_key=1776902400-0-0-6ac4b5d1b3b840fb86a9a166ad99fb00",
+      "duration": 146,
+      "likes": 4826,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/c508db75dc6dbd90c3620c25fbdfa3cf~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 11,
+      "vid": "7602463601361685520",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463601361685520&auth_key=1776902400-0-0-79e742d79efe374ac9508554779fa9d9",
+      "duration": 120,
+      "likes": 4252,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/3322a3fc9567c04812a41a67897f54f7~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 12,
+      "vid": "7602463604490636305",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463604490636305&auth_key=1776902400-0-0-fcc070e350eb056403683b833ee8c4dc",
+      "duration": 62,
+      "likes": 3610,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/088f63ec67aeec200372d94bb8dd2580~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 13,
+      "vid": "7602463607560866833",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463607560866833&auth_key=1776902400-0-0-36b4f7f536ab6f322dbeab5dbe89a346",
+      "duration": 134,
+      "likes": 4080,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/c0db9ad76068524233707c171cb1c013~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 14,
+      "vid": "7602463615420992513",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463615420992513&auth_key=1776902400-0-0-810baed3ca28e6f90e74eead04e53bdc",
+      "duration": 128,
+      "likes": 3832,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/b10e29cc21fc16c6388eed82a29e472f~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 15,
+      "vid": "7602463618239564817",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463618239564817&auth_key=1776902400-0-0-9a39a93621a23132a79523eba3f2aa13",
+      "duration": 140,
+      "likes": 4244,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/76ff299d67e1313a7ef703042fa0dfa0~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 16,
+      "vid": "7602463621003611153",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463621003611153&auth_key=1776902400-0-0-2389686f1431aa0885e97afa8e771357",
+      "duration": 118,
+      "likes": 3744,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/77671c9b9b44269275c7bc679ddac2aa~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 17,
+      "vid": "7602463623717325841",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463623717325841&auth_key=1776902400-0-0-d0ba9551add9e64703504c3c6757ac48",
+      "duration": 186,
+      "likes": 4710,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/800c78ba4d6ba6f4c2ba70b84edfcbdc~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 18,
+      "vid": "7602463627190209553",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463627190209553&auth_key=1776902400-0-0-a7bee896dcb79e3d379cd7d4a4fbd6e1",
+      "duration": 89,
+      "likes": 3588,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/0c19be765fc58addd68fb0bed6a7097c~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 19,
+      "vid": "7602463630126222352",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463630126222352&auth_key=1776902400-0-0-3ee0a1328b921538ee082b52ad22e408",
+      "duration": 102,
+      "likes": 3909,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/fb3641a8b47eae83a3d3ed27d7620d22~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 20,
+      "vid": "7602463632688942097",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463632688942097&auth_key=1776902400-0-0-226beade9ac8bf0d22a574ef338fc3ad",
+      "duration": 104,
+      "likes": 3782,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/ef34c1effb543f6d242f4c347aab3598~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 21,
+      "vid": "7602463635515902992",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463635515902992&auth_key=1776902400-0-0-9f9fd9e76fffb142bb881d07274aaf88",
+      "duration": 94,
+      "likes": 2110,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/572db26b3432c0d6c993054972eb588d~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 22,
+      "vid": "7602463638389001232",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463638389001232&auth_key=1776902400-0-0-29d5473e28b33e15a6e30390cc853223",
+      "duration": 90,
+      "likes": 3101,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/0c123eb39b7e4cd00f9946139f5335d4~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 23,
+      "vid": "7602463640930749456",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463640930749456&auth_key=1776902400-0-0-583529214c4ade1120d00a97f4c38e01",
+      "duration": 126,
+      "likes": 4317,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/0b943e7c310e7c314f7037cae2b09199~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 24,
+      "vid": "7602463643497663505",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463643497663505&auth_key=1776902400-0-0-dc8677f3d7c2f89508ff2e9dae1f2630",
+      "duration": 102,
+      "likes": 4040,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/5ff45c5311c8424282a13a586f8070e6~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 25,
+      "vid": "7602463646437870593",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463646437870593&auth_key=1776902400-0-0-099d481a0320b8acff971cb5ed2904f5",
+      "duration": 128,
+      "likes": 4042,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/342f472079f8bdb5bc3bd4ae55b3518a~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 26,
+      "vid": "7602463649508101121",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463649508101121&auth_key=1776902400-0-0-3d2a36776db3cdda769373ae7b8341ac",
+      "duration": 116,
+      "likes": 4001,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/a1f90b925f32ac41030679d1eefef9db~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 27,
+      "vid": "7602463652100180993",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463652100180993&auth_key=1776902400-0-0-76a84939f384a6dc73462539586d4eeb",
+      "duration": 69,
+      "likes": 3025,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/839c719fc5b26193321c59dc75a2d0e5~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 28,
+      "vid": "7602463654964890640",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463654964890640&auth_key=1776902400-0-0-ce220755197105d576567fdc045c63fc",
+      "duration": 95,
+      "likes": 3348,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/152e75f3d3d3079638a9f138ef18dae7~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 29,
+      "vid": "7602463657754102801",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463657754102801&auth_key=1776902400-0-0-5713ddc302a0e40b218551e0ef1526c0",
+      "duration": 111,
+      "likes": 3519,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/5d83234c9ece4ba3b12bd2234e32159b~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 30,
+      "vid": "7602463660371348481",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463660371348481&auth_key=1776902400-0-0-a23761cab8e2b174e79d9b088e9ccac6",
+      "duration": 163,
+      "likes": 4115,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/30ab599e285ef88e7ec06b27fff73128~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 31,
+      "vid": "7602463663278001153",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463663278001153&auth_key=1776902400-0-0-f95a1db661f96df9fcb4d16df5fa9f48",
+      "duration": 105,
+      "likes": 3560,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/255ae2b0dfc0ca128eecb57bef7f3b1c~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 32,
+      "vid": "7602463665932995601",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463665932995601&auth_key=1776902400-0-0-405f86928bf1ce41465ed1928e2eb90d",
+      "duration": 88,
+      "likes": 3106,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/c77dbceeff4e89b9bff232868f154cb9~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 33,
+      "vid": "7602463668650904577",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463668650904577&auth_key=1776902400-0-0-177a91662a4ad4a78d66bfc7c3a7e274",
+      "duration": 96,
+      "likes": 3317,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/21ca39d2f3718d964d20bc4b253af02b~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 34,
+      "vid": "7602463671431728144",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463671431728144&auth_key=1776902400-0-0-435c1fba685a8192f1b1874d1e552a1a",
+      "duration": 83,
+      "likes": 3169,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/90b027152c50538ce98c89612fa1b7c3~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 35,
+      "vid": "7602463674296437776",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463674296437776&auth_key=1776902400-0-0-4bce63b017c8206228fdcd5d10f308b7",
+      "duration": 72,
+      "likes": 2884,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/13cfd8a4caa6f4834516003e8d5dd2f2~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 36,
+      "vid": "7602463677106621456",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463677106621456&auth_key=1776902400-0-0-57e6d6fd148db3b492607f3bf727e2b2",
+      "duration": 93,
+      "likes": 2959,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/9d8ce2d7c7dcdd1bd3a8c4f517be94f8~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 37,
+      "vid": "7602463679962942481",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463679962942481&auth_key=1776902400-0-0-993b0396c74b0e45292088a24e3f6bec",
+      "duration": 123,
+      "likes": 3800,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/a00f7c5808b855b1ab618bb95a9248fd~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 38,
+      "vid": "7602463682890566673",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463682890566673&auth_key=1776902400-0-0-dcc48bf7028e2a495698d03ada9daa77",
+      "duration": 101,
+      "likes": 3086,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/66aeb8d018b58342116df8d1cc63e154~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 39,
+      "vid": "7602463685558144017",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463685558144017&auth_key=1776902400-0-0-b1453ce4c56bf0296a23cc1c0f8f1ef9",
+      "duration": 82,
+      "likes": 2688,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/834e7e812e9c51b467ee11b70309939b~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 40,
+      "vid": "7602463688179584001",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463688179584001&auth_key=1776902400-0-0-84e9289479ca8a2be4dd8dde6717693e",
+      "duration": 90,
+      "likes": 2708,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/e633f04a5defc7cfc36834f13492e888~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 41,
+      "vid": "7602463691245620241",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463691245620241&auth_key=1776902400-0-0-9b83ba8e47b20af935c69856d163da72",
+      "duration": 70,
+      "likes": 2738,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/d8b7d6d1ed1fc57d178cdff942b44f8f~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 42,
+      "vid": "7602463694202604561",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463694202604561&auth_key=1776902400-0-0-8b371d85990737004046f8cae7cb232a",
+      "duration": 75,
+      "likes": 2530,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/da60dcf4a856414593432484d7a6c7aa~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 43,
+      "vid": "7602463696798878736",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463696798878736&auth_key=1776902400-0-0-8a77b602e9f13ed48a18f0402d04c6b2",
+      "duration": 74,
+      "likes": 2516,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/262c1151fdf484a60c314c4243920d1e~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 44,
+      "vid": "7602463699688754193",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463699688754193&auth_key=1776902400-0-0-39aedd45bb2b85b1eba39231a6af590c",
+      "duration": 72,
+      "likes": 2566,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/3b9c0712398b54b5304293b7fa8dad0d~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 45,
+      "vid": "7602463702444411920",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463702444411920&auth_key=1776902400-0-0-6d8697242a6912953757bfac97014c61",
+      "duration": 91,
+      "likes": 3112,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/9c318a432251bafa59acf33b6a0dc675~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 46,
+      "vid": "7602463705426562049",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463705426562049&auth_key=1776902400-0-0-6f5c9c484480324684008a42c6fafa9f",
+      "duration": 126,
+      "likes": 2930,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/218d0fac6e1f4533890a1bab41f8a340~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 47,
+      "vid": "7602463708052196368",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463708052196368&auth_key=1776902400-0-0-c916a2ccbec532f2a0a891c241b584fb",
+      "duration": 129,
+      "likes": 3168,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/8cc08cd31d752466da21c097ff13bf34~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 48,
+      "vid": "7602463710996597761",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463710996597761&auth_key=1776902400-0-0-bcd39829f162f21371eeef8b6a6b86ee",
+      "duration": 125,
+      "likes": 3079,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/38f858548d8f6f1fec810b34dfc9ea88~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 49,
+      "vid": "7602463714263960592",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463714263960592&auth_key=1776902400-0-0-b6810d16991cbdc9103804e20d908f1e",
+      "duration": 134,
+      "likes": 3374,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/ffff087d77d64836e9e6d37cce1f60f2~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 50,
+      "vid": "7602463717288053776",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463717288053776&auth_key=1776902400-0-0-8c724ebd36e8b3b18141c40270243134",
+      "duration": 86,
+      "likes": 2812,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/2f03890d235b3489720c620a97b3c784~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 51,
+      "vid": "7602463720387644432",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463720387644432&auth_key=1776902400-0-0-63d85647bc2c2a10e943fb338f395cf2",
+      "duration": 154,
+      "likes": 4115,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/274be8fd19a5d66a7f18a80c323a292c~tplv-shrink:640:0.heic",
+      "vertical": true
+    },
+    {
+      "index": 52,
+      "vid": "7602463723852139536",
+      "stream_url": "https://inicdn.net/api/v1/video/stream?id=7602463723852139536&auth_key=1776902400-0-0-9188e2f2d0f81b37a627de9d717a8a70",
+      "duration": 162,
+      "likes": 8000,
+      "cover": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/5878ba629f6d6eb2218207ed7a90f3a5~tplv-shrink:640:0.heic",
+      "vertical": true
+    }
+  ]
+}

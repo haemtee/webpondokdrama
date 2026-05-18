@@ -1,0 +1,57 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "code": "en_US",
+      "name": "English"
+    },
+    {
+      "code": "ko_KR",
+      "name": "한국어"
+    },
+    {
+      "code": "ja_JP",
+      "name": "日本語"
+    },
+    {
+      "code": "es_ES",
+      "name": "Español"
+    },
+    {
+      "code": "th_TH",
+      "name": "ภาษาไทย"
+    },
+    {
+      "code": "zh_HK",
+      "name": "繁体中文"
+    },
+    {
+      "code": "id_ID",
+      "name": "Bahasa Indonesia"
+    },
+    {
+      "code": "pt_PT",
+      "name": "Português"
+    },
+    {
+      "code": "tr_TR",
+      "name": "Türkçe"
+    },
+    {
+      "code": "fr_FR",
+      "name": "Français"
+    },
+    {
+      "code": "ar_AE",
+      "name": "اللغة العربية"
+    },
+    {
+      "code": "de_DE",
+      "name": "Deutsch"
+    },
+    {
+      "code": "vi_VN",
+      "name": "Tiếng Việt"
+    }
+  ]
+}

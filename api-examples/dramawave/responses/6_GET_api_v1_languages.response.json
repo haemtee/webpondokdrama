@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "data": {
+    "supported": [
+      "en-US",
+      "zh-CN",
+      "zh-TW",
+      "ja-JP",
+      "ko-KR",
+      "es-MX",
+      "pt-PT",
+      "fr-FR",
+      "id-ID",
+      "ru-RU",
+      "de-DE",
+      "vi-VN",
+      "it-IT",
+      "tr-TR",
+      "ms-MY",
+      "th-TH",
+      "tl-PH",
+      "hi-IN",
+      "ar-SA",
+      "yue"
+    ],
+    "default": "id-ID"
+  }
+}

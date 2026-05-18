@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/rapidtv/api/v1/dramas/2008052217783586817?lang=in",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "2008052217783586817",
+    "lang": "in"
+  }
+}

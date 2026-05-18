@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "data": [
+    {
+      "videoid": "Van8ov",
+      "cover": "https://static-aka.cubetv.cc/env_prod/backend/episode/cover/2026051508140284243435.jpg",
+      "summary": "Pada malam gelap yang penuh badai, seorang gadis bernama Serina, mengenakan pakaian kurban yang lusuh, diangkut dengan gerbong tahanan menuju wilayah Malam yang suram. Untuk menyelamatkan adik perempuannya yang sakit parah dan mendapatkan penawar penyelamat jiwa, ia rela mengorbankan dirinya kepada Raja Peri Yarl yang haus darah dan kejam. Para prajurit mendorongnya dengan kasar ke dalam balai besar yang sunyi dan dingin. Seketika, sepasang mata merah dan berbahaya menyala. Sejak saat itu, hidupnya berubah secara drastis.",
+      "label": "new",
+      "tagInfo": [
+        "Cinta",
+        "Fantasi"
+      ],
+      "releaseDate": "2026",
+      "videoName": "Dikorbankan kepada Raja Vampir, Tapi Dia Berlutut",
+      "videoAliasName": "精灵王的重生娇妻（漫剧-本土AI）",
+      "totalDuration": 3600,
+      "showType": 1,
+      "totalEpisodeNum": 30,
+      "firstEpisodeid": "ZVXpo0",
+      "latestEpisodeid": "043lRa",
+      "latestEpisodeNumber": 30,
+      "latestEpisodeTitle": "30",
+      "episodeLatestUpdateTime": 0,
+      "shelfTime": 1779062400,
+      "shelfStatus": 1,
+      "isFree": 0,
+      "isEnd": 1,
+      "watchUserNum": 36,
+      "hotNum": 52
+    },
+    {
+      "videoid": "dv333v",
+      "cover": "https://static-aka.cubetv.cc/env_prod/backend/episode/cover/2026051408424416450028.jpg",
+      "summary": "Darren, seorang medium tingkat atas yang bersembunyi selama bertahun-tahun, kembali ke rumah agam raja serigala Jacob untuk menyelidiki kebenaran. Sebuah tanda takdir tiba-tiba muncul di tulang selangka keduanya, secara paksa mengikat dua musuh bebuyutan ini. Untuk memecahkan kasus hilangnya anak-anak keluarga dan berbagi kekuatan spiritual, Darren terpaksa memulai kerja sama kontraktual yang tegang dengan Jacob yang paranoid, terus-menerus terombang-ambing antara ambiguitas mematikan dan api balas dendam.",
+      "label": "new",
+      "tagInfo": [
+        "Thriller",
+        "Zombie",
+        "SF"
+      ],
+      "releaseDate": "2026",
+      "videoName": "Sepuluh Menit di Neraka",
+      "videoAliasName": "腥红俱乐部（漫剧-AI本土）",
+      "totalDuration": 3600,
+      "showType": 1,
+      "totalEpisodeNum": 22,
+      "firstEpisodeid": "vgp2lZ",
+      "latestEpisodeid": "a6BoPa",
+      "latestEpisodeNumber": 22,
+      "latestEpisodeTitle": "22",
+      "episodeLatestUpdateTime": 0,
+      "shelfTime": 1779148800,
+      "shelfStatus": 0,
+      "isFree": 0,
+      "isEnd": 1,
+      "watchUserNum": 12,
+      "hotNum": 18
+    }
+  ]
+}

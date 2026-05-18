@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/netshort/api/v1/search/cinta/1?lang=id_ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "keyword": "cinta",
+    "page": "1",
+    "lang": "id_ID"
+  }
+}

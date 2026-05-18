@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "message": "Success",
+  "data": {
+    "title": "Cinta Pertama Berjuta Rasanya",
+    "collectionId": "7633642976383783953",
+    "totalEpisodes": 85,
+    "shortcutNum": 24,
+    "creatorUid": "7340497797424808965",
+    "episodes": [
+      {
+        "num": 1,
+        "seqId": 1,
+        "videoId": "7633689317960928513",
+        "isFree": true
+      },
+      {
+        "num": 2,
+        "seqId": 2,
+        "videoId": "7633747075246624017",
+        "isFree": true
+      },
+      {
+        "num": 3,
+        "seqId": 3,
+        "videoId": "7633689256778616065",
+        "isFree": true
+      },
+      {
+        "num": 4,
+        "seqId": 4,
+        "videoId": "7633689310381870337",
+        "isFree": true
+      },
+      {
+        "num": 5,
+        "seqId": 5,
+        "videoId": "7633689321991671057",
+        "isFree": true
+      },
+      {
+        "num": 6,
+        "seqId": 6,
+        "videoId": "7633689295676607761",
+        "isFree": true
+      },
+      {
+        "num": 7,
+        "seqId": 7,
+        "videoId": "7633689335983901969",
+        "isFree": true
+      },
+      {
+        "num": 8,
+        "seqId": 8,
+        "videoId": "7633689321836498193",
+        "isFree": true
+      },
+      {
+        "num": 9,
+        "seqId": 9,
+        "videoId": "7633689312541854992",
+        "isFree": true
+      },
+      {
+        "num": 10,
+        "seqId": 10,
+        "videoId": "7633689343013440769",
+        "isFree": true
+      },
+      {
+        "num": 11,
+        "seqId": 11,
+        "videoId": "7633689345517505809",
+        "isFree": true
+      },
+      {
+        "num": 12,
+        "seqId": 12,
+        "videoId": "7633689328568306961",
+        "isFree": true
+      },
+      {
+        "num": 13,
+        "seqId": 13,
+        "videoId": "7633689346138279185",
+        "isFree": true
+      },
+      {
+        "num": 14,
+        "seqId": 14,
+        "videoId": "7633689347061009680",
+        "isFree": true
+      },
+      {
+        "num": 15,
+        "seqId": 15,
+        "videoId": "7633689349770562833",
+        "isFree": true
+      },
+      {
+        "num": 16,
+        "seqId": 16,
+        "videoId": "7633689367319416080",
+        "isFree": true
+      },
+      {
+        "num": 17,
+        "seqId": 17,
+        "videoId": "7633689376408554769",
+        "isFree": true
+      },
+      {
+        "num": 18,
+        "seqId": 18,
+        "videoId": "7633689372109344001",
+        "isFree": true
+      },
+      {
+        "num": 19,
+        "seqId": 19,
+        "videoId": "7633689347052686608",
+        "isFree": true
+      },
+      {
+        "num": 20,
+        "seqId": 20,
+        "videoId": "7633689354480766224",
+        "isFree": true
+      },
+      {
+        "num": 21,
+        "seqId": 21,
+        "videoId": "7633689359123762448",
+        "isFree": true
+      },
+      {
+        "num": 22,
+        "seqId": 22,
+        "videoId": "7633689409342164225",
+        "isFree": true
+      },
+      {
+        "num": 23,
+        "seqId": 23,
+        "videoId": "7633689371954187536",
+        "isFree": true
+      },
+      {
+        "num": 24,
+        "seqId": 24,
+        "videoId": "7633689342300491025",
+        "isFree": true
+      },
+      {
+        "num": 25,
+        "seqId": 25,
+        "videoId": "7633689304971185409",
+        "isFree": true
+      },
+      {
+        "num": 26,
+        "seqId": 26,
+        "videoId": "7633689315398241537",
+        "isFree": true
+      },
+      {
+        "num": 27,
+        "seqId": 27,
+        "videoId": "7633689419949542672",
+        "isFree": true
+      },
+      {
+        "num": 28,
+        "seqId": 28,
+        "videoId": "7633689353029553409",
+        "isFree": true
+      },
+      {
+        "num": 29,
+        "seqId": 29,
+        "videoId": "7633689372335918337",
+        "isFree": true
+      },
+      {
+        "num": 30,
+        "seqId": 30,
+        "videoId": "7633689439461461249",
+        "isFree": true
+      },
+      {
+        "num": 31,
+        "seqId": 31,
+        "videoId": "7633689363141954833",
+        "isFree": true
+      },
+      {
+        "num": 32,
+        "seqId": 32,
+        "videoId": "7633689353910308112",
+        "isFree": true
+      },
+      {
+        "num": 33,
+        "seqId": 33,
+        "videoId": "7633689331428887809",
+        "isFree": true
+      },
+      {
+        "num": 34,
+        "seqId": 34,
+        "videoId": "7633689368686824705",
+        "isFree": true
+      },
+      {
+        "num": 35,
+        "seqId": 35,
+        "videoId": "7633689365851524368",
+        "isFree": true
+      },
+      {
+        "num": 36,
+        "seqId": 36,
+        "videoId": "7633689396247596304",
+        "isFree": true
+      },
+      {
+        "num": 37,
+        "seqId": 37,
+        "videoId": "7633689423313440017",
+        "isFree": true
+      },
+      {
+        "num": 38,
+        "seqId": 38,
+        "videoId": "7633689375892720913",
+        "isFree": true
+      },
+      {
+        "num": 39,
+        "seqId": 39,
+        "videoId": "7633689387154394385",
+        "isFree": true
+      },
+      {
+        "num": 40,
+        "seqId": 40,
+        "videoId": "7633689375443930385",
+        "isFree": true
+      },
+      {
+        "num": 41,
+        "seqId": 41,
+        "videoId": "7633689348721986833",
+        "isFree": true
+      },
+      {
+        "num": 42,
+        "seqId": 42,
+        "videoId": "7633689388001676545",
+        "isFree": true
+      },
+      {
+        "num": 43,
+        "seqId": 43,
+        "videoId": "7633689399334587664",
+        "isFree": true
+      },
+      {
+        "num": 44,
+        "seqId": 44,
+        "videoId": "7633689412055911681",
+        "isFree": true
+      },
+      {
+        "num": 45,
+        "seqId": 45,
+        "videoId": "7633689383056575761",
+        "isFree": true
+      },
+      {
+        "num": 46,
+        "seqId": 46,
+        "videoId": "7633689406410427649",
+        "isFree": true
+      },
+      {
+        "num": 47,
+        "seqId": 47,
+        "videoId": "7633689430636678417",
+        "isFree": true
+      },
+      {
+        "num": 48,
+        "seqId": 48,
+        "videoId": "7633689391675854081",
+        "isFree": true
+      },
+      {
+        "num": 49,
+        "seqId": 49,
+        "videoId": "7633689404296465680",
+        "isFree": true
+      },
+      {
+        "num": 50,
+        "seqId": 50,
+        "videoId": "7633689457333390609",
+        "isFree": true
+      },
+      {
+        "num": 51,
+        "seqId": 51,
+        "videoId": "7633689433413307665",
+        "isFree": true
+      },
+      {
+        "num": 52,
+        "seqId": 52,
+        "videoId": "7633689401406672144",
+        "isFree": true
+      },
+      {
+        "num": 53,
+        "seqId": 53,
+        "videoId": "7633689421346311440",
+        "isFree": true
+      },
+      {
+        "num": 54,
+        "seqId": 54,
+        "videoId": "7633689469597519121",
+        "isFree": true
+      },
+      {
+        "num": 55,
+        "seqId": 55,
+        "videoId": "7633689453982223617",
+        "isFree": true
+      },
+      {
+        "num": 56,
+        "seqId": 56,
+        "videoId": "7633689430812888321",
+        "isFree": true
+      },
+      {
+        "num": 57,
+        "seqId": 57,
+        "videoId": "7633689463553608976",
+        "isFree": true
+      },
+      {
+        "num": 58,
+        "seqId": 58,
+        "videoId": "7633689417776975105",
+        "isFree": true
+      },
+      {
+        "num": 59,
+        "seqId": 59,
+        "videoId": "7633689430582201601",
+        "isFree": true
+      },
+      {
+        "num": 60,
+        "seqId": 60,
+        "videoId": "7633689457471851793",
+        "isFree": true
+      },
+      {
+        "num": 61,
+        "seqId": 61,
+        "videoId": "7633689413343661313",
+        "isFree": true
+      },
+      {
+        "num": 62,
+        "seqId": 62,
+        "videoId": "7633689406762781968",
+        "isFree": true
+      },
+      {
+        "num": 63,
+        "seqId": 63,
+        "videoId": "7633689449141980417",
+        "isFree": true
+      },
+      {
+        "num": 64,
+        "seqId": 64,
+        "videoId": "7633689485200379137",
+        "isFree": true
+      },
+      {
+        "num": 65,
+        "seqId": 65,
+        "videoId": "7633689517240651024",
+        "isFree": true
+      },
+      {
+        "num": 66,
+        "seqId": 66,
+        "videoId": "7633689403856145681",
+        "isFree": true
+      },
+      {
+        "num": 67,
+        "seqId": 67,
+        "videoId": "7633689396130237713",
+        "isFree": true
+      },
+      {
+        "num": 68,
+        "seqId": 68,
+        "videoId": "7633689417193999632",
+        "isFree": true
+      },
+      {
+        "num": 69,
+        "seqId": 69,
+        "videoId": "7633689457287302416",
+        "isFree": true
+      },
+      {
+        "num": 70,
+        "seqId": 70,
+        "videoId": "7633689470490938625",
+        "isFree": true
+      },
+      {
+        "num": 71,
+        "seqId": 73,
+        "videoId": "7633689450769370385",
+        "isFree": true
+      },
+      {
+        "num": 72,
+        "seqId": 74,
+        "videoId": "7633689465650711824",
+        "isFree": true
+      },
+      {
+        "num": 73,
+        "seqId": 75,
+        "videoId": "7633689467320028432",
+        "isFree": true
+      },
+      {
+        "num": 74,
+        "seqId": 77,
+        "videoId": "7633689458902174992",
+        "isFree": true
+      },
+      {
+        "num": 75,
+        "seqId": 78,
+        "videoId": "7633689441671892225",
+        "isFree": true
+      },
+      {
+        "num": 76,
+        "seqId": 79,
+        "videoId": "7633689466087017729",
+        "isFree": true
+      },
+      {
+        "num": 77,
+        "seqId": 80,
+        "videoId": "7633689485955353872",
+        "isFree": true
+      },
+      {
+        "num": 78,
+        "seqId": 81,
+        "videoId": "7633689515634199825",
+        "isFree": true
+      },
+      {
+        "num": 79,
+        "seqId": 82,
+        "videoId": "7633689470851730705",
+        "isFree": true
+      },
+      {
+        "num": 80,
+        "seqId": 83,
+        "videoId": "7633689501163949329",
+        "isFree": true
+      },
+      {
+        "num": 81,
+        "seqId": 84,
+        "videoId": "7633689460206554385",
+        "isFree": true
+      },
+      {
+        "num": 82,
+        "seqId": 85,
+        "videoId": "7633689459661327617",
+        "isFree": true
+      },
+      {
+        "num": 83,
+        "seqId": 86,
+        "videoId": "7633689443257421072",
+        "isFree": true
+      },
+      {
+        "num": 84,
+        "seqId": 87,
+        "videoId": "7633689463914319121",
+        "isFree": true
+      },
+      {
+        "num": 85,
+        "seqId": 88,
+        "videoId": "7633689408553749777",
+        "isFree": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,1427 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": 31,
+      "theaterTitle": "",
+      "theaterSubtitle": "",
+      "theaterSort": 0,
+      "theaterStyle": 5,
+      "plays": [
+        {
+          "id": 2087,
+          "playName": "Curtain Call for Love",
+          "fileUrl": "https://saros-tv.com/s_play/e896a91275d94358b72db46db9c20608.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Emma Johnson had been married to Ryan Morgan for five years. She danced relentlessly, striving to achieve the highest honour in dance and thereby fulfil the promise she had made to Ryan's mother – only then would she feel worthy of being called his wife. Yet as dawn approached, their once-intense affection seemed to be gradually eroded by the monotony of daily life. Emma began to suspect that Ryan no longer loved her......",
+          "playStatus": 1,
+          "playTotal": 60,
+          "playTrackNum": 33270,
+          "seriesId": 149909,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 80,
+              "tagName": "Love Triangle",
+              "playId": 2087,
+              "tagType": 1
+            },
+            {
+              "id": 75,
+              "tagName": "Tragic Romance",
+              "playId": 2087,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d5k4q4aljht06si4p0j0/926679d891f644c8a08ea708a56c7a2c/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 2018,
+          "playName": "Moonlight Rust",
+          "fileUrl": "https://saros-tv.com/s_play/d5e5d4b0ddc5410fabdd3b3df89d7ce6.jpg",
+          "imgWidth": 360,
+          "imgHeight": 480,
+          "playDesc": "Evelyn spent eight years supporting Nick's growth, yet to divorce him when he had an affair with Chloe. Having lost faith in love, she encountered Edward during her most vulnerable moment. With Edward standing by her as her guardian, Evelyn's scarred heart gradually healed, opening a new chapter of love.",
+          "playStatus": 1,
+          "playTotal": 60,
+          "playTrackNum": 81050,
+          "seriesId": 144919,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 137,
+              "tagName": "Affair",
+              "playId": 2018,
+              "tagType": 1
+            },
+            {
+              "id": 80,
+              "tagName": "Love Triangle",
+              "playId": 2018,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d5f15g2ljht9l1kienrg/686107e3e6724000b3f4cdcacc47f877/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 138,
+          "playName": "Your Highness, Shall we Play?",
+          "fileUrl": "https://saros-tv.com/s_play/2bb7455c9bb44b7180b04b36876ce961.jpg",
+          "imgWidth": 600,
+          "imgHeight": 800,
+          "playDesc": "In her past life, Lily took a blade for the Empress Dowager, only to be cast aside by the Marquess's household like she was nothing. Betrayed and broken, she died with hatred in her heart.\nBut fate gave her a second chance.\nThis time, Lily didn't play nice. She matched the Marquess's family move for move, lie for lie. Backed by the Empress Dowager herself, she reclaimed everything that was stolen from her and then some.\nWhen the imperial decree came, marrying her to Prince Aurelius, the court whispered, the nobles trembled, and Lily smiled. Because in this life? It was hers to rule.\nAnd her vengeance had only just begun.",
+          "playStatus": 1,
+          "playTotal": 62,
+          "playTrackNum": 50705,
+          "seriesId": 7796,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 94,
+              "tagName": "Uplifting Series",
+              "playId": 138,
+              "tagType": 1
+            },
+            {
+              "id": 128,
+              "tagName": "Comeback",
+              "playId": 138,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d0re742ljhtb5hubqff0/bbbdd77fd8d1485cbf27b0a6526e2c7d/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 2930,
+          "playName": "Sleeping with the Beast",
+          "fileUrl": "https://saros-tv.com/s_play/c7dbc7e9f1eb473f87ea57f3b7f77ba9.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Emily believed she had a perfect marriage until her husband Ethan’s giant dog, Max, became a tool for psychological and physical terror. Hiding behind a mask of a \"gentle caregiver,\" Ethan deliberately used the animal to assault and intimidate Emily, turning their home into a hunting ground. Realizing her husband was the true monster, Emily fought back with calculated evidence and a therapist’s testimony. She didn't just seek a divorce; she pursued justice for assault, successfully sending Ethan to prison. This is a chilling tale of survival and revenge, proving that the most dangerous beast isn't the one on a leash, but the one sharing your bed.",
+          "playStatus": 1,
+          "playTotal": 20,
+          "playTrackNum": 36745,
+          "seriesId": 206234,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 99,
+              "tagName": "Fantasy",
+              "playId": 2930,
+              "tagType": 1
+            },
+            {
+              "id": 81,
+              "tagName": "Paranormal",
+              "playId": 2930,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d77n8paljht9vf5kbq1g/754d70f4e61244ba898b71c8f03b3e7a/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 1023,
+          "playName": "Burning Youth",
+          "fileUrl": "https://saros-tv.com/s_play/4979dc8840074ba49c82037bc3f04dc6.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Penny Zook, a top student, is constantly bullied by the wealthy and arrogant Queen Adams. Just as she reaches her breaking point, she meets Louis Bell, a mysterious transfer student. Desperate for protection, she strikes a deal with him: in exchange for his help for three months, she will help him academically.\nAs they spend time together, Louis becomes the light that guides Penny through her darkest days, while Penny’s kindness and resilience gradually heal his lonely and guarded heart. Through the storms of youth, they save each other - and ultimately walk side by side toward a brilliant, shining future.\n ",
+          "playStatus": 1,
+          "playTotal": 98,
+          "playTrackNum": 84019,
+          "seriesId": 73645,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 83,
+              "tagName": "Cinderella",
+              "playId": 1023,
+              "tagType": 1
+            },
+            {
+              "id": 79,
+              "tagName": "Average",
+              "playId": 1023,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d38ih5qljht4ieng7g4g/a428a56372114a99a2896feffd20f065/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 2413,
+          "playName": "Cut Ties, Now They Kneel",
+          "fileUrl": "https://saros-tv.com/s_play/bb8734b053de4f6cb9a963ed48a30319.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Yara, the Wilson family's true daughter, was framed by her adopted sister Mia and misunderstood by her birth parents and three brothers. After a tragic death and rebirth, she resolved never to seek anyone's approval again. She severed all familial ties and, armed with her design talent, clinched an international award. With the backing of her adoptive parents and foster brother Tyson, she rose to become a successful designer. The Wilson family later learned the truth, filled with regret, yet it was too late to win Yara back. She ultimately embarked upon a new life, embraced by love and respect.",
+          "playStatus": 1,
+          "playTotal": 52,
+          "playTrackNum": 92176,
+          "seriesId": 171108,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 74,
+              "tagName": "Rebirth",
+              "playId": 2413,
+              "tagType": 1
+            },
+            {
+              "id": 95,
+              "tagName": "Strong Female Lead",
+              "playId": 2413,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d66qh1aljht605uo04ng/8993e4352f304ea2870fac58bce22ae1/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 3039,
+          "playName": "Prisoned Beloved Clara",
+          "fileUrl": "https://saros-tv.com/s_play/674c6ad202054c2c87ea6dee2a5cb0fe.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "To save my younger brother Noah, I signed a death contract and entered Regent's Manor, becoming a substitute for his true love Natalie. He treated me like a shadow, humiliating me at will. When I became pregnant with his child, he personally forced me to drink the abortifacient. On the night the fire consumed me, I faked my death and escaped, filled with hatred. Two years later, I returned powerfully as a businesswoman from Southlake, going by the name Wuxin. But he, Harrison, came chasing after me like a madman, kneeling before me with tears and blood streaming down his face. Clara, I'll give you my life in return. Will you come back to me.",
+          "playStatus": 1,
+          "playTotal": 22,
+          "playTrackNum": 72324,
+          "seriesId": 209744,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 72,
+              "tagName": "Revenge",
+              "playId": 3039,
+              "tagType": 1
+            },
+            {
+              "id": 74,
+              "tagName": "Rebirth",
+              "playId": 3039,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d7cccciljhtbfc77og60/698910e252564c6f8b68bb47dcda893b/tplv-vod-noop.image",
+          "subscript": 1
+        },
+        {
+          "id": 1425,
+          "playName": "Died and Became His Lost Love",
+          "fileUrl": "https://saros-tv.com/s_play/0aaf8d9ff2504374855e179c2edea032.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Aurora Terry was once the wife of the powerful CEO, Chrisel Preston. She gave everything for love, yet was met only with coldness and indifference. Cruel fate took her life in despair and illness, leaving Chrisel drowning in endless remorse.\nBut destiny did not end there. Reborn under a new identity, Aurora returns — no longer the woman who lived to please others, but one who now lives for herself. Only then does Chrisel realize that the woman he once neglected is the one he can never forget — his eternal white moonlight.",
+          "playStatus": 1,
+          "playTotal": 51,
+          "playTrackNum": 11175,
+          "seriesId": 103022,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 74,
+              "tagName": "Rebirth",
+              "playId": 1425,
+              "tagType": 1
+            },
+            {
+              "id": 96,
+              "tagName": "Romance",
+              "playId": 1425,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d40nrfiljht263ncod6g/11652b66bbba4e32a2ceeb14b4ccc7ac/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 1197,
+          "playName": "Never Sleep with Your Billionaire Boss",
+          "fileUrl": "https://saros-tv.com/s_play/e2653e3a4d234989b1aa04315073776e.jpg",
+          "imgWidth": 360,
+          "imgHeight": 480,
+          "playDesc": "Sage and Charles' five-year secret romance ended when he got engaged. She broke up with him but was treated with contempt, and he even pushed her onto a difficult client, leaving her with no dignity. The appearance and harassment of Charles' fiancée Lillian further humiliated and tormented Sage, leaving her struggling between hope and heartbreak...",
+          "playStatus": 1,
+          "playTotal": 57,
+          "playTrackNum": 83047,
+          "seriesId": 85556,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 109,
+              "tagName": "Betrayal",
+              "playId": 1197,
+              "tagType": 1
+            },
+            {
+              "id": 118,
+              "tagName": "Billionaire",
+              "playId": 1197,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d3kurlaljhtd84je13a0/1e01570e0de24ad6bde0767136325a46/tplv-vod-noop.image",
+          "subscript": 0
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "theaterTitle": "New Releases",
+      "theaterSubtitle": "",
+      "theaterSort": 1,
+      "theaterStyle": 3,
+      "plays": [
+        {
+          "id": 3137,
+          "playName": "Midnight Kitchen, She Bites",
+          "fileUrl": "https://saros-tv.com/s_play/be9bc232f1364217ba834f415e981379.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Madison Hartley rents with Clara Ashford, a stunningly fragile girl. One midnight, he finds her eating a live chicken raw in the kitchen. Terrified, Clara confesses that she is a 327-year-old vampire from Europe who never hurts humans. They begin a warm cohabitation, feelings grow, until Uncle Harrison Foster appears. To save Madison, Clara steps into sunlight, suffers severe injuries, and disappears. Two years later, the kitchen light turns on again. Madison Hartley waits. His vampire girl is finally back.",
+          "playStatus": 1,
+          "playTotal": 24,
+          "playTrackNum": 73082,
+          "seriesId": 215834,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 81,
+              "tagName": "Paranormal",
+              "playId": 3137,
+              "tagType": 1
+            },
+            {
+              "id": 86,
+              "tagName": "Secret Identity",
+              "playId": 3137,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7j01maljht8p4v5v93g/69c5cd5a46b045f1a17d4bfbe9a14b8c/tplv-vod-noop.image",
+          "subscript": 1
+        },
+        {
+          "id": 3136,
+          "playName": "I Rule Apocalypse With Ghosts",
+          "fileUrl": "https://saros-tv.com/s_play/cf1219f6d0da4beda06add6d96a4707c.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Global anomaly countdown. I am reborn to rewrite the ending. In my previous life I chose humanity's last defense line and ended up as ghoul feed. My sister hid in a haunted house and rose to rule the ghost realm. This time I willingly head to 44 Willow Lane, activate the haunted house with a blood pact, command paper soldiers and shadow troops, and build the ultimate safe zone of the apocalypse. When darkness falls, I am the master of the rules.",
+          "playStatus": 1,
+          "playTotal": 17,
+          "playTrackNum": 73750,
+          "seriesId": 215757,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 100,
+              "tagName": "Information Gaps",
+              "playId": 3136,
+              "tagType": 1
+            },
+            {
+              "id": 120,
+              "tagName": "Dominant",
+              "playId": 3136,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7ivopiljht5798gsr90/cb66fe484ac047dfba93b4771e57783f/tplv-vod-noop.image",
+          "subscript": 1
+        },
+        {
+          "id": 3100,
+          "playName": "Our Slow-Burn Vow",
+          "fileUrl": "https://saros-tv.com/s_play/bb84f0e1611245a49cfa2e0897ebdbb8.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "An old friend passes away in great pain, yet his children throw a raucous \"happy funeral\" just to scam money. Raymond Hawke is furious. With the power of Hawke Corp and the family rules of the Hawke family, he raises his whip against the unfilial children to seek justice for his kind-hearted old friend and his wife. The first lash strikes the ungrateful, heartless wretch! The second lash strikes the descendants who forget their parents! The third lash strikes the sorrowful, devoted hearts of parents everywhere.\nThe story begins three years ago. Raymond Hawke, the over-fifty CEO of Zenith Group, meets the kind-hearted Eva Brooks, who cares for him when he falls into a coma and stays by his side for three years without wavering. This flower of her parents' twilight love quietly blooms...",
+          "playStatus": 1,
+          "playTotal": 63,
+          "playTrackNum": 38583,
+          "seriesId": 213550,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 66,
+              "tagName": "Family",
+              "playId": 3100,
+              "tagType": 1
+            },
+            {
+              "id": 90,
+              "tagName": "Marriage",
+              "playId": 3100,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7gpglaljht8dqrp50r0/2766a6452e3c46b3b5b6f9df47da59e1/tplv-vod-noop.image",
+          "subscript": 1
+        },
+        {
+          "id": 3007,
+          "playName": "Coffin Bride, Mad Tyrant",
+          "fileUrl": "https://saros-tv.com/s_play/131b704b95bf4279b3c49ccd7271f720.png",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Transmigrated as the prime minister’s daughter forced to marry a tyrant, I activate the “Court Death System”: provoke Gu Mingzhe and get killed to return to the modern world. I arrive at the wedding in a golden nanmu coffin, lying inside it as I crash the palace, insult the Empress Dowager, doodle on memorials to humiliate the emperor, and serve him bizarre, poisonous dishes. Yet, he spoils me every time, his anger never wavering. Just as I risk it all to provoke him in public, he kisses me and whispers, “Dream on, you just want to go home and date some guys.” Turns out, he’s heard every single one of my thoughts!",
+          "playStatus": 1,
+          "playTotal": 15,
+          "playTrackNum": 4741,
+          "seriesId": 209622,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 78,
+              "tagName": "Popular",
+              "playId": 3007,
+              "tagType": 1
+            },
+            {
+              "id": 80,
+              "tagName": "Love Triangle",
+              "playId": 3007,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7cac8iljhtdpmc616kg/c95ec156c703437f811b2afad6082973/tplv-vod-noop.image",
+          "subscript": 1
+        },
+        {
+          "id": 2932,
+          "playName": "Still Losing to You",
+          "fileUrl": "https://saros-tv.com/s_play/17040cb3de91453d9d25b8ebfd8edbb4.400",
+          "imgWidth": null,
+          "imgHeight": null,
+          "playDesc": "Three years after the abrupt breakup, Amelia Brooks returned to Harborton, only to run into Elliot Jenkins, the ex-boyfriend she had ruthlessly dumped, on her very first night back.\nAt the time of their breakup, he had said, “Amelia, you are like rain, like a lake, so hard to cross.” Believing his pride and arrogance would never allow him to look back, she thought that was the end.\nBut three years later, to her surprise, he was back, relentlessly pursuing her, even showing up at her doorstep.\n“Amelia, no matter who you’re with or who you fall in love with, you’re going to give half of yourself to me.”\nThrough mountains and rivers, through years that passed like fleeting water—yet facing you again, I still fall, defeated.",
+          "playStatus": 1,
+          "playTotal": 71,
+          "playTrackNum": 41709,
+          "seriesId": 205580,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 114,
+              "tagName": "SM",
+              "playId": 2932,
+              "tagType": 1
+            },
+            {
+              "id": 87,
+              "tagName": "Second-chance Love",
+              "playId": 2932,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d77lagaljhtfh26rrpc0/9150018c791e44868a31023fda2ca104/tplv-vod-noop.image",
+          "subscript": 1
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "theaterTitle": "Comics",
+      "theaterSubtitle": "",
+      "theaterSort": 2,
+      "theaterStyle": 3,
+      "plays": [
+        {
+          "id": 2930,
+          "playName": "Sleeping with the Beast",
+          "fileUrl": "https://saros-tv.com/s_play/c7dbc7e9f1eb473f87ea57f3b7f77ba9.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Emily believed she had a perfect marriage until her husband Ethan’s giant dog, Max, became a tool for psychological and physical terror. Hiding behind a mask of a \"gentle caregiver,\" Ethan deliberately used the animal to assault and intimidate Emily, turning their home into a hunting ground. Realizing her husband was the true monster, Emily fought back with calculated evidence and a therapist’s testimony. She didn't just seek a divorce; she pursued justice for assault, successfully sending Ethan to prison. This is a chilling tale of survival and revenge, proving that the most dangerous beast isn't the one on a leash, but the one sharing your bed.",
+          "playStatus": 1,
+          "playTotal": 20,
+          "playTrackNum": 36745,
+          "seriesId": 206234,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 99,
+              "tagName": "Fantasy",
+              "playId": 2930,
+              "tagType": 1
+            },
+            {
+              "id": 81,
+              "tagName": "Paranormal",
+              "playId": 2930,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d77n8paljht9vf5kbq1g/754d70f4e61244ba898b71c8f03b3e7a/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 2843,
+          "playName": "His Cruel Mercy",
+          "fileUrl": "https://saros-tv.com/s_play/a7232167c3b84345b97665332431d65c.400",
+          "imgWidth": null,
+          "imgHeight": null,
+          "playDesc": "For ten years, Felix Dalton spoils me. I believe I am the exception—until I kiss him. All I receive is his disgust and a marriage contract.\nHe uses a massive dowry to force me into marrying another man. He traps me with his authority as my guardian. The more I resist, the colder he becomes.\nYet I catch the pain hidden in his eyes. I discover the medicine bottle he keeps concealed. This seemingly cruel push away turns out to be his desperate attempt to protect me.\nAnd the secret buried in his darkness is enough to overturn everything I have known for ten years.",
+          "playStatus": 1,
+          "playTotal": 27,
+          "playTrackNum": 98501,
+          "seriesId": 199727,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 76,
+              "tagName": "Age Gap",
+              "playId": 2843,
+              "tagType": 1
+            },
+            {
+              "id": 126,
+              "tagName": "Misunderstanding",
+              "playId": 2843,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d75121aljht3130objug/a146eb76f9b146b7953527493c2025af/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2971,
+          "playName": "Stop Spoiling Me, Tyrant ",
+          "fileUrl": "https://saros-tv.com/s_play/0a7c6e638ecb45e78c437e076175ed31.png",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Once I transmigrate into a book, I become a wicked imperial consort who doesn't survive more than three chapters in a tyrant story. I am also bound by a death script — only by being executed by the tyrant Elias Griffin can I break free. I force myself to act outrageously, while mentally complaining about everything. Yet Elias turns a blind eye to my evil deeds and even indulges me excessively. When his first love reveals her eerie true nature and the tyrant's secrets gradually come to light, I realize that this death script is just the beginning of a much larger conspiracy.",
+          "playStatus": 1,
+          "playTotal": 25,
+          "playTrackNum": 40805,
+          "seriesId": 208325,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 105,
+              "tagName": "Disguise",
+              "playId": 2971,
+              "tagType": 1
+            },
+            {
+              "id": 120,
+              "tagName": "Dominant",
+              "playId": 2971,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d7as67qljhtfh26tddrg/8be3767c889245bb9e1c04ac6662700d/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2758,
+          "playName": "Debt & Defiance",
+          "fileUrl": "https://saros-tv.com/s_play/17330f84571149168b472aff91d5cfa8.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "After supporting her fiancé for eight years, Violet Archer faces a cold betrayal once Ryan Chandler wins the top honors as the new Top Scholar. Refusing to tolerate this, Violet Archer grabs a blade and heads straight to The Capital to collect his debt.\nOn Vermillion Bird Avenue, she stops a runaway horse with a single hand, only to drag out the \"beggar\" debtor she rescued three months prior, who is actually Elijah Sinclair. She immediately demands two thousand taels from him. While dealing with this mysterious noble and tearing down the ungrateful Ryan Chandler, she realizes the waters of The Capital run deep. Her journey for repayment pulls her into a royal struggle, and her own identity hides a past far from ordinary.",
+          "playStatus": 1,
+          "playTotal": 21,
+          "playTrackNum": 81668,
+          "seriesId": 196082,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 104,
+              "tagName": "Counterattack",
+              "playId": 2758,
+              "tagType": 1
+            },
+            {
+              "id": 123,
+              "tagName": "Small Potato",
+              "playId": 2758,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d70hff2ljht9fuu7caug/19f778524dfd496496ed323ce1a11f14/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2773,
+          "playName": "Defy Her World",
+          "fileUrl": "https://saros-tv.com/s_play/58c6115d56e84077923b45bc9989a834.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Gavin Stone transmigrates into a female-oriented novel as an innocent side character with the same name. Falsely accused by the female lead at the very start, his fate seems bleak. Fortunately, he awakens the Fate Choice System. As long as he reverses his destiny and makes the right choices, he earns lavish rewards. The female-oriented world obsesses over love. Everyone acts insane. But he chooses to be decisive and ruthless. He alone stands supreme. With a male-oriented style, he dominates this female-oriented world for all time.",
+          "playStatus": 1,
+          "playTotal": 75,
+          "playTrackNum": 24190,
+          "seriesId": 197204,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 62,
+              "tagName": "Underdog Triumph",
+              "playId": 2773,
+              "tagType": 1
+            },
+            {
+              "id": 131,
+              "tagName": "Time Travel",
+              "playId": 2773,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d71odialjht32uu6jprg/4645a2f962d44893855c8c882f57473f/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2763,
+          "playName": "Rebirth: Last Funeral",
+          "fileUrl": "https://saros-tv.com/s_play/77fa92c563874ebdbe00b04ab2016517.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "The apocalypse arrives, and evil spirits roam the world. The protagonist, Arthur Lynn, is once the heir to a wealthy family. However, before the end of the world, he is framed by his stepmother, Helen Bell, and stepbrother, Justin Lynn. They strip him of his entire inheritance, leaving him with nothing but a dilapidated Funeral Home.\nArthur Lynn dies in bitter resentment, but he returns through rebirth. Now back in the past, he possesses a clear vision of the future. He understands that fighting for immediate wealth is meaningless; only immense power can ensure survival in the coming apocalypse. Consequently, he coldly abandons the petty struggle for assets and focuses entirely on his grand strategic layout.",
+          "playStatus": 1,
+          "playTotal": 45,
+          "playTrackNum": 50661,
+          "seriesId": 196452,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 62,
+              "tagName": "Underdog Triumph",
+              "playId": 2763,
+              "tagType": 1
+            },
+            {
+              "id": 74,
+              "tagName": "Rebirth",
+              "playId": 2763,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d710c62ljht81bgaq16g/c679ad67ab534a1490529631b1cea9aa/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2685,
+          "playName": "Cultivate Heirs, Conquer Foes",
+          "fileUrl": "https://saros-tv.com/s_play/f7a15fb786f24e8dbafb603b518ce430.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Vance Lee transmigrates into a cultivation world as the Dark Progenitor of the Umbral Sect. Right as the righteous Azure Bloom Sect launches its crusade, the sect's elders urge their Progenitor to emerge and face the enemy. But Vance soon realizes he inherited none of his predecessor's powers, he's just an ordinary man. His only option is to bluff and bluster, relying on sheer acting to pull off the role of the all-powerful Progenitor. Can't fool them? No worries—he's got a system!",
+          "playStatus": 1,
+          "playTotal": 60,
+          "playTrackNum": 83437,
+          "seriesId": 191984,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 115,
+              "tagName": "Enemies to Lovers",
+              "playId": 2685,
+              "tagType": 1
+            },
+            {
+              "id": 122,
+              "tagName": "Badboy",
+              "playId": 2685,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d6t47ualjhtd9bpvcmqg/8abfc6be2b91420ab094cd92b2cd4354/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2706,
+          "playName": "From Bench Warmer to MVP",
+          "fileUrl": "https://saros-tv.com/s_play/738d0052c271409eb763700a68538406.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Jake Evans, a Rivergate University player, becomes a water boy due to injury. In the team's regular-season do-or-die game, he gets pushed onto the court with only fifteen seconds left and becomes the laughingstock scapegoat for the whole team. Little do they know, he has already awakened the \"Basketball God System.\" Every time he completes a mission, he unlocks new skills. From a discarded benchwarmer to Finals MVP, Jake Evans single-handedly dethrones the defending champions, posterizes a CBA rookie, dunks over a black giant, and drops 13 points in 35 seconds to complete a stunning comeback! But this is just the beginning of Jake's path to godhood. The number one pick in the draft is already waiting for him!",
+          "playStatus": 1,
+          "playTotal": 62,
+          "playTrackNum": 83557,
+          "seriesId": 196481,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 94,
+              "tagName": "Uplifting Series",
+              "playId": 2706,
+              "tagType": 1
+            },
+            {
+              "id": 128,
+              "tagName": "Comeback",
+              "playId": 2706,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d712ckqljht1qckjd3dg/39fb3a638c7e4aeca72cc3db920f7aa9/tplv-vod-noop.image",
+          "subscript": -1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "theaterTitle": "Trending🏆",
+      "theaterSubtitle": "",
+      "theaterSort": 4,
+      "theaterStyle": 4,
+      "plays": [
+        {
+          "id": 2960,
+          "playName": "Love or Hate (Dubbed)",
+          "fileUrl": "https://saros-tv.com/s_play/92431be811044914ac850732f821ee2a.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Sawyer Sutton had been in a seven-year relationship with Yara Sharp, but at their wedding, Zayn Luther and Yara's mother ruined everything.\nOnce Sawyer uncovered the truth, he broke up with Yara and joined HyunCloud Tech, only to discover that he was the CEO all along.\nAt the Marriott Hotel, his true identity was revealed, and Zayn Luther and the others were left exposed, their true colors shining through.\nIn the end, Sawyer teamed up with Shirley Linden, finding happiness and starting a new chapter of his life.",
+          "playStatus": 1,
+          "playTotal": 61,
+          "playTrackNum": 60936,
+          "seriesId": 207049,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 75,
+              "tagName": "Tragic Romance",
+              "playId": 2960,
+              "tagType": 1
+            },
+            {
+              "id": 97,
+              "tagName": "CEO",
+              "playId": 2960,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d77pi22ljht14u6n6ueg/2ef3aaa7a455467dbf02284f06eac383/tplv-vod-noop.image",
+          "subscript": 2
+        },
+        {
+          "id": 46,
+          "playName": "Marrying My Best Friend’s Devil Uncle",
+          "fileUrl": "https://saros-tv.com/s_play/0d82ad017cf7493196fe3e57877ba106.jpg",
+          "imgWidth": 1080,
+          "imgHeight": 1440,
+          "playDesc": "Shirley Hill, heiress to a wealthy family, got blackout drunk one night and somehow ended up in bed with Arthur Green, her best friend's uncle. Rumor had it Arthur was a cold-blooded devil. To solve the mess, they rushed into marriage. Shirley braced herself for a rough ride, but life with Arthur turned out to be a shock. Arthur was not only devastatingly handsome but also endlessly indulgent, catering to her every whim. As time passed, she found herself drawn to him, falling for him completely.\nJust when she thought she had found happiness, the truth surfaced. Arthur had orchestrated it all. It turned out that years ago, she'd saved a boy from ruin, and ever since, he'd seen her as the dazzling star lighting up his dark, broken world.",
+          "playStatus": 1,
+          "playTotal": 93,
+          "playTrackNum": 13367,
+          "seriesId": 267,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 98,
+              "tagName": "Marriage Before Love",
+              "playId": 46,
+              "tagType": 1
+            },
+            {
+              "id": 115,
+              "tagName": "Enemies to Lovers",
+              "playId": 46,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://www.saros-tv.com/s_play/v03242g10064cv411jqljhtcee5g84a0/b3807992ef1f471981a02b18b1d82946/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 45,
+          "playName": "When Her Savior Became Her Ruin",
+          "fileUrl": "https://www.saros-tv.com/s_play/62cfab1f5f77463e9c3b487614da2b1e.jpg",
+          "imgWidth": 720,
+          "imgHeight": 960,
+          "playDesc": "If Winnie Fields could take back one thing in her life, it'd be falling for Terence Law, the man who'd raised her like a father. When she was little, her parents died in a tragic accident, leaving her orphaned. Terence, her dad's old friend, took her in, becoming her rock, her everything. But that reliance became her downfall.\nYears later, Winnie made up her mind to stop loving him and vanish from his life for good. But her absence shattered Terence, plunging him into a frantic, hollow despair.",
+          "playStatus": 1,
+          "playTotal": 45,
+          "playTrackNum": 8207,
+          "seriesId": 10743,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 93,
+              "tagName": "Forbidden Love",
+              "playId": 45,
+              "tagType": 1
+            },
+            {
+              "id": 83,
+              "tagName": "Cinderella",
+              "playId": 45,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v0d242g10064d134mpiljht8vfm3slcg/fe50da06edfe4ee4be0e8975245b85c8/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 1022,
+          "playName": "Cherished by My Sweet Zaddy",
+          "fileUrl": "https://saros-tv.com/s_play/ac0c2539fa83440c9e3fe1a63a5707dc.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Mia was harassed in a bar and rescued by a stranger named Patrick. Mia quietly left after they had spent the night together. A month later, Mia, who is pregnant, unexpectedly reconnects with Patrick and learns that he is the leader of the Ford family. Patrick decides to protect Mia, but she must deal with not just pressure from her family, but also hostility from Patrick's friends. Furthermore, the absence of the birthmark on her face reveals an undiscovered truth about where was her from...",
+          "playStatus": 1,
+          "playTotal": 63,
+          "playTrackNum": 26154,
+          "seriesId": 73299,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 107,
+              "tagName": "Sweet Love",
+              "playId": 1022,
+              "tagType": 1
+            },
+            {
+              "id": 118,
+              "tagName": "Billionaire",
+              "playId": 1022,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d38f23qljhtebgl7m9gg/73925eb784fc4944aea1520f0146e5f3/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 100,
+          "playName": "Lost Dance",
+          "fileUrl": "https://saros-tv.com/s_play/c933dc52b64546f5a502b5836e12c6c2.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Nadia had been married to Peter for five years. Every step she took on stage, every hour she poured into rehearsal, was driven by one goal: to reach the top of the dance world and fulfill her promise to his mother. Only when she became a star would she be seen as worthy of being Peter's wife.\nJust as the spotlight finally seemed within reach, their love began to dim. What once felt passionate and unshakable slowly faded under the weight of routine and silence. One day, Nadia looked at him and felt the truth sink in, Peter didn’t seem to love her anymore.",
+          "playStatus": 1,
+          "playTotal": 65,
+          "playTrackNum": 86938,
+          "seriesId": 7332,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 132,
+              "tagName": "Bitter Love",
+              "playId": 100,
+              "tagType": 1
+            },
+            {
+              "id": 80,
+              "tagName": "Love Triangle",
+              "playId": 100,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d0ip17qljht98o8u2e40/7effe80b90524d18b0391086265beff8/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 2985,
+          "playName": "The Mad Falcon's Vow",
+          "fileUrl": "https://saros-tv.com/s_play/397b3218e33448d6a8debfaa17a17410.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Jesse Whitney, the leader of the world’s top organization, Bayonet, returns to Crown City under the alias, the Mad Falcon, to repay a debt to Harold Evans and uncover the truth behind the massacre of his own family, the Whitneys. He enters into a contractual marriage with Claire Evans, the heiress of the Evans Family. Though appearing willful and capricious, Claire is secretly sharp and strategic, quietly countering the schemes of the three adopted sons vying for the family fortune. Facing pressure from the Marston siblings, provocations from Elliott Grant of the Grant Family, and Nolan Brooks’ battle for the SafeCore chip, Jesse protects Claire with ruthless efficiency, exposing conspiracies, rooting out traitors, and avenging the Whitneys. Along the way, Claire discovers that Jesse is the man she has cherished in her memories. Together, they rise against all odds, find love, and forge a legend.",
+          "playStatus": 1,
+          "playTotal": 62,
+          "playTrackNum": 64364,
+          "seriesId": 208969,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 66,
+              "tagName": "Family",
+              "playId": 2985,
+              "tagType": 1
+            },
+            {
+              "id": 72,
+              "tagName": "Revenge",
+              "playId": 2985,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7bh002ljht8dqrmbk80/6fcabfd828dc4541b9a6b6953eed13f8/tplv-vod-noop.image",
+          "subscript": 1
+        },
+        {
+          "id": 59,
+          "playName": "The CEO's Time-Travelling Wife",
+          "fileUrl": "https://www.saros-tv.com/s_play/08840a6001b74b5686da8b2f00020fb1.jpg",
+          "imgWidth": 600,
+          "imgHeight": 800,
+          "playDesc": "After being betrayed and killed by her own lieutenant, the fierce general Zoey Moore woke up in the body of a disgraced socialite from a powerful modern family.\nThe body's original owner had married into the wealthy Quinn family through shady means and was hated by her four new siblings, while her 'comatose' husband, Jovan Quinn, secretly plotted revenge.\nDetermined to change her fate, Zoey took charge, won over the family, and eventually captured Jovan's heart.",
+          "playStatus": 1,
+          "playTotal": 65,
+          "playTrackNum": 79080,
+          "seriesId": 1696,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 131,
+              "tagName": "Time Travel",
+              "playId": 59,
+              "tagType": 1
+            },
+            {
+              "id": 74,
+              "tagName": "Rebirth",
+              "playId": 59,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://www.saros-tv.com/s_play/v0d242g10064d07h7siljht742sbn9v0/31d20ff6ca33471a8f163df47ebb0917/tplv-vod-noop.image",
+          "subscript": null
+        },
+        {
+          "id": 135,
+          "playName": "Rust in Her Heart",
+          "fileUrl": "https://saros-tv.com/s_play/3fa5baef57b44365bd3df01b42f1af60.jpg",
+          "imgWidth": 600,
+          "imgHeight": 800,
+          "playDesc": "Vivian gave John eight years of her life. She stood by him through every late night, every setback, every climb up the ladder of success. But in the end, all it took was a newer, shinier love interest to erase her from the picture.\nSo she walked. She signed the papers, packed up her pride, and promised herself she was done with love for good.\nThen came Daniel.\nHe showed up when her world was falling apart. Not flashy, not loud, just there again and again until she realized he wasn't just another passerby. He was the one holding the pieces together when she had nothing left.\nVivian's heart, once shattered beyond repair, started to beat again. And this time, she wasn't surviving for someone else's dream.\nShe was finally choosing her own.",
+          "playStatus": 1,
+          "playTotal": 80,
+          "playTrackNum": 72116,
+          "seriesId": 7467,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 137,
+              "tagName": "Affair",
+              "playId": 135,
+              "tagType": 1
+            },
+            {
+              "id": 80,
+              "tagName": "Love Triangle",
+              "playId": 135,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d0q0dkiljhtajj4b1e30/dc9f4d1c1dcd4210bb36a19c2b499c68/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 330,
+          "playName": "No Way Out",
+          "fileUrl": "https://saros-tv.com/s_play/c606b2fd71db44b794961905cf54c5b7.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Nora Ashford trades her dignity for survival when ruthless tycoon Gideon Blake offers a deal: her body in exchange for his protection. Three years of midnight passion and daylight cruelty forge something dangerous—his obsession, her awakening, and the way real love grows in the cracks of broken promises. Now Gideon watches in fury as his broken canary flies toward freedom. The real game begins when the prey learns to bite back.",
+          "playStatus": 1,
+          "playTotal": 96,
+          "playTrackNum": 10674,
+          "seriesId": 23175,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 129,
+              "tagName": "Toxic Relationship",
+              "playId": 330,
+              "tagType": 1
+            },
+            {
+              "id": 130,
+              "tagName": "Contract Marriage",
+              "playId": 330,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d1j1e5aljhtetjpf18c0/e85cdd17a1f048989518a71034f709e6/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 67,
+          "playName": "Love or Hate",
+          "fileUrl": "https://saros-tv.com/s_play/92431be811044914ac850732f821ee2a.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Sawyer Sutton had been in a seven-year relationship with Yara Sharp, but at their wedding, Zayn Luther and Yara's mother ruined everything.\nOnce Sawyer uncovered the truth, he broke up with Yara and joined HyunCloud Tech, only to discover that he was the CEO all along.\nAt the Marriott Hotel, his true identity was revealed, and Zayn Luther and the others were left exposed, their true colors shining through.\nIn the end, Sawyer teamed up with Shirley Linden, finding happiness and starting a new chapter of his life.",
+          "playStatus": 1,
+          "playTotal": 61,
+          "playTrackNum": 77488,
+          "seriesId": 2224,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 109,
+              "tagName": "Betrayal",
+              "playId": 67,
+              "tagType": 1
+            },
+            {
+              "id": 103,
+              "tagName": "Concealed Identity",
+              "playId": 67,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://www.saros-tv.com/s_play/v02242g10064d084tdaljht6vnkvnjf0/a345b93ceee548ab96b87bc9b6788183/tplv-vod-noop.image",
+          "subscript": 0
+        },
+        {
+          "id": 139,
+          "playName": "They Can Hear Me",
+          "fileUrl": "https://saros-tv.com/s_play/31512217392944fb99066b9b392493a4.jpg",
+          "imgWidth": 1200,
+          "imgHeight": 1600,
+          "playDesc": "When Henry woke up inside a novel, he found himself cast as the long-lost son of a powerful billionaire family. Knowing the original plot would have him die misunderstood and alone, he vowed to stay on the sidelines and let the chaos play out.\nBut plans changed fast. The moment his \"system\" awakened, granting him glimpses into the future—he also learned a brutal truth: every single thought he had could be heard by his entire family. Now, as the wealthy Clark family teetered on the edge of collapse, Henry had to decide, would he remain the quiet bystander he swore to be, or step into the spotlight and rewrite his fate?",
+          "playStatus": 1,
+          "playTotal": 80,
+          "playTrackNum": 85731,
+          "seriesId": 7690,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 104,
+              "tagName": "Counterattack",
+              "playId": 139,
+              "tagType": 1
+            },
+            {
+              "id": 79,
+              "tagName": "Average",
+              "playId": 139,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v0d242g10064d0rd9j2ljht097f314ig/d617e6ff089b41c4a67120d877e0b2f1/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 134,
+          "playName": "Poisoned Truth",
+          "fileUrl": "https://saros-tv.com/s_play/75b4e8fbb63647a693ed227bff606f4b.jpg",
+          "imgWidth": 600,
+          "imgHeight": 800,
+          "playDesc": "Winnie was framed by her sister Jean and forced to drink poisoned wine. Returning home, she faced only cold stares and cruel misunderstandings from her own family. But she didn't fall, she fought back.\nWith her medical skills, she earned the Empress Dowager's trust and rose to prominence through the palace's official selection. During the Autumn Festival, she exposed Jean's treacherous scheme to deceive the royal court with fake wine.\nTo uncover the truth, Winnie faked her death and revealed the princess's crimes. In the end, as her once-proud family crumbled, she walked away from the chaos with Xavier by her side and found the peace and love she had always deserved.",
+          "playStatus": 1,
+          "playTotal": 77,
+          "playTrackNum": 26185,
+          "seriesId": 7386,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 121,
+              "tagName": "Alternative History",
+              "playId": 134,
+              "tagType": 1
+            },
+            {
+              "id": 95,
+              "tagName": "Strong Female Lead",
+              "playId": 134,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d0ipcgiljht98o8u38gg/65dd72ca7d9e4d289de662e424323020/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 42,
+          "playName": "The Broken Hero and His Fierce Guardian",
+          "fileUrl": "https://saros-tv.com/s_play/1d703adea9f44147aab93f0d6d9ea588.jpg",
+          "imgWidth": 900,
+          "imgHeight": 1200,
+          "playDesc": "A twist of fate sent bodyguard Sunny Shawn into the world of a novel. To make matters worse, she found herself trapped as the story's doomed side character, a cannon fodder pawn forced into an unwanted marriage with Walter Taylor, a disabled military officer burdened with three adopted kids. \nUnwilling to let fate dictate her life, Sunny accepted the marriage. Before leaving her old home, she wrung a startup fund out of her scheming stepmother and then moved into Walter's crumbling house.\nHer arrival brought a glimmer of hope to Walter and the children. She first reclaimed the family estate from the clutches of Walter's greedy relatives. Then, through hard work, they not only turned their lives around but also shattered the fate that once marked her as nothing more than a disposable character.",
+          "playStatus": 1,
+          "playTotal": 90,
+          "playTrackNum": 53601,
+          "seriesId": 243,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 68,
+              "tagName": "Period Drama",
+              "playId": 42,
+              "tagType": 1
+            },
+            {
+              "id": 107,
+              "tagName": "Sweet Love",
+              "playId": 42,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://www.saros-tv.com/s_play/v02242g10064cv3vq6qljhtffh2sp4kg/5eb2a04e96514072afd860653035a10d/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 44,
+          "playName": "Rewriting the Throne with Blood and Fire",
+          "fileUrl": "https://www.saros-tv.com/s_play/0e2f9574188645629812ff755f937649.jpg",
+          "imgWidth": 750,
+          "imgHeight": 1000,
+          "playDesc": "Alice Wood poured her heart and soul into helping Jack Rain claim the throne, only to be stabbed in the back. In a brutal twist, Jack gutted her alive to save the scheming woman, Della Wood. But fate gave Alice a second chance, flinging her back five years. With a firestorm of rage and bitterness blazing in her chest, he swore she'd make Jack and Della pay dearly.\nThis time, she threw her support behind the regent, Ida Rain, and sparks flew between them until they sealed their bond with love. With her fierce determination, Alice ensured Jack never sat on the throne, while Della met a grim, well-deserved end.",
+          "playStatus": 1,
+          "playTotal": 70,
+          "playTrackNum": 57230,
+          "seriesId": 249,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 73,
+              "tagName": "Ancient Times",
+              "playId": 44,
+              "tagType": 1
+            },
+            {
+              "id": 105,
+              "tagName": "Disguise",
+              "playId": 44,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://www.saros-tv.com/s_play/v02242g10064cv3vvaqljht8d0b07lvg/8df498f977234463ab3492f682effd19/tplv-vod-noop.image",
+          "subscript": -1
+        },
+        {
+          "id": 2965,
+          "playName": "Your Highness, Shall we Play? (Dubbed)",
+          "fileUrl": "https://saros-tv.com/s_play/d8836978453a4eae87c0f8c3a0352a82.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "In her past life, Lily took a blade for the Empress Dowager, only to be cast aside by the Marquess's household like she was nothing. Betrayed and broken, she died with hatred in her heart.\nBut fate gave her a second chance.\nThis time, Lily didn't play nice. She matched the Marquess's family move for move, lie for lie. Backed by the Empress Dowager herself, she reclaimed everything that was stolen from her and then some.\nWhen the imperial decree came, marrying her to Prince Aurelius, the court whispered, the nobles trembled, and Lily smiled. Because in this life? It was hers to rule.\nAnd her vengeance had only just begun.",
+          "playStatus": 1,
+          "playTotal": 62,
+          "playTrackNum": 36367,
+          "seriesId": 207669,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 84,
+              "tagName": "Underdog Rise",
+              "playId": 2965,
+              "tagType": 1
+            },
+            {
+              "id": 94,
+              "tagName": "Uplifting Series",
+              "playId": 2965,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7aap0qljht01gpgbt80/c9fc9a3b4b0d460fa0e5dbf27d343ef8/tplv-vod-noop.image",
+          "subscript": 2
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "theaterTitle": "Dubbed",
+      "theaterSubtitle": null,
+      "theaterSort": 5,
+      "theaterStyle": 3,
+      "plays": [
+        {
+          "id": 2965,
+          "playName": "Your Highness, Shall we Play? (Dubbed)",
+          "fileUrl": "https://saros-tv.com/s_play/d8836978453a4eae87c0f8c3a0352a82.jpg",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "In her past life, Lily took a blade for the Empress Dowager, only to be cast aside by the Marquess's household like she was nothing. Betrayed and broken, she died with hatred in her heart.\nBut fate gave her a second chance.\nThis time, Lily didn't play nice. She matched the Marquess's family move for move, lie for lie. Backed by the Empress Dowager herself, she reclaimed everything that was stolen from her and then some.\nWhen the imperial decree came, marrying her to Prince Aurelius, the court whispered, the nobles trembled, and Lily smiled. Because in this life? It was hers to rule.\nAnd her vengeance had only just begun.",
+          "playStatus": 1,
+          "playTotal": 62,
+          "playTrackNum": 36367,
+          "seriesId": 207669,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 84,
+              "tagName": "Underdog Rise",
+              "playId": 2965,
+              "tagType": 1
+            },
+            {
+              "id": 94,
+              "tagName": "Uplifting Series",
+              "playId": 2965,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7aap0qljht01gpgbt80/c9fc9a3b4b0d460fa0e5dbf27d343ef8/tplv-vod-noop.image",
+          "subscript": 2
+        },
+        {
+          "id": 2957,
+          "playName": "A Mutual Journey",
+          "fileUrl": "https://saros-tv.com/s_play/7aac371e766649eab92519501ce47241.png",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Miranda Walters ages backward—growing younger as the world grows older. Since the 1970s, she's been seen as a freak. Only her adoptive mother, Diane, offers warmth. She and childhood friend Jeremy Clarke fall in love across mismatched timelines, but fate and cruel coincidences tear them apart again and again.\nMiranda goes south to Hong Kong, rising from nothing to become a powerful businesswoman. Jeremy stays in Azureville, building an empire while never forgetting her. Their entanglement spans half a century—through life, death, family, and society's judgment. In the end, they ask: does only growing old together count as a happy ending?",
+          "playStatus": 1,
+          "playTotal": 77,
+          "playTrackNum": 22435,
+          "seriesId": 206007,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 87,
+              "tagName": "Second-chance Love",
+              "playId": 2957,
+              "tagType": 1
+            },
+            {
+              "id": 117,
+              "tagName": "Super Power",
+              "playId": 2957,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d77mkiqljht9vf5kb7bg/c903452eb95c49768ea87736860520d1/tplv-vod-noop.image",
+          "subscript": 2
+        },
+        {
+          "id": 2959,
+          "playName": "When Her Savior Became Her Ruin (Dubbed)",
+          "fileUrl": "https://www.saros-tv.com/s_play/62cfab1f5f77463e9c3b487614da2b1e.jpg",
+          "imgWidth": 720,
+          "imgHeight": 960,
+          "playDesc": "If Winnie Fields could take back one thing in her life, it'd be falling for Terence Law, the man who'd raised her like a father. When she was little, her parents died in a tragic accident, leaving her orphaned. Terence, her dad's old friend, took her in, becoming her rock, her everything. But that reliance became her downfall.\nYears later, Winnie made up her mind to stop loving him and vanish from his life for good. But her absence shattered Terence, plunging him into a frantic, hollow despair.",
+          "playStatus": 1,
+          "playTotal": 45,
+          "playTrackNum": 84405,
+          "seriesId": 206984,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 83,
+              "tagName": "Cinderella",
+              "playId": 2959,
+              "tagType": 1
+            },
+            {
+              "id": 93,
+              "tagName": "Forbidden Love",
+              "playId": 2959,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d77p75aljht928daqoj0/98be878d55f542008b10dae397a91b31/tplv-vod-noop.image",
+          "subscript": 2
+        },
+        {
+          "id": 2958,
+          "playName": "Twisted Seduction (Dubbed)",
+          "fileUrl": "https://saros-tv.com/s_play/a08afaf857b145bf9d9c7866c5bc77c5.jpg",
+          "imgWidth": 600,
+          "imgHeight": 800,
+          "playDesc": "Jasmine Xavier, the illegitimate daughter of the family, endures constant humiliation from her stepmother and half-sister, Alexa. Spurred by a desire for revenge, she sets her sights on a shocking target: seducing Ezra Sullivan, the man Alexa is desperately crushing on. However, the aloof Sullivan family heir finds himself irresistibly drawn to Jasmine. Caught in a web of desire, love, and hatred, they succumb to their magnetic pull.",
+          "playStatus": 1,
+          "playTotal": 90,
+          "playTrackNum": 29601,
+          "seriesId": 206926,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 139,
+              "tagName": "Alpha",
+              "playId": 2958,
+              "tagType": 1
+            },
+            {
+              "id": 84,
+              "tagName": "Underdog Rise",
+              "playId": 2958,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d77oud2ljhtcmmb63ar0/5f6fe8c747b5497e8be38987af1564ba/tplv-vod-noop.image",
+          "subscript": 2
+        },
+        {
+          "id": 2921,
+          "playName": "Fiery Youth",
+          "fileUrl": "https://saros-tv.com/s_play/779b02a3eed54fa5b8bd969f3ed3ceee.png",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Penny Zook, a top student, is relentlessly bullied by the wealthy and arrogant Queen Adams. Just as she reaches her breaking point, she meets Louis Bell, a mysterious transfer student. Desperate for protection, she strikes a deal with him: three months of tutoring in exchange for his help.\nAs they grow closer, Louis becomes her light through the darkness, while her kindness melts his guarded heart. Through the storms of youth, they save each other—and walk side by side toward a bright future.",
+          "playStatus": 1,
+          "playTotal": 98,
+          "playTrackNum": 90176,
+          "seriesId": 205318,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 79,
+              "tagName": "Average",
+              "playId": 2921,
+              "tagType": 1
+            },
+            {
+              "id": 83,
+              "tagName": "Cinderella",
+              "playId": 2921,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v03242g10064d77j36aljhtci92406m0/1a665f4c2a90497fad62a09147b3b125/tplv-vod-noop.image",
+          "subscript": 2
+        },
+        {
+          "id": 2923,
+          "playName": "Falling in Love with a Third Person",
+          "fileUrl": "https://saros-tv.com/s_play/c1353af071274687a7b423388785e4b5.png",
+          "imgWidth": 300,
+          "imgHeight": 400,
+          "playDesc": "Nora Ashford accepts ruthless tycoon Gideon Blake's deal: her body for his protection. Three years of passion and cruelty forge his obsession and her awakening—love growing in the cracks of broken promises. Now Gideon watches in fury as his broken canary flies toward freedom. The real game begins when the prey learns to bite back.",
+          "playStatus": 1,
+          "playTotal": 96,
+          "playTrackNum": 73464,
+          "seriesId": 204184,
+          "trackStatus": false,
+          "trackId": null,
+          "historyTime": null,
+          "tags": [
+            {
+              "id": 129,
+              "tagName": "Toxic Relationship",
+              "playId": 2923,
+              "tagType": 1
+            },
+            {
+              "id": 80,
+              "tagName": "Love Triangle",
+              "playId": 2923,
+              "tagType": 1
+            }
+          ],
+          "displayTypeTag": null,
+          "seriesPosterFileUrl": "https://saros-tv.com/s_play/v02242g10064d7703pqljht6lhl924qg/f3090c81db834d42beb3ba1346c9f629/tplv-vod-noop.image",
+          "subscript": 2
+        }
+      ]
+    }
+  ]
+}

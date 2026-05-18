@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "message": "Success",
+  "data": {
+    "languages": [
+      {
+        "code": "id",
+        "region": "ID",
+        "name": "Indonesia"
+      },
+      {
+        "code": "en",
+        "region": "US",
+        "name": "English"
+      },
+      {
+        "code": "th",
+        "region": "TH",
+        "name": "ไทย"
+      },
+      {
+        "code": "vi",
+        "region": "VN",
+        "name": "Tiếng Việt"
+      },
+      {
+        "code": "ko",
+        "region": "KR",
+        "name": "한국어"
+      },
+      {
+        "code": "ja",
+        "region": "JP",
+        "name": "日本語"
+      },
+      {
+        "code": "es",
+        "region": "MX",
+        "name": "Español"
+      },
+      {
+        "code": "pt",
+        "region": "BR",
+        "name": "Português"
+      },
+      {
+        "code": "fr",
+        "region": "FR",
+        "name": "Français"
+      },
+      {
+        "code": "de",
+        "region": "DE",
+        "name": "Deutsch"
+      },
+      {
+        "code": "ar",
+        "region": "SA",
+        "name": "العربية"
+      },
+      {
+        "code": "tr",
+        "region": "TR",
+        "name": "Türkçe"
+      },
+      {
+        "code": "ru",
+        "region": "RU",
+        "name": "Русский"
+      },
+      {
+        "code": "hi",
+        "region": "IN",
+        "name": "हिन्दी"
+      },
+      {
+        "code": "ms",
+        "region": "MY",
+        "name": "Melayu"
+      },
+      {
+        "code": "tl",
+        "region": "PH",
+        "name": "Filipino"
+      }
+    ]
+  }
+}

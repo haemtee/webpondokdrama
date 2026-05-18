@@ -1,0 +1,58 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "channels": [
+      {
+        "channelId": "162979468352028714",
+        "channelType": 2,
+        "title": "Beranda",
+        "isDefault": 1,
+        "needRedPoint": 0,
+        "needCheckData": 0
+      },
+      {
+        "channelId": "113757996389499537",
+        "channelType": 2,
+        "title": "Baru",
+        "isDefault": 0,
+        "needRedPoint": 0,
+        "needCheckData": 0
+      },
+      {
+        "channelId": 3,
+        "channelType": 3,
+        "title": "Bagan",
+        "isDefault": 0,
+        "needRedPoint": 0,
+        "needCheckData": 0
+      },
+      {
+        "channelId": "165567656447970661",
+        "channelType": 2,
+        "title": "Komik",
+        "isDefault": 0,
+        "needRedPoint": 0,
+        "needCheckData": 1
+      },
+      {
+        "channelId": "94872834110259517",
+        "channelType": 2,
+        "title": "Drama Asia",
+        "isDefault": 0,
+        "needRedPoint": 0,
+        "needCheckData": 0
+      },
+      {
+        "channelId": "140845601382072327",
+        "channelType": 2,
+        "title": "Orisinal",
+        "isDefault": 0,
+        "needRedPoint": 0,
+        "needCheckData": 1
+      }
+    ],
+    "schemeId": "33850170630471777",
+    "uniqueId": "0"
+  }
+}

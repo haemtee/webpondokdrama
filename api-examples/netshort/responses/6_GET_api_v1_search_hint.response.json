@@ -1,0 +1,116 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": [
+    {
+      "id": "2014243497820233729",
+      "language": "id_ID",
+      "name": "(Sulih suara) Jagal Tak Terkalahkan",
+      "shortPlayId": "1997949622037180417",
+      "shortPlayLibraryId": "1997949565380521985",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014243569649573889",
+      "language": "id_ID",
+      "name": "Naluri Harta",
+      "shortPlayId": "1984148923103830017",
+      "shortPlayLibraryId": "1984148895644336130",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014243663147114497",
+      "language": "id_ID",
+      "name": "(Sulih suara) Dinikahi Setelah Putus",
+      "shortPlayId": "1999696993278885889",
+      "shortPlayLibraryId": "1999696621319618562",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244054355927041",
+      "language": "id_ID",
+      "name": "(Sulih suara) Kebangkitan Raja Balap",
+      "shortPlayId": "2001954146244636674",
+      "shortPlayLibraryId": "2001954093736144897",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244129329111042",
+      "language": "id_ID",
+      "name": "Terpaksa Nembak Primadona",
+      "shortPlayId": "2001989426094743553",
+      "shortPlayLibraryId": "2001989380067569665",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244182865207297",
+      "language": "id_ID",
+      "name": "(Sulih suara) Pengkhianatan Istri Tercinta",
+      "shortPlayId": "1983401607086952450",
+      "shortPlayLibraryId": "1983401539675971585",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244245771378690",
+      "language": "id_ID",
+      "name": "(Sulih suara)Lelaki Biasa di Zaman Luar Biasa",
+      "shortPlayId": "1955225547350286337",
+      "shortPlayLibraryId": "1955215467841949698",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244334420303873",
+      "language": "id_ID",
+      "name": "Lika-Liku Sang Raja Masak",
+      "shortPlayId": "1971829099564728322",
+      "shortPlayLibraryId": "1971829056384368641",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244393058557954",
+      "language": "id_ID",
+      "name": "(Sulih suara)Cahaya di balik gelap",
+      "shortPlayId": "1991696739981692929",
+      "shortPlayLibraryId": "1991696564408127489",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    },
+    {
+      "id": "2014244446882177025",
+      "language": "id_ID",
+      "name": "Kabur dari Takdir Novel",
+      "shortPlayId": "2004040910266318849",
+      "shortPlayLibraryId": "2004040866322595841",
+      "isEnable": 1,
+      "deleted": 0,
+      "isCheck": 0,
+      "os": null
+    }
+  ]
+}

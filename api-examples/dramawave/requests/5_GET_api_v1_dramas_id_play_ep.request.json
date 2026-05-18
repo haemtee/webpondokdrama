@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/dramawave/api/v1/dramas/quv2y2O9gA/play/15?lang=id-ID",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "quv2y2O9gA",
+    "ep": "15",
+    "lang": "id-ID"
+  }
+}

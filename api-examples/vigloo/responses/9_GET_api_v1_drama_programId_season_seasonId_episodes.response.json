@@ -1,0 +1,495 @@
+{
+  "status": "OK",
+  "payloads": [
+    {
+      "id": 15019004,
+      "seasonId": 15000463,
+      "episodeNumber": 0,
+      "duration": 35,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019005,
+      "seasonId": 15000463,
+      "episodeNumber": 1,
+      "duration": 92,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019006,
+      "seasonId": 15000463,
+      "episodeNumber": 2,
+      "duration": 198,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019007,
+      "seasonId": 15000463,
+      "episodeNumber": 3,
+      "duration": 159,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019008,
+      "seasonId": 15000463,
+      "episodeNumber": 4,
+      "duration": 105,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019009,
+      "seasonId": 15000463,
+      "episodeNumber": 5,
+      "duration": 73,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019010,
+      "seasonId": 15000463,
+      "episodeNumber": 6,
+      "duration": 98,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019011,
+      "seasonId": 15000463,
+      "episodeNumber": 7,
+      "duration": 120,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019012,
+      "seasonId": 15000463,
+      "episodeNumber": 8,
+      "duration": 116,
+      "releaseDate": "2025-10-23",
+      "price": 0
+    },
+    {
+      "id": 15019013,
+      "seasonId": 15000463,
+      "episodeNumber": 9,
+      "duration": 124,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019014,
+      "seasonId": 15000463,
+      "episodeNumber": 10,
+      "duration": 77,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019015,
+      "seasonId": 15000463,
+      "episodeNumber": 11,
+      "duration": 137,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019016,
+      "seasonId": 15000463,
+      "episodeNumber": 12,
+      "duration": 140,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019017,
+      "seasonId": 15000463,
+      "episodeNumber": 13,
+      "duration": 86,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019018,
+      "seasonId": 15000463,
+      "episodeNumber": 14,
+      "duration": 96,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019019,
+      "seasonId": 15000463,
+      "episodeNumber": 15,
+      "duration": 84,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019020,
+      "seasonId": 15000463,
+      "episodeNumber": 16,
+      "duration": 104,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019021,
+      "seasonId": 15000463,
+      "episodeNumber": 17,
+      "duration": 97,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019022,
+      "seasonId": 15000463,
+      "episodeNumber": 18,
+      "duration": 120,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019023,
+      "seasonId": 15000463,
+      "episodeNumber": 19,
+      "duration": 122,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019024,
+      "seasonId": 15000463,
+      "episodeNumber": 20,
+      "duration": 82,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019025,
+      "seasonId": 15000463,
+      "episodeNumber": 21,
+      "duration": 98,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019026,
+      "seasonId": 15000463,
+      "episodeNumber": 22,
+      "duration": 105,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019027,
+      "seasonId": 15000463,
+      "episodeNumber": 23,
+      "duration": 141,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019028,
+      "seasonId": 15000463,
+      "episodeNumber": 24,
+      "duration": 88,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019029,
+      "seasonId": 15000463,
+      "episodeNumber": 25,
+      "duration": 73,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019030,
+      "seasonId": 15000463,
+      "episodeNumber": 26,
+      "duration": 91,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019031,
+      "seasonId": 15000463,
+      "episodeNumber": 27,
+      "duration": 101,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019032,
+      "seasonId": 15000463,
+      "episodeNumber": 28,
+      "duration": 112,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019033,
+      "seasonId": 15000463,
+      "episodeNumber": 29,
+      "duration": 122,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019034,
+      "seasonId": 15000463,
+      "episodeNumber": 30,
+      "duration": 92,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019035,
+      "seasonId": 15000463,
+      "episodeNumber": 31,
+      "duration": 55,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019036,
+      "seasonId": 15000463,
+      "episodeNumber": 32,
+      "duration": 86,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019037,
+      "seasonId": 15000463,
+      "episodeNumber": 33,
+      "duration": 108,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019038,
+      "seasonId": 15000463,
+      "episodeNumber": 34,
+      "duration": 117,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019039,
+      "seasonId": 15000463,
+      "episodeNumber": 35,
+      "duration": 101,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019040,
+      "seasonId": 15000463,
+      "episodeNumber": 36,
+      "duration": 96,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019041,
+      "seasonId": 15000463,
+      "episodeNumber": 37,
+      "duration": 82,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019042,
+      "seasonId": 15000463,
+      "episodeNumber": 38,
+      "duration": 75,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019043,
+      "seasonId": 15000463,
+      "episodeNumber": 39,
+      "duration": 112,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019044,
+      "seasonId": 15000463,
+      "episodeNumber": 40,
+      "duration": 71,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019045,
+      "seasonId": 15000463,
+      "episodeNumber": 41,
+      "duration": 108,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019046,
+      "seasonId": 15000463,
+      "episodeNumber": 42,
+      "duration": 67,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019047,
+      "seasonId": 15000463,
+      "episodeNumber": 43,
+      "duration": 77,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019048,
+      "seasonId": 15000463,
+      "episodeNumber": 44,
+      "duration": 103,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019049,
+      "seasonId": 15000463,
+      "episodeNumber": 45,
+      "duration": 91,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019050,
+      "seasonId": 15000463,
+      "episodeNumber": 46,
+      "duration": 75,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019051,
+      "seasonId": 15000463,
+      "episodeNumber": 47,
+      "duration": 64,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019052,
+      "seasonId": 15000463,
+      "episodeNumber": 48,
+      "duration": 78,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019053,
+      "seasonId": 15000463,
+      "episodeNumber": 49,
+      "duration": 114,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019054,
+      "seasonId": 15000463,
+      "episodeNumber": 50,
+      "duration": 75,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019055,
+      "seasonId": 15000463,
+      "episodeNumber": 51,
+      "duration": 101,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019056,
+      "seasonId": 15000463,
+      "episodeNumber": 52,
+      "duration": 86,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019057,
+      "seasonId": 15000463,
+      "episodeNumber": 53,
+      "duration": 73,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019058,
+      "seasonId": 15000463,
+      "episodeNumber": 54,
+      "duration": 69,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019059,
+      "seasonId": 15000463,
+      "episodeNumber": 55,
+      "duration": 73,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019060,
+      "seasonId": 15000463,
+      "episodeNumber": 56,
+      "duration": 62,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019061,
+      "seasonId": 15000463,
+      "episodeNumber": 57,
+      "duration": 99,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019062,
+      "seasonId": 15000463,
+      "episodeNumber": 58,
+      "duration": 49,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019063,
+      "seasonId": 15000463,
+      "episodeNumber": 59,
+      "duration": 64,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    },
+    {
+      "id": 15019064,
+      "seasonId": 15000463,
+      "episodeNumber": 60,
+      "duration": 96,
+      "releaseDate": "2025-10-23",
+      "price": 50
+    }
+  ],
+  "next": "programs/15000468/seasons/15000463/episodes?offset=15019064&limit=200&isDesc=false",
+  "timestamp": 1775787676130
+}

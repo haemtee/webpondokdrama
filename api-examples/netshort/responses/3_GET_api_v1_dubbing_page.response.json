@@ -1,0 +1,916 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "1999696993278885889",
+      "title": "(Sulih suara) Dinikahi Setelah Putus",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-631673875_20260120-154036.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Menghukum Penjahat",
+        "Sang Juara Kembali"
+      ]
+    },
+    {
+      "id": "1983401607086952450",
+      "title": "(Sulih suara) Pengkhianatan Istri Tercinta",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-893208861_20260117-150146.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Sang Juara Kembali"
+      ]
+    },
+    {
+      "id": "2001954146244636674",
+      "title": "(Sulih suara) Kebangkitan Raja Balap",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1067685921_20260115-143345.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2008752023275274242",
+      "title": "(Sulih suara) Buket Bungaku Bernilai Selangit",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1241002753_20260113-142506.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Penyesalan",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "2004084646855004162",
+      "title": "(Sulih suara) Bangkitkan Mata Penembus",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1338441989_20260112-112104.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Fantasi Perkotaan",
+        "Bangkit Kembali",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1997949622037180417",
+      "title": "(Sulih suara) Jagal Tak Terkalahkan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1594179841_我凭一把屠刀问鼎江湖印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Dunia Persilatan",
+        "Bangkit Kembali",
+        "Sang Juara Kembali"
+      ]
+    },
+    {
+      "id": "2004076201404416002",
+      "title": "(Sulih suara) Dengan Sistem, Aku Besarkan Putriku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1597260233_20260109-112732.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sistem",
+        "Fantasi Kreatif"
+      ]
+    },
+    {
+      "id": "1988855376154329090",
+      "title": "(Sulih suara) Misi Rahasia: Turnamen Dewa Judi",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1682440683_1758601687030-2161450960708019-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sang Juara Kembali",
+        "Baik vs Jahat",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "2004033199768223746",
+      "title": "(Sulih suara) Cinta Pertama Adalah Luka",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1843396745_20260106-145638.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Pertumbuhan Wanita",
+        "Menghukum Penjahat",
+        "Kantoran"
+      ]
+    },
+    {
+      "id": "1955225547350286337",
+      "title": "(Sulih suara)Lelaki Biasa di Zaman Luar Biasa",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-2017800197_一品布衣印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Tanah Air",
+        "Menghukum Penjahat",
+        "Perjalanan Waktu"
+      ]
+    },
+    {
+      "id": "2004027271620022273",
+      "title": "(Sulih suara) Menghalau Kemalangan Keluarga",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1930123215_20251231-141427.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sistem",
+        "Fantasi Kreatif"
+      ]
+    },
+    {
+      "id": "1994614483446874114",
+      "title": "(Sulih suara) Topeng Pemboros",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1584529143_20251227-141440.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Intrik Kekuasaan"
+      ]
+    },
+    {
+      "id": "2004073051503083521",
+      "title": "(Sulih suara) Tipuan Cinta Manusia",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1500903675_20251226-150029.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Penyesalan",
+        "Plot Twist",
+        "Cinta Pahit"
+      ]
+    },
+    {
+      "id": "1991696739981692929",
+      "title": "(Sulih suara)Cahaya di balik gelap",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1491599271_1763536422981-5472622665182442-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Karma",
+        "Plot Twist",
+        "Drama Serius"
+      ]
+    },
+    {
+      "id": "1988493736745885697",
+      "title": "(Sulih suara) Apa Rahasia Boneka itu?",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1317449727_一枕绒梦误终身印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Misteri",
+        "Keadilan Hukum",
+        "Tidak Terduga"
+      ]
+    },
+    {
+      "id": "1988535491163455490",
+      "title": "(Sulih suara) Konglomerat Disangka Melarat",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1244975743_20251223-155503.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Modern"
+      ]
+    },
+    {
+      "id": "1978651390626316290",
+      "title": "(Sulih suara) Kamu Pernah Jadi Cintaku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/972488374_20251220-121351.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis Perkotaan",
+        "Pertumbuhan Wanita",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1990254946717401090",
+      "title": "(Sulih suara) Dewa Pedang di Antara Kami",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/539588067_20251215-115855.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1957728826453630977",
+      "title": "(Sulih suara)Cinta Retak Tak Sempurna",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/194305425_20251211-120350.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Menghukum Penjahat",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1998581018005729281",
+      "title": "(Sulih suara)Jangan Usik Orang Tua Miliarder",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/106364396_Don'tmesswithbillionaire'sparents!印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": []
+    },
+    {
+      "id": "1997856483114766338",
+      "title": "(Sulih suara)Hidup Berubah dalam Sekejap",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-68817928_与君白首此人间印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1985904412049268737",
+      "title": "(Sulih suara)Naluri Harta",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-758948401_我有财富之眼印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Fantasi Kreatif",
+        "Kekuatan Super",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1955463146782400513",
+      "title": "(Sulih suara) Gadis Ajaib Keuangan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1274548275_20251124-115909.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Menghukum Penjahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1983095552540889089",
+      "title": "(Sulih suara)Lika-Liku Sang Raja Masak",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1360466125_CookingMyWayBacktoLove印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Balas Dendam",
+        "Sang Juara Kembali"
+      ]
+    },
+    {
+      "id": "1975838211076096001",
+      "title": "(Sulih suara)Cinta berubah menjadi benci",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1525154401_中秋月她只谋局不谋圆印尼.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis Perkotaan",
+        "Menghukum Penjahat",
+        "Wanita Kuat"
+      ]
+    },
+    {
+      "id": "1962445312068763650",
+      "title": "(Sulih suara) Tragedi Serangan Hiu Raksasa",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1623982081_1756362758271-7912023180979693-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Menghukum Penjahat",
+        "Kiamat"
+      ]
+    },
+    {
+      "id": "1988798256747110401",
+      "title": "(Sulih suara) Perangkap Suami Sempurna",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/2067131865_20251113-111452.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Konflik Keluarga",
+        "Plot Twist",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1965247949350100994",
+      "title": "(Sulih suara)Tiga tahun menjadi istri palsu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1808580581_20251110-112604.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis Perkotaan",
+        "Menghukum Penjahat",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1976870103505702914",
+      "title": "(Sulih suara) Salah Pilih Cinta",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1636562710_20251108-113842.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis Perkotaan",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1956627934996668417",
+      "title": "(Sulih suara) Ganti Ayah, Ubah Nasib",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1289469310_珣爷家的小祖宗又野又飒印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Urusan Rumah Tangga",
+        "Bangkit Kembali",
+        "Penebusan"
+      ]
+    },
+    {
+      "id": "1985174871400595458",
+      "title": "(Sulih suara) Tebus Langit",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1203624939_1080_14403比4-英.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sang Juara Kembali",
+        "Bangkit Kembali",
+        "Balas Dendam"
+      ]
+    },
+    {
+      "id": "1974416199631245313",
+      "title": "(Sulih suara) Ayahku Dewa Balap",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1031788031_漂移吧洗车大叔2赤子凌云印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Menghukum Penjahat",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1976582955579277313",
+      "title": "(Sulih suara) Dari Buangan Menjadi Naga",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/859170814_弃子翻身化真龙印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sang Juara Kembali",
+        "Menghukum Penjahat",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1974759963609104385",
+      "title": "(Sulih suara)Pertempuran Terlarang",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/429326174_禁武之战印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Fantasi Kreatif",
+        "Menghukum Penjahat",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1980099696452792321",
+      "title": "(Sulih suara) Cinta yang Dipaksa",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-6045848_20251020-111948.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Kontrak",
+        "Cinta Paksa",
+        "Cinta Diam Terwujud"
+      ]
+    },
+    {
+      "id": "1963538966899777538",
+      "title": "(Sulih suara)Pindah Alam Jadi Permaisuri",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-90456706_20251019-115502.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Ringan",
+        "One Night Stand"
+      ]
+    },
+    {
+      "id": "1966759705043075073",
+      "title": "(Sulih suara)Perjalanan menuju kejayaan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-266772613_20251017-105644.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Pertumbuhan Wanita",
+        "Hidup Kembali",
+        "Wanita Dominan"
+      ]
+    },
+    {
+      "id": "1960237520364421121",
+      "title": "(Sulih suara)Putri Pengganti yang Dinikahkan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-695743106_辞凤归印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Penyesalan",
+        "Kuno",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1956186790559031297",
+      "title": "(Sulih suara)Jebakan Takdir",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-871694338_灼华烬印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Cinta Pahit"
+      ]
+    },
+    {
+      "id": "1967772409659752450",
+      "title": "(Sulih suara)Rahasia di Balik Meja Judi",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1124934729_20251007-123346.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Balas Dendam",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1972180692880855041",
+      "title": "(Sulih suara)Aku adalah Seorang Ibu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1367478280_我是妈妈印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Konflik Keluarga",
+        "Menghukum Penjahat",
+        "Ibu Rumah Tangga"
+      ]
+    },
+    {
+      "id": "1960197817104281602",
+      "title": "(Sulih suara)Maaf, Anak Itu Bukan Milikmu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-2075900161_20250926-122436.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Pahit",
+        "Cinta Kontrak",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1955086938819231746",
+      "title": "(Sulih suara) Bunga Berduri di Ruang Sidang",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1794637039_20250921-142955.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1919277333179072514",
+      "title": "(Sulih suara)Para kakak yang sedih karena kepergianku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1699884508_3比4-2025-09-20T121139.031.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Konflik Keluarga Kaya",
+        "Menghukum Penjahat",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1955518870304661506",
+      "title": "(Sulih suara)Master Terakhir",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1537011711_最后一个修真者印尼.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Tak Terkalahkan"
+      ]
+    },
+    {
+      "id": "1968136257439686658",
+      "title": "(Sulih suara)Ikan Asin Jadi Naga Pengguncang Langit",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1455423215_咸鱼化龙震九天印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1968136186062274561",
+      "title": "(Sulih suara)Kehamilan Penuh Prahara",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1453587963_3比4(6).jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Identitas Rahasia",
+        "One Night Stand",
+        "Istana"
+      ]
+    },
+    {
+      "id": "1953357739876122626",
+      "title": "(Sulih suara)Jangan Kira Dia Polos!",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1370342399_20250916-163912.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Konflik Keluarga Kaya",
+        "Cinta Tumbuh Perlahan",
+        "One Night Stand"
+      ]
+    },
+    {
+      "id": "1967414577966940161",
+      "title": "(Sulih suara)Cinta yang Tak Kembali",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1275001844_20250915-140958.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Plot Twist",
+        "Bangkit Kembali",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1967414647162298370",
+      "title": "(Sulih suara) Bayangan Pedang dan Dosa Lama",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1266273647_20250915-114427.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1953636181087457282",
+      "title": "(Sulih suara) Penyesalanku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1191899130_你是我的遗憾印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Pahit",
+        "Penyesalan",
+        "Romantis Perkotaan"
+      ]
+    },
+    {
+      "id": "1966752376750931970",
+      "title": "(Sulih suara)Kemalangan yang Manis",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1189273279_20250914-142105.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menikah Kilat",
+        "Bangkit Kembali",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1963931195839070210",
+      "title": "(Sulih suara)Raja Ularku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1094933359_20250913-120901.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Tukar Hidup",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1965606215697006593",
+      "title": "(Sulih suara)Penyesalan Para Kakak Setelah Putus Hubungan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1018023919_20250912-144626.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Pertumbuhan Pria",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1953639934163259393",
+      "title": "(Sulih suara)Menjadi Bagian dari Hatimu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/853537527_听说我成了前夫的朱砂痣印尼配音.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Penyesalan",
+        "Kekuatan Super"
+      ]
+    },
+    {
+      "id": "1953639934339420162",
+      "title": "(Sulih suara)Ketika Dunia Menolakku, Kau Memelukku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/805173211_他是山川星河印尼配音.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Saudara Palsu",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1964548906860396546",
+      "title": "(Sulih suara)Tinjuku Hebat",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/593887167_20250907-165759.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Balas Dendam",
+        "Bangkit Kembali",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1964548906952671233",
+      "title": "(Sulih suara)Dendam Sang Miliarder",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/593247151_20250907-164741.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sang Juara Kembali",
+        "Menghukum Penjahat",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1953050552822837250",
+      "title": "(Sulih suara)Mutiara yang Hilang",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/429087935_20250905-191136.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Setelah Nikah",
+        "Hilang Ingatan",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1958421931145244674",
+      "title": "(Sulih suara)Adik Tiriku, Mantan Pacarku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/339931127_20250904-182523.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis Perkotaan",
+        "Cinta yang Kembali",
+        "Modern"
+      ]
+    },
+    {
+      "id": "1960610557106757634",
+      "title": "(Sulih suara) Si Manis di Hatinya",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/312803262_傅爷的小青梅又飒又美（配音）印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis",
+        "Saling Mencintai",
+        "Cinta Diam Terwujud"
+      ]
+    },
+    {
+      "id": "1953356936733888513",
+      "title": "(Sulih suara)Tanpa Sadar Aku Milikmu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/167392219_20250902-183007.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menikah Kilat",
+        "Cinta Diam Terwujud",
+        "Kekasih Masa Kecil"
+      ]
+    },
+    {
+      "id": "1962444084014301186",
+      "title": "(Sulih suara)Cinta Sang Pengganti",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/158948476_20250902-160917.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Pahit",
+        "Salah Mengira Identitas",
+        "Cinta Zaman Dulu"
+      ]
+    },
+    {
+      "id": "1962723495221477378",
+      "title": "(Sulih suara)Aku dan Ibu Mertua Menghancurkan Keluarga Lelaki Brengsek Itu",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/154650412_1080_14403比4(9).jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Urusan Rumah Tangga",
+        "Moral dan Etika",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1962454223147016193",
+      "title": "(Sulih suara)Pengkhianatan di Balik Pernikahan",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/82822733_一片真心错付君（配音）印尼语.png~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Penyesalan",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1953404309548007426",
+      "title": "(Sulih suara)Cinta Lama Bersemi Kembali",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-176166194_他偏要印尼.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Pahit",
+        "Cinta yang Kembali",
+        "Romantis Perkotaan"
+      ]
+    },
+    {
+      "id": "1955215033681154049",
+      "title": "(Sulih suara)Ternyata Cintaku Belum Meninggal",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-271462657_20250828-163547.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Pahit",
+        "Menghukum Penjahat",
+        "Kuno"
+      ]
+    },
+    {
+      "id": "1955213795967209473",
+      "title": "(Sulih suara) Sang Pewaris Jawara Pedang Pertama",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-277658178_20250828-145231.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Sang Juara Kembali",
+        "Pertumbuhan Pria",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1958421930960695298",
+      "title": "(Sulih suara) Si Kecil Ajaib Kesayangan Keluarga",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-290464273_读心萌宝全家宠印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "One Night Stand",
+        "Modern",
+        "Romantis"
+      ]
+    },
+    {
+      "id": "1958421930776145922",
+      "title": "(Sulih suara)Sulih suaraPelindung Sang Mawar",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-522793505_20250825-184638.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis",
+        "Jatuh Cinta Pada Pandangan Pertama",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1955210570446897154",
+      "title": "(Sulih suara) Menuju Kamu Tanpa Henti",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-539111601_周周奔赴你（配音）印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Romantis",
+        "Cinta Setelah Nikah",
+        "Cinta dan Pernikahan"
+      ]
+    },
+    {
+      "id": "1953726106705170434",
+      "title": "(Sulih suara)Rahasia Miliarder di Balik Wajah Biasa",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1953726066435784706/1755512543459-9390894634800574-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Penyesalan",
+        "Penuh Semangat"
+      ]
+    },
+    {
+      "id": "1955827398655418369",
+      "title": "(Sulih suara) Si Lemah Penyelamat Dunia",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1498558489_20250814-114321.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Bangkit Kembali",
+        "Pertumbuhan Pria"
+      ]
+    },
+    {
+      "id": "1952924244477063170",
+      "title": "(Sulih suara) Kembalinya Atlet Basket",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-2103771409_20250807-113709.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Pertumbuhan Pria"
+      ]
+    },
+    {
+      "id": "1952261053510168578",
+      "title": "(Sulih suara) Cinta Membara Direktur Miliarder",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1946185597_闺蜜眼睁睁看我被京圈太子爷宠上天（配音）印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Reinkarnasi Ganda",
+        "Bertukar Pengantin"
+      ]
+    },
+    {
+      "id": "1951184039222312962",
+      "title": "(Sulih suara)Tukang Sapu,Penguasa Arena",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1687322495_无敌扫地僧印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Dewa Perang"
+      ]
+    },
+    {
+      "id": "1949664053757452289",
+      "title": "(Sulih suara)Bangkitnya Anak Terbuang",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1913537646580486146/1755076804323-2558824554156669-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Sang Juara Kembali",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1948239965923512321",
+      "title": "(Sulih suara) Tertidur 30 tahun, 3 kakak menyesal",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1938116548120788993/1754982397245-1667175476226677-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Penyesalan",
+        "Konflik Keluarga",
+        "Modern"
+      ]
+    },
+    {
+      "id": "1946782536627064833",
+      "title": "(Sulih suara) Suamiku seorang miliarder",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1912823735243960321/1755169462333-8880949422592944-3比4jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Setelah Nikah",
+        "Nikah Karena Hamil",
+        "Kekasih Masa Kecil"
+      ]
+    },
+    {
+      "id": "1946046878842007553",
+      "title": "(Sulih suara)Ahli Pedang Muda",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1500806327_20250730-115046.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Pertumbuhan Pria",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1942771184849977346",
+      "title": "(Sulih suara)Gaspol! Pembalap Hebat",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-304103745_20250709-142655.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1928675318409519105",
+      "title": "(Sulih suara) My Wonder Mama!",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/699395837_20250601-120240.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Plot Twist",
+        "Menghukum Penjahat",
+        "Penebusan"
+      ]
+    },
+    {
+      "id": "1927638402879700993",
+      "title": "(Sulih suara)Romantis di Musim Dingin",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/372094461_冬日恋歌：情定大饭店印尼语.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Setelah Nikah",
+        "Nikah Karena Hamil",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1926467573052915713",
+      "title": "CEO Yang Menginginkan Anak (Sulih suara)",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/93191423_20250525-114418.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bayi Lucu",
+        "Kepuasan",
+        "Plot Twist"
+      ]
+    },
+    {
+      "id": "1918527325729849346",
+      "title": "(Sulih suara)Dewa Biliar",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1913245671297802241/1747822836047-.933276865987417-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Menghukum Penjahat",
+        "Sang Juara Kembali",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1911991926823010305",
+      "title": "(Sulih suara)Kembalinya Phoenix",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1909467508698333185/1747718664963-7752562710449099-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Tukar Hidup",
+        "Bangkit Kembali"
+      ]
+    },
+    {
+      "id": "1911364252833435650",
+      "title": "(Sulih suara)Nikah Kilat Sama Cintaku",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/869384187_闪婚甜妻是大佬印尼语配音剧.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Hidup Kembali",
+        "Balas Dendam",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1907715903128944642",
+      "title": "(Sulih suara)Kembalinya Ratu Phoenix",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1907712458682613762/1747720342929-3476295252681927-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Menghukum Penjahat"
+      ]
+    },
+    {
+      "id": "1904098997317795842",
+      "title": "(Sulih suara)Wanita di Keluargaku Melindungi Negara",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-84153417_1080_14403比4-2025-04-03T172822.321.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Balas Dendam",
+        "Bangkit Kembali",
+        "Kepuasan"
+      ]
+    },
+    {
+      "id": "1899284128327815170",
+      "title": "(Dubbing)Yang Paling Mencintaiku di Dunia",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-689979722_全世界最爱我的她印尼配音（原.png~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Pahit",
+        "Konflik Keluarga Kaya",
+        "Penyesalan"
+      ]
+    },
+    {
+      "id": "1894650845221842946",
+      "title": "(Dubbing)Hamil Manis: Dimanjakan Suami Bos Besar",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/2112444847_1080_14403比4.png~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Cinta Tumbuh Perlahan",
+        "Hamil dan Lari",
+        "One Night Stand"
+      ]
+    },
+    {
+      "id": "1894598206267256834",
+      "title": "(Dubbing)Jejak Rasa yang Hilang",
+      "cover": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1894651211002900481/1752049339979-9322265720439302-3比4.jpg~tplv-vod-rs:540:720.webp",
+      "labels": [
+        "Bangkit Kembali",
+        "Sang Juara Kembali",
+        "Pertumbuhan Pria"
+      ]
+    }
+  ]
+}

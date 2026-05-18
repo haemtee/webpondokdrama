@@ -1,0 +1,2497 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "region": [
+      {
+        "key": 0,
+        "value": "Semua",
+        "name": "Wilayah",
+        "extList": null,
+        "valueEn": "All"
+      },
+      {
+        "key": 1,
+        "value": "Lokal",
+        "name": "Wilayah",
+        "extList": [
+          "id_ID"
+        ],
+        "valueEn": "Local"
+      },
+      {
+        "key": 2,
+        "value": "Asia",
+        "name": "Wilayah",
+        "extList": [
+          "zh_CN",
+          "zh_TW",
+          "ja_JP",
+          "ko_KR",
+          "th_TH",
+          "id_ID",
+          "ar_AE",
+          "tr_TR",
+          "ms_MY",
+          "vi_VN"
+        ],
+        "valueEn": "Asian"
+      },
+      {
+        "key": 3,
+        "value": "Barat",
+        "name": "Wilayah",
+        "extList": [
+          "en_US",
+          "es_ES",
+          "pt_PT",
+          "de_DE",
+          "fr_FR",
+          "it_IT"
+        ],
+        "valueEn": "Western"
+      }
+    ],
+    "audio": [
+      {
+        "key": 0,
+        "value": "Semua",
+        "name": "Jenis audio",
+        "extList": null,
+        "valueEn": "All"
+      },
+      {
+        "key": 1,
+        "value": "Hanya Subtitle",
+        "name": "Jenis audio",
+        "extList": [
+          "1859874284428754945",
+          "1859874208977420289"
+        ],
+        "valueEn": "Subtitles Only"
+      },
+      {
+        "key": 2,
+        "value": "Sulih suara",
+        "name": "Jenis audio",
+        "extList": [
+          "1859874247929921537",
+          "1859874247929921538"
+        ],
+        "valueEn": "Dubbed"
+      }
+    ],
+    "tag": [
+      {
+        "labelLanguageId": -1,
+        "labelName": "Semua",
+        "name": "Jenis",
+        "valueEn": "All",
+        "newLabelIdList": [
+          "1983832091029397514",
+          "1983832175759147019",
+          "1983832036390813708",
+          "1983832090802905096",
+          "1983832036533420043",
+          "1983832175163555852",
+          "1983832092270911499",
+          "1983832176153411596",
+          "1983832036302733324",
+          "1983832091151032331",
+          "1983832175117418507",
+          "1983832175855616012",
+          "1983832036285956107",
+          "1983832175469740041",
+          "1983832092736479243",
+          "1983832175792701451",
+          "1983832091079729159",
+          "1983832036856381451",
+          "1983832092468043787",
+          "1983832175473934348",
+          "1984208314792402951",
+          "1983832175884976140",
+          "1983832036239818764",
+          "1983832036273373196",
+          "1983832091813732364",
+          "1983832175041921036"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Kepuasan",
+        "name": null,
+        "valueEn": "Wish-Fulfillment",
+        "newLabelIdList": [
+          "1983832091029397514",
+          "1983832175759147019",
+          "1983832036390813708"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Kuno",
+        "name": null,
+        "valueEn": "Ancient Times",
+        "newLabelIdList": [
+          "1983832090802905096",
+          "1983832036533420043",
+          "1983832175163555852"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Balas Dendam",
+        "name": null,
+        "valueEn": "Revenge",
+        "newLabelIdList": [
+          "1983832092270911499",
+          "1983832176153411596",
+          "1983832036302733324"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Romantis",
+        "name": null,
+        "valueEn": "Sweet Romance",
+        "newLabelIdList": [
+          "1983832091151032331",
+          "1983832175117418507"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Sang Juara Kembali",
+        "name": null,
+        "valueEn": "Return of the King",
+        "newLabelIdList": [
+          "1983832175855616012",
+          "1983832036285956107"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Romantis Perkotaan",
+        "name": null,
+        "valueEn": "Urban Romance",
+        "newLabelIdList": [
+          "1983832175469740041",
+          "1983832092736479243"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Cinta Pahit",
+        "name": null,
+        "valueEn": "Bitter Love",
+        "newLabelIdList": [
+          "1983832175792701451",
+          "1983832091079729159"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Fantasi Kreatif",
+        "name": null,
+        "valueEn": "Fantasy",
+        "newLabelIdList": [
+          "1983832036856381451",
+          "1983832092468043787",
+          "1983832175473934348"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Bangkit Kembali",
+        "name": null,
+        "valueEn": "Underdog Rise",
+        "newLabelIdList": [
+          "1984208314792402951",
+          "1983832175884976140",
+          "1983832036239818764"
+        ]
+      },
+      {
+        "labelLanguageId": null,
+        "labelName": "Hidup Kembali",
+        "name": null,
+        "valueEn": "Rebirth",
+        "newLabelIdList": [
+          "1983832036273373196",
+          "1983832091813732364",
+          "1983832175041921036"
+        ]
+      }
+    ],
+    "orderMode": [
+      {
+        "key": 1,
+        "value": "Populer",
+        "name": "Urutkan berdasarkan",
+        "extList": [
+          1
+        ],
+        "valueEn": "Popular"
+      },
+      {
+        "key": 2,
+        "value": "Terbaru",
+        "name": "Urutkan berdasarkan",
+        "extList": [
+          2
+        ],
+        "valueEn": "Latest"
+      }
+    ],
+    "cascadeTag": [
+      {
+        "labelId": "1983831699860217863",
+        "labelName": "Wanita",
+        "sort": null,
+        "labelLevel": 1,
+        "valueEn": "Female",
+        "children": [
+          {
+            "labelId": "1983831892034838535",
+            "labelName": "Latar Belakang",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Setting",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832090815488011",
+                  "1983832090932928522",
+                  "1983832091205558284",
+                  "1983832090870013962",
+                  "1983832090979065867",
+                  "1983832090941317132",
+                  "1983832090895179787",
+                  "1983832090920345611",
+                  "1983832090878402571",
+                  "1983832090970677257",
+                  "1983832090844848139",
+                  "1983832090958094348",
+                  "1983832090802905096",
+                  "1983832090991648779",
+                  "1983832090857431051"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832090815488011",
+                "labelName": "Zaman Lama",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Vintage Era",
+                "children": []
+              },
+              {
+                "labelId": "1983832090932928522",
+                "labelName": "Dunia Fiksi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Alternate History",
+                "children": []
+              },
+              {
+                "labelId": "1983832091205558284",
+                "labelName": "Keluarga Kaya",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Powerful Family",
+                "children": []
+              },
+              {
+                "labelId": "1983832090870013962",
+                "labelName": "Istana",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Palace",
+                "children": []
+              },
+              {
+                "labelId": "1983832090979065867",
+                "labelName": "Mafia",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mafia",
+                "children": []
+              },
+              {
+                "labelId": "1983832090941317132",
+                "labelName": "Kampus",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Campus",
+                "children": []
+              },
+              {
+                "labelId": "1983832090895179787",
+                "labelName": "Kisah Pedesaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Country",
+                "children": []
+              },
+              {
+                "labelId": "1983832090920345611",
+                "labelName": "Kiamat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Apocalyptic",
+                "children": []
+              },
+              {
+                "labelId": "1983832090878402571",
+                "labelName": "Drama Kolosal",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Republic-Era Drama",
+                "children": []
+              },
+              {
+                "labelId": "1983832090970677257",
+                "labelName": "Dunia Hiburan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Showbiz",
+                "children": []
+              },
+              {
+                "labelId": "1983832090844848139",
+                "labelName": "Modern",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Modern",
+                "children": []
+              },
+              {
+                "labelId": "1983832090958094348",
+                "labelName": "Dunia Lain",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Another World",
+                "children": []
+              },
+              {
+                "labelId": "1983832090802905096",
+                "labelName": "Kuno",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Ancient Times",
+                "children": []
+              },
+              {
+                "labelId": "1983832090991648779",
+                "labelName": "Dunia Fantasi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fantasy World",
+                "children": []
+              },
+              {
+                "labelId": "1983832090857431051",
+                "labelName": "Kantoran",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Office",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892001284098",
+            "labelName": "Genre",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Genre",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832092405129227",
+                  "1983832092497403915",
+                  "1983832092937805835",
+                  "1983832092992331780",
+                  "1983832092468043787",
+                  "1983832092447072266",
+                  "1983832093004914698",
+                  "1983832092417712140",
+                  "1983832092459655178",
+                  "1983832092979748866",
+                  "1983832092430295052",
+                  "1983832092950388748",
+                  "1983832093059440651",
+                  "1983832092962971660",
+                  "1983832092736479243"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832092405129227",
+                "labelName": "Konflik Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Drama",
+                "children": []
+              },
+              {
+                "labelId": "1983832092497403915",
+                "labelName": "Misteri",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mystery",
+                "children": []
+              },
+              {
+                "labelId": "1983832092937805835",
+                "labelName": "Cinta di Kantor",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Office Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092992331780",
+                "labelName": "Pahlawan Abadi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Immortal Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832092468043787",
+                "labelName": "Fantasi Kreatif",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fantasy",
+                "children": []
+              },
+              {
+                "labelId": "1983832092447072266",
+                "labelName": "Cinta Desa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rural Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832093004914698",
+                "labelName": "Cinta Zaman Dulu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Vintage Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832092417712140",
+                "labelName": "Romantis Fantasi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fantasy Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092459655178",
+                "labelName": "Ikatan Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Bonds",
+                "children": []
+              },
+              {
+                "labelId": "1983832092979748866",
+                "labelName": "Cinta dan Pernikahan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Romantic Marriage",
+                "children": []
+              },
+              {
+                "labelId": "1983832092430295052",
+                "labelName": "Cinta Era Republik",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Republic-Era Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092950388748",
+                "labelName": "Pertumbuhan Wanita",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Female Empowerment",
+                "children": []
+              },
+              {
+                "labelId": "1983832093059440651",
+                "labelName": "Romansa Kampus",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Campus Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092962971660",
+                "labelName": "Romansa zaman dulu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Historical Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092736479243",
+                "labelName": "Romantis Perkotaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Modern Romance",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831891925786636",
+            "labelName": "Kemampuan",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Skills",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832092673564683"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832092673564683",
+                "labelName": "Kekuatan Super",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Super Power",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831891913203720",
+            "labelName": "Karakter",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Characters",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832091427856396",
+                  "1983832091306221579",
+                  "1983832091457216524",
+                  "1983832091503353867",
+                  "1983832091255889931",
+                  "1983832091415273483"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832091427856396",
+                "labelName": "Putri Asli&Palsu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Stolen Identity",
+                "children": []
+              },
+              {
+                "labelId": "1983832091306221579",
+                "labelName": "Ibu Rumah Tangga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Housewife",
+                "children": []
+              },
+              {
+                "labelId": "1983832091457216524",
+                "labelName": "Wanita Kuat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Independent Woman",
+                "children": []
+              },
+              {
+                "labelId": "1983832091503353867",
+                "labelName": "Ratu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Empress",
+                "children": []
+              },
+              {
+                "labelId": "1983832091255889931",
+                "labelName": "Bayi Lucu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Baby",
+                "children": []
+              },
+              {
+                "labelId": "1983832091415273483",
+                "labelName": "Wanita Dominan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Heroine",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892018061320",
+            "labelName": "Alur Cerita",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Story",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1984208314792402951",
+                  "1983832092187025420",
+                  "1983832091973115916",
+                  "1983832092019253259",
+                  "1983832091864064011",
+                  "1983832091939561483",
+                  "1983832092304465932",
+                  "1983832091901812747",
+                  "1983832091893424132",
+                  "1983832091813732364",
+                  "1983832091880841226",
+                  "1983832091708874754",
+                  "1983832092119916551",
+                  "1983832091914395660",
+                  "1983832092069584908",
+                  "1983832092270911499",
+                  "1983832091683708935",
+                  "1983832091805343753",
+                  "1983832092010864647",
+                  "1983832092396740617",
+                  "1983832092153470988",
+                  "1983832092107333644",
+                  "1983832091717263371",
+                  "1983832092178636802",
+                  "1983832091742429196",
+                  "1983832091960533003",
+                  "1983832092228968460",
+                  "1983832092057001996",
+                  "1983832092342214668",
+                  "1983832092283494406",
+                  "1983832092128305164",
+                  "1983832091671126026",
+                  "1983832091767595019",
+                  "1983832091985698827",
+                  "1983832091998281739",
+                  "1983832091629182987",
+                  "1983832092291883019",
+                  "1983832092140888076",
+                  "1983832092258328587",
+                  "1983832092220579843",
+                  "1983832091826315275",
+                  "1983832091616600074",
+                  "1983832092031836172",
+                  "1983832092199608331",
+                  "1983832092367380491",
+                  "1983832092082167819",
+                  "1983832092094750732",
+                  "1983832091755012107",
+                  "1983832091658543112",
+                  "1983832092245745675",
+                  "1983832091947950092",
+                  "1983832091696291841",
+                  "1983832092044419083",
+                  "1983832092384157698",
+                  "1984209208347541510",
+                  "1983832091792760843",
+                  "1983832091641765898",
+                  "1983832092329631755",
+                  "1983832092354797578"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1984208314792402951",
+                "labelName": "Bangkit Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Underdog Rise",
+                "children": []
+              },
+              {
+                "labelId": "1983832092187025420",
+                "labelName": "Reinkarnasi Ganda",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Double Rebirth",
+                "children": []
+              },
+              {
+                "labelId": "1983832091973115916",
+                "labelName": "Serigala Berbaju Domba",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Wolf in Disguise",
+                "children": []
+              },
+              {
+                "labelId": "1983832092019253259",
+                "labelName": "Reinkarnasi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Past Lives",
+                "children": []
+              },
+              {
+                "labelId": "1983832091864064011",
+                "labelName": "Cinta Tumbuh Perlahan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Slow-Burn Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832091939561483",
+                "labelName": "Cinta Setelah Nikah",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Love After Marriage",
+                "children": []
+              },
+              {
+                "labelId": "1983832092304465932",
+                "labelName": "Ide Creativa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mind-Bending",
+                "children": []
+              },
+              {
+                "labelId": "1983832091901812747",
+                "labelName": "Karma",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Karma",
+                "children": []
+              },
+              {
+                "labelId": "1983832091893424132",
+                "labelName": "Konflik Keluarga Kaya",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rich Family Feud",
+                "children": []
+              },
+              {
+                "labelId": "1983832091813732364",
+                "labelName": "Hidup Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rebirth",
+                "children": []
+              },
+              {
+                "labelId": "1983832091880841226",
+                "labelName": "Menikah Kilat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Flash Marriage",
+                "children": []
+              },
+              {
+                "labelId": "1983832091708874754",
+                "labelName": "Cinta Paksa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Forced Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832092119916551",
+                "labelName": "Penyesalan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "All-Too-Late",
+                "children": []
+              },
+              {
+                "labelId": "1983832091914395660",
+                "labelName": "Cinta Segitiga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Love Triangle",
+                "children": []
+              },
+              {
+                "labelId": "1983832092069584908",
+                "labelName": "Pasangan Tangguh",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Power Couple",
+                "children": []
+              },
+              {
+                "labelId": "1983832092270911499",
+                "labelName": "Balas Dendam",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Revenge",
+                "children": []
+              },
+              {
+                "labelId": "1983832091683708935",
+                "labelName": "Melatih Si Playboy",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Taming the Playboy",
+                "children": []
+              },
+              {
+                "labelId": "1983832091805343753",
+                "labelName": "Cinta yang Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Second Chance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092010864647",
+                "labelName": "Kekasih Masa Kecil",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Childhood Sweethearts",
+                "children": []
+              },
+              {
+                "labelId": "1983832092396740617",
+                "labelName": "Saudara Palsu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fake Siblings",
+                "children": []
+              },
+              {
+                "labelId": "1983832092153470988",
+                "labelName": "Manusia Serigala",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Werewolf",
+                "children": []
+              },
+              {
+                "labelId": "1983832092107333644",
+                "labelName": "Mencari Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Finding Relatives",
+                "children": []
+              },
+              {
+                "labelId": "1983832091717263371",
+                "labelName": "Intrik di Istana",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Harem Scheming",
+                "children": []
+              },
+              {
+                "labelId": "1983832092178636802",
+                "labelName": "Transmigrasi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Trapped in a Book",
+                "children": []
+              },
+              {
+                "labelId": "1983832091742429196",
+                "labelName": "Sistem",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Life OL",
+                "children": []
+              },
+              {
+                "labelId": "1983832091960533003",
+                "labelName": "Hamil dan Lari",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Runaway Pregnancy",
+                "children": []
+              },
+              {
+                "labelId": "1983832092228968460",
+                "labelName": "Pasangan Bertengkar tapi Mesra",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Enemies to Lovers",
+                "children": []
+              },
+              {
+                "labelId": "1983832092057001996",
+                "labelName": "Wanita mengejar pria",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Girl Pursues Boy",
+                "children": []
+              },
+              {
+                "labelId": "1983832092342214668",
+                "labelName": "Tukar Jiwa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Body Swap",
+                "children": []
+              },
+              {
+                "labelId": "1983832092283494406",
+                "labelName": "Moral dan Etika",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Ethics",
+                "children": []
+              },
+              {
+                "labelId": "1983832092128305164",
+                "labelName": "Kencan Buta",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Blind Date",
+                "children": []
+              },
+              {
+                "labelId": "1983832091671126026",
+                "labelName": "Saling Mencintai",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mutual Affection",
+                "children": []
+              },
+              {
+                "labelId": "1983832091767595019",
+                "labelName": "Nikah Karena Hamil",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Shotgun Marriage",
+                "children": []
+              },
+              {
+                "labelId": "1983832091985698827",
+                "labelName": "Cinta Diam Terwujud",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Secret Crush Turned Real",
+                "children": []
+              },
+              {
+                "labelId": "1983832091998281739",
+                "labelName": "Perempuan Dominan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Women Rule",
+                "children": []
+              },
+              {
+                "labelId": "1983832091629182987",
+                "labelName": "Salah Mengira Identitas",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mistaken Identity",
+                "children": []
+              },
+              {
+                "labelId": "1983832092291883019",
+                "labelName": "Menghukum Penjahat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Karma Payback",
+                "children": []
+              },
+              {
+                "labelId": "1983832092140888076",
+                "labelName": "Cinta Usia Paruh Baya",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Midlife Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092258328587",
+                "labelName": "Ilmu Mistis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mysticism",
+                "children": []
+              },
+              {
+                "labelId": "1983832092220579843",
+                "labelName": "Harem Terbalik",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Reverse Harem",
+                "children": []
+              },
+              {
+                "labelId": "1983832091826315275",
+                "labelName": "Perjalanan Waktu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Time Travel",
+                "children": []
+              },
+              {
+                "labelId": "1983832091616600074",
+                "labelName": "Bertukar Pengantin",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Switched Marriages",
+                "children": []
+              },
+              {
+                "labelId": "1983832092031836172",
+                "labelName": "Tukar Hidup",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Switched Lives",
+                "children": []
+              },
+              {
+                "labelId": "1983832092199608331",
+                "labelName": "Cinta dengan Selisih Usia",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Age-Gap Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832092367380491",
+                "labelName": "Dari Pedih Ke Manis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Hate to Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832092082167819",
+                "labelName": "Identitas Rahasia",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Multiple Identities",
+                "children": []
+              },
+              {
+                "labelId": "1983832092094750732",
+                "labelName": "Jadi kaya",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rags to Riches",
+                "children": []
+              },
+              {
+                "labelId": "1983832091755012107",
+                "labelName": "Penyelidikan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Investigation",
+                "children": []
+              },
+              {
+                "labelId": "1983832091658543112",
+                "labelName": "Jatuh Cinta Pada Pandangan Pertama",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Love at First Sight",
+                "children": []
+              },
+              {
+                "labelId": "1983832092245745675",
+                "labelName": "Urusan Rumah Tangga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Domestic Drama",
+                "children": []
+              },
+              {
+                "labelId": "1983832091947950092",
+                "labelName": "Cinta Kontrak",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Contract Lovers",
+                "children": []
+              },
+              {
+                "labelId": "1983832091696291841",
+                "labelName": "Hilang Ingatan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Amnesia",
+                "children": []
+              },
+              {
+                "labelId": "1983832092044419083",
+                "labelName": "Nikah Pengganti",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Substitute Bride",
+                "children": []
+              },
+              {
+                "labelId": "1983832092384157698",
+                "labelName": "Pertengkaran Tetangga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Next-Door Drama",
+                "children": []
+              },
+              {
+                "labelId": "1984209208347541510",
+                "labelName": "One Night Stand",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "One Night Stand",
+                "children": []
+              },
+              {
+                "labelId": "1983832091792760843",
+                "labelName": "Plot Twist",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Plot Twist",
+                "children": []
+              },
+              {
+                "labelId": "1983832091641765898",
+                "labelName": "Cinta Setelah Perceraian",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Love After Divorce",
+                "children": []
+              },
+              {
+                "labelId": "1983832092329631755",
+                "labelName": "Cinta Tanah Air",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Patriotism",
+                "children": []
+              },
+              {
+                "labelId": "1983832092354797578",
+                "labelName": "Persahabatan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Friendship",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892051615756",
+            "labelName": "Gaya",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Style",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832091050369035",
+                  "1983832091113283595",
+                  "1983832091100700683",
+                  "1983832090832265224",
+                  "1983832091029397514",
+                  "1983832091142643716",
+                  "1983832091041980420",
+                  "1983832091151032331",
+                  "1983832091163615244",
+                  "1983832091016814603",
+                  "1983832091079729159",
+                  "1983832091192975371",
+                  "1983832091176198156"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832091050369035",
+                "labelName": "Kocak",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Goofy",
+                "children": []
+              },
+              {
+                "labelId": "1983832091113283595",
+                "labelName": "Gelap",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Dark",
+                "children": []
+              },
+              {
+                "labelId": "1983832091100700683",
+                "labelName": "Inspiratif",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Inspirational",
+                "children": []
+              },
+              {
+                "labelId": "1983832090832265224",
+                "labelName": "Komedi Romantis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Romantic Comedy",
+                "children": []
+              },
+              {
+                "labelId": "1983832091029397514",
+                "labelName": "Kepuasan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Wish-Fulfillment",
+                "children": []
+              },
+              {
+                "labelId": "1983832091142643716",
+                "labelName": "Drama Serius",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Serious Drama",
+                "children": []
+              },
+              {
+                "labelId": "1983832091041980420",
+                "labelName": "Ringan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Feel-Good",
+                "children": []
+              },
+              {
+                "labelId": "1983832091151032331",
+                "labelName": "Romantis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Sweet Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832091163615244",
+                "labelName": "Tidak Terduga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Unexpected Twist",
+                "children": []
+              },
+              {
+                "labelId": "1983832091016814603",
+                "labelName": "Tragedi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Tragedy",
+                "children": []
+              },
+              {
+                "labelId": "1983832091079729159",
+                "labelName": "Cinta Pahit",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Tragic Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832091192975371",
+                "labelName": "Penebusan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Redemption",
+                "children": []
+              },
+              {
+                "labelId": "1983832091176198156",
+                "labelName": "Horor",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Horror",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "labelId": "1983831699835052034",
+        "labelName": "Umum",
+        "sort": null,
+        "labelLevel": 1,
+        "valueEn": "General",
+        "children": [
+          {
+            "labelId": "1983831892261330949",
+            "labelName": "Alur Cerita",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Story",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832176002416651",
+                  "1983832175893364748",
+                  "1983832175318745100",
+                  "1983832176476373004",
+                  "1983832176153411596",
+                  "1983832176174383116",
+                  "1983832176052748300",
+                  "1983832176170188808",
+                  "1983832175310356492",
+                  "1983832176426041355",
+                  "1983832175335522316",
+                  "1983832175994028044",
+                  "1983832176086302732",
+                  "1983832175956279307",
+                  "1983832176069525516",
+                  "1983832176136634380",
+                  "1983832175826255884",
+                  "1983832175884976140"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832176002416651",
+                "labelName": "Cinta yang Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Second Chance",
+                "children": []
+              },
+              {
+                "labelId": "1983832175893364748",
+                "labelName": "Menghukum Penjahat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Karma Payback",
+                "children": []
+              },
+              {
+                "labelId": "1983832175318745100",
+                "labelName": "Hilang Ingatan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Amnesia",
+                "children": []
+              },
+              {
+                "labelId": "1983832176476373004",
+                "labelName": "Serigala Berbaju Domba",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Wolf in Disguise",
+                "children": []
+              },
+              {
+                "labelId": "1983832176153411596",
+                "labelName": "Balas Dendam",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Revenge",
+                "children": []
+              },
+              {
+                "labelId": "1983832176174383116",
+                "labelName": "Ide Creativa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mind-Bending",
+                "children": []
+              },
+              {
+                "labelId": "1983832176052748300",
+                "labelName": "Urusan Rumah Tangga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Conflicts",
+                "children": []
+              },
+              {
+                "labelId": "1983832176170188808",
+                "labelName": "Tukar Jiwa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Body Swap",
+                "children": []
+              },
+              {
+                "labelId": "1983832175310356492",
+                "labelName": "Salah Mengira Identitas",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mistaken Identity",
+                "children": []
+              },
+              {
+                "labelId": "1983832176426041355",
+                "labelName": "Mencari Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Finding Relatives",
+                "children": []
+              },
+              {
+                "labelId": "1983832175335522316",
+                "labelName": "Saling Mencintai",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mutual Affection",
+                "children": []
+              },
+              {
+                "labelId": "1983832175994028044",
+                "labelName": "Plot Twist",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Plot Twist",
+                "children": []
+              },
+              {
+                "labelId": "1983832176086302732",
+                "labelName": "Kekasih Masa Kecil",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Childhood Sweethearts",
+                "children": []
+              },
+              {
+                "labelId": "1983832175956279307",
+                "labelName": "Baik vs Jahat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Good vs. Evil",
+                "children": []
+              },
+              {
+                "labelId": "1983832176069525516",
+                "labelName": "Pasangan Bertengkar tapi Mesra",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Enemies to Lovers",
+                "children": []
+              },
+              {
+                "labelId": "1983832176136634380",
+                "labelName": "Penyesalan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "All-Too-Late",
+                "children": []
+              },
+              {
+                "labelId": "1983832175826255884",
+                "labelName": "Moral dan Etika",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Ethics",
+                "children": []
+              },
+              {
+                "labelId": "1983832175884976140",
+                "labelName": "Bangkit Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Underdog Rise",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892273913865",
+            "labelName": "Latar Belakang",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Setting",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832175155167243",
+                  "1983832175205498892"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832175155167243",
+                "labelName": "Modern",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Modern",
+                "children": []
+              },
+              {
+                "labelId": "1983832175205498892",
+                "labelName": "Istana",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Palace",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892244553739",
+            "labelName": "Genre",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Genre",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832175679455244",
+                  "1983832175469740041",
+                  "1983832175486517258",
+                  "1983832175532654602",
+                  "1983832175553626123",
+                  "1983832175494905861",
+                  "1983832175603957771"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832175679455244",
+                "labelName": "Misteri",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mystery",
+                "children": []
+              },
+              {
+                "labelId": "1983832175469740041",
+                "labelName": "Romantis Perkotaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Urban Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832175486517258",
+                "labelName": "Kehidupan Kota",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Urban Life",
+                "children": []
+              },
+              {
+                "labelId": "1983832175532654602",
+                "labelName": "Kriminal",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Crime",
+                "children": []
+              },
+              {
+                "labelId": "1983832175553626123",
+                "labelName": "Persaingan Bisnis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Corporate Warfare",
+                "children": []
+              },
+              {
+                "labelId": "1983832175494905861",
+                "labelName": "Cinta Zaman Dulu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Vintage Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832175603957771",
+                "labelName": "Konflik Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Drama",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892286496779",
+            "labelName": "Gaya",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Style",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832175792701451",
+                  "1983832175117418507",
+                  "1983832175083864076",
+                  "1983832175759147019",
+                  "1983832175109029900",
+                  "1983832175767535627",
+                  "1983832175784312843"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832175792701451",
+                "labelName": "Cinta Pahit",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Bitter Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832175117418507",
+                "labelName": "Romantis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Sweet Love",
+                "children": []
+              },
+              {
+                "labelId": "1983832175083864076",
+                "labelName": "Inspiratif",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Inspiring",
+                "children": []
+              },
+              {
+                "labelId": "1983832175759147019",
+                "labelName": "Kepuasan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Feel-Good",
+                "children": []
+              },
+              {
+                "labelId": "1983832175109029900",
+                "labelName": "Penebusan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Redemption",
+                "children": []
+              },
+              {
+                "labelId": "1983832175767535627",
+                "labelName": "Ringan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Lighthearted",
+                "children": []
+              },
+              {
+                "labelId": "1983832175784312843",
+                "labelName": "Tragedi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Tragedy",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "labelId": "1983831699881189383",
+        "labelName": "Pria",
+        "sort": null,
+        "labelLevel": 1,
+        "valueEn": "Male",
+        "children": [
+          {
+            "labelId": "1983831892089364483",
+            "labelName": "Kemampuan",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Skills",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832036663443468"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832036663443468",
+                "labelName": "Membaca Pikiran",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Read Minds",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892135501831",
+            "labelName": "Genre",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Genre",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832036940267532",
+                  "1983832036856381451",
+                  "1983832036994793483",
+                  "1983832037024153601",
+                  "1983832036969627659",
+                  "1983832036906713100",
+                  "1983832036948656140",
+                  "1983832036864770055",
+                  "1983832036961239047",
+                  "1983832036898324491",
+                  "1983832036923490316",
+                  "1983832036889935883",
+                  "1983832036986404876",
+                  "1983832036931878923",
+                  "1983832037028347916",
+                  "1983832036978016267"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832036940267532",
+                "labelName": "Misteri",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mystery",
+                "children": []
+              },
+              {
+                "labelId": "1983832036856381451",
+                "labelName": "Fantasi Kreatif",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fantasy",
+                "children": []
+              },
+              {
+                "labelId": "1983832036994793483",
+                "labelName": "Remaja dan Kampus",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Campus Life",
+                "children": []
+              },
+              {
+                "labelId": "1983832037024153601",
+                "labelName": "Ikatan Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Family Bonds",
+                "children": []
+              },
+              {
+                "labelId": "1983832036969627659",
+                "labelName": "Kehidupan Pedesaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rural Life",
+                "children": []
+              },
+              {
+                "labelId": "1983832036906713100",
+                "labelName": "Persaingan Bisnis",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Coporate Warfare",
+                "children": []
+              },
+              {
+                "labelId": "1983832036948656140",
+                "labelName": "Fiksi Ilmiah",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Sci-Fi",
+                "children": []
+              },
+              {
+                "labelId": "1983832036864770055",
+                "labelName": "Fantasi Perkotaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Urban Fantasy",
+                "children": []
+              },
+              {
+                "labelId": "1983832036961239047",
+                "labelName": "Dunia Persilatan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Martial Arts",
+                "children": []
+              },
+              {
+                "labelId": "1983832036898324491",
+                "labelName": "Fantasi dan Pahlawan Abadi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Eastern Fantasy",
+                "children": []
+              },
+              {
+                "labelId": "1983832036923490316",
+                "labelName": "Kriminal",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Crime",
+                "children": []
+              },
+              {
+                "labelId": "1983832036889935883",
+                "labelName": "Kehidupan Kota",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Urban Life",
+                "children": []
+              },
+              {
+                "labelId": "1983832036986404876",
+                "labelName": "Horor",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Horror",
+                "children": []
+              },
+              {
+                "labelId": "1983832036931878923",
+                "labelName": "Sejarah",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Historical",
+                "children": []
+              },
+              {
+                "labelId": "1983832037028347916",
+                "labelName": "Kehidupan Pertanian",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Farming Life",
+                "children": []
+              },
+              {
+                "labelId": "1983832036978016267",
+                "labelName": "Perang Anti-Jepang",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Spy Thriller",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892177444869",
+            "labelName": "Gaya",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Style",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832036424368139",
+                  "1983832036499865612",
+                  "1983832036483088395",
+                  "1983832036474699787",
+                  "1983832036390813708",
+                  "1983832036508254219",
+                  "1983832036441145355"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832036424368139",
+                "labelName": "Inspiratif",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Inspiring",
+                "children": []
+              },
+              {
+                "labelId": "1983832036499865612",
+                "labelName": "Tidak Terduga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Unpredictable",
+                "children": []
+              },
+              {
+                "labelId": "1983832036483088395",
+                "labelName": "Tragedi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Tragedy",
+                "children": []
+              },
+              {
+                "labelId": "1983832036474699787",
+                "labelName": "Lucu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Hilarious",
+                "children": []
+              },
+              {
+                "labelId": "1983832036390813708",
+                "labelName": "Kepuasan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Feel-Good",
+                "children": []
+              },
+              {
+                "labelId": "1983832036508254219",
+                "labelName": "Penebusan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Redemption",
+                "children": []
+              },
+              {
+                "labelId": "1983832036441145355",
+                "labelName": "Penuh Semangat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Hype",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892072587276",
+            "labelName": "Karakter",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Characters",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832036101406732",
+                  "1983832036122378251",
+                  "1983832036130766859",
+                  "1983832036231430155",
+                  "1983832036168515596",
+                  "1983832036113989638"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832036101406732",
+                "labelName": "Sultan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Tycoon",
+                "children": []
+              },
+              {
+                "labelId": "1983832036122378251",
+                "labelName": "Dewa Perang",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Warlord",
+                "children": []
+              },
+              {
+                "labelId": "1983832036130766859",
+                "labelName": "Pria Dominan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Hero",
+                "children": []
+              },
+              {
+                "labelId": "1983832036231430155",
+                "labelName": "Dokter",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Doctor",
+                "children": []
+              },
+              {
+                "labelId": "1983832036168515596",
+                "labelName": "Jenius",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Genius",
+                "children": []
+              },
+              {
+                "labelId": "1983832036113989638",
+                "labelName": "Menantu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Son-in-Law",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892148084748",
+            "labelName": "Alur Cerita",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Story",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832036327899148",
+                  "1983832036311121932",
+                  "1983832035958800395",
+                  "1983832036374036485",
+                  "1983832035971383308",
+                  "1983832036059463691",
+                  "1983832036344676364",
+                  "1983832035874914308",
+                  "1983832036013326345",
+                  "1983832036319510540",
+                  "1999056777395978247",
+                  "1983832035904274443",
+                  "1983832035992354827",
+                  "1983832036353064971",
+                  "1983832035862331395",
+                  "1983832036239818764",
+                  "1983832036285956107",
+                  "1983832035883302923",
+                  "1983832035916857346",
+                  "1983832036302733324",
+                  "1983832036365647874",
+                  "1983832036042686474",
+                  "1983832036294344714",
+                  "1983832036000743436",
+                  "1983832036336287755",
+                  "1983832036273373196",
+                  "1983832036051075084",
+                  "1983832036021714955",
+                  "1983832035983966220"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832036327899148",
+                "labelName": "Tak Terkalahkan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Unbeatable",
+                "children": []
+              },
+              {
+                "labelId": "1983832036311121932",
+                "labelName": "Kaya Mendadak",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Sudden Wealth",
+                "children": []
+              },
+              {
+                "labelId": "1983832035958800395",
+                "labelName": "Perebutan Harta",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Inheritance Battle",
+                "children": []
+              },
+              {
+                "labelId": "1983832036374036485",
+                "labelName": "Kekuatan Super",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Superpowered",
+                "children": []
+              },
+              {
+                "labelId": "1983832035971383308",
+                "labelName": "Cinta Tanah Air",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Patriotism",
+                "children": []
+              },
+              {
+                "labelId": "1983832036059463691",
+                "labelName": "Harem",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Harem",
+                "children": []
+              },
+              {
+                "labelId": "1983832036344676364",
+                "labelName": "Jadi kaya",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rags to Riches",
+                "children": []
+              },
+              {
+                "labelId": "1983832035874914308",
+                "labelName": "Pertumbuhan Pria",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Men Coming-of-Age",
+                "children": []
+              },
+              {
+                "labelId": "1983832036013326345",
+                "labelName": "Saudara Palsu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fake Siblings",
+                "children": []
+              },
+              {
+                "labelId": "1983832036319510540",
+                "labelName": "Sistem",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Life OL",
+                "children": []
+              },
+              {
+                "labelId": "1999056777395978247",
+                "labelName": "Identitas Rahasia",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Multiple Identities",
+                "children": []
+              },
+              {
+                "labelId": "1983832035904274443",
+                "labelName": "Penuh Akal",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mind-Bending",
+                "children": []
+              },
+              {
+                "labelId": "1983832035992354827",
+                "labelName": "Penyesalan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "All-Too-Late",
+                "children": []
+              },
+              {
+                "labelId": "1983832036353064971",
+                "labelName": "Kisah Ajaib",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Miracle Encounter",
+                "children": []
+              },
+              {
+                "labelId": "1983832035862331395",
+                "labelName": "Baik vs Jahat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Good vs. Evil",
+                "children": []
+              },
+              {
+                "labelId": "1983832036239818764",
+                "labelName": "Bangkit Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Underdog Rise",
+                "children": []
+              },
+              {
+                "labelId": "1983832036285956107",
+                "labelName": "Sang Juara Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Return of the King",
+                "children": []
+              },
+              {
+                "labelId": "1983832035883302923",
+                "labelName": "Intrik Kekuasaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Power Play",
+                "children": []
+              },
+              {
+                "labelId": "1983832035916857346",
+                "labelName": "Warisan Terbangkit",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Heritage Awakening",
+                "children": []
+              },
+              {
+                "labelId": "1983832036302733324",
+                "labelName": "Balas Dendam",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Revenge",
+                "children": []
+              },
+              {
+                "labelId": "1983832036365647874",
+                "labelName": "Ide Creativa",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mind-Bending",
+                "children": []
+              },
+              {
+                "labelId": "1983832036042686474",
+                "labelName": "Cinta Usia Paruh Baya",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Midlife Romance",
+                "children": []
+              },
+              {
+                "labelId": "1983832036294344714",
+                "labelName": "Menghukum Penjahat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Karma Payback",
+                "children": []
+              },
+              {
+                "labelId": "1983832036000743436",
+                "labelName": "Mencari Keluarga",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Finding Relatives",
+                "children": []
+              },
+              {
+                "labelId": "1983832036336287755",
+                "labelName": "Perjalanan Waktu",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Time Travel",
+                "children": []
+              },
+              {
+                "labelId": "1983832036273373196",
+                "labelName": "Hidup Kembali",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rebirth",
+                "children": []
+              },
+              {
+                "labelId": "1983832036051075084",
+                "labelName": "Kencan Buta",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Blind Date",
+                "children": []
+              },
+              {
+                "labelId": "1983832036021714955",
+                "labelName": "Tukar Hidup",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Switched Lives",
+                "children": []
+              },
+              {
+                "labelId": "1983832035983966220",
+                "labelName": "Keadilan Hukum",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Legal Justice",
+                "children": []
+              }
+            ]
+          },
+          {
+            "labelId": "1983831892160667660",
+            "labelName": "Latar Belakang",
+            "sort": null,
+            "labelLevel": 2,
+            "valueEn": "Setting",
+            "children": [
+              {
+                "labelId": -1,
+                "labelName": "Semua",
+                "sort": -1,
+                "labelLevel": 3,
+                "children": [],
+                "childrenLabelIds": [
+                  "1983832036579557378",
+                  "1983832036533420043",
+                  "1983832036587945996",
+                  "1983832036546002956",
+                  "1983832036613111819",
+                  "1983832036604723210",
+                  "1983832036629889035",
+                  "1983832036516642827",
+                  "1983832036554391563",
+                  "1983832036571168776",
+                  "1983832036596334603"
+                ],
+                "valueEn": "All"
+              },
+              {
+                "labelId": "1983832036579557378",
+                "labelName": "Modern",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Business",
+                "children": []
+              },
+              {
+                "labelId": "1983832036533420043",
+                "labelName": "Kuno",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Historical",
+                "children": []
+              },
+              {
+                "labelId": "1983832036587945996",
+                "labelName": "Dunia Fantasi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fantasy",
+                "children": []
+              },
+              {
+                "labelId": "1983832036546002956",
+                "labelName": "Modern",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Modern",
+                "children": []
+              },
+              {
+                "labelId": "1983832036613111819",
+                "labelName": "Dunia Fiksi",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Fantasy World",
+                "children": []
+              },
+              {
+                "labelId": "1983832036604723210",
+                "labelName": "Kiamat",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Apocalypse",
+                "children": []
+              },
+              {
+                "labelId": "1983832036629889035",
+                "labelName": "Mafia",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Mafia",
+                "children": []
+              },
+              {
+                "labelId": "1983832036516642827",
+                "labelName": "Drama Kolosal",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Republic-Era Drama",
+                "children": []
+              },
+              {
+                "labelId": "1983832036554391563",
+                "labelName": "Kisah Pedesaan",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Rural Life",
+                "children": []
+              },
+              {
+                "labelId": "1983832036571168776",
+                "labelName": "Kampus",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Campus",
+                "children": []
+              },
+              {
+                "labelId": "1983832036596334603",
+                "labelName": "Dunia Lain",
+                "sort": null,
+                "labelLevel": 3,
+                "valueEn": "Another World",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

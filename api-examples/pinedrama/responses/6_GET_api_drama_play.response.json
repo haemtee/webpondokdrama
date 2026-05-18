@@ -1,0 +1,18 @@
+{
+  "code": 0,
+  "message": "Success",
+  "data": {
+    "episode": 1,
+    "seqId": 1,
+    "videoId": "7633689317960928000",
+    "playUrl": "https://v31-sg.tiktokcdn.com/0e49543d6209fb0bb57949416a198602/6a0bca7f/video/tos/alisg/tos-alisg-pve-0037/oEIBwi0aAANkAXB2EvVU1oQwiBUYCfxPrTmAKE/?a=1233&bti=NzR2KTw1N0BqOjo2QDI6bTQvLS9gIzE0M2A%3D&&bt=720&ft=pfus3MZj8Zmo09Lt1a4jVxsZAU1rKsd.&mime_type=video_mp4&rc=aDk3Mzk0aGczMzhnZ2k1NkBpMzd4OWs5cmk1OjMzODgzNEBjMC9jMDZiXl4xYjA1XzQxYSMuay9hMmRrYGxhLS1kLy1zcw%3D%3D&vvpl=1&l=202605181024347F7971ADB6049A46FC87&btag=e00095000",
+    "duration": 157290,
+    "subtitles": [
+      {
+        "lang": "id",
+        "format": "webvtt",
+        "url": "https://v16-cla.tiktokcdn.com/796f0be4262ed89f69c8c17c979b9f58/6a3205ff/video/tos/alisg/tos-alisg-pv-0037/34c7ac6baa8b4f9db4ff6aa65ac7b613/?a=1233&bti=NzR2KTw1N0BqOjo2QDI6bTQvLS9gIzE0M2A%3D&&bt=2029&ft=4flrFMZj8Zmo09Lt1a4jVxsZAU1rKsd.&mime_type=video_mp4&rc=Mzd4OWs5cmk1OjMzODgzNEBpMzd4OWs5cmk1OjMzODgzNEAuay9hMmRrYGxhLS1kLy1zYSMuay9hMmRrYGxhLS1kLy1zcw%3D%3D&vvpl=1&l=202605181024347F7971ADB6049A46FC87&btag=e00050000"
+      }
+    ]
+  }
+}

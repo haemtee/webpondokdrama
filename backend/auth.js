@@ -1,5 +1,6 @@
 import jwt from 'jsonwebtoken';
 import bcrypt from 'bcryptjs';
+import { db } from './db.js';
 
 const JWT_SECRET = process.env.JWT_SECRET || 'super_secret_jwt_key_123';
 
@@ -32,20 +33,38 @@ export const authMiddleware = async (c, next) => {
     if (!token) {
         return c.json({ error: 'Unauthorized' }, 401);
     }
-    
+
     const user = verifyToken(token);
     if (!user) {
         return c.json({ error: 'Invalid token' }, 401);
     }
-    
+
     c.set('user', user);
     await next();
 };
 
 export const isAdmin = async (c, next) => {
     const user = c.get('user');
-    if (!user || user.role !== 'admin') {
-        return c.json({ error: 'Forbidden' }, 403);
+    if (!user) return c.json({ error: 'Forbidden' }, 403);
+
+    // Trust the role on the JWT first (fast path). If the JWT says they're
+    // not an admin, double-check the DB — this lets a freshly-promoted user
+    // access the dashboard without having to log out and log back in.
+    if (user.role === 'admin') {
+        await next();
+        return;
     }
-    await next();
+    try {
+        const [rows] = await db.query('SELECT role FROM users WHERE id = ?', [user.id]);
+        if (rows[0]?.role === 'admin') {
+            // Refresh the in-request user so downstream handlers see the
+            // current role.
+            c.set('user', { ...user, role: 'admin' });
+            await next();
+            return;
+        }
+    } catch (e) {
+        console.error('[isAdmin] role lookup failed:', e.message);
+    }
+    return c.json({ error: 'Forbidden' }, 403);
 };

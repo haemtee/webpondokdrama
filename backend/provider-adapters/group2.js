@@ -40,18 +40,25 @@ function dwStreamFromEpisode(d) {
 
 // ----- dramawave -----
 // Base: /dramawave/api/v1
-// home: feed/tab -> data.items[].items[] (sectioned)
+// home: feed/<tab> -> data.items[].items[] (sectioned). The `<tab>` segment
+//       is a tab name like `popular`, `new`, `recommend`. We default to
+//       `popular`. (Note: a literal `feed/tab` path returns 404 upstream.)
 // search: data.data.items[]
 // detail: dramas/:id -> data.info { id, name, cover, episode_count, episode_list[] }
 // play: dramas/:id/play/:ep -> data { ...episode... }
 export const dramawave = {
     name: 'DramaWave',
     async home({ fetchApi, lang }) {
-        const data = await fetchApi('dramawave', 'feed/tab', { lang });
+        const data = await fetchApi('dramawave', 'feed/popular', { page: 1, lang });
         const sections = data?.data?.items || [];
         const items = [];
         for (const sec of sections) {
-            for (const it of sec.items || []) items.push(it);
+            // Some sections wrap items in `.items[]`; others are flat entries.
+            if (Array.isArray(sec.items)) {
+                for (const it of sec.items) items.push(it);
+            } else {
+                items.push(sec);
+            }
         }
         return { dramas: filterValid(items.map(dwItem)) };
     },

@@ -15,11 +15,20 @@ import {
     getEventBreakdown,
     getProviderBreakdown
 } from './analytics.js';
+import { runBootstrap } from './bootstrap.js';
 
 const app = new Hono();
 
 // Connect to Redis on startup
 cache.connect();
+
+// Apply schema migrations and (optionally) promote ADMIN_EMAIL to admin role
+// before serving any traffic. Errors are logged inside runBootstrap so a
+// transient DB hiccup doesn't crash the server — the analytics endpoints
+// will simply return errors until the schema is reachable.
+runBootstrap().catch((e) => {
+    console.error('[bootstrap] unexpected failure:', e.message);
+});
 
 // -------------- AUTH ROUTES --------------
 app.post('/api/auth/register', async (c) => {

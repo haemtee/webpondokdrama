@@ -1,0 +1,79 @@
+{
+  "status_code": 1,
+  "msg": "成功",
+  "data": [
+    {
+      "id": "405",
+      "name": "home",
+      "home_status": "0",
+      "navigation_tag_id": "359",
+      "style_type": 1,
+      "is_home": 0,
+      "is_exp": 1,
+      "name_img": "",
+      "page_color": "",
+      "page_video_url": "",
+      "background_img": "",
+      "foreground_img": ""
+    },
+    {
+      "id": "78",
+      "name": "Baru",
+      "home_status": "0",
+      "navigation_tag_id": "0",
+      "style_type": 1,
+      "is_home": 0,
+      "is_exp": 0,
+      "name_img": "",
+      "page_color": "",
+      "page_video_url": "",
+      "background_img": "",
+      "foreground_img": ""
+    },
+    {
+      "id": "387",
+      "name": "Lagi nikah gas❗️",
+      "home_status": "0",
+      "navigation_tag_id": "0",
+      "style_type": 1,
+      "is_home": 0,
+      "is_exp": 0,
+      "name_img": "",
+      "page_color": "",
+      "page_video_url": "",
+      "background_img": "",
+      "foreground_img": ""
+    },
+    {
+      "id": "454",
+      "name": "Peringkat",
+      "home_status": "2",
+      "navigation_tag_id": "0",
+      "style_type": 1,
+      "is_home": 0,
+      "is_exp": 0,
+      "name_img": "",
+      "page_color": "",
+      "page_video_url": "",
+      "background_img": "",
+      "foreground_img": ""
+    },
+    {
+      "id": "88",
+      "name": "Kategori Klasik",
+      "home_status": "0",
+      "navigation_tag_id": "0",
+      "style_type": 1,
+      "is_home": 0,
+      "is_exp": 0,
+      "name_img": "",
+      "page_color": "",
+      "page_video_url": "",
+      "background_img": "",
+      "foreground_img": ""
+    }
+  ],
+  "extra": {},
+  "request_id": "9e75985623d4fa79f64087ca62664d8e",
+  "trace_id": "ca5be755254af2229205382e1db9b0ef"
+}

@@ -1,0 +1,17 @@
+{
+  "status_code": 1,
+  "msg": "success",
+  "data": [
+    "en",
+    "ja",
+    "ko",
+    "zh-Hant",
+    "es",
+    "id",
+    "th",
+    "de",
+    "pt",
+    "fr",
+    "ar"
+  ]
+}

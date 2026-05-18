@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/flickreels/api/v1/stream/6013/424689?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "playletId": "6013",
+    "chapterId": "424689",
+    "lang": "id"
+  }
+}

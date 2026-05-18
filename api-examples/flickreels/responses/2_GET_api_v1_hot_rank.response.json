@@ -1,0 +1,5146 @@
+{
+  "status_code": 1,
+  "msg": "成功",
+  "data": [
+    {
+      "name": "Serial Hot",
+      "rank_type": 1,
+      "data": [
+        {
+          "playlet_id": "5776",
+          "hot_num": "3.2M",
+          "rank_type": 1,
+          "rank_order": 1,
+          "app_tag_name": "",
+          "subscript": "5",
+          "status": "2",
+          "production_type": "2",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2343",
+              "name": "Putri Palsu",
+              "base_id": "242",
+              "sort": "0"
+            },
+            {
+              "id": "1810",
+              "name": "Pengkhianatan",
+              "base_id": "197",
+              "sort": "1"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "introduce": "\"Lily Benneth ke kota untuk mengunjungi adiknya, Nana, namun mendapati Nana hidup mewah dengan berpura-pura sebagai dirinya.\nSementara itu, Lily bekerja di restoran Grup Vuton, menghadapi tekanan dari Eldrik. Namun, dia menarik perhatian sang CEO, Vale Vuton. Kebenaran akhirnya terungkap oleh ibu angkatnya, Nana menerima konsekuensinya, dan Lily berakhir bahagia bersama Vale.\"",
+          "title": "Cintaku Hadir Di Kehidupan Selanjutnya(Dubbing)",
+          "upload_num": "77",
+          "slogan": "",
+          "playlet_status": "1",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1772508218_kfiKGNt57a.jpg",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Putri Palsu",
+            "Pengkhianatan",
+            "Kesadaran Perempuan​",
+            "CEO/ Miliarder",
+            "Cinderella",
+            "Deng Lingshu",
+            "Zeng Hui",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1772508207_PQSeZrwAiy.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "id": "5776",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_Nz3DhH5jtKHBXOoH.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6013",
+          "hot_num": "2.4M",
+          "rank_type": 1,
+          "rank_order": 2,
+          "gender_type": "2",
+          "language_id": "6",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773739196_HiyhJkbrJe.jpg",
+          "status": "2",
+          "app_tag_name": "",
+          "has_collection": "0",
+          "upload_num": "81",
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Penebusan",
+            "Nikah Dulu",
+            "Cerdik usil",
+            "Zhang Chi",
+            "Deng Lingshu",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "id": "6013",
+          "playlet_status": "1",
+          "subscript": "7",
+          "title": "Cahaya yang Menembus Dingin ",
+          "production_type": "3",
+          "introduce": "Pada Perayaan DongZhi, Batari mendadak menikahi Faris, putra kedua Keluarga Prasetya yang menyandang disabilitas. Namun, pada malam pertama mereka, kalimat pertama yang diucapkan Faris adalah: \"\"Aku berencana mengakhiri hidup setahun lagi.\"\" Mendengar itu, Batari pun berpikir lebih baik manfaatkan waktunya bersamanya dengan bersenang-senang – sekalian berusaha punya anak yang cantik! Seiring berjalannya waktu, Batari bagai seberkas cahaya yang menembus kegelapan, menyinari dunia suram Faris dan menjadi penebusnya. \n",
+          "chapter_split_version": "0",
+          "slogan": "",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "2965",
+              "name": "Cerdik usil",
+              "base_id": "276",
+              "sort": "3"
+            },
+            {
+              "id": "3115",
+              "name": "Zhang Chi",
+              "base_id": "296",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773739192_yRyxbKNdCG.jpg",
+          "recommend_config_id": "0",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_oXyiMlKQrlgqE05J.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5941",
+          "hot_num": "2.1M",
+          "rank_type": 1,
+          "rank_order": 3,
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Berkat rekomendasi gurunya, Yessi memasuki dunia kapitalis papan atas, Leon. Sebuah dompet tua asal kampung halaman Yessi memicu naluri posesifnya. Dengan kedok pembimbing, Leon membentangkan jalan kemewahan yang tak dapat ditolak: pekerjaan bergengsi, apartemen mewah, kuliah di Harvard... Dalam rasa syukur dan kegelisahan, Yessi berusaha beradaptasi, tanpa sadar telah terjebak dalam rencana serigala berbulu domba tersebut.",
+          "language_id": "6",
+          "tag_name": [
+            "Beda Usia",
+            "Obsesif",
+            "Tarik-Ulur​",
+            "CEO/ Miliarder",
+            "Elit Profesional​",
+            "Li Keyi",
+            "Chen Si",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "title": "Datura",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773396547_txQ2askYzS.jpg",
+          "playlet_status": "1",
+          "status": "2",
+          "has_collection": "0",
+          "id": "5941",
+          "tag_list_with_id": [
+            {
+              "id": "1842",
+              "name": "Beda Usia",
+              "base_id": "201",
+              "sort": "0"
+            },
+            {
+              "id": "1922",
+              "name": "Obsesif",
+              "base_id": "211",
+              "sort": "1"
+            },
+            {
+              "id": "2420",
+              "name": "Tarik-Ulur​",
+              "base_id": "249",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "2431",
+              "name": "Elit Profesional​",
+              "base_id": "250",
+              "sort": "4"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "5"
+            },
+            {
+              "id": "3079",
+              "name": "Chen Si",
+              "base_id": "293",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773396550_tcbjKHZWBQ.jpg",
+          "app_tag_id": "0",
+          "subscript": "0",
+          "gender_type": "2",
+          "upload_num": "85",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_It74t3aiS8tTYsML.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "533",
+          "hot_num": "1.7M",
+          "rank_type": 1,
+          "rank_order": 4,
+          "playlet_status": "1",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_48.jpg",
+          "id": "533",
+          "app_tag_name": "",
+          "subscript": "5",
+          "status": "2",
+          "production_type": "2",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1663",
+              "name": "Paruh Baya",
+              "base_id": "178",
+              "sort": "0"
+            },
+            {
+              "id": "1746",
+              "name": "Nikah Kilat",
+              "base_id": "189",
+              "sort": "1"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "2"
+            },
+            {
+              "id": "1898",
+              "name": "Terpisah Keluarga",
+              "base_id": "208",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "introduce": "Setelah Susi Darma bercerai dan anaknya hilang, dia pun membesarkan putranya seorang diri. Demi menyelamatkan putranya dan mendonorkan ginjal, putranya memilih ibunya dan bercerai. Di sisi lain, Susi Darma menolong seorang wanita dan malah dijodohkan dengan Pak Jonan, orang terkaya. Kemudian, mendapati wanita tersebut adalah putrinya yang lama menghilang. Akhirnya, mereka sekeluarga pun berkumpul kembali.",
+          "title": "Menikah lagi dengan Ketua Direksi(Dubbing)",
+          "upload_num": "69",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "58",
+          "tag_name": [
+            "Paruh Baya",
+            "Nikah Kilat",
+            "Balik alur",
+            "Terpisah Keluarga",
+            "CEO/ Miliarder",
+            "Keluarga",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1739958696_ie6sC65hBK.png",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_Bwx1x22Dkx1NqotL.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2858",
+          "hot_num": "537.4K",
+          "rank_type": 1,
+          "rank_order": 5,
+          "subscript": "1",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "80",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Yeji terlempar ke dunia novel yang dibacanya, menjadi gadis tak berdaya yang dulu mengejar cinta hingga putus asa. Kini, dia menolak nasib itu. Dia menikah kontrak dengan pria terkaya, Wevi. Meski awalnya canggung, cinta keduanya perlahan tumbuh, mengubah takdir Yeji selamanya.",
+          "language_id": "6",
+          "tag_name": [
+            "Hubungan Kontrak",
+            "Nikah Dulu",
+            "Lintas Waktu",
+            "CEO/ Miliarder",
+            "Perkotaan",
+            "Romantis",
+            "Zhao Tingyi",
+            "Deng Lingshu"
+          ],
+          "recommend_config_id": "0",
+          "title": "Tak Bisa Melepasmu",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1756890174_bmneDakEEe.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "2858",
+          "tag_list_with_id": [
+            {
+              "id": "1730",
+              "name": "Hubungan Kontrak",
+              "base_id": "187",
+              "sort": "0"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "1"
+            },
+            {
+              "id": "1802",
+              "name": "Lintas Waktu",
+              "base_id": "196",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "4"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "5"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "6"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "7"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1756890180_i7QeKHSJbT.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_t3rSdx1gW8lPOdcb.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "1445",
+          "hot_num": "432.9K",
+          "rank_type": 1,
+          "rank_order": 6,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Lintas Waktu",
+            "Komedi Ringan​",
+            "Balik alur",
+            "Penguasa",
+            "Romantis",
+            "Liu Nian",
+            "He Congrui",
+            "Asia Kuno"
+          ],
+          "playlet_status": "1",
+          "subscript": "5",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1748398967_GPFBeT8hXB.jpg",
+          "id": "1445",
+          "chapter_split_version": "0",
+          "title": "Takdir Cinta dengan Kaisar(Dubbing)",
+          "upload_num": "62",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_44.jpg",
+          "recommend_config_id": "57",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1802",
+              "name": "Lintas Waktu",
+              "base_id": "196",
+              "sort": "1"
+            },
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "2"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "3"
+            },
+            {
+              "id": "2068",
+              "name": "Penguasa",
+              "base_id": "184",
+              "sort": "4"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "5"
+            },
+            {
+              "id": "2596",
+              "name": "Liu Nian",
+              "base_id": "265",
+              "sort": "6"
+            },
+            {
+              "id": "2541",
+              "name": "He Congrui",
+              "base_id": "260",
+              "sort": "7"
+            },
+            {
+              "id": "1472",
+              "name": "Asia Kuno",
+              "base_id": "154",
+              "sort": "8"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Yeji Sora, seorang pekerja humas modern, meninggal karena kelelahan dan bereinkarnasi menjadi putri perdana menteri. Awalnya hanya ingin bercerai dan hidup santai, tetapi malah terikat takdir hidup dan mati dengan kaisar, Fendi Jone. Yeji menarik perhatian Fendi dengan kecerdasannya, dan Fendi melindunginya dengan kekuatannya. Perasaan mereka tumbuh seiring waktu. Pada akhirnya, Yeji berhasil bercerai dan bersama Fendi menyelesaikan takdir hidup dan mati mereka.",
+          "slogan": "",
+          "production_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_3AgX3mWwU7DocD5s.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "1859",
+          "hot_num": "227.9K",
+          "rank_type": 1,
+          "rank_order": 7,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Penebusan",
+            "Komedi Ringan​",
+            "Nikah Dulu",
+            "Manis",
+            "CEO/ Miliarder",
+            "He Congrui",
+            "Liu Nian",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "1",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1751446917_hEZ4BtTE4y.jpg",
+          "id": "1859",
+          "chapter_split_version": "0",
+          "title": "Sekata dalam Diam",
+          "upload_num": "92",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1751446922_RiFZHX347e.jpg",
+          "recommend_config_id": "54",
+          "tag_list_with_id": [
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "0"
+            },
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "2541",
+              "name": "He Congrui",
+              "base_id": "260",
+              "sort": "5"
+            },
+            {
+              "id": "2596",
+              "name": "Liu Nian",
+              "base_id": "265",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Sasa tiba-tiba terjebak dalam plot novel yang dia baca, masuk ke tubuh Sasa Gita, tokoh pendukung yang angkuh dan membenci suaminya, Ferry yang bisu. Namun kini segalanya berubah. Sasa bersikap hangat, membantu Ferry pulih dari trauma, dan perlahan cinta pun tumbuh di antara mereka.",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_CDghH8MAbmbm3WRO.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5916",
+          "hot_num": "219.9K",
+          "rank_type": 1,
+          "rank_order": 8,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Beda Usia",
+            "Penebusan",
+            "Karier",
+            "Kesadaran Perempuan​",
+            "CEO/ Miliarder",
+            "Zhao Tingyi",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773195246_FhGHQpSJzK.jpg",
+          "id": "5916",
+          "chapter_split_version": "0",
+          "title": "Masa Bersinarku (Dubbing)",
+          "upload_num": "81",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773195258_aJkzNjFada.jpg",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1842",
+              "name": "Beda Usia",
+              "base_id": "201",
+              "sort": "1"
+            },
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "2"
+            },
+            {
+              "id": "1970",
+              "name": "Karier",
+              "base_id": "217",
+              "sort": "3"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "4"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "5"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Pada hari Mia Wijaya resmi jadi karyawan tetap, dia tiba-tiba dipecat dan bertemu Eko Utomo secara tak terduga, mengubah jalannya hidupnya. Berkat rekomendasi Eko, Mia berhasil mendapat kesempatan di perusahaan konsultan top Maxwell. Dengan ketangguhan luar biasa, dia berhasil bertahan dan berkembang, dari seorang pemula menjadi analis bisnis yang mandiri. Di tengah persaingan di kantor, Mia dan Eko saling menyukai dan akhirnya bersama. Menyadari bahwa di balik penampilan sempurna Eko, dia takut jatuh cinta dan tak bisa mengekspresikan perasaannya, Mia dengan kesabaran dan optimisme membimbingnya perlahan-lahan, membuka hatinya yang tertutup. Eko mulai mencoba melepaskan lapisan dingin itu, belajar untuk rileks, menerima ketidaksempurnaan dirinya, dan belajar mengekspresikan cinta.",
+          "slogan": "",
+          "production_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843009_acpooUvKFd167lCI.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "3985",
+          "hot_num": "206.7K",
+          "rank_type": 1,
+          "rank_order": 9,
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1763027815_w3nriRSTQr.jpg",
+          "subscript": "1",
+          "upload_num": "40",
+          "status": "2",
+          "introduce": "Sejak kecil Adelia dilarang ibunya masuk ke “Taman Ular”. Saat dewasa, setiap kali bawa pacar pulang, mereka selalu putus dan menghilang. Adelia pun curiga dan nekat ungkap rahasia ibunya.",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "1528",
+              "name": "Misteri",
+              "base_id": "161",
+              "sort": "0"
+            },
+            {
+              "id": "2387",
+              "name": "Plot Twist​",
+              "base_id": "246",
+              "sort": "1"
+            },
+            {
+              "id": "2050",
+              "name": "Kasih ibu",
+              "base_id": "227",
+              "sort": "2"
+            },
+            {
+              "id": "1631",
+              "name": "Identitas Rahasia",
+              "base_id": "174",
+              "sort": "3"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "4"
+            }
+          ],
+          "production_type": "1",
+          "slogan": "",
+          "language_id": "6",
+          "gender_type": "2",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1763028028_ZM58KjFMkS.jpg",
+          "id": "3985",
+          "tag_name": [
+            "Misteri",
+            "Plot Twist​",
+            "Kasih ibu",
+            "Identitas Rahasia",
+            "Perkotaan"
+          ],
+          "app_tag_name": "",
+          "chapter_split_version": "0",
+          "title": "Makin Ditahan, Makin Penasaran",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843009_09Dj6bUc8Ccu2oRR.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "3832",
+          "hot_num": "204.2K",
+          "rank_type": 1,
+          "rank_order": 10,
+          "playlet_status": "1",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1762333860_H5QQWZ8Qxn.jpg",
+          "id": "3832",
+          "app_tag_name": "",
+          "subscript": "1",
+          "status": "2",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2420",
+              "name": "Tarik-Ulur​",
+              "base_id": "249",
+              "sort": "0"
+            },
+            {
+              "id": "1858",
+              "name": "Cinta Diam",
+              "base_id": "203",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "3"
+            },
+            {
+              "id": "2431",
+              "name": "Elit Profesional​",
+              "base_id": "250",
+              "sort": "4"
+            },
+            {
+              "id": "2442",
+              "name": "Ma Xiaoyu",
+              "base_id": "251",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "introduce": "Di malam pernikahan, Vivian dan Bagus saling menipu demi gengsi. Wanita kuat dan dokter genit itu awalnya hanya menikah pura-pura, tapi dari kebohongan tumbuh cinta yang sungguh.\n",
+          "title": "Pelukan landak",
+          "upload_num": "71",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Tarik-Ulur​",
+            "Cinta Diam",
+            "Nikah Dulu",
+            "Keluarga Kaya",
+            "Elit Profesional​",
+            "Ma Xiaoyu",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1762333857_fyR4J5ZEAQ.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_LZQEBSqscnkqSKW5.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "978",
+          "hot_num": "174.7K",
+          "rank_type": 1,
+          "rank_order": 11,
+          "tag_name": [
+            "Salah Paham",
+            "Balik alur",
+            "Nikah Kilat",
+            "Keluarga",
+            "Romantis",
+            "CEO/ Miliarder",
+            "Paruh Baya",
+            "Perkotaan"
+          ],
+          "status": "2",
+          "upload_num": "62",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_41.jpg",
+          "id": "978",
+          "tag_list_with_id": [
+            {
+              "id": "1818",
+              "name": "Salah Paham",
+              "base_id": "198",
+              "sort": "0"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "1"
+            },
+            {
+              "id": "1746",
+              "name": "Nikah Kilat",
+              "base_id": "189",
+              "sort": "2"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "5"
+            },
+            {
+              "id": "1663",
+              "name": "Paruh Baya",
+              "base_id": "178",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "playlet_status": "1",
+          "introduce": "Demi terhindar dari pernikahan yang diatur oleh menantunya, Shinta Andra menikah dengan orang yang nggak dikenal. Shinta Andra menikah dengan Andi Liam yang merupakan direktur dari Grup Liam. Andi Liam menikah agar putrinya bisa pergi ke luar negeri dengan tenang. Setelah nikah, mereka berdua nggak pernah ketemu karena Shinta Andra mengalami kecelakaan. Saat mereka bertemu kembali, mereka nggak mengenal satu sama lain. Akhirnya, mereka berdua pun saling mencintai.",
+          "recommend_config_id": "58",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1744354754_jMjYb3nJZk.jpg",
+          "slogan": "",
+          "app_tag_id": "0",
+          "language_id": "6",
+          "production_type": "2",
+          "app_tag_name": "",
+          "subscript": "5",
+          "gender_type": "2",
+          "chapter_split_version": "0",
+          "has_collection": "0",
+          "title": "Cinta Di Ujung Senja（Dubbing）",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_Fm3w1NaICw60l1by.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5247",
+          "hot_num": "162.0K",
+          "rank_type": 1,
+          "rank_order": 12,
+          "gender_type": "2",
+          "language_id": "6",
+          "status": "2",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1769505504_xRKKb5NEGt.jpg",
+          "tag_name": [
+            "Penebusan",
+            "Heroine",
+            "Mistisisme Tiongkok",
+            "Fantasy",
+            "Drama Kepuasan",
+            "Meng Na",
+            "Shi Kang",
+            "Asia Kuno"
+          ],
+          "recommend_config_id": "0",
+          "chapter_split_version": "0",
+          "introduce": "Peramal Savira Loran, untuk menyelamatkan manusia, memecah kekuatan ilahinya – Mata Maha Tahu, Hati Penyembuh Langit, Jiwa Pejuang Abadi – menjadi dua belas fragmen dan membentuk dua belas keluarga besar. Enam puluh tahun kemudian, ia kembali dengan rambut putih dan wujud manusia biasa. Panglima Pasukan Elite Haryo Surya diperintahkan mengawasinya, namun perlahan menjadi pengawal utama sekaligus pengikut setianya. Kali ini, Savira tidak hanya ingin mengambil kembali fragmen-fragmen itu, tapi juga menetapkan ulang aturan dunia ini.",
+          "subscript": "1",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1769505502_tdfX4ttMhf.jpg",
+          "id": "5247",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Peramal Wanita",
+          "app_tag_name": "",
+          "upload_num": "60",
+          "tag_list_with_id": [
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "0"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "1"
+            },
+            {
+              "id": "2034",
+              "name": "Mistisisme Tiongkok",
+              "base_id": "225",
+              "sort": "2"
+            },
+            {
+              "id": "2065",
+              "name": "Fantasy",
+              "base_id": "167",
+              "sort": "3"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "4"
+            },
+            {
+              "id": "3031",
+              "name": "Meng Na",
+              "base_id": "289",
+              "sort": "5"
+            },
+            {
+              "id": "3019",
+              "name": "Shi Kang",
+              "base_id": "288",
+              "sort": "6"
+            },
+            {
+              "id": "1472",
+              "name": "Asia Kuno",
+              "base_id": "154",
+              "sort": "7"
+            }
+          ],
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_NNUsKBPVicQVsDRQ.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6177",
+          "hot_num": "155.2K",
+          "rank_type": 1,
+          "rank_order": 13,
+          "subscript": "7",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "77",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Setelah kepalanya seperti ditendang keledai, Gisella tersadar! Rupanya dia hidup dalam sebuah novel, hanya jadi pemeran pembanding untuk sepupu kesayangan keluarga yang berakhir tragis. Untuk mengubah takdir, Gisella memutuskan menikahi William—sang konglomerat yang dijuluki \"\"psikopat dingin\"\" di luar—dan menjadikan peran istri sebagai pekerjaan bergaji tinggi. Demi alasan praktis, mereka pun memulai \"\"pernikahan percobaan\"\" yang sama sekali tidak normal.",
+          "language_id": "6",
+          "tag_name": [
+            "Manis",
+            "Nikah Dulu",
+            "CEO/ Miliarder",
+            "Cinderella",
+            "Shi Kang",
+            "Liang Wenjing",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "title": "Cinta yang Tak Biasa",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774600468_E5tZdd8yCw.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "6177",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "1"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "2"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "3"
+            },
+            {
+              "id": "3019",
+              "name": "Shi Kang",
+              "base_id": "288",
+              "sort": "4"
+            },
+            {
+              "id": "3103",
+              "name": "Liang Wenjing",
+              "base_id": "295",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1774600471_ei4fhKGZWW.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_x8VODzdJJNE3rMyp.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2537",
+          "hot_num": "148.4K",
+          "rank_type": 1,
+          "rank_order": 14,
+          "upload_num": "71",
+          "tag_name": [
+            "Cinta Semalam",
+            "Salah Paham",
+            "​​Menikah Lagi​​",
+            "Manis",
+            "Cinta Diam",
+            "CEO/ Miliarder",
+            "Romantis",
+            "Perkotaan",
+            "Deng Lingshu"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1755250892_TQAPmGr8Rz.jpg",
+          "recommend_config_id": "54",
+          "id": "2537",
+          "gender_type": "2",
+          "language_id": "6",
+          "cover_square": "",
+          "status": "2",
+          "app_tag_name": "",
+          "has_collection": "0",
+          "playlet_status": "1",
+          "subscript": "1",
+          "title": "Nikah Kontrak Berujung Cinta",
+          "production_type": "3",
+          "introduce": "Nia yang baru bercerai melepas duka di klub malam dan tak sengaja bersama Kris. Keesokan harinya, mereka menikah. Tidak disangka, Kris adalah Wakil CEO di tempat Nia bekerja dan diam-diam telah mencintainya sejak lama.",
+          "chapter_split_version": "0",
+          "slogan": "",
+          "tag_list_with_id": [
+            {
+              "id": "1738",
+              "name": "Cinta Semalam",
+              "base_id": "188",
+              "sort": "0"
+            },
+            {
+              "id": "1818",
+              "name": "Salah Paham",
+              "base_id": "198",
+              "sort": "1"
+            },
+            {
+              "id": "2318",
+              "name": "​​Menikah Lagi​​",
+              "base_id": "240",
+              "sort": "2"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "3"
+            },
+            {
+              "id": "1858",
+              "name": "Cinta Diam",
+              "base_id": "203",
+              "sort": "4"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "8"
+            }
+          ],
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_3VNTHBoMqCCjkbgq.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "487",
+          "hot_num": "139.9K",
+          "rank_type": 1,
+          "rank_order": 15,
+          "gender_type": "2",
+          "language_id": "6",
+          "status": "2",
+          "cover_square": "",
+          "tag_name": [
+            "Putri Palsu",
+            "Pengkhianatan",
+            "Kesadaran Perempuan​",
+            "CEO/ Miliarder",
+            "Cinderella",
+            "Deng Lingshu",
+            "Zeng Hui",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "54",
+          "chapter_split_version": "0",
+          "introduce": "Lily Benneth ke kota untuk mengunjungi adiknya, Nana, namun mendapati Nana hidup mewah dengan berpura-pura sebagai dirinya.\nSementara itu, Lily bekerja di restoran Grup Vuton, menghadapi tekanan dari Eldrik. Namun, dia menarik perhatian sang CEO, Vale Vuton. Kebenaran akhirnya terungkap oleh ibu angkatnya, Nana menerima konsekuensinya, dan Lily berakhir bahagia bersama Vale.",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1739501785_zsaF7GGDbb.jpg",
+          "id": "487",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Cintaku Hadir Di Kehidupan Selanjutnya",
+          "app_tag_name": "",
+          "upload_num": "77",
+          "tag_list_with_id": [
+            {
+              "id": "2343",
+              "name": "Putri Palsu",
+              "base_id": "242",
+              "sort": "0"
+            },
+            {
+              "id": "1810",
+              "name": "Pengkhianatan",
+              "base_id": "197",
+              "sort": "1"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_1APa7GXoF5byWHzI.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2984",
+          "hot_num": "131.0K",
+          "rank_type": 1,
+          "rank_order": 16,
+          "subscript": "1",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "42",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Setelah Terlahir Kembali, Mila Widyaningsih Menemukan Penderitaan Kehamilannya Telah Dipindahkan ke Dirinya oleh Mega Hidayanto melalui Ilhitam. Setelah Penyelidikan Tak Membuahkan Hasil, Ia Memanfaatkan Aromaterapi untuk Mendeteksi Racun Kemandulan dan Obat Peluntur yang Tersembunyi, Akhirnya Mengetahui Media Santet Itu. Diam-diam, Ia Membalikkan Kontrol atas Makanan dan Kehidupan Sehari-hari Mega Hidayanto, Membuatnya Perlahan Terguncang Mental. Pada Hari Persalinan, Mila Menyerang Balik dengan Secangkir Teh Empedu Es yang Mematikan, Membongkar Semua Kebenaran sebelum Pergi ke Selatan Membawa Maharnya.",
+          "language_id": "6",
+          "tag_name": [
+            "Reinkarnasi",
+            "Cinta Segitiga",
+            "Balik alur",
+            "Heroine",
+            "Dendam",
+            "Era Republik"
+          ],
+          "recommend_config_id": "0",
+          "title": "Mila Pembasmi Ilhitam",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1757494565_tdStEcyhJh.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "2984",
+          "tag_list_with_id": [
+            {
+              "id": "1834",
+              "name": "Reinkarnasi",
+              "base_id": "200",
+              "sort": "0"
+            },
+            {
+              "id": "1906",
+              "name": "Cinta Segitiga",
+              "base_id": "209",
+              "sort": "1"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "2"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "3"
+            },
+            {
+              "id": "1560",
+              "name": "Dendam",
+              "base_id": "165",
+              "sort": "4"
+            },
+            {
+              "id": "1496",
+              "name": "Era Republik",
+              "base_id": "157",
+              "sort": "5"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1757494569_fWG7xXTFan.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_J5Zp43gOhVG8U3w3.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5499",
+          "hot_num": "129.6K",
+          "rank_type": 1,
+          "rank_order": 17,
+          "tag_name": [
+            "Balik alur",
+            "​​Balas Dendam",
+            "Kesadaran Perempuan​",
+            "Plot Twist​",
+            "Identitas Rahasia",
+            "Idola semua orang",
+            "Drama Kepuasan",
+            "Perkotaan"
+          ],
+          "status": "2",
+          "upload_num": "80",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1770717810_BBa56kCKYb.jpg",
+          "id": "5499",
+          "tag_list_with_id": [
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "0"
+            },
+            {
+              "id": "2274",
+              "name": "​​Balas Dendam",
+              "base_id": "236",
+              "sort": "1"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "2"
+            },
+            {
+              "id": "2387",
+              "name": "Plot Twist​",
+              "base_id": "246",
+              "sort": "3"
+            },
+            {
+              "id": "1631",
+              "name": "Identitas Rahasia",
+              "base_id": "174",
+              "sort": "4"
+            },
+            {
+              "id": "2937",
+              "name": "Idola semua orang",
+              "base_id": "280",
+              "sort": "5"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "playlet_status": "1",
+          "introduce": "Yora Solihin, pewaris kaya raya yang menyamar sebagai \"\"gadis jelek\"\" demi menghindari bahaya. Simon Cahyo, pacarnya, menggunakannya sebagai tameng, berkali-kali menyakitinya. Setelah harga diri dan hati hancur, Yora melepas penyamaran, kembali dengan identitas asli, mengejar cinta dan hidup baru.",
+          "recommend_config_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1770717807_FJbCA3nB8A.jpg",
+          "slogan": "",
+          "app_tag_id": "0",
+          "language_id": "6",
+          "production_type": "3",
+          "app_tag_name": "",
+          "subscript": "0",
+          "gender_type": "2",
+          "chapter_split_version": "0",
+          "has_collection": "0",
+          "title": "Kebangkitan Gadis Jelek",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_5VSMbrtHaKxTiMOX.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "4187",
+          "hot_num": "109.2K",
+          "rank_type": 1,
+          "rank_order": 18,
+          "playlet_status": "1",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1763977100_a54Xfcwwry.jpg",
+          "id": "4187",
+          "app_tag_name": "",
+          "subscript": "1",
+          "status": "2",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "0"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "1"
+            },
+            {
+              "id": "1986",
+              "name": "Dua tokoh kuat",
+              "base_id": "219",
+              "sort": "2"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "2442",
+              "name": "Ma Xiaoyu",
+              "base_id": "251",
+              "sort": "5"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "introduce": "Resti, ketua organisasi pembunuh, masuk ke novel dan jadi istri korban Yudi. Ia ingin cepat cerai dan kembali ke dunia nyata, tapi rencana gagal karena suara hatinya terbongkar. Ia terpaksa pura-pura manja sambil adu strategi, malah bikin Yudi jatuh cinta berat.",
+          "title": "Nyonya Muda Si Mulut Sial",
+          "upload_num": "80",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Komedi Ringan​",
+            "Romantis",
+            "Dua tokoh kuat",
+            "Nikah Dulu",
+            "CEO/ Miliarder",
+            "Ma Xiaoyu",
+            "Deng Lingshu",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1763977097_ByYBYPNMWk.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_1tKaGwNysRbdHhSB.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "1976",
+          "hot_num": "101.8K",
+          "rank_type": 1,
+          "rank_order": 19,
+          "upload_num": "90",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1752054541_EhzGA56fAK.jpg",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "0"
+            },
+            {
+              "id": "2977",
+              "name": "Bos besar",
+              "base_id": "275",
+              "sort": "1"
+            },
+            {
+              "id": "2916",
+              "name": "Siswa teladan",
+              "base_id": "283",
+              "sort": "2"
+            },
+            {
+              "id": "1631",
+              "name": "Identitas Rahasia",
+              "base_id": "174",
+              "sort": "3"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "4"
+            },
+            {
+              "id": "3151",
+              "name": "Wu Tianhao",
+              "base_id": "299",
+              "sort": "5"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "6"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "7"
+            },
+            {
+              "id": "2563",
+              "name": "Wang Peiyan",
+              "base_id": "262",
+              "sort": "8"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "9"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "10"
+            },
+            {
+              "id": "1794",
+              "name": "Alpha",
+              "base_id": "195",
+              "sort": "11"
+            },
+            {
+              "id": "1802",
+              "name": "Lintas Waktu",
+              "base_id": "196",
+              "sort": "12"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "13"
+            }
+          ],
+          "recommend_config_id": "69",
+          "id": "1976",
+          "chapter_split_version": "0",
+          "production_type": "2",
+          "app_tag_name": "",
+          "status": "2",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1752054524_HWESXXP2EB.jpg",
+          "gender_type": "2",
+          "subscript": "5",
+          "app_tag_id": "0",
+          "introduce": "Pada tahun 1955, Profesor Rossa meninggal dunia secara tak terduga. Setelah membuka mata, dia justru terbangun di tubuh seorang gadis SMA berusia delapan belas tahun yang memiliki nama dan marga yang sama, tujuh puluh tahun kemudian. Kini, putranya telah menjadi seorang ketua direksi berusia lebih dari tujuh puluh tahun, dan dia bahkan memiliki beberapa cicit laki-laki yang tampan. Dalam proses menyesuaikan diri dengan kehidupan barunya, Profesor Rossa mulai menertibkan para cicitnya yang nakal dan tidak berbakti dengan kecerdasan dan kemampuannya. Di era yang benar-benar baru ini, ia pun menemukan keindahan hidupnya sendiri!",
+          "language_id": "6",
+          "slogan": "",
+          "has_collection": "0",
+          "tag_name": [
+            "Heroine",
+            "Bos besar",
+            "Siswa teladan",
+            "Identitas Rahasia",
+            "Zeng Hui",
+            "Wu Tianhao",
+            "Li Keyi",
+            "Zhao Tingyi",
+            "Wang Peiyan",
+            "Keluarga Kaya",
+            "Drama Kepuasan",
+            "Alpha",
+            "Lintas Waktu",
+            "Perkotaan"
+          ],
+          "title": "Nenek Muda: Kebangkitan Keluarga(Dubbing)",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_zEgi6ggioHm5INrY.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "894",
+          "hot_num": "94.2K",
+          "rank_type": 1,
+          "rank_order": 20,
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1743422293_RPhQR7CDJF.png",
+          "subscript": "5",
+          "upload_num": "52",
+          "status": "2",
+          "introduce": "Setelah kehilangan suaminya secara tak terduga, Jelita baru mengetahui bahwa suaminya ternyata adalah putra sulung keluarga terkaya. Dia kemudian dijemput oleh ibu mertuanya untuk tinggal di rumah Keluarga Sano. Di sana, dia sering berselisih dengan adik iparnya, lalu mereka menjadi pasangan yang saling benci, tapi juga saling suka. Meskipun demikian, keduanya selalu menahan perasaan masing-masing. Namun, setelah menghadapi sebuah krisis besar bersama, mereka akhirnya menyadari perasaan satu sama lain dan bersatu sebagai pasangan sejati.",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "2274",
+              "name": "​​Balas Dendam",
+              "base_id": "236",
+              "sort": "0"
+            },
+            {
+              "id": "1778",
+              "name": "Terlarang",
+              "base_id": "193",
+              "sort": "1"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "2"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "2745",
+              "name": "Cai Xinyang",
+              "base_id": "272",
+              "sort": "7"
+            }
+          ],
+          "production_type": "2",
+          "slogan": "",
+          "language_id": "6",
+          "gender_type": "2",
+          "has_collection": "0",
+          "recommend_config_id": "54",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_34.jpg",
+          "id": "894",
+          "tag_name": [
+            "​​Balas Dendam",
+            "Terlarang",
+            "Manis",
+            "Cinderella",
+            "CEO/ Miliarder",
+            "Perkotaan",
+            "Romantis",
+            "Cai Xinyang"
+          ],
+          "app_tag_name": "",
+          "chapter_split_version": "0",
+          "title": "Adik lpar Memanjakanku（Dubbing）",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_g84hLItGr9Nj8POX.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        }
+      ]
+    },
+    {
+      "name": "Serial Baru",
+      "rank_type": 2,
+      "data": [
+        {
+          "playlet_id": "6013",
+          "hot_num": "1.2M",
+          "rank_type": 2,
+          "rank_order": 1,
+          "gender_type": "2",
+          "language_id": "6",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773739196_HiyhJkbrJe.jpg",
+          "status": "2",
+          "app_tag_name": "",
+          "has_collection": "0",
+          "upload_num": "81",
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Penebusan",
+            "Nikah Dulu",
+            "Cerdik usil",
+            "Zhang Chi",
+            "Deng Lingshu",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "id": "6013",
+          "playlet_status": "1",
+          "subscript": "7",
+          "title": "Cahaya yang Menembus Dingin ",
+          "production_type": "3",
+          "introduce": "Pada Perayaan DongZhi, Batari mendadak menikahi Faris, putra kedua Keluarga Prasetya yang menyandang disabilitas. Namun, pada malam pertama mereka, kalimat pertama yang diucapkan Faris adalah: \"\"Aku berencana mengakhiri hidup setahun lagi.\"\" Mendengar itu, Batari pun berpikir lebih baik manfaatkan waktunya bersamanya dengan bersenang-senang – sekalian berusaha punya anak yang cantik! Seiring berjalannya waktu, Batari bagai seberkas cahaya yang menembus kegelapan, menyinari dunia suram Faris dan menjadi penebusnya. \n",
+          "chapter_split_version": "0",
+          "slogan": "",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "2965",
+              "name": "Cerdik usil",
+              "base_id": "276",
+              "sort": "3"
+            },
+            {
+              "id": "3115",
+              "name": "Zhang Chi",
+              "base_id": "296",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773739192_yRyxbKNdCG.jpg",
+          "recommend_config_id": "0",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_Nz3DhH5jtKHBXOoH.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5941",
+          "hot_num": "786.4K",
+          "rank_type": 2,
+          "rank_order": 2,
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Berkat rekomendasi gurunya, Yessi memasuki dunia kapitalis papan atas, Leon. Sebuah dompet tua asal kampung halaman Yessi memicu naluri posesifnya. Dengan kedok pembimbing, Leon membentangkan jalan kemewahan yang tak dapat ditolak: pekerjaan bergengsi, apartemen mewah, kuliah di Harvard... Dalam rasa syukur dan kegelisahan, Yessi berusaha beradaptasi, tanpa sadar telah terjebak dalam rencana serigala berbulu domba tersebut.",
+          "language_id": "6",
+          "tag_name": [
+            "Beda Usia",
+            "Obsesif",
+            "Tarik-Ulur​",
+            "CEO/ Miliarder",
+            "Elit Profesional​",
+            "Li Keyi",
+            "Chen Si",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "title": "Datura",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773396547_txQ2askYzS.jpg",
+          "playlet_status": "1",
+          "status": "2",
+          "has_collection": "0",
+          "id": "5941",
+          "tag_list_with_id": [
+            {
+              "id": "1842",
+              "name": "Beda Usia",
+              "base_id": "201",
+              "sort": "0"
+            },
+            {
+              "id": "1922",
+              "name": "Obsesif",
+              "base_id": "211",
+              "sort": "1"
+            },
+            {
+              "id": "2420",
+              "name": "Tarik-Ulur​",
+              "base_id": "249",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "2431",
+              "name": "Elit Profesional​",
+              "base_id": "250",
+              "sort": "4"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "5"
+            },
+            {
+              "id": "3079",
+              "name": "Chen Si",
+              "base_id": "293",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773396550_tcbjKHZWBQ.jpg",
+          "app_tag_id": "0",
+          "subscript": "0",
+          "gender_type": "2",
+          "upload_num": "85",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_oXyiMlKQrlgqE05J.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6194",
+          "hot_num": "100.5K",
+          "rank_type": 2,
+          "rank_order": 3,
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1774692164_3AEpdGSrjJ.jpg",
+          "tag_name": [
+            "Plot Twist​",
+            "Keluarga Kaya",
+            "Cinderella",
+            "Idola semua orang",
+            "Drama Kepuasan",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "chapter_split_version": "0",
+          "introduce": "Masuk ke keluarga konglomerat sebagai pengasuh bayi, gaji 160 juta per bulan, Talitha langsung terima! Karena masih muda dan cantik, ia sering dianggap remeh dan dipandang sinis. Namun, Talitha sama sekali tidak goyah. Ia fokus total pada tugasnya, dan ternyata menyimpan segudang keahlian luar biasa: terapi pijat dan pengobatan tradisional, meracik jamu dan menu kesehatan, pendidikan anak usia dini, hingga konseling psikologi. Satu per satu, bakat terpendamnya itu terungkap. Kepiawaiannya tidak hanya memecahkan masalah rumit keluarga, tetapi juga membuat seluruh anggota keluarga konglomerat itu tercengang.",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774692162_RmZtyMhTap.jpg",
+          "id": "6194",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Pengasuh di Keluarga Konglomerat",
+          "language_id": "6",
+          "gender_type": "2",
+          "app_tag_name": "",
+          "upload_num": "96",
+          "tag_list_with_id": [
+            {
+              "id": "2387",
+              "name": "Plot Twist​",
+              "base_id": "246",
+              "sort": "0"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "1"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "2"
+            },
+            {
+              "id": "2937",
+              "name": "Idola semua orang",
+              "base_id": "280",
+              "sort": "3"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "production_type": "3",
+          "status": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_It74t3aiS8tTYsML.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6345",
+          "hot_num": "64.1K",
+          "rank_type": 2,
+          "rank_order": 4,
+          "upload_num": "80",
+          "tag_name": [
+            "Manis",
+            "Penebusan",
+            "Reuni",
+            "CEO/ Miliarder",
+            "Meng Na",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775642291_WSHwyRY7Kr.jpg",
+          "recommend_config_id": "0",
+          "id": "6345",
+          "gender_type": "2",
+          "language_id": "6",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775642295_SF4p3tEnTT.jpg",
+          "status": "2",
+          "app_tag_name": "",
+          "has_collection": "0",
+          "playlet_status": "1",
+          "subscript": "7",
+          "title": "Cinta sama Tetangga ",
+          "production_type": "3",
+          "introduce": "Saat muda, Rina Wijaya mengajar Andi Pratama selama tiga tahun. Andi jatuh hati, tapi cintanya ditolak, dan mereka tak lagi berhubungan.\nBelasan tahun kemudian, mereka kembali jadi tetangga. Rina hidup tegar sambil membesarkan anaknya, sementara Andi sukses besar tapi menyembunyikan identitasnya, membantu mengelola bar tua.\nAwalnya, Andi hanya ingin melihat kekonyolan Rina. Namun, tanpa disangka, setelah berputar-putar hidup, Rina tetap menjadi musim semi hangat yang selalu mekar dalam hatinya.",
+          "chapter_split_version": "0",
+          "slogan": "",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "1"
+            },
+            {
+              "id": "1874",
+              "name": "Reuni",
+              "base_id": "205",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "3031",
+              "name": "Meng Na",
+              "base_id": "289",
+              "sort": "4"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "5"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "6"
+            }
+          ],
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_Bwx1x22Dkx1NqotL.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6248",
+          "hot_num": "61.0K",
+          "rank_type": 2,
+          "rank_order": 5,
+          "playlet_status": "1",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1774947664_YyypS4rG85.jpg",
+          "id": "6248",
+          "app_tag_name": "",
+          "subscript": "0",
+          "status": "2",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1738",
+              "name": "Cinta Semalam",
+              "base_id": "188",
+              "sort": "0"
+            },
+            {
+              "id": "1746",
+              "name": "Nikah Kilat",
+              "base_id": "189",
+              "sort": "1"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "2"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "5"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "6"
+            }
+          ],
+          "introduce": "Raisa dijebak keluarga, berubah usai setahun. Ia menikah kontrak dengan Kevin, lalu saling jatuh cinta. Identitas terungkap, cinta berbuah bahagia, para pelaku pun menerima balasan.\n",
+          "title": "Nikah Kontrak, Cinta Sejati",
+          "upload_num": "111",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Cinta Semalam",
+            "Nikah Kilat",
+            "Manis",
+            "Nikah Dulu",
+            "CEO/ Miliarder",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774947661_4iePBpmnWK.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_t3rSdx1gW8lPOdcb.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6177",
+          "hot_num": "50.7K",
+          "rank_type": 2,
+          "rank_order": 6,
+          "subscript": "7",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "77",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Setelah kepalanya seperti ditendang keledai, Gisella tersadar! Rupanya dia hidup dalam sebuah novel, hanya jadi pemeran pembanding untuk sepupu kesayangan keluarga yang berakhir tragis. Untuk mengubah takdir, Gisella memutuskan menikahi William—sang konglomerat yang dijuluki \"\"psikopat dingin\"\" di luar—dan menjadikan peran istri sebagai pekerjaan bergaji tinggi. Demi alasan praktis, mereka pun memulai \"\"pernikahan percobaan\"\" yang sama sekali tidak normal.",
+          "language_id": "6",
+          "tag_name": [
+            "Manis",
+            "Nikah Dulu",
+            "CEO/ Miliarder",
+            "Cinderella",
+            "Shi Kang",
+            "Liang Wenjing",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "title": "Cinta yang Tak Biasa",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774600468_E5tZdd8yCw.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "6177",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "1"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "2"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "3"
+            },
+            {
+              "id": "3019",
+              "name": "Shi Kang",
+              "base_id": "288",
+              "sort": "4"
+            },
+            {
+              "id": "3103",
+              "name": "Liang Wenjing",
+              "base_id": "295",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1774600471_ei4fhKGZWW.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_3AgX3mWwU7DocD5s.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6401",
+          "hot_num": "38.0K",
+          "rank_type": 2,
+          "rank_order": 7,
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775890146_S7D5cdcQw4.jpg",
+          "tag_name": [
+            "Cinta Semalam",
+            "Manis",
+            "Reuni",
+            "​​Menikah Lagi​​",
+            "Pertikaian Istana",
+            "Bangsawan",
+            "Heroine",
+            "Han Yutong",
+            "Zeng Hui",
+            "Li Min",
+            "Romantis",
+            "Asia Kuno"
+          ],
+          "recommend_config_id": "0",
+          "chapter_split_version": "0",
+          "introduce": "Untuk menyelamatkan ibu mertua yang sakit parah, janda Melly Lauwis melakukan pengorbanan besar. Semalam di penjara, dia bertemu Hilman Yongki yang rela menusuk tangannya sendiri daripada mencemari dirinya. Setelah itu, Hilman setiap hari datang ke kios pangsit, kikuk mencoba menyenangkan dan melindungi Bu Melly. Setelah melewati banyak cobaan, ia akhirnya menyadari ketulusan Hilman, dan Hilman baru mengerti kedalaman perasaannya di saat genting. Dari lumpur, mereka saling menopang, satu mengajarkannya mencintai diri sendiri, yang lain memberinya rumah dan keluarga.\n",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775890140_5FdrBjTXdJ.jpg",
+          "id": "6401",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Janda? Aku Tetap Menikahinya!",
+          "language_id": "6",
+          "gender_type": "2",
+          "app_tag_name": "",
+          "upload_num": "94",
+          "tag_list_with_id": [
+            {
+              "id": "1738",
+              "name": "Cinta Semalam",
+              "base_id": "188",
+              "sort": "0"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "1"
+            },
+            {
+              "id": "1874",
+              "name": "Reuni",
+              "base_id": "205",
+              "sort": "2"
+            },
+            {
+              "id": "2318",
+              "name": "​​Menikah Lagi​​",
+              "base_id": "240",
+              "sort": "3"
+            },
+            {
+              "id": "2376",
+              "name": "Pertikaian Istana",
+              "base_id": "245",
+              "sort": "4"
+            },
+            {
+              "id": "3007",
+              "name": "Bangsawan",
+              "base_id": "287",
+              "sort": "5"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "6"
+            },
+            {
+              "id": "2519",
+              "name": "Han Yutong",
+              "base_id": "258",
+              "sort": "7"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "8"
+            },
+            {
+              "id": "3187",
+              "name": "Li Min",
+              "base_id": "302",
+              "sort": "9"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "10"
+            },
+            {
+              "id": "1472",
+              "name": "Asia Kuno",
+              "base_id": "154",
+              "sort": "11"
+            }
+          ],
+          "production_type": "3",
+          "status": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_CDghH8MAbmbm3WRO.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6388",
+          "hot_num": "14.5K",
+          "rank_type": 2,
+          "rank_order": 8,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Terbebas​",
+            "Kesadaran Perempuan​",
+            "​​Menikah Lagi​​",
+            "Paruh Baya",
+            "Ibu Rumah Tangga",
+            "Romantis",
+            "Keluarga",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775815193_CGAyKzJfFX.jpg",
+          "id": "6388",
+          "chapter_split_version": "0",
+          "title": "Dongeng Cinta di Usia Senja",
+          "upload_num": "81",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775815196_J7HcSFs2JH.jpg",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "2042",
+              "name": "Terbebas​",
+              "base_id": "226",
+              "sort": "1"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "2"
+            },
+            {
+              "id": "2318",
+              "name": "​​Menikah Lagi​​",
+              "base_id": "240",
+              "sort": "3"
+            },
+            {
+              "id": "1663",
+              "name": "Paruh Baya",
+              "base_id": "178",
+              "sort": "4"
+            },
+            {
+              "id": "2069",
+              "name": "Ibu Rumah Tangga",
+              "base_id": "183",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Linda Wijaya menikah dengan Keluarga Pratama selama 30 tahun, merawat keluarga besar. Suaminya selalu mengutamakan keluarga besar di atas rumah kecil mereka, bahkan ketika ibunya menderita serangan jantung dan membutuhkan 160 juta untuk hidup, suaminya malah memberikannya untuk membeli mobil adiknya. Linda langsung bercerai dan mengambil hartanya yang menjadi haknya. Tiga tahun lalu, di kuil, dia membantu seorang pria menyalakan dupa, dan saat bertemu kembali, ternyata pria itu adalah direktur rumah sakit. Pria itu melamarnya dengan 400 gram emas murni dan selalu menempatkannya pertama. Suami pertamanya sangat menyesal.",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843009_acpooUvKFd167lCI.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6055",
+          "hot_num": "14.4K",
+          "rank_type": 2,
+          "rank_order": 9,
+          "tag_name": [
+            "Penebusan",
+            "Reuni",
+            "Balikan",
+            "Kesadaran Perempuan​",
+            "Terbebas​",
+            "Elit Profesional​",
+            "Bayi Imut",
+            "Han Yutong",
+            "Bai Fangwen",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "status": "2",
+          "upload_num": "80",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773971612_6CMDnyZTt5.jpg",
+          "id": "6055",
+          "tag_list_with_id": [
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "0"
+            },
+            {
+              "id": "1874",
+              "name": "Reuni",
+              "base_id": "205",
+              "sort": "1"
+            },
+            {
+              "id": "1866",
+              "name": "Balikan",
+              "base_id": "204",
+              "sort": "2"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "3"
+            },
+            {
+              "id": "2042",
+              "name": "Terbebas​",
+              "base_id": "226",
+              "sort": "4"
+            },
+            {
+              "id": "2431",
+              "name": "Elit Profesional​",
+              "base_id": "250",
+              "sort": "5"
+            },
+            {
+              "id": "1607",
+              "name": "Bayi Imut",
+              "base_id": "171",
+              "sort": "6"
+            },
+            {
+              "id": "2519",
+              "name": "Han Yutong",
+              "base_id": "258",
+              "sort": "7"
+            },
+            {
+              "id": "3067",
+              "name": "Bai Fangwen",
+              "base_id": "292",
+              "sort": "8"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "9"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "10"
+            }
+          ],
+          "playlet_status": "1",
+          "introduce": "Enam tahun kemudian, Rio bertemu lagi dengan mantan pacarnya Nabila di pasar malam. Ia kini berjualan jamur goreng dan punya putri kecil. Rio diam-diam mendekat, menyelami hidupnya, dan memilih tetap melindunginya.",
+          "recommend_config_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773971607_Ks4CnATSpb.jpg",
+          "slogan": "",
+          "app_tag_id": "0",
+          "language_id": "6",
+          "production_type": "3",
+          "app_tag_name": "",
+          "subscript": "7",
+          "gender_type": "2",
+          "chapter_split_version": "0",
+          "has_collection": "0",
+          "title": "Cinta yang Mengintai",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843009_09Dj6bUc8Ccu2oRR.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6426",
+          "hot_num": "13.6K",
+          "rank_type": 2,
+          "rank_order": 10,
+          "subscript": "0",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "73",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Menyamar jadi pria, Vio menyusup ke istana demi meracuni Ibu Suri dengan jarum guna-guna. Namun, dia justru diburu Kaisar Riki yang salah sangka. Di antara adu pedang dan siasat, sang tiran malah terpikat. Saat rahasia terungkap, musuh jadi sekutu untuk menggulingkan takhta dan bersatu.",
+          "language_id": "6",
+          "tag_name": [],
+          "recommend_config_id": "0",
+          "title": "Dendam Tabib",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1776072186_ik2CkQA25W.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "6426",
+          "tag_list_with_id": [],
+          "cover_square": "",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_LZQEBSqscnkqSKW5.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6311",
+          "hot_num": "13.1K",
+          "rank_type": 2,
+          "rank_order": 11,
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775540705_NkHR4WFMTx.jpg",
+          "subscript": "7",
+          "upload_num": "89",
+          "status": "2",
+          "introduce": "Pekerja modern Hestia Kumar tiba-tiba masuk novel, jadi putri tunggal Dika Kumar, koruptor terbesar Dinasti Kadia dari Keluarga Kumar. Lihat rumah penuh harta, dia tak senang, karena tahu tiga tahun lagi keluarganya akan dihukum mati. Untung dia terikat sistem orang kaya yang kejam—asal habiskan harta dan rusak nama, bisa bawa 2 triliun pulang. Hestia mulai beli beras busuk, bagi bubur di depan umum, tekan pedagang, paksa pengungsi kerja. Dia kira pasti diasingkan. Tapi harta malah makin banyak, rakyat puji dia. Hestia pun runtuh, namun lihat rakyat hidup tenang, dia temukan arti baru.\n\n",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "0"
+            },
+            {
+              "id": "2985",
+              "name": "Sistem",
+              "base_id": "282",
+              "sort": "1"
+            },
+            {
+              "id": "1802",
+              "name": "Lintas Waktu",
+              "base_id": "196",
+              "sort": "2"
+            },
+            {
+              "id": "1890",
+              "name": "Drama",
+              "base_id": "207",
+              "sort": "3"
+            },
+            {
+              "id": "2387",
+              "name": "Plot Twist​",
+              "base_id": "246",
+              "sort": "4"
+            },
+            {
+              "id": "1647",
+              "name": "Idola",
+              "base_id": "176",
+              "sort": "5"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "6"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "7"
+            },
+            {
+              "id": "1472",
+              "name": "Asia Kuno",
+              "base_id": "154",
+              "sort": "8"
+            }
+          ],
+          "production_type": "3",
+          "slogan": "",
+          "language_id": "6",
+          "gender_type": "2",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775211212_W4bhpb7tfC.jpg",
+          "id": "6311",
+          "tag_name": [
+            "Komedi Ringan​",
+            "Sistem",
+            "Lintas Waktu",
+            "Drama",
+            "Plot Twist​",
+            "Idola",
+            "Li Keyi",
+            "Drama Kepuasan",
+            "Asia Kuno"
+          ],
+          "app_tag_name": "",
+          "chapter_split_version": "0",
+          "title": "Aku Cuma Mau Boros!",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_Fm3w1NaICw60l1by.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6406",
+          "hot_num": "12.8K",
+          "rank_type": 2,
+          "rank_order": 12,
+          "upload_num": "61",
+          "status": "2",
+          "introduce": "Karina Loekito dan Simon Solihin diserang orang berbaju hitam saat perjalanan. Simon tewas, Karina selamat tapi otaknya rusak. Dia dibawa ke Keluarga Solihin untuk dirawat dan mulai menaruh hati pada Stefan Solihin, kakak kembar Simon. Suria Yongki yang akan menikah dengan Keluarga Solihin cemburu, lalu bersekongkol dengan orang berbaju hitam untuk menyakiti Karina. Dalam sebuah kecelakaan, Karina mulai mengingat kembali memorinya dan menemukan petunjuk. Kebenaran perlahan muncul.",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "1874",
+              "name": "Reuni",
+              "base_id": "205",
+              "sort": "0"
+            },
+            {
+              "id": "2420",
+              "name": "Tarik-Ulur​",
+              "base_id": "249",
+              "sort": "1"
+            },
+            {
+              "id": "1778",
+              "name": "Terlarang",
+              "base_id": "193",
+              "sort": "2"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "production_type": "3",
+          "slogan": "",
+          "language_id": "6",
+          "gender_type": "2",
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775901119_NiaXY8G2i2.jpg",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "cover_square": "",
+          "id": "6406",
+          "tag_name": [
+            "Reuni",
+            "Tarik-Ulur​",
+            "Terlarang",
+            "Cinderella",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_name": "",
+          "chapter_split_version": "0",
+          "title": "Cinta Datang Lagi",
+          "subscript": "0",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_NNUsKBPVicQVsDRQ.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6425",
+          "hot_num": "7.8K",
+          "rank_type": 2,
+          "rank_order": 13,
+          "id": "6425",
+          "tag_list_with_id": [
+            {
+              "id": "2155",
+              "name": "Takdir Kejam",
+              "base_id": "231",
+              "sort": "0"
+            },
+            {
+              "id": "1754",
+              "name": "Bangkit",
+              "base_id": "190",
+              "sort": "1"
+            },
+            {
+              "id": "2042",
+              "name": "Terbebas​",
+              "base_id": "226",
+              "sort": "2"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "3"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "playlet_status": "1",
+          "introduce": "Jasmine Santoso diperlakukan tidak adil saat pembagian warisan. Ia pergi dari rumah, lalu bangkit berkat tabungan dan sertifikat dari nenek, mengubah hidupnya jadi sukses.",
+          "recommend_config_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1776073726_W6ha7tYwti.jpg",
+          "tag_name": [
+            "Takdir Kejam",
+            "Bangkit",
+            "Terbebas​",
+            "Cinderella",
+            "Keluarga",
+            "Perkotaan"
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1776073730_Kww5thB74f.jpg",
+          "slogan": "",
+          "app_tag_id": "0",
+          "language_id": "6",
+          "production_type": "3",
+          "app_tag_name": "",
+          "subscript": "0",
+          "gender_type": "2",
+          "chapter_split_version": "0",
+          "has_collection": "0",
+          "title": "Warisan dari Nenek",
+          "status": "2",
+          "upload_num": "69",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_x8VODzdJJNE3rMyp.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6348",
+          "hot_num": "7.7K",
+          "rank_type": 2,
+          "rank_order": 14,
+          "app_tag_id": "0",
+          "tag_name": [],
+          "playlet_status": "1",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775726637_abPhbYt3ff.jpg",
+          "id": "6348",
+          "chapter_split_version": "0",
+          "title": " Dewi dari Langit",
+          "upload_num": "50",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Ahli botani Annisa terlempar ke zaman purba. Bimo, seorang kepala suku purba yang tampan dan perkasa, menyelamatkannya.Tanpa banyak bicara, Bimo membawanya pulang dan langsung menjadikannya istrinya. Di bawah perlindungan Bimo, Annisa memulai perjalanan epiknya menciptakan suku yang kuat.",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_3VNTHBoMqCCjkbgq.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6146",
+          "hot_num": "7.3K",
+          "rank_type": 2,
+          "rank_order": 15,
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Gadis biasa Nancy Wibawa dipaksa keluarga Salim menikah ke keluarga Guhara menggantikan Rania Salim yang tidak mau menikah dengan Yanto Guhara koma. Setelah menikah, Nancy merawat Yanto, tapi ternyata dia sudah sadar. Dari awal canggung tinggal bareng sampai mulai saling suka, mereka juga menghadapi wanita jahat dan masalah lain. Akhirnya, semua rahasia terungkap dan mereka bahagia bersama.",
+          "language_id": "6",
+          "tag_name": [
+            "Nikah Dulu",
+            "Cinderella",
+            "Terpisah Keluarga",
+            "CEO/ Miliarder",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "title": "Tiba-tiba Cinta Datang",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774517659_NbsxzZMkwN.jpg",
+          "playlet_status": "1",
+          "status": "2",
+          "has_collection": "0",
+          "id": "6146",
+          "tag_list_with_id": [
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "0"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "1"
+            },
+            {
+              "id": "1898",
+              "name": "Terpisah Keluarga",
+              "base_id": "208",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "cover_square": "",
+          "app_tag_id": "0",
+          "subscript": "0",
+          "gender_type": "2",
+          "upload_num": "60",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_1APa7GXoF5byWHzI.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6344",
+          "hot_num": "7.2K",
+          "rank_type": 2,
+          "rank_order": 16,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Balik alur",
+            "Bangkit",
+            "Dewa Perang",
+            "Fantasy",
+            "Drama Kepuasan",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "2",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775641978_YeszExxbC2.jpg",
+          "id": "6344",
+          "chapter_split_version": "0",
+          "title": "Bangkit dari Penjara Wanita",
+          "upload_num": "90",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775641981_5hiHfNakeZ.jpg",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "0"
+            },
+            {
+              "id": "1754",
+              "name": "Bangkit",
+              "base_id": "190",
+              "sort": "1"
+            },
+            {
+              "id": "1679",
+              "name": "Dewa Perang",
+              "base_id": "180",
+              "sort": "2"
+            },
+            {
+              "id": "2065",
+              "name": "Fantasy",
+              "base_id": "167",
+              "sort": "3"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "status": "2",
+          "gender_type": "1",
+          "introduce": "Dimas masuk penjara demi kakak angkat, belajar ilmu hebat tapi kena racun. Setelah bebas, ia cari jodoh dan penawar, menyelamatkan Sabrina dan mulai bangkit jadi kuat.\n",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_J5Zp43gOhVG8U3w3.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6270",
+          "hot_num": "6.3K",
+          "rank_type": 2,
+          "rank_order": 17,
+          "upload_num": "71",
+          "cover_square": "",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "1898",
+              "name": "Terpisah Keluarga",
+              "base_id": "208",
+              "sort": "0"
+            },
+            {
+              "id": "1754",
+              "name": "Bangkit",
+              "base_id": "190",
+              "sort": "1"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "2"
+            },
+            {
+              "id": "2937",
+              "name": "Idola semua orang",
+              "base_id": "280",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "recommend_config_id": "0",
+          "id": "6270",
+          "chapter_split_version": "0",
+          "production_type": "3",
+          "app_tag_name": "",
+          "status": "2",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775203012_BzJZMzS6A6.jpg",
+          "gender_type": "2",
+          "subscript": "0",
+          "app_tag_id": "0",
+          "introduce": "Diculik sejak kecil, Jojo akhirnya kembali ke keluarga kandung setelah lama hidup sebagai Cintia.\nDia menolak mantan suami dan diam-diam menyelidiki dalang penculikannya. Meski ditindas\nkeluarga angkat yang serakah, dia bangkit melawan hingga menangkap pelaku dan memulihkan\nkehormatan keluarganya.",
+          "language_id": "6",
+          "slogan": "",
+          "has_collection": "0",
+          "tag_name": [
+            "Terpisah Keluarga",
+            "Bangkit",
+            "Balik alur",
+            "Idola semua orang",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "title": "Bangkitnya Putri yang Tertindas",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_5VSMbrtHaKxTiMOX.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6324",
+          "hot_num": "5.7K",
+          "rank_type": 2,
+          "rank_order": 18,
+          "upload_num": "72",
+          "status": "2",
+          "introduce": "Rian yang baru memulai karier menghadapi ejekan dan tantangan berat, namun tak pernah menyerah. Dengan kerja keras dan kecerdasan, ia berhasil bangkit dari posisi terendah hingga menjadi bintang penjualan. Perjuangannya membuktikan bahwa orang biasa pun bisa mewujudkan nilai diri, menginspirasi semangat pantang menyerah bagi semua orang.",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "0"
+            },
+            {
+              "id": "1754",
+              "name": "Bangkit",
+              "base_id": "190",
+              "sort": "1"
+            },
+            {
+              "id": "2067",
+              "name": "Orang Kecil",
+              "base_id": "185",
+              "sort": "2"
+            },
+            {
+              "id": "1970",
+              "name": "Karier",
+              "base_id": "217",
+              "sort": "3"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "4"
+            },
+            {
+              "id": "1568",
+              "name": "Realistis",
+              "base_id": "166",
+              "sort": "5"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "6"
+            }
+          ],
+          "production_type": "3",
+          "slogan": "",
+          "language_id": "6",
+          "gender_type": "1",
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775555018_y2FG8iiATZ.jpg",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775555021_SX67MRBNS2.jpg",
+          "id": "6324",
+          "tag_name": [
+            "Balik alur",
+            "Bangkit",
+            "Orang Kecil",
+            "Karier",
+            "Drama Kepuasan",
+            "Realistis",
+            "Perkotaan"
+          ],
+          "app_tag_name": "",
+          "chapter_split_version": "0",
+          "title": "Perjuanganku",
+          "subscript": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_1tKaGwNysRbdHhSB.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6101",
+          "hot_num": "5.7K",
+          "rank_type": 2,
+          "rank_order": 19,
+          "playlet_status": "1",
+          "cover_square": "",
+          "id": "6101",
+          "app_tag_name": "",
+          "subscript": "0",
+          "status": "2",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1738",
+              "name": "Cinta Semalam",
+              "base_id": "188",
+              "sort": "0"
+            },
+            {
+              "id": "1730",
+              "name": "Hubungan Kontrak",
+              "base_id": "187",
+              "sort": "1"
+            },
+            {
+              "id": "2070",
+              "name": "Selingkuhan",
+              "base_id": "182",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "introduce": "Demi uang, Jeni There menjadi kekasih rahasia Dheo Suwita, pria yang dia cintai dalam diam. Begitu kontrak usai, dia pergi tanpa ragu. Dheo baru tersadar bahwa dia sangat mencintainya justru setelah kehilangan.",
+          "title": "Rahasia Delapan Tahun",
+          "upload_num": "80",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Cinta Semalam",
+            "Hubungan Kontrak",
+            "Selingkuhan",
+            "CEO/ Miliarder",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774001240_t4J7PHS5WA.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_zEgi6ggioHm5INrY.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6296",
+          "hot_num": "5.0K",
+          "rank_type": 2,
+          "rank_order": 20,
+          "upload_num": "59",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1775206123_i3iJmXykJz.jpg",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "1754",
+              "name": "Bangkit",
+              "base_id": "190",
+              "sort": "0"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "1"
+            },
+            {
+              "id": "2409",
+              "name": "Permainan Judi​",
+              "base_id": "248",
+              "sort": "2"
+            },
+            {
+              "id": "1655",
+              "name": "Orang Biasa",
+              "base_id": "177",
+              "sort": "3"
+            },
+            {
+              "id": "2977",
+              "name": "Bos besar",
+              "base_id": "275",
+              "sort": "4"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "5"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "6"
+            }
+          ],
+          "recommend_config_id": "0",
+          "id": "6296",
+          "chapter_split_version": "0",
+          "production_type": "3",
+          "app_tag_name": "",
+          "status": "2",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1775206120_SJnXH7EjAJ.jpg",
+          "gender_type": "1",
+          "subscript": "0",
+          "app_tag_id": "0",
+          "introduce": "90-an di Kota Bahari, Fajar bangkit dari bawah. Ia mengembangkan bisnis dan jaringan, hampir jatuh karena serakah, namun bangkit dan berubah menjadi sosok kuat.\n",
+          "language_id": "6",
+          "slogan": "",
+          "has_collection": "0",
+          "tag_name": [
+            "Bangkit",
+            "Balik alur",
+            "Permainan Judi​",
+            "Orang Biasa",
+            "Bos besar",
+            "Drama Kepuasan",
+            "Perkotaan"
+          ],
+          "title": "Rezeki Melimpah 2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_g84hLItGr9Nj8POX.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        }
+      ]
+    },
+    {
+      "name": "Trending",
+      "rank_type": 3,
+      "data": [
+        {
+          "playlet_id": "6013",
+          "hot_num": "919.3K",
+          "rank_type": 3,
+          "rank_order": 1,
+          "gender_type": "2",
+          "language_id": "6",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773739196_HiyhJkbrJe.jpg",
+          "status": "2",
+          "app_tag_name": "",
+          "has_collection": "0",
+          "upload_num": "81",
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Penebusan",
+            "Nikah Dulu",
+            "Cerdik usil",
+            "Zhang Chi",
+            "Deng Lingshu",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "id": "6013",
+          "playlet_status": "1",
+          "subscript": "7",
+          "title": "Cahaya yang Menembus Dingin ",
+          "production_type": "3",
+          "introduce": "Pada Perayaan DongZhi, Batari mendadak menikahi Faris, putra kedua Keluarga Prasetya yang menyandang disabilitas. Namun, pada malam pertama mereka, kalimat pertama yang diucapkan Faris adalah: \"\"Aku berencana mengakhiri hidup setahun lagi.\"\" Mendengar itu, Batari pun berpikir lebih baik manfaatkan waktunya bersamanya dengan bersenang-senang – sekalian berusaha punya anak yang cantik! Seiring berjalannya waktu, Batari bagai seberkas cahaya yang menembus kegelapan, menyinari dunia suram Faris dan menjadi penebusnya. \n",
+          "chapter_split_version": "0",
+          "slogan": "",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "2965",
+              "name": "Cerdik usil",
+              "base_id": "276",
+              "sort": "3"
+            },
+            {
+              "id": "3115",
+              "name": "Zhang Chi",
+              "base_id": "296",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773739192_yRyxbKNdCG.jpg",
+          "recommend_config_id": "0",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_Nz3DhH5jtKHBXOoH.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "3832",
+          "hot_num": "698.4K",
+          "rank_type": 3,
+          "rank_order": 2,
+          "playlet_status": "1",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1762333860_H5QQWZ8Qxn.jpg",
+          "id": "3832",
+          "app_tag_name": "",
+          "subscript": "1",
+          "status": "2",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2420",
+              "name": "Tarik-Ulur​",
+              "base_id": "249",
+              "sort": "0"
+            },
+            {
+              "id": "1858",
+              "name": "Cinta Diam",
+              "base_id": "203",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "3"
+            },
+            {
+              "id": "2431",
+              "name": "Elit Profesional​",
+              "base_id": "250",
+              "sort": "4"
+            },
+            {
+              "id": "2442",
+              "name": "Ma Xiaoyu",
+              "base_id": "251",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "introduce": "Di malam pernikahan, Vivian dan Bagus saling menipu demi gengsi. Wanita kuat dan dokter genit itu awalnya hanya menikah pura-pura, tapi dari kebohongan tumbuh cinta yang sungguh.\n",
+          "title": "Pelukan landak",
+          "upload_num": "71",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Tarik-Ulur​",
+            "Cinta Diam",
+            "Nikah Dulu",
+            "Keluarga Kaya",
+            "Elit Profesional​",
+            "Ma Xiaoyu",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1762333857_fyR4J5ZEAQ.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_oXyiMlKQrlgqE05J.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "6194",
+          "hot_num": "579.2K",
+          "rank_type": 3,
+          "rank_order": 3,
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1774692164_3AEpdGSrjJ.jpg",
+          "tag_name": [
+            "Plot Twist​",
+            "Keluarga Kaya",
+            "Cinderella",
+            "Idola semua orang",
+            "Drama Kepuasan",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "chapter_split_version": "0",
+          "introduce": "Masuk ke keluarga konglomerat sebagai pengasuh bayi, gaji 160 juta per bulan, Talitha langsung terima! Karena masih muda dan cantik, ia sering dianggap remeh dan dipandang sinis. Namun, Talitha sama sekali tidak goyah. Ia fokus total pada tugasnya, dan ternyata menyimpan segudang keahlian luar biasa: terapi pijat dan pengobatan tradisional, meracik jamu dan menu kesehatan, pendidikan anak usia dini, hingga konseling psikologi. Satu per satu, bakat terpendamnya itu terungkap. Kepiawaiannya tidak hanya memecahkan masalah rumit keluarga, tetapi juga membuat seluruh anggota keluarga konglomerat itu tercengang.",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774692162_RmZtyMhTap.jpg",
+          "id": "6194",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Pengasuh di Keluarga Konglomerat",
+          "language_id": "6",
+          "gender_type": "2",
+          "app_tag_name": "",
+          "upload_num": "96",
+          "tag_list_with_id": [
+            {
+              "id": "2387",
+              "name": "Plot Twist​",
+              "base_id": "246",
+              "sort": "0"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "1"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "2"
+            },
+            {
+              "id": "2937",
+              "name": "Idola semua orang",
+              "base_id": "280",
+              "sort": "3"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            }
+          ],
+          "production_type": "3",
+          "status": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_It74t3aiS8tTYsML.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5941",
+          "hot_num": "379.8K",
+          "rank_type": 3,
+          "rank_order": 4,
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Berkat rekomendasi gurunya, Yessi memasuki dunia kapitalis papan atas, Leon. Sebuah dompet tua asal kampung halaman Yessi memicu naluri posesifnya. Dengan kedok pembimbing, Leon membentangkan jalan kemewahan yang tak dapat ditolak: pekerjaan bergengsi, apartemen mewah, kuliah di Harvard... Dalam rasa syukur dan kegelisahan, Yessi berusaha beradaptasi, tanpa sadar telah terjebak dalam rencana serigala berbulu domba tersebut.",
+          "language_id": "6",
+          "tag_name": [
+            "Beda Usia",
+            "Obsesif",
+            "Tarik-Ulur​",
+            "CEO/ Miliarder",
+            "Elit Profesional​",
+            "Li Keyi",
+            "Chen Si",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "0",
+          "title": "Datura",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773396547_txQ2askYzS.jpg",
+          "playlet_status": "1",
+          "status": "2",
+          "has_collection": "0",
+          "id": "5941",
+          "tag_list_with_id": [
+            {
+              "id": "1842",
+              "name": "Beda Usia",
+              "base_id": "201",
+              "sort": "0"
+            },
+            {
+              "id": "1922",
+              "name": "Obsesif",
+              "base_id": "211",
+              "sort": "1"
+            },
+            {
+              "id": "2420",
+              "name": "Tarik-Ulur​",
+              "base_id": "249",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "2431",
+              "name": "Elit Profesional​",
+              "base_id": "250",
+              "sort": "4"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "5"
+            },
+            {
+              "id": "3079",
+              "name": "Chen Si",
+              "base_id": "293",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773396550_tcbjKHZWBQ.jpg",
+          "app_tag_id": "0",
+          "subscript": "0",
+          "gender_type": "2",
+          "upload_num": "85",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_Bwx1x22Dkx1NqotL.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5776",
+          "hot_num": "313.3K",
+          "rank_type": 3,
+          "rank_order": 5,
+          "app_tag_name": "",
+          "subscript": "5",
+          "status": "2",
+          "production_type": "2",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2343",
+              "name": "Putri Palsu",
+              "base_id": "242",
+              "sort": "0"
+            },
+            {
+              "id": "1810",
+              "name": "Pengkhianatan",
+              "base_id": "197",
+              "sort": "1"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "introduce": "\"Lily Benneth ke kota untuk mengunjungi adiknya, Nana, namun mendapati Nana hidup mewah dengan berpura-pura sebagai dirinya.\nSementara itu, Lily bekerja di restoran Grup Vuton, menghadapi tekanan dari Eldrik. Namun, dia menarik perhatian sang CEO, Vale Vuton. Kebenaran akhirnya terungkap oleh ibu angkatnya, Nana menerima konsekuensinya, dan Lily berakhir bahagia bersama Vale.\"",
+          "title": "Cintaku Hadir Di Kehidupan Selanjutnya(Dubbing)",
+          "upload_num": "77",
+          "slogan": "",
+          "playlet_status": "1",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1772508218_kfiKGNt57a.jpg",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Putri Palsu",
+            "Pengkhianatan",
+            "Kesadaran Perempuan​",
+            "CEO/ Miliarder",
+            "Cinderella",
+            "Deng Lingshu",
+            "Zeng Hui",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1772508207_PQSeZrwAiy.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "id": "5776",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_t3rSdx1gW8lPOdcb.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "1859",
+          "hot_num": "247.6K",
+          "rank_type": 3,
+          "rank_order": 6,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Penebusan",
+            "Komedi Ringan​",
+            "Nikah Dulu",
+            "Manis",
+            "CEO/ Miliarder",
+            "He Congrui",
+            "Liu Nian",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "1",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1751446917_hEZ4BtTE4y.jpg",
+          "id": "1859",
+          "chapter_split_version": "0",
+          "title": "Sekata dalam Diam",
+          "upload_num": "92",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1751446922_RiFZHX347e.jpg",
+          "recommend_config_id": "54",
+          "tag_list_with_id": [
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "0"
+            },
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "1"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "2"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "2541",
+              "name": "He Congrui",
+              "base_id": "260",
+              "sort": "5"
+            },
+            {
+              "id": "2596",
+              "name": "Liu Nian",
+              "base_id": "265",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Sasa tiba-tiba terjebak dalam plot novel yang dia baca, masuk ke tubuh Sasa Gita, tokoh pendukung yang angkuh dan membenci suaminya, Ferry yang bisu. Namun kini segalanya berubah. Sasa bersikap hangat, membantu Ferry pulih dari trauma, dan perlahan cinta pun tumbuh di antara mereka.",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_3AgX3mWwU7DocD5s.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "977",
+          "hot_num": "242.2K",
+          "rank_type": 3,
+          "rank_order": 7,
+          "subscript": "5",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "65",
+          "production_type": "2",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Sion Sona melindungi istrinya, Nita Wara, yang perlahan-lahan mulai luluh oleh sikap lelaki itu. Eno yang mengetahui bahwa Nita sudah berpindah hati merasa tidak terima dan akhirnya membunuh ayahnya Nita dan menuduh Sion. Ketiganya terlibat berbagai masalah hingga akhirnya Sion bisa mendapatkan kembali cinta istrinya seperti yang diinginkannya, dan keduanya akhirnya bersatu.",
+          "language_id": "6",
+          "tag_name": [
+            "Mafia",
+            "Obsesif",
+            "Langsung Cinta",
+            "Cinta Toksik",
+            "Romantis",
+            "Perkotaan",
+            "Ma Xiaoyu"
+          ],
+          "recommend_config_id": "54",
+          "title": "Istri Kesayangan Mafia（Dubbing）",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1744277748_PewsaQc87M.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "977",
+          "tag_list_with_id": [
+            {
+              "id": "1615",
+              "name": "Mafia",
+              "base_id": "172",
+              "sort": "0"
+            },
+            {
+              "id": "1922",
+              "name": "Obsesif",
+              "base_id": "211",
+              "sort": "1"
+            },
+            {
+              "id": "1946",
+              "name": "Langsung Cinta",
+              "base_id": "214",
+              "sort": "2"
+            },
+            {
+              "id": "1770",
+              "name": "Cinta Toksik",
+              "base_id": "192",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            },
+            {
+              "id": "2442",
+              "name": "Ma Xiaoyu",
+              "base_id": "251",
+              "sort": "6"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_47.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_CDghH8MAbmbm3WRO.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2858",
+          "hot_num": "241.9K",
+          "rank_type": 3,
+          "rank_order": 8,
+          "subscript": "1",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "80",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Yeji terlempar ke dunia novel yang dibacanya, menjadi gadis tak berdaya yang dulu mengejar cinta hingga putus asa. Kini, dia menolak nasib itu. Dia menikah kontrak dengan pria terkaya, Wevi. Meski awalnya canggung, cinta keduanya perlahan tumbuh, mengubah takdir Yeji selamanya.",
+          "language_id": "6",
+          "tag_name": [
+            "Hubungan Kontrak",
+            "Nikah Dulu",
+            "Lintas Waktu",
+            "CEO/ Miliarder",
+            "Perkotaan",
+            "Romantis",
+            "Zhao Tingyi",
+            "Deng Lingshu"
+          ],
+          "recommend_config_id": "0",
+          "title": "Tak Bisa Melepasmu",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1756890174_bmneDakEEe.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "2858",
+          "tag_list_with_id": [
+            {
+              "id": "1730",
+              "name": "Hubungan Kontrak",
+              "base_id": "187",
+              "sort": "0"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "1"
+            },
+            {
+              "id": "1802",
+              "name": "Lintas Waktu",
+              "base_id": "196",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "4"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "5"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "6"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "7"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1756890180_i7QeKHSJbT.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843009_acpooUvKFd167lCI.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5672",
+          "hot_num": "214.8K",
+          "rank_type": 3,
+          "rank_order": 9,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Tokoh ensemble",
+            "Reinkarnasi",
+            "Balik alur",
+            "Reuni",
+            "Komedi Ringan​",
+            "Heroine",
+            "Bos besar",
+            "Keluarga Kaya",
+            "Wu Tianhao",
+            "Wang Daotie",
+            "Li Keyi",
+            "Zeng Hui",
+            "Zhao Tingyi",
+            "Wang Peiyan",
+            "Cai Xinyang",
+            "Drama Kepuasan",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "1",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1770994215_KmDXYB7xmD.jpg",
+          "id": "5672",
+          "chapter_split_version": "0",
+          "title": "Nenek Muda: Kebangkitan Keluarga 4",
+          "upload_num": "94",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1770994220_7CD4hkPPP3.jpg",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2996",
+              "name": "Tokoh ensemble",
+              "base_id": "279",
+              "sort": "0"
+            },
+            {
+              "id": "1834",
+              "name": "Reinkarnasi",
+              "base_id": "200",
+              "sort": "1"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "2"
+            },
+            {
+              "id": "1874",
+              "name": "Reuni",
+              "base_id": "205",
+              "sort": "3"
+            },
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "4"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "5"
+            },
+            {
+              "id": "2977",
+              "name": "Bos besar",
+              "base_id": "275",
+              "sort": "6"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "7"
+            },
+            {
+              "id": "3151",
+              "name": "Wu Tianhao",
+              "base_id": "299",
+              "sort": "8"
+            },
+            {
+              "id": "2453",
+              "name": "Wang Daotie",
+              "base_id": "252",
+              "sort": "9"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "10"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "11"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "12"
+            },
+            {
+              "id": "2563",
+              "name": "Wang Peiyan",
+              "base_id": "262",
+              "sort": "13"
+            },
+            {
+              "id": "2745",
+              "name": "Cai Xinyang",
+              "base_id": "272",
+              "sort": "14"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "15"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "16"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Bagus bereinkarnasi jadi Saputra dari Keluarga Santosa di Kota Jira. Karena jiwanya tak utuh, ia pendiam, namun selalu mendekati Rossa. Keluarga Jaya salah paham dan menghalangi, hingga terungkap pengorbanan masa lalunya.\n",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843009_09Dj6bUc8Ccu2oRR.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "493",
+          "hot_num": "189.6K",
+          "rank_type": 3,
+          "rank_order": 10,
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1739502148_DZJBkxcGwK.jpg",
+          "subscript": "1",
+          "upload_num": "75",
+          "status": "2",
+          "introduce": "Keluarga Judy mencari kembali putri kandungnya, sedangkan Cila Jefry diusir dari rumah dan suami bersama kekasih gelapnya ke luar negeri. Cila Jefry pun terus bersama simpanannya, Gary. Lalu, suami pun kembali. Cila dan Gary pun harus putus, kemudian mendapati Gary, rupanya adalah tuan muda yang sangat terkenal.",
+          "playlet_status": "1",
+          "tag_list_with_id": [
+            {
+              "id": "1631",
+              "name": "Identitas Rahasia",
+              "base_id": "174",
+              "sort": "0"
+            },
+            {
+              "id": "1858",
+              "name": "Cinta Diam",
+              "base_id": "203",
+              "sort": "1"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "2"
+            },
+            {
+              "id": "2070",
+              "name": "Selingkuhan",
+              "base_id": "182",
+              "sort": "3"
+            },
+            {
+              "id": "1818",
+              "name": "Salah Paham",
+              "base_id": "198",
+              "sort": "4"
+            },
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "5"
+            },
+            {
+              "id": "2519",
+              "name": "Han Yutong",
+              "base_id": "258",
+              "sort": "6"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "7"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "8"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "9"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "10"
+            }
+          ],
+          "production_type": "3",
+          "slogan": "",
+          "language_id": "6",
+          "gender_type": "2",
+          "has_collection": "0",
+          "recommend_config_id": "54",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_53.jpg",
+          "id": "493",
+          "tag_name": [
+            "Identitas Rahasia",
+            "Cinta Diam",
+            "Manis",
+            "Selingkuhan",
+            "Salah Paham",
+            "Komedi Ringan​",
+            "Han Yutong",
+            "Zeng Hui",
+            "Drama Kepuasan",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "app_tag_name": "",
+          "chapter_split_version": "0",
+          "title": "Pria Simpananku Orang Hebat",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_LZQEBSqscnkqSKW5.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "487",
+          "hot_num": "186.0K",
+          "rank_type": 3,
+          "rank_order": 11,
+          "gender_type": "2",
+          "language_id": "6",
+          "status": "2",
+          "cover_square": "",
+          "tag_name": [
+            "Putri Palsu",
+            "Pengkhianatan",
+            "Kesadaran Perempuan​",
+            "CEO/ Miliarder",
+            "Cinderella",
+            "Deng Lingshu",
+            "Zeng Hui",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "54",
+          "chapter_split_version": "0",
+          "introduce": "Lily Benneth ke kota untuk mengunjungi adiknya, Nana, namun mendapati Nana hidup mewah dengan berpura-pura sebagai dirinya.\nSementara itu, Lily bekerja di restoran Grup Vuton, menghadapi tekanan dari Eldrik. Namun, dia menarik perhatian sang CEO, Vale Vuton. Kebenaran akhirnya terungkap oleh ibu angkatnya, Nana menerima konsekuensinya, dan Lily berakhir bahagia bersama Vale.",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1739501785_zsaF7GGDbb.jpg",
+          "id": "487",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Cintaku Hadir Di Kehidupan Selanjutnya",
+          "app_tag_name": "",
+          "upload_num": "77",
+          "tag_list_with_id": [
+            {
+              "id": "2343",
+              "name": "Putri Palsu",
+              "base_id": "242",
+              "sort": "0"
+            },
+            {
+              "id": "1810",
+              "name": "Pengkhianatan",
+              "base_id": "197",
+              "sort": "1"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "2"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "3"
+            },
+            {
+              "id": "1671",
+              "name": "Cinderella",
+              "base_id": "179",
+              "sort": "4"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "5"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_Fm3w1NaICw60l1by.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2186",
+          "hot_num": "182.2K",
+          "rank_type": 3,
+          "rank_order": 12,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Lintas Waktu",
+            "Balik alur",
+            "Heroine",
+            "Bos besar",
+            "Wang Daotie",
+            "Wu Tianhao",
+            "Wang Peiyan",
+            "Zhao Tingyi",
+            "Li Keyi",
+            "Drama Kepuasan",
+            "Keluarga",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "1",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1753350963_Zztp8DkPS3.jpg",
+          "id": "2186",
+          "chapter_split_version": "0",
+          "title": "Nenek Muda: Kebangkitan Keluarga 2",
+          "upload_num": "100",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1753348823_S7rpGSDnrT.jpg",
+          "recommend_config_id": "69",
+          "tag_list_with_id": [
+            {
+              "id": "1802",
+              "name": "Lintas Waktu",
+              "base_id": "196",
+              "sort": "0"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "1"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "2"
+            },
+            {
+              "id": "2977",
+              "name": "Bos besar",
+              "base_id": "275",
+              "sort": "3"
+            },
+            {
+              "id": "2453",
+              "name": "Wang Daotie",
+              "base_id": "252",
+              "sort": "4"
+            },
+            {
+              "id": "3151",
+              "name": "Wu Tianhao",
+              "base_id": "299",
+              "sort": "5"
+            },
+            {
+              "id": "2563",
+              "name": "Wang Peiyan",
+              "base_id": "262",
+              "sort": "6"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "7"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "8"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "9"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "10"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "11"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Pada tahun 1955, Profesor Rossa meninggal dunia secara tak terduga. Setelah membuka mata, dia justru terbangun di tubuh seorang gadis SMA berusia delapan belas tahun yang memiliki nama dan marga yang sama, tujuh puluh tahun kemudian. Kini, putranya telah menjadi seorang ketua direksi berusia lebih dari tujuh puluh tahun, dan dia bahkan memiliki beberapa cicit laki-laki yang tampan. Dalam proses menyesuaikan diri dengan kehidupan barunya, Profesor Rossa mulai menertibkan para cicitnya yang nakal dan tidak berbakti dengan kecerdasan dan kemampuannya. Di era yang benar-benar baru ini, ia pun menemukan keindahan hidupnya sendiri!",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_NNUsKBPVicQVsDRQ.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2984",
+          "hot_num": "163.3K",
+          "rank_type": 3,
+          "rank_order": 13,
+          "subscript": "1",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "42",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Setelah Terlahir Kembali, Mila Widyaningsih Menemukan Penderitaan Kehamilannya Telah Dipindahkan ke Dirinya oleh Mega Hidayanto melalui Ilhitam. Setelah Penyelidikan Tak Membuahkan Hasil, Ia Memanfaatkan Aromaterapi untuk Mendeteksi Racun Kemandulan dan Obat Peluntur yang Tersembunyi, Akhirnya Mengetahui Media Santet Itu. Diam-diam, Ia Membalikkan Kontrol atas Makanan dan Kehidupan Sehari-hari Mega Hidayanto, Membuatnya Perlahan Terguncang Mental. Pada Hari Persalinan, Mila Menyerang Balik dengan Secangkir Teh Empedu Es yang Mematikan, Membongkar Semua Kebenaran sebelum Pergi ke Selatan Membawa Maharnya.",
+          "language_id": "6",
+          "tag_name": [
+            "Reinkarnasi",
+            "Cinta Segitiga",
+            "Balik alur",
+            "Heroine",
+            "Dendam",
+            "Era Republik"
+          ],
+          "recommend_config_id": "0",
+          "title": "Mila Pembasmi Ilhitam",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1757494565_tdStEcyhJh.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "2984",
+          "tag_list_with_id": [
+            {
+              "id": "1834",
+              "name": "Reinkarnasi",
+              "base_id": "200",
+              "sort": "0"
+            },
+            {
+              "id": "1906",
+              "name": "Cinta Segitiga",
+              "base_id": "209",
+              "sort": "1"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "2"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "3"
+            },
+            {
+              "id": "1560",
+              "name": "Dendam",
+              "base_id": "165",
+              "sort": "4"
+            },
+            {
+              "id": "1496",
+              "name": "Era Republik",
+              "base_id": "157",
+              "sort": "5"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1757494569_fWG7xXTFan.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843007_x8VODzdJJNE3rMyp.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "4187",
+          "hot_num": "153.8K",
+          "rank_type": 3,
+          "rank_order": 14,
+          "playlet_status": "1",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1763977100_a54Xfcwwry.jpg",
+          "id": "4187",
+          "app_tag_name": "",
+          "subscript": "1",
+          "status": "2",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "tag_list_with_id": [
+            {
+              "id": "2307",
+              "name": "Komedi Ringan​",
+              "base_id": "239",
+              "sort": "0"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "1"
+            },
+            {
+              "id": "1986",
+              "name": "Dua tokoh kuat",
+              "base_id": "219",
+              "sort": "2"
+            },
+            {
+              "id": "1826",
+              "name": "Nikah Dulu",
+              "base_id": "199",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "2442",
+              "name": "Ma Xiaoyu",
+              "base_id": "251",
+              "sort": "5"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "introduce": "Resti, ketua organisasi pembunuh, masuk ke novel dan jadi istri korban Yudi. Ia ingin cepat cerai dan kembali ke dunia nyata, tapi rencana gagal karena suara hatinya terbongkar. Ia terpaksa pura-pura manja sambil adu strategi, malah bikin Yudi jatuh cinta berat.",
+          "title": "Nyonya Muda Si Mulut Sial",
+          "upload_num": "80",
+          "slogan": "",
+          "has_collection": "0",
+          "recommend_config_id": "0",
+          "tag_name": [
+            "Komedi Ringan​",
+            "Romantis",
+            "Dua tokoh kuat",
+            "Nikah Dulu",
+            "CEO/ Miliarder",
+            "Ma Xiaoyu",
+            "Deng Lingshu",
+            "Perkotaan"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1763977097_ByYBYPNMWk.jpg",
+          "language_id": "6",
+          "gender_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_3VNTHBoMqCCjkbgq.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "2537",
+          "hot_num": "148.6K",
+          "rank_type": 3,
+          "rank_order": 15,
+          "upload_num": "71",
+          "tag_name": [
+            "Cinta Semalam",
+            "Salah Paham",
+            "​​Menikah Lagi​​",
+            "Manis",
+            "Cinta Diam",
+            "CEO/ Miliarder",
+            "Romantis",
+            "Perkotaan",
+            "Deng Lingshu"
+          ],
+          "app_tag_id": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1755250892_TQAPmGr8Rz.jpg",
+          "recommend_config_id": "54",
+          "id": "2537",
+          "gender_type": "2",
+          "language_id": "6",
+          "cover_square": "",
+          "status": "2",
+          "app_tag_name": "",
+          "has_collection": "0",
+          "playlet_status": "1",
+          "subscript": "1",
+          "title": "Nikah Kontrak Berujung Cinta",
+          "production_type": "3",
+          "introduce": "Nia yang baru bercerai melepas duka di klub malam dan tak sengaja bersama Kris. Keesokan harinya, mereka menikah. Tidak disangka, Kris adalah Wakil CEO di tempat Nia bekerja dan diam-diam telah mencintainya sejak lama.",
+          "chapter_split_version": "0",
+          "slogan": "",
+          "tag_list_with_id": [
+            {
+              "id": "1738",
+              "name": "Cinta Semalam",
+              "base_id": "188",
+              "sort": "0"
+            },
+            {
+              "id": "1818",
+              "name": "Salah Paham",
+              "base_id": "198",
+              "sort": "1"
+            },
+            {
+              "id": "2318",
+              "name": "​​Menikah Lagi​​",
+              "base_id": "240",
+              "sort": "2"
+            },
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "3"
+            },
+            {
+              "id": "1858",
+              "name": "Cinta Diam",
+              "base_id": "203",
+              "sort": "4"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            },
+            {
+              "id": "2475",
+              "name": "Deng Lingshu",
+              "base_id": "254",
+              "sort": "8"
+            }
+          ],
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_1APa7GXoF5byWHzI.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "376",
+          "hot_num": "141.5K",
+          "rank_type": 3,
+          "rank_order": 16,
+          "gender_type": "2",
+          "language_id": "6",
+          "status": "2",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_48.jpg",
+          "tag_name": [
+            "Paruh Baya",
+            "Nikah Kilat",
+            "Balik alur",
+            "Terpisah Keluarga",
+            "CEO/ Miliarder",
+            "Keluarga",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "recommend_config_id": "58",
+          "chapter_split_version": "0",
+          "introduce": "Setelah Susi Darma bercerai dan anaknya hilang, dia pun membesarkan putranya seorang diri. Demi menyelamatkan putranya dan mendonorkan ginjal, putranya memilih ibunya dan bercerai. Di sisi lain, Susi Darma menolong seorang wanita dan malah dijodohkan dengan Pak Jonan, orang terkaya. Kemudian, mendapati wanita tersebut adalah putrinya yang lama menghilang. Akhirnya, mereka sekeluarga pun berkumpul kembali.",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1737704274_bbETSTJ4nh.png",
+          "id": "376",
+          "playlet_status": "1",
+          "slogan": "",
+          "has_collection": "0",
+          "app_tag_id": "0",
+          "title": "Menikah lagi dengan Ketua Direksi",
+          "app_tag_name": "",
+          "upload_num": "69",
+          "tag_list_with_id": [
+            {
+              "id": "1663",
+              "name": "Paruh Baya",
+              "base_id": "178",
+              "sort": "0"
+            },
+            {
+              "id": "1746",
+              "name": "Nikah Kilat",
+              "base_id": "189",
+              "sort": "1"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "2"
+            },
+            {
+              "id": "1898",
+              "name": "Terpisah Keluarga",
+              "base_id": "208",
+              "sort": "3"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "4"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "5"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "6"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "7"
+            }
+          ],
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_J5Zp43gOhVG8U3w3.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "495",
+          "hot_num": "133.7K",
+          "rank_type": 3,
+          "rank_order": 17,
+          "subscript": "1",
+          "gender_type": "2",
+          "playlet_status": "1",
+          "upload_num": "65",
+          "production_type": "3",
+          "chapter_split_version": "0",
+          "app_tag_name": "",
+          "introduce": "Sion Sona melindungi istrinya, Nita Wara, yang perlahan-lahan mulai luluh oleh sikap lelaki itu. Eno yang mengetahui bahwa Nita sudah berpindah hati merasa tidak terima dan akhirnya membunuh ayahnya Nita dan menuduh Sion. Ketiganya terlibat berbagai masalah hingga akhirnya Sion bisa mendapatkan kembali cinta istrinya seperti yang diinginkannya, dan keduanya akhirnya bersatu.",
+          "language_id": "6",
+          "tag_name": [
+            "Mafia",
+            "Obsesif",
+            "Langsung Cinta",
+            "Cinta Toksik",
+            "Romantis",
+            "Perkotaan",
+            "Ma Xiaoyu"
+          ],
+          "recommend_config_id": "54",
+          "title": "Istri Kesayangan Mafia",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1739502231_p7ayaesGw5.jpg",
+          "status": "2",
+          "has_collection": "0",
+          "id": "495",
+          "tag_list_with_id": [
+            {
+              "id": "1615",
+              "name": "Mafia",
+              "base_id": "172",
+              "sort": "0"
+            },
+            {
+              "id": "1922",
+              "name": "Obsesif",
+              "base_id": "211",
+              "sort": "1"
+            },
+            {
+              "id": "1946",
+              "name": "Langsung Cinta",
+              "base_id": "214",
+              "sort": "2"
+            },
+            {
+              "id": "1770",
+              "name": "Cinta Toksik",
+              "base_id": "192",
+              "sort": "3"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "4"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "5"
+            },
+            {
+              "id": "2442",
+              "name": "Ma Xiaoyu",
+              "base_id": "251",
+              "sort": "6"
+            }
+          ],
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/playletCover/playlet_square_47.jpg",
+          "app_tag_id": "0",
+          "slogan": "",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_5VSMbrtHaKxTiMOX.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "5916",
+          "hot_num": "128.9K",
+          "rank_type": 3,
+          "rank_order": 18,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Manis",
+            "Beda Usia",
+            "Penebusan",
+            "Karier",
+            "Kesadaran Perempuan​",
+            "CEO/ Miliarder",
+            "Zhao Tingyi",
+            "Romantis",
+            "Perkotaan"
+          ],
+          "playlet_status": "1",
+          "subscript": "0",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1773195246_FhGHQpSJzK.jpg",
+          "id": "5916",
+          "chapter_split_version": "0",
+          "title": "Masa Bersinarku (Dubbing)",
+          "upload_num": "81",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1773195258_aJkzNjFada.jpg",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1762",
+              "name": "Manis",
+              "base_id": "191",
+              "sort": "0"
+            },
+            {
+              "id": "1842",
+              "name": "Beda Usia",
+              "base_id": "201",
+              "sort": "1"
+            },
+            {
+              "id": "1850",
+              "name": "Penebusan",
+              "base_id": "202",
+              "sort": "2"
+            },
+            {
+              "id": "1970",
+              "name": "Karier",
+              "base_id": "217",
+              "sort": "3"
+            },
+            {
+              "id": "2252",
+              "name": "Kesadaran Perempuan​",
+              "base_id": "234",
+              "sort": "4"
+            },
+            {
+              "id": "1583",
+              "name": "CEO/ Miliarder",
+              "base_id": "168",
+              "sort": "5"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "6"
+            },
+            {
+              "id": "1504",
+              "name": "Romantis",
+              "base_id": "158",
+              "sort": "7"
+            },
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "8"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Pada hari Mia Wijaya resmi jadi karyawan tetap, dia tiba-tiba dipecat dan bertemu Eko Utomo secara tak terduga, mengubah jalannya hidupnya. Berkat rekomendasi Eko, Mia berhasil mendapat kesempatan di perusahaan konsultan top Maxwell. Dengan ketangguhan luar biasa, dia berhasil bertahan dan berkembang, dari seorang pemula menjadi analis bisnis yang mandiri. Di tengah persaingan di kantor, Mia dan Eko saling menyukai dan akhirnya bersama. Menyadari bahwa di balik penampilan sempurna Eko, dia takut jatuh cinta dan tak bisa mengekspresikan perasaannya, Mia dengan kesabaran dan optimisme membimbingnya perlahan-lahan, membuka hatinya yang tertutup. Eko mulai mencoba melepaskan lapisan dingin itu, belajar untuk rileks, menerima ketidaksempurnaan dirinya, dan belajar mengekspresikan cinta.",
+          "slogan": "",
+          "production_type": "2",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_1tKaGwNysRbdHhSB.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        },
+        {
+          "playlet_id": "3674",
+          "hot_num": "122.6K",
+          "rank_type": 3,
+          "rank_order": 19,
+          "app_tag_id": "0",
+          "tag_name": [
+            "Perkotaan",
+            "Drama Kepuasan",
+            "Keluarga",
+            "Keluarga Kaya",
+            "Bos besar",
+            "Wang Peiyan",
+            "Wu Tianhao",
+            "Meng Na",
+            "Zhao Tingyi",
+            "Zeng Hui",
+            "Li Keyi",
+            "Wang Daotie",
+            "Heroine",
+            "Balik alur",
+            "Alpha"
+          ],
+          "playlet_status": "1",
+          "subscript": "1",
+          "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1761378032_DxkQns6kb2.jpg",
+          "id": "3674",
+          "chapter_split_version": "0",
+          "title": "Nenek Muda: Kebangkitan Keluarga 3",
+          "upload_num": "84",
+          "app_tag_name": "",
+          "language_id": "6",
+          "has_collection": "0",
+          "cover_square": "https://zshipubcdn.farsunpteltd.com/playlet/1761379448_QMRzEDew6K.jpg",
+          "recommend_config_id": "0",
+          "tag_list_with_id": [
+            {
+              "id": "1464",
+              "name": "Perkotaan",
+              "base_id": "153",
+              "sort": "0"
+            },
+            {
+              "id": "2285",
+              "name": "Drama Kepuasan",
+              "base_id": "237",
+              "sort": "1"
+            },
+            {
+              "id": "1512",
+              "name": "Keluarga",
+              "base_id": "159",
+              "sort": "2"
+            },
+            {
+              "id": "1639",
+              "name": "Keluarga Kaya",
+              "base_id": "175",
+              "sort": "3"
+            },
+            {
+              "id": "2977",
+              "name": "Bos besar",
+              "base_id": "275",
+              "sort": "4"
+            },
+            {
+              "id": "2563",
+              "name": "Wang Peiyan",
+              "base_id": "262",
+              "sort": "5"
+            },
+            {
+              "id": "3151",
+              "name": "Wu Tianhao",
+              "base_id": "299",
+              "sort": "6"
+            },
+            {
+              "id": "3031",
+              "name": "Meng Na",
+              "base_id": "289",
+              "sort": "7"
+            },
+            {
+              "id": "2552",
+              "name": "Zhao Tingyi",
+              "base_id": "261",
+              "sort": "8"
+            },
+            {
+              "id": "2508",
+              "name": "Zeng Hui",
+              "base_id": "257",
+              "sort": "9"
+            },
+            {
+              "id": "2486",
+              "name": "Li Keyi",
+              "base_id": "255",
+              "sort": "10"
+            },
+            {
+              "id": "2453",
+              "name": "Wang Daotie",
+              "base_id": "252",
+              "sort": "11"
+            },
+            {
+              "id": "1687",
+              "name": "Heroine",
+              "base_id": "181",
+              "sort": "12"
+            },
+            {
+              "id": "2002",
+              "name": "Balik alur",
+              "base_id": "221",
+              "sort": "13"
+            },
+            {
+              "id": "1794",
+              "name": "Alpha",
+              "base_id": "195",
+              "sort": "14"
+            }
+          ],
+          "status": "2",
+          "gender_type": "2",
+          "introduce": "Tahun 1955, Profesor Rossa meninggal secara tak terduga. Ia terbangun di tubuh gadis 18 tahun bernama sama, 70 tahun kemudian. Putranya kini jadi chairman berusia 70-an, dan ia telah punya beberapa cucu tampan. Musim ini, Rossa menghadapi peristiwa: putra ketiga Keluarga Jaya jadi bodoh, Dimas patah hati, dan Negara Suar menahan dengan jahat. Tapi, dengan kebijaksanaan dan kemampuannya, ia berhasil mengatasi semuanya!\n",
+          "slogan": "",
+          "production_type": "3",
+          "rank_url": "https://zshipubcdn.farsunpteltd.com/playlet/1750843008_zEgi6ggioHm5INrY.png",
+          "hot_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762408951_ESj829SMsWEa98QM.png"
+        }
+      ]
+    }
+  ],
+  "extra": {},
+  "request_id": "1523297d14c19723eb90b2701cd5fe53",
+  "trace_id": "ea908dd557f659b97384169e0ec10f29"
+}

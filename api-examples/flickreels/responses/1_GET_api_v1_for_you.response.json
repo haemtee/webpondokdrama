@@ -1,0 +1,732 @@
+{
+  "status_code": 1,
+  "msg": "成功",
+  "data": {
+    "list": [
+      {
+        "playlet_id": "3108",
+        "playlet_title": "Ayah Pacarku, Suamiku",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1758184949_aS3nfwTBky.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1758184949_aS3nfwTBky.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 88,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 4,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/0e56d73cd0c4b2693dc1f2276b5af990.webp?verify=1776597490-4qh06PfJPN0totf8qEZWLL1OSBeiUd4Gq%2FgBcbyGu7U%3D",
+            "duration": 70,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1758188785_hls_55734.m3u8?verify=1776514690-hvuGUr9SrIHW%2FdDWAZVZwxQtWFPG2pBciVKuUnB7FZo%3D",
+            "down_url": "/playlet-hls/1758188785_hls_55734.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "3108",
+            "chapter_title": "Ayah Pacarku, Suamiku-EP.4",
+            "chapter_id": "220161",
+            "e_refer_reel_episode": "220160",
+            "e_refer_reel_episode_num": 3,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Ayah Pacarku, Suamiku"
+          },
+          {
+            "chapter_num": 5,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/a3e6987d3c6bb13da79be687fbbda8ea.webp?verify=1776597490-l11Pwe%2FvFeDUJRM%2FrI96lSbTZvg4gMD%2BiqdHES5eNN8%3D",
+            "duration": 132,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1758188785_hls_75460.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "3108",
+            "chapter_title": "Ayah Pacarku, Suamiku-EP.5",
+            "chapter_id": "220162",
+            "e_refer_reel_episode": "220161",
+            "e_refer_reel_episode_num": 4,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Ayah Pacarku, Suamiku"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1842,
+            "tag_name": "Beda Usia"
+          },
+          {
+            "tag_id": 1850,
+            "tag_name": "Penebusan"
+          }
+        ],
+        "rank_type": 0,
+        "rank_tag": "",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_v754xyA8PJjRCvy4.png",
+        "praise_num": "547.4K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "6426",
+        "playlet_title": "Dendam Tabib",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1776072186_ik2CkQA25W.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1776072186_ik2CkQA25W.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 73,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 4,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/9a4232d64bf211843fab0f2e078083c1.webp?verify=1776597490-6QVQ%2BEdGJwKKHF%2B8gD%2FM25S2nW%2BGswWU0hc%2FTZA3hb4%3D",
+            "duration": 142,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/hls_1776061339_4_39863.m3u8?verify=1776514690-YnqlxVDhf1gHC76wjMkwbmQCDyqSxgOmfBT2ciOOIRc%3D",
+            "down_url": "/playlet/1776061169161_d6a49770_4.mp4",
+            "hls_status": "1",
+            "resolution": "0",
+            "playlet_id": "6426",
+            "chapter_title": "Dendam Tabib-EP.4",
+            "chapter_id": "456672",
+            "e_refer_reel_episode": "456671",
+            "e_refer_reel_episode_num": 3,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Dendam Tabib"
+          },
+          {
+            "chapter_num": 5,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/e4fa4d6897961fab7406ac6e38fce110.webp?verify=1776597490-LGQtmJ95S31S8oXGFDeAKz8XUeAPB33daFCBOS4xqCU%3D",
+            "duration": 187,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet/1776061186977_7868b6d3_5.mp4",
+            "hls_status": "1",
+            "resolution": "0",
+            "playlet_id": "6426",
+            "chapter_title": "Dendam Tabib-EP.5",
+            "chapter_id": "456673",
+            "e_refer_reel_episode": "456672",
+            "e_refer_reel_episode_num": 4,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Dendam Tabib"
+          }
+        ],
+        "tag_list": [],
+        "rank_type": 2,
+        "rank_tag": "Serial Baru No.10",
+        "subscript_url": "",
+        "praise_num": "776.1K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "1815",
+        "playlet_title": "Terjebak Cinta Lama",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1751278138_htstaaRKdw.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1751278138_htstaaRKdw.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 63,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 7,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/9e0cd190cf5dcbbfd488df136cdda6c4.webp?verify=1776597490-b0g1M0R9MxBiM0kuRuy08vvtVNYNNpZAit4IFCfeQ8k%3D",
+            "duration": 74,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/hls_1751266484_7_52637.m3u8?verify=1776514690-7F52%2FRNC%2FJzBHv0lq0zFM8tPyVmmd4kcb9Wa7ctuhxc%3D",
+            "down_url": "/playlet/1751266340861_9351c6ae_7.mp4",
+            "hls_status": "1",
+            "resolution": "0",
+            "playlet_id": "1815",
+            "chapter_title": "Terjebak Cinta Lama-EP.7",
+            "chapter_id": "130561",
+            "e_refer_reel_episode": "130560",
+            "e_refer_reel_episode_num": 6,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Terjebak Cinta Lama"
+          },
+          {
+            "chapter_num": 8,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/10bb550bf941321c010c50695eb1370a.webp?verify=1776597490-SoFgWHK8xuJ7cgL%2BF3YB3TFC0KlQvjsYm5h0C8zSSAc%3D",
+            "duration": 114,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet/1751266341317_ece53998_8.mp4",
+            "hls_status": "1",
+            "resolution": "0",
+            "playlet_id": "1815",
+            "chapter_title": "Terjebak Cinta Lama-EP.8",
+            "chapter_id": "130562",
+            "e_refer_reel_episode": "130561",
+            "e_refer_reel_episode_num": 7,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Terjebak Cinta Lama"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1762,
+            "tag_name": "Manis"
+          },
+          {
+            "tag_id": 1866,
+            "tag_name": "Balikan"
+          }
+        ],
+        "rank_type": 0,
+        "rank_tag": "",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_v754xyA8PJjRCvy4.png",
+        "praise_num": "507.6K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "2984",
+        "playlet_title": "Mila Pembasmi Ilhitam",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1757494565_tdStEcyhJh.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1757494565_tdStEcyhJh.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 42,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 7,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/31254bfa8a038e7ffade14642a553451.webp?verify=1776597490-tIEjcfb%2B11Y3yqnuwHxThnE9BUJprI4KMkZxlhi298I%3D",
+            "duration": 87,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1757412791_hls_10300.m3u8?verify=1776514690-dj7UeDbaM%2Bpt83cqgWOlAlAU5QBAeWdRNxPKH6URZ1M%3D",
+            "down_url": "/playlet-hls/1757412791_hls_10300.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "2984",
+            "chapter_title": "Mila Pembasmi Ilhitam-EP.7",
+            "chapter_id": "210469",
+            "e_refer_reel_episode": "210468",
+            "e_refer_reel_episode_num": 6,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Mila Pembasmi Ilhitam"
+          },
+          {
+            "chapter_num": 8,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/a801629564e2a7a116e4e4dc7029368c.webp?verify=1776597490-DhkNWfYCmL5KTNUWVOi8ZmN8k%2BlfaDxMyqWpn1E7zcE%3D",
+            "duration": 96,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1757412791_hls_78043.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "2984",
+            "chapter_title": "Mila Pembasmi Ilhitam-EP.8",
+            "chapter_id": "210470",
+            "e_refer_reel_episode": "210469",
+            "e_refer_reel_episode_num": 7,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Mila Pembasmi Ilhitam"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1834,
+            "tag_name": "Reinkarnasi"
+          },
+          {
+            "tag_id": 1906,
+            "tag_name": "Cinta Segitiga"
+          }
+        ],
+        "rank_type": 3,
+        "rank_tag": "Trending No.14",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_v754xyA8PJjRCvy4.png",
+        "praise_num": "952.2K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "3208",
+        "playlet_title": "Aroma Kasih Sayang Suamiku",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1758709790_hCiE62SJSd.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1758709790_hCiE62SJSd.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 76,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 8,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/995a25c739fe2c088bfb3e2aa361f426.webp?verify=1776597490-9i%2FjUhr37e%2FV8RBxY8azEaYEcCgZbnnVnEJ80ElEnf4%3D",
+            "duration": 85,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1758615688_hls_53253.m3u8?verify=1776514690-%2FafDFPQcbgZc4bcHHR3erKMTmDYe8Sslifj3yc4Yz3Q%3D",
+            "down_url": "/playlet-hls/1758615688_hls_53253.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "3208",
+            "chapter_title": "Aroma Kasih Sayang Suamiku-EP.8",
+            "chapter_id": "226444",
+            "e_refer_reel_episode": "226443",
+            "e_refer_reel_episode_num": 7,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Aroma Kasih Sayang Suamiku"
+          },
+          {
+            "chapter_num": 9,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/cf7cef8ab31ad8dd31aa55d60f4b0e7b.webp?verify=1776597490-CVHRjAgb5sF4tu1%2FQZnytqQ3uyxGFfDGLjjVzxqGo50%3D",
+            "duration": 89,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1758615688_hls_66305.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "3208",
+            "chapter_title": "Aroma Kasih Sayang Suamiku-EP.9",
+            "chapter_id": "226445",
+            "e_refer_reel_episode": "226444",
+            "e_refer_reel_episode_num": 8,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Aroma Kasih Sayang Suamiku"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1906,
+            "tag_name": "Cinta Segitiga"
+          },
+          {
+            "tag_id": 1858,
+            "tag_name": "Cinta Diam"
+          }
+        ],
+        "rank_type": 0,
+        "rank_tag": "",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_v754xyA8PJjRCvy4.png",
+        "praise_num": "645.9K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "2559",
+        "playlet_title": "Demi Memilikimu",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1755511896_hSBsfFeMPy.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1755511896_hSBsfFeMPy.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 100,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 1,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/c8f345b072824834b67cb76e419f4532.webp?verify=1776597490-OXujHUxbZRDMYnkVVox7y%2Fxk8Jt3GLCnd7Ct%2FXg1FA0%3D",
+            "duration": 118,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/hls_1755502724_1_25117.m3u8?verify=1776514690-n3AQamOHn4a%2Bg2fFDjsIemUi3ThCs9MrmnNjQ4KUS5Q%3D",
+            "down_url": "/playlet/1755502082135_c1a894be_1.mp4",
+            "hls_status": "1",
+            "resolution": "0",
+            "playlet_id": "2559",
+            "chapter_title": "Demi Memilikimu-EP.1",
+            "chapter_id": "181310",
+            "e_refer_reel_episode": "0",
+            "e_refer_reel_episode_num": 0,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Demi Memilikimu"
+          },
+          {
+            "chapter_num": 2,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/c25da2cd23b520efd58cd67a73eb47fd.webp?verify=1776597490-Xukgwlny0%2B1vWUaaAITR3%2FYR96Jcjx8hvbAe1lfivpk%3D",
+            "duration": 69,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet/1755502082135_d42abb75_2.mp4",
+            "hls_status": "1",
+            "resolution": "0",
+            "playlet_id": "2559",
+            "chapter_title": "Demi Memilikimu-EP.2",
+            "chapter_id": "181311",
+            "e_refer_reel_episode": "181310",
+            "e_refer_reel_episode_num": 1,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Demi Memilikimu"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1738,
+            "tag_name": "Cinta Semalam"
+          },
+          {
+            "tag_id": 1762,
+            "tag_name": "Manis"
+          }
+        ],
+        "rank_type": 0,
+        "rank_tag": "",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_v754xyA8PJjRCvy4.png",
+        "praise_num": "524.4K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "6177",
+        "playlet_title": "Cinta yang Tak Biasa",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774600468_E5tZdd8yCw.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774600468_E5tZdd8yCw.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 77,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 4,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/7e135fde03ddc57031698af14accae8a.webp?verify=1776597490-pvL4FO7uQHEo5JigBvnPO8JqX%2FF0zdMfDQxlWnKOWkU%3D",
+            "duration": 129,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1774336963_hls_53579.m3u8?verify=1776514690-RJPxttSc9h8HiDtKrUpl7yGTslaV%2Fbx5T9C4nwR4QXU%3D",
+            "down_url": "/playlet-hls/1774336963_hls_53579.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "6177",
+            "chapter_title": "Cinta yang Tak Biasa-EP.4",
+            "chapter_id": "436356",
+            "e_refer_reel_episode": "436355",
+            "e_refer_reel_episode_num": 3,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Cinta yang Tak Biasa"
+          },
+          {
+            "chapter_num": 5,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/f362d7829bca7a7d24aedad6058e253a.webp?verify=1776597490-WuG%2F9JdXNJZhjXOjF57FDUbVpnoH79z%2Fm9vvDiCtePc%3D",
+            "duration": 124,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1774336963_hls_36771.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "6177",
+            "chapter_title": "Cinta yang Tak Biasa-EP.5",
+            "chapter_id": "436357",
+            "e_refer_reel_episode": "436356",
+            "e_refer_reel_episode_num": 4,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Cinta yang Tak Biasa"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1762,
+            "tag_name": "Manis"
+          },
+          {
+            "tag_id": 1826,
+            "tag_name": "Nikah Dulu"
+          }
+        ],
+        "rank_type": 2,
+        "rank_tag": "Serial Baru No.6",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_ITlFQVxRXj0qJ6o3.png",
+        "praise_num": "994.4K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "3164",
+        "playlet_title": "Sayang, Aku Benaran Amnesia",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1758275226_Z4X6x2N682.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1758275226_Z4X6x2N682.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 86,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 3,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/efed0a24dc9accdae446ce734e91b260.webp?verify=1776597490-IcdvknXOJ0gUKSLQLGREMAh2bOpRrMbJpWH%2BapnDetA%3D",
+            "duration": 88,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1758275700_hls_54880.m3u8?verify=1776514690-q%2FjaHQi%2FS5bYxmFqr4lxin9Y2CLA6UsknYxRxO9kNgk%3D",
+            "down_url": "/playlet-hls/1758275700_hls_54880.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "3164",
+            "chapter_title": "Sayang, Aku Benaran Amnesia-EP.3",
+            "chapter_id": "223539",
+            "e_refer_reel_episode": "223538",
+            "e_refer_reel_episode_num": 2,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Sayang, Aku Benaran Amnesia"
+          },
+          {
+            "chapter_num": 4,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/c3fac4fa4c59fe4c2bcddd614b0dbc3e.webp?verify=1776597490-YT1Rvu%2FZBfUGNXNJwVuZyvEVzKAjOiw4GuaOVLBg0pk%3D",
+            "duration": 191,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1758275700_hls_53924.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "3164",
+            "chapter_title": "Sayang, Aku Benaran Amnesia-EP.4",
+            "chapter_id": "223540",
+            "e_refer_reel_episode": "223539",
+            "e_refer_reel_episode_num": 3,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Sayang, Aku Benaran Amnesia"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 1583,
+            "tag_name": "CEO/ Miliarder"
+          },
+          {
+            "tag_id": 1607,
+            "tag_name": "Bayi Imut"
+          }
+        ],
+        "rank_type": 0,
+        "rank_tag": "",
+        "subscript_url": "https://zshipubcdn.farsunpteltd.com/playlet/1764729830_v754xyA8PJjRCvy4.png",
+        "praise_num": "26.6K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "5499",
+        "playlet_title": "Kebangkitan Gadis Jelek",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1770717807_FJbCA3nB8A.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1770717807_FJbCA3nB8A.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 80,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 10,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/0c0855a7facfb9811bbfa3179e93607a.webp?verify=1776597490-eAJXBCfUTXH%2Fgm1O%2Fs4GGJIbeYyzF9af0nPBMljyB3c%3D",
+            "duration": 153,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1770625683_hls_47282.m3u8?verify=1776514690-QVqnF4BKrGR7NdI0W9WuTAUmeCKFuzMTDDXCeRhrObE%3D",
+            "down_url": "/playlet-hls/1770625683_hls_47282.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "5499",
+            "chapter_title": "Kebangkitan Gadis Jelek-EP.10",
+            "chapter_id": "386850",
+            "e_refer_reel_episode": "386849",
+            "e_refer_reel_episode_num": 9,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Kebangkitan Gadis Jelek"
+          },
+          {
+            "chapter_num": 11,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/e1f4627bb50a3e0e094275bd274c5f9f.webp?verify=1776597490-4fVWmqBwaURUe2VBVhnMGrx1Smk1GYdWiuh8FI5nlpg%3D",
+            "duration": 125,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1770625683_hls_73133.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "5499",
+            "chapter_title": "Kebangkitan Gadis Jelek-EP.11",
+            "chapter_id": "386851",
+            "e_refer_reel_episode": "386850",
+            "e_refer_reel_episode_num": 10,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Kebangkitan Gadis Jelek"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 2002,
+            "tag_name": "Balik alur"
+          },
+          {
+            "tag_id": 2274,
+            "tag_name": "​​Balas Dendam"
+          },
+          {
+            "tag_id": 2252,
+            "tag_name": "Kesadaran Perempuan​"
+          }
+        ],
+        "rank_type": 1,
+        "rank_tag": "Serial Hot No.17",
+        "subscript_url": "",
+        "praise_num": "683.2K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      },
+      {
+        "playlet_id": "6194",
+        "playlet_title": "Pengasuh di Keluarga Konglomerat",
+        "cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774692162_RmZtyMhTap.jpg",
+        "process_cover": "https://zshipubcdn.farsunpteltd.com/playlet/1774692162_RmZtyMhTap.jpg?x-oss-process=image/resize,m_fill,w_180,h_234|image/sharpen,150",
+        "chapter_num": 96,
+        "is_collect": 0,
+        "chapters": [
+          {
+            "chapter_num": 4,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/b8f5ad4b829c1a036029a9e535a7c74d.webp?verify=1776597490-vp7ivAsL%2BrFYJ3Pd0ulEsHaQTdzaOhHbbq77AXo4j2A%3D",
+            "duration": 89,
+            "introduce": "",
+            "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1774430934_hls_86816.m3u8?verify=1776514690-t4UWmIlzYnc%2B%2BDlQSwnCSNG2wAnO22QSf%2BJCZNHbL%2BI%3D",
+            "down_url": "/playlet-hls/1774430934_hls_86816.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "6194",
+            "chapter_title": "Pengasuh di Keluarga Konglomerat-EP.4",
+            "chapter_id": "437600",
+            "e_refer_reel_episode": "437599",
+            "e_refer_reel_episode_num": 3,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Pengasuh di Keluarga Konglomerat"
+          },
+          {
+            "chapter_num": 5,
+            "chapter_cover": "https://zshipricf.farsunpteltd.com/playlet-hls-cover/00731e76bdda8fc3764183e4a6a63f21.webp?verify=1776597490-pZI6TsG0%2FM1QLDM3P4U8AhdlsidaEbRPyIfSJs4OF%2Bc%3D",
+            "duration": 110,
+            "introduce": "",
+            "hls_url": "",
+            "down_url": "/playlet-hls/1774430934_hls_75489.m3u8",
+            "hls_status": "1",
+            "resolution": "1",
+            "playlet_id": "6194",
+            "chapter_title": "Pengasuh di Keluarga Konglomerat-EP.5",
+            "chapter_id": "437601",
+            "e_refer_reel_episode": "437600",
+            "e_refer_reel_episode_num": 4,
+            "e_is_attribution_reel": false,
+            "e_is_pay_point": false,
+            "e_is_last_free_episode": false,
+            "e_play_type": "免费",
+            "e_is_vip_episode": false,
+            "e_VIP_level": "",
+            "e_chapter_coins": 0,
+            "playlet_title": "Pengasuh di Keluarga Konglomerat"
+          }
+        ],
+        "tag_list": [
+          {
+            "tag_id": 2387,
+            "tag_name": "Plot Twist​"
+          },
+          {
+            "tag_id": 1639,
+            "tag_name": "Keluarga Kaya"
+          },
+          {
+            "tag_id": 1671,
+            "tag_name": "Cinderella"
+          }
+        ],
+        "rank_type": 3,
+        "rank_tag": "Trending No.3",
+        "subscript_url": "",
+        "praise_num": "241.6K",
+        "alg_id": 1000,
+        "alg_name": "兜底算法"
+      }
+    ],
+    "page": "UlpBMzFCR3U4a00xNi9mMFltaXBDQT09",
+    "source": 2
+  },
+  "extra": {},
+  "request_id": "731cc785815f7529425cc06b8b9a15d9",
+  "trace_id": "80544a718010cb49419b73370c065246"
+}

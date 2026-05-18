@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": {
+    "episode": 1,
+    "id": 971136,
+    "duration": 166,
+    "h264": "https://tcdn-v.stardust-tv.com/%E8%8B%B1%E8%AF%AD/%E5%9C%A3%E8%AF%9E%E4%B8%88%E5%A4%AB_EN/h264/%E3%80%8AIts%20A%20Wonderful%20Hire%E3%80%8B_01/62e1768dd4b04b5a98a5d923f295ed8b.m3u8",
+    "h265": "https://tcdn-v.stardust-tv.com/%E8%8B%B1%E8%AF%AD/%E5%9C%A3%E8%AF%9E%E4%B8%88%E5%A4%AB_EN/h265/%E3%80%8AIts%20A%20Wonderful%20Hire%E3%80%8B_01/f4e284f9ec224f54a3f9ef59ace35fa6.m3u8",
+    "snapshot": "https://v.stardust-tv.com/英语/圣诞丈夫_EN/h264/《Its A Wonderful Hire》_01/thumbnail_62e1768dd4b04b5a98a5d923f295ed8b.jpg",
+    "next_h264": "https://tcdn-v.stardust-tv.com/%E8%8B%B1%E8%AF%AD/%E5%9C%A3%E8%AF%9E%E4%B8%88%E5%A4%AB_EN/h264/%E3%80%8AIts%20A%20Wonderful%20Hire%E3%80%8B_02/b7a786bd0ca34501b5986a309f306ce1.m3u8",
+    "is_vip": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "category_id": 0,
+      "display_name": "ทั้งหมด"
+    },
+    {
+      "category_id": 1,
+      "display_name": "ละครรักสมัยใหม่"
+    },
+    {
+      "category_id": 9,
+      "display_name": "รักในยุคโบราณ"
+    },
+    {
+      "category_id": 14,
+      "display_name": "ละครชายในเมือง"
+    },
+    {
+      "category_id": 15,
+      "display_name": "ความรักในยุคอดีต"
+    },
+    {
+      "category_id": 11,
+      "display_name": "จริยธรรมครอบครัว"
+    },
+    {
+      "category_id": 8,
+      "display_name": "ลูกน้อยและคุณพ่อ"
+    },
+    {
+      "category_id": 4,
+      "display_name": "จินตนาการ / เซียน"
+    },
+    {
+      "category_id": 10,
+      "display_name": "ความรักในยุคต่างๆ"
+    },
+    {
+      "category_id": 13,
+      "display_name": "อื่น ๆ"
+    },
+    {
+      "category_id": 5,
+      "display_name": "ลึกลับ / ระทึกขวัญ"
+    },
+    {
+      "category_id": 2,
+      "display_name": "แฟนตาซีรัก"
+    },
+    {
+      "category_id": 6,
+      "display_name": "เรื่องราววิทยาศาสตร์"
+    },
+    {
+      "category_id": 7,
+      "display_name": "LGBT+"
+    }
+  ]
+}

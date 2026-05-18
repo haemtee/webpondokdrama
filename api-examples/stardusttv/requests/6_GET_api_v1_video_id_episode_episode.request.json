@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/stardusttv/api/v1/video/15172/episode/1?lang=th",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "15172",
+    "episode": "1",
+    "lang": "th"
+  }
+}

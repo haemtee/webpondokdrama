@@ -1,0 +1,74 @@
+{
+  "status_code": 1,
+  "msg": "成功",
+  "data": {
+    "playlet_id": "6013",
+    "chapter_id": "424689",
+    "playlet_title": "Cahaya yang Menembus Dingin ",
+    "chapter_title": "Cahaya yang Menembus Dingin -EP.1",
+    "chapter_num": 1,
+    "hls_time_left": 2400,
+    "hls_timeout": 1776512431,
+    "is_need_pay": 0,
+    "need_pay_coin": 0,
+    "show_unlock_popup": 0,
+    "share_text": "https://pages.farsunpteltd.com?playlet_id=6013&package_id=2",
+    "auto_lock": 1,
+    "cost_coin": 0,
+    "is_praise": 0,
+    "praise_num": "120.0K",
+    "total_duration": 186,
+    "start_pay_time": 0,
+    "tag_list": [
+      {
+        "tag_id": 1762,
+        "tag_name": "Manis"
+      },
+      {
+        "tag_id": 1850,
+        "tag_name": "Penebusan"
+      },
+      {
+        "tag_id": 1826,
+        "tag_name": "Nikah Dulu"
+      },
+      {
+        "tag_id": 2965,
+        "tag_name": "Cerdik usil"
+      },
+      {
+        "tag_id": 3115,
+        "tag_name": "Zhang Chi"
+      },
+      {
+        "tag_id": 2475,
+        "tag_name": "Deng Lingshu"
+      },
+      {
+        "tag_id": 1504,
+        "tag_name": "Romantis"
+      },
+      {
+        "tag_id": 1464,
+        "tag_name": "Perkotaan"
+      }
+    ],
+    "is_pay_chapter": 2,
+    "is_vip_unlock": 0,
+    "is_ad_unlock": 0,
+    "e_is_attribution_reel": false,
+    "e_is_pay_point": false,
+    "e_is_last_free_episode": false,
+    "e_play_type": "免费",
+    "e_is_vip_episode": false,
+    "e_VIP_level": "",
+    "vip_btn_show": 1,
+    "vip_btn_scene": 1,
+    "chapter_type": 0,
+    "has_collection": 0,
+    "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1773652288_hls_73449.m3u8?verify=1776513631-1v2F56uwbFh5gBOK2M5gEk0Fezc8uiMUsgCZa9LvyHc%3D"
+  },
+  "extra": {},
+  "request_id": "4f33b4e7cfe94107d2a150b7c4752a23",
+  "trace_id": "8dae514067c3ce7d38091d0321d4de6d"
+}

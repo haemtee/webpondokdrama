@@ -1,0 +1,45 @@
+{
+  "status_code": 1,
+  "msg": "成功",
+  "data": [
+    {
+      "playlet_id": "6194",
+      "playlet_title": "Pengasuh di Keluarga Konglomerat",
+      "upload_num": "96",
+      "image_url": "https://zshipubcdn.farsunpteltd.com/playlet/1774692162_RmZtyMhTap.jpg"
+    },
+    {
+      "playlet_id": "6013",
+      "playlet_title": "Cahaya yang Menembus Dingin ",
+      "upload_num": "81",
+      "image_url": "https://zshipubcdn.farsunpteltd.com/playlet/1773739192_yRyxbKNdCG.jpg"
+    },
+    {
+      "playlet_id": "5776",
+      "playlet_title": "Cintaku Hadir Di Kehidupan Selanjutnya(Dubbing)",
+      "upload_num": "77",
+      "image_url": "https://zshipubcdn.farsunpteltd.com/playlet/1772508207_PQSeZrwAiy.jpg"
+    },
+    {
+      "playlet_id": "3832",
+      "playlet_title": "Pelukan landak",
+      "upload_num": "71",
+      "image_url": "https://zshipubcdn.farsunpteltd.com/playlet/1762333857_fyR4J5ZEAQ.jpg"
+    },
+    {
+      "playlet_id": "5941",
+      "playlet_title": "Datura",
+      "upload_num": "85",
+      "image_url": "https://zshipubcdn.farsunpteltd.com/playlet/1773396547_txQ2askYzS.jpg"
+    },
+    {
+      "playlet_id": "2984",
+      "playlet_title": "Mila Pembasmi Ilhitam",
+      "upload_num": "42",
+      "image_url": "https://zshipubcdn.farsunpteltd.com/playlet/1757494565_tdStEcyhJh.jpg"
+    }
+  ],
+  "extra": {},
+  "request_id": "d2ac5d5d932e878ac43494f045b87603",
+  "trace_id": "8c472ac930bc4c741fb991bf9f967dd9"
+}

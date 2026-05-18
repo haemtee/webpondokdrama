@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/stardusttv/api/v1/video/the-ceo/12345/episode/1?lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "slug": "the-ceo",
+    "id": "12345",
+    "episode": "1",
+    "lang": "id"
+  }
+}

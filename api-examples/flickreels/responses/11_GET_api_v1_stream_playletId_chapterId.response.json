@@ -1,0 +1,15 @@
+{
+  "status_code": 1,
+  "msg": "成功",
+  "data": {
+    "playlet_id": "6013",
+    "chapter_id": "424689",
+    "chapter_num": 1,
+    "hls_url": "https://zshipricf.farsunpteltd.com/playlet-hls/1773652288_hls_73449.m3u8?verify=1776514900-92EP1ypAa%2FtzfgHYAzTXzPtKACkv0AleBCmrz6F%2BfuY%3D",
+    "hls_time_left": 2400,
+    "hls_timeout": 1776513700
+  },
+  "extra": {},
+  "request_id": "47c2c97061346f1ccbf8072919e00b2f",
+  "trace_id": "831b46fcd4d71bf526ed2da1950b43f8"
+}

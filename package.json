@@ -1,0 +1,33 @@
+{
+  "name": "dracinema",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev:frontend": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev:backend": "bun --watch backend/proxy.js",
+    "dev": "concurrently \"bun run dev:backend\" \"bun run dev:frontend\""
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "autoprefixer": "^10.4.19",
+    "concurrently": "^9.2.1",
+    "postcss": "^8.4.38",
+    "svelte": "^4.2.12",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chart.js": "^4.4.2",
+    "hls.js": "^1.5.8",
+    "hono": "^4.2.5",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7",
+    "plyr": "^3.7.8",
+    "redis": "^4.6.13",
+    "svelte-spa-router": "^4.0.1"
+  }
+}

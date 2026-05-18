@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/flickreels/api/v1/category?navigation_id=88&page=1&page_size=20&lang=id",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "navigation_id": "88",
+    "page": "1",
+    "page_size": "20",
+    "lang": "id"
+  }
+}

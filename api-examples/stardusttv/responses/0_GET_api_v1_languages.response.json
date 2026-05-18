@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "ko",
+      "name": "한국어"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    },
+    {
+      "code": "ar",
+      "name": "العربية"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "cached": true
+}

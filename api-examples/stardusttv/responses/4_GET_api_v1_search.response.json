@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "data": {
+    "current_page": 2,
+    "last_page": 1,
+    "total": 2,
+    "data": []
+  }
+}

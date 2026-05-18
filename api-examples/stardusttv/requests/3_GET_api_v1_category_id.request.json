@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://captain.sapimu.au/stardusttv/api/v1/category/1?lang=th&page=2&page_size=10",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer <TOKEN>"
+  },
+  "params": {
+    "id": "1",
+    "lang": "th",
+    "page": "2",
+    "page_size": "10"
+  }
+}

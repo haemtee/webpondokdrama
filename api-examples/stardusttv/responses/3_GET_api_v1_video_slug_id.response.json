@@ -1,0 +1,249 @@
+{
+  "data": {
+    "id": "12345",
+    "slug": "the-ceo",
+    "title": "Episode 1-The Ceo StardustTV - Streaming Short Drama Populer",
+    "poster": "https://assets.stardusttv.cc/uploadfile/20250826/818865882135662592.jpg",
+    "totalEpisodes": 59,
+    "episodes": {
+      "1": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_001/0a5e47109dae45a9905aa82809dcbef4.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_001/0a5e47109dae45a9905aa82809dcbef4.m3u8"
+      },
+      "2": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_002/b0199b7bf8894c769c859a915e36c46c.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_002/b0199b7bf8894c769c859a915e36c46c.m3u8"
+      },
+      "3": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_003/e0b9c4ed3ebe48ec87447d843aaa1a2f.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_003/e0b9c4ed3ebe48ec87447d843aaa1a2f.m3u8"
+      },
+      "4": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_004/0aebdbb471d24c008ecd1eb5e5bc062e.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_004/0aebdbb471d24c008ecd1eb5e5bc062e.m3u8"
+      },
+      "5": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_005/7c28a12dfd6c4b568c9d11c79ddc2057.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_005/7c28a12dfd6c4b568c9d11c79ddc2057.m3u8"
+      },
+      "6": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_006/6618f40c0b0c433db05cf261769b9cc7.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_006/6618f40c0b0c433db05cf261769b9cc7.m3u8"
+      },
+      "7": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_007/20f211890fb1455fb6866fa95dc48f7f.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_007/20f211890fb1455fb6866fa95dc48f7f.m3u8"
+      },
+      "8": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_008/d1aa1d74060c4bb2b800932d80840005.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_008/d1aa1d74060c4bb2b800932d80840005.m3u8"
+      },
+      "9": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_009/ce0bf46c7a7743168fd6f4de256b2dca.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_009/ce0bf46c7a7743168fd6f4de256b2dca.m3u8"
+      },
+      "10": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_010/45ff0b5213734c26937c2f779efdca47.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_010/45ff0b5213734c26937c2f779efdca47.m3u8"
+      },
+      "11": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_011/cdf7ba84c8a140e5b53ef15b4211ebd8.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_011/cdf7ba84c8a140e5b53ef15b4211ebd8.m3u8"
+      },
+      "12": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_012/1758a308065549e2a3e94dd3edfea5fb.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_012/1758a308065549e2a3e94dd3edfea5fb.m3u8"
+      },
+      "13": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_013/a97f7a4c60fa4ea7968ac34a7edd5778.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_013/a97f7a4c60fa4ea7968ac34a7edd5778.m3u8"
+      },
+      "14": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_014/c7adfdc8509b4010a37cb1c5c3637f2c.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_014/c7adfdc8509b4010a37cb1c5c3637f2c.m3u8"
+      },
+      "15": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_015/c1875ffa18d54f709e4d66f45c2a5efe.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_015/c1875ffa18d54f709e4d66f45c2a5efe.m3u8"
+      },
+      "16": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_016/5a3dc2e422ea44b08f22fa7e73575332.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_016/5a3dc2e422ea44b08f22fa7e73575332.m3u8"
+      },
+      "17": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_017/384e76e13c3845bb9151e74a122a5695.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_017/384e76e13c3845bb9151e74a122a5695.m3u8"
+      },
+      "18": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_018/46cbe3ea31034a7889f06ccc590b90c0.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_018/46cbe3ea31034a7889f06ccc590b90c0.m3u8"
+      },
+      "19": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_019/4846861bb41a46478e26d10b67435200.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_019/4846861bb41a46478e26d10b67435200.m3u8"
+      },
+      "20": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_020/450abe3cdbeb40feac535caa5f9895b8.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_020/450abe3cdbeb40feac535caa5f9895b8.m3u8"
+      },
+      "21": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_021/6d27f27d9ee94d5d86ad3f4a0a8ef5ae.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_021/6d27f27d9ee94d5d86ad3f4a0a8ef5ae.m3u8"
+      },
+      "22": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_022/33f645c0eed446e5af883a2626c79894.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_022/33f645c0eed446e5af883a2626c79894.m3u8"
+      },
+      "23": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_023/7b7a7f833044462fa22eaa280e0738db.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_023/7b7a7f833044462fa22eaa280e0738db.m3u8"
+      },
+      "24": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_024/01f5d01a0ba0476c9a8e27351624d0e9.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_024/01f5d01a0ba0476c9a8e27351624d0e9.m3u8"
+      },
+      "25": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_025/9ae2743a7a254adb823bac04b4d434a5.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_025/9ae2743a7a254adb823bac04b4d434a5.m3u8"
+      },
+      "26": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_026/f5697537089b4f849c79c3f634f802e7.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_026/f5697537089b4f849c79c3f634f802e7.m3u8"
+      },
+      "27": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_027/c3f8dc72f677495c9223c2097fd3f25a.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_027/c3f8dc72f677495c9223c2097fd3f25a.m3u8"
+      },
+      "28": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_028/c9dc5a0843c54da4844b277cda529818.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_028/c9dc5a0843c54da4844b277cda529818.m3u8"
+      },
+      "29": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_029/db083efd29f44282819dbff507841073.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_029/db083efd29f44282819dbff507841073.m3u8"
+      },
+      "30": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_030/7baba1a6e171413e97334e76132d7a5c.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_030/7baba1a6e171413e97334e76132d7a5c.m3u8"
+      },
+      "31": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_031/5bc828e86a0e4942bb5c61db5a288dca.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_031/5bc828e86a0e4942bb5c61db5a288dca.m3u8"
+      },
+      "32": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_032/fa5f4acc296d40d1816238b3a0b9ae74.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_032/fa5f4acc296d40d1816238b3a0b9ae74.m3u8"
+      },
+      "33": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_033/e35e446e16ea4f029306306a6d9318b1.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_033/e35e446e16ea4f029306306a6d9318b1.m3u8"
+      },
+      "34": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_034/f161afb1173b455b9a64eaa7079ad722.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_034/f161afb1173b455b9a64eaa7079ad722.m3u8"
+      },
+      "35": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_035/82ad0f3f9f9740a4811e34239a315d55.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_035/82ad0f3f9f9740a4811e34239a315d55.m3u8"
+      },
+      "36": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_036/a7c99f276e6640ac8484530d8a3a118f.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_036/a7c99f276e6640ac8484530d8a3a118f.m3u8"
+      },
+      "37": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_037/23ee4b91a94148d190d3226146ddd5d8.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_037/23ee4b91a94148d190d3226146ddd5d8.m3u8"
+      },
+      "38": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_038/4e1ed99f500b452d9c82c3d1649d613f.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_038/4e1ed99f500b452d9c82c3d1649d613f.m3u8"
+      },
+      "39": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_039/d833783ef7244806a110f8d49011c2ac.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_039/d833783ef7244806a110f8d49011c2ac.m3u8"
+      },
+      "40": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_040/3abd1521cfac45849025fd751b5fb543.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_040/3abd1521cfac45849025fd751b5fb543.m3u8"
+      },
+      "41": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_041/a336e5375e4049adbacb3062096956b6.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_041/a336e5375e4049adbacb3062096956b6.m3u8"
+      },
+      "42": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_042/aac24917e7334a2b98a8c2e128db13d8.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_042/aac24917e7334a2b98a8c2e128db13d8.m3u8"
+      },
+      "43": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_043/9cd8f8d2fe914927a32ff78ff7209057.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_043/9cd8f8d2fe914927a32ff78ff7209057.m3u8"
+      },
+      "44": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_044/17241634de774697b15e424c5d91c266.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_044/17241634de774697b15e424c5d91c266.m3u8"
+      },
+      "45": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_045/4173f618377b4fd7954d25b5c11b7c53.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_045/4173f618377b4fd7954d25b5c11b7c53.m3u8"
+      },
+      "46": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_046/d8a167f05197452582e552a0d52fd76f.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_046/d8a167f05197452582e552a0d52fd76f.m3u8"
+      },
+      "47": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_047/c10909b876424b25b3c0270f89ebc9f7.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_047/c10909b876424b25b3c0270f89ebc9f7.m3u8"
+      },
+      "48": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_048/73ba36e3890a47f5b1160fb34dc7513c.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_048/73ba36e3890a47f5b1160fb34dc7513c.m3u8"
+      },
+      "49": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_049/4b39b811672243bb95f4a7d0dd65fdd4.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_049/4b39b811672243bb95f4a7d0dd65fdd4.m3u8"
+      },
+      "50": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_050/e48e9d17f4ad4e079b81d3bfbadac701.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_050/e48e9d17f4ad4e079b81d3bfbadac701.m3u8"
+      },
+      "51": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_051/867222ed60ff4ba0806aac9af9422b9d.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_051/867222ed60ff4ba0806aac9af9422b9d.m3u8"
+      },
+      "52": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_052/4843bc1e8f24412d837bf7b4ab78d44e.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_052/4843bc1e8f24412d837bf7b4ab78d44e.m3u8"
+      },
+      "53": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_053/f0e416fac45145f1a061351f8dad7320.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_053/f0e416fac45145f1a061351f8dad7320.m3u8"
+      },
+      "54": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_054/05f3abc525354c37af703ddc8ac4e7b4.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_054/05f3abc525354c37af703ddc8ac4e7b4.m3u8"
+      },
+      "55": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_055/91108c89d094400c894a786f1490df83.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_055/91108c89d094400c894a786f1490df83.m3u8"
+      },
+      "56": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_056/c494bed4414340ba9095e8b84d56365f.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_056/c494bed4414340ba9095e8b84d56365f.m3u8"
+      },
+      "57": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_057/5e560ae25a2743858aec5145235b999c.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_057/5e560ae25a2743858aec5145235b999c.m3u8"
+      },
+      "58": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_058/b1ff5941008246aebbbc46510d7af4d2.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_058/b1ff5941008246aebbbc46510d7af4d2.m3u8"
+      },
+      "59": {
+        "h264": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h264/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_059/660ce09b40a548b18e194f821875a1e0.m3u8",
+        "h265": "https://mmcdn-v.stardust-tv.com/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%86%8D%E9%80%A2%E6%98%A5_PT/h265/O%20Banqueiro%20Ca%C3%ADdo%20Contra-Ataca_059/660ce09b40a548b18e194f821875a1e0.m3u8"
+      }
+    }
+  },
+  "cached": true,
+  "ttl": 86400
+}

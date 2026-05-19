@@ -32,6 +32,28 @@ export function pickPoster(d) {
     return d?.cover || d?.poster || d?.image || d?.thumbnail || d?.coverUrl || d?.cover_key || d?.coverWap || d?.bookCover || d?.book_pic || '';
 }
 
+// Some providers (notably melolo) return covers from TikTok-style image CDNs
+// with a `.heic` template suffix, e.g.
+//   https://p16-novel-sign-sg.fizzopic.org/novel-images-sg/<id>~tplv-...-cp:570:810.heic?rk3s=...
+// Browsers don't render HEIC natively, so we rewrite the path extension to
+// `.jpeg` while preserving the signed query string. The TPL templates on
+// these CDNs accept `.jpeg` as a drop-in replacement for the format suffix.
+export function convertHeicUrl(url) {
+    if (!url || typeof url !== 'string') return url;
+    if (!url.includes('.heic')) return url;
+    try {
+        const u = new URL(url);
+        if (u.pathname.endsWith('.heic')) {
+            u.pathname = u.pathname.slice(0, -'.heic'.length) + '.jpeg';
+            return u.toString();
+        }
+    } catch (_) { /* fall through to regex fallback */ }
+    // Fallback: only swap `.heic` immediately before `?` or end-of-string so
+    // we don't accidentally touch `.heic` substrings inside query parameters.
+    return url.replace(/\.heic(\?|$)/, '.jpeg$1');
+}
+
+
 // Best-effort drama id picker.
 export function pickId(d) {
     return d?.id ?? d?.drama_id ?? d?.dramaId ?? d?.book_id ?? d?.bookId ?? d?.series_id ?? d?.seriesId ?? d?.collectionId ?? d?.contentId ?? d?.videoid ?? d?.playlet_id ?? d?.key ?? d?.programId ?? '';

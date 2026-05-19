@@ -1,34 +1,67 @@
 // Group 5: melolo, moboreels, netshort, pinedrama, reelife
 
-import { normalizeSubtitle, filterValid } from './_helpers.js';
+import { normalizeSubtitle, filterValid, convertHeicUrl } from './_helpers.js';
 
 // ----- melolo -----
 // melolo uses TikTok-like shapes. multi_video / video for play; book/series for detail; bookmall for home.
+//
+// Real bookmall response shape (lang=id):
+//   { cell:{ cell_data:[ { books:[{book_id, book_name, thumb_url, serial_count, abstract, ...}] }, ... ] } }
+// `category_v2_ids` is a CSV of numeric ids, but the public listing endpoint
+// is the same `bookmall` filtered by `categoryId`.
 function mlItem(d) {
     return {
         id: String(d.book_id || d.series_id || d.id || ''),
-        title: d.title || d.book_name || d.series_name || '',
-        poster: d.cover || d.thumb_url || d.image || '',
-        episode_count: d.episode_count || d.serial_count || '?'
+        title: d.book_name || d.title || d.series_name || '',
+        poster: convertHeicUrl(d.thumb_url || d.cover || d.image || ''),
+        episode_count: d.serial_count || d.episode_count || '?'
     };
+}
+function mlFlatten(data) {
+    // Walk every plausible "books" location the API has used:
+    //   data.cell.cell_data[].books[]            (current)
+    //   data.cell.books[]                         (older)
+    //   data.cards[].books[]                      (very old)
+    //   data.books[]                              (search variants)
+    const buckets = [];
+    if (Array.isArray(data?.cell?.cell_data)) {
+        for (const c of data.cell.cell_data) {
+            if (Array.isArray(c.books)) buckets.push(...c.books);
+        }
+    }
+    if (Array.isArray(data?.cell?.books)) buckets.push(...data.cell.books);
+    if (Array.isArray(data?.cards)) {
+        for (const c of data.cards) {
+            if (Array.isArray(c.books)) buckets.push(...c.books);
+        }
+    }
+    if (Array.isArray(data?.books)) buckets.push(...data.books);
+    if (Array.isArray(data?.list)) buckets.push(...data.list);
+    if (!buckets.length && Array.isArray(data?.data)) buckets.push(...data.data);
+    return buckets;
 }
 export const melolo = {
     name: 'Melolo',
     async home({ fetchApi, lang }) {
         const data = await fetchApi('melolo', 'bookmall', { lang });
-        const list = data?.cards?.flatMap(c => c.books || []) || data?.books || data?.data || [];
+        const list = mlFlatten(data);
         return { dramas: filterValid(list.map(mlItem)) };
     },
     async categories({ fetchApi, lang }) {
         const data = await fetchApi('melolo', 'categories', { lang });
-        const list = data?.categories || [];
-        return { categories: list.map(c => ({ id: String(c.id), name: c.name })) };
+        const list = data?.categories || data?.list || [];
+        return {
+            categories: list
+                .filter(c => c?.name && c?.id)
+                .map(c => ({ id: String(c.id), name: c.name }))
+        };
     },
     async categoryContent({ fetchApi, lang }, { id }) {
         const data = await fetchApi('melolo', 'bookmall', { categoryId: id, lang });
-        const list = data?.cards?.flatMap(c => c.books || []) || data?.books || [];
+        const list = mlFlatten(data);
         return { dramas: filterValid(list.map(mlItem)) };
     },
+
     async search({ fetchApi, lang }, q) {
         const data = await fetchApi('melolo', 'search', { q, keyword: q, lang });
         const list = data?.list || data?.books || [];
@@ -40,7 +73,7 @@ export const melolo = {
         return {
             id: String(s.series_id || s.book_id || id),
             title: s.title || s.book_name || '',
-            poster: s.cover || s.thumb_url || '',
+            poster: convertHeicUrl(s.cover || s.thumb_url || ''),
             intro: s.intro || s.abstract || 'Deskripsi tidak tersedia.',
             totalEpisodes: s.episode_count || data?.episodes?.length || 0,
             tags: s.categories || []
@@ -212,9 +245,16 @@ export const pinedrama = {
         return { dramas: filterValid(list.map(pdItem)) };
     },
     async categories({ fetchApi, lang }) {
+        // pinedrama returns `data.scenes:[ {sceneId, name, categoryId} ]`,
+        // not a flat array. Older shapes used `data:[...]` so fall back if
+        // the API ever flips back.
         const data = await fetchApi('pinedrama', 'drama/categories', { language: lang, region: 'ID' });
-        const list = data?.data || [];
-        return { categories: list.map(c => ({ id: String(c.categoryId), name: c.name })) };
+        const list = data?.data?.scenes || (Array.isArray(data?.data) ? data.data : []);
+        return {
+            categories: list
+                .filter(c => c?.name && (c.categoryId !== undefined && c.categoryId !== null))
+                .map(c => ({ id: String(c.categoryId), name: c.name }))
+        };
     },
     async categoryContent({ fetchApi, lang }, { id }) {
         const data = await fetchApi('pinedrama', 'drama/center', { scene: 1, category_id: id, count: 30, language: lang, region: 'ID' });
@@ -263,8 +303,14 @@ function rlItem(d) {
 export const reelife = {
     name: 'ReeLife',
     async home({ fetchApi, lang }) {
+        // reelife wraps the catalogue in `data.bookList` (sometimes
+        // `data.list` for older endpoints, sometimes `data.records` for
+        // ranking). We normalise all three.
         const data = await fetchApi('reelife', 'foryou', { lang });
-        const list = data?.data?.list || data?.data?.records || data?.data || [];
+        const list = data?.data?.bookList
+            || data?.data?.list
+            || data?.data?.records
+            || (Array.isArray(data?.data) ? data.data : []);
         return { dramas: filterValid(list.map(rlItem)) };
     },
     async categories() {
@@ -279,12 +325,17 @@ export const reelife = {
     async categoryContent({ fetchApi, lang }, { id }) {
         const path = ['foryou', 'ranking', 'dramas'].includes(id) ? id : 'foryou';
         const data = await fetchApi('reelife', path, { lang });
-        const list = data?.data?.list || data?.data?.records || data?.data || [];
+        const list = data?.data?.bookList
+            || data?.data?.list
+            || data?.data?.records
+            || (Array.isArray(data?.data) ? data.data : []);
         return { dramas: filterValid(list.map(rlItem)) };
     },
     async search({ fetchApi, lang }, q) {
         const data = await fetchApi('reelife', 'search', { q, lang });
-        const list = data?.data?.list || data?.data || [];
+        const list = data?.data?.bookList
+            || data?.data?.list
+            || (Array.isArray(data?.data) ? data.data : []);
         return { dramas: filterValid(list.map(rlItem)) };
     },
     async detail({ fetchApi, lang }, id) {

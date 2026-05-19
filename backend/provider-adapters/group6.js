@@ -183,6 +183,12 @@ export const starshort = {
 };
 
 // ----- velolo -----
+// /velolo
+//   hot, new, labels, dramas?keyword|labelId, suggest
+//   detail/:id -> { videoInfo:{...}, episodesInfo:{ rows:[{ orderNumber, videoAddress, zimu }] } }
+//   stream?url=<m3u8> -> { m3u8 } (just echoes the URL; not useful as primary path)
+// The detail endpoint already gives us the full m3u8 list keyed by orderNumber
+// (zero-based). We use that directly instead of the lossy stream endpoint.
 function veItem(d) {
     return {
         id: String(d.id || ''),
@@ -215,19 +221,33 @@ export const velolo = {
     },
     async detail({ fetchApi, lang }, id) {
         const data = await fetchApi('velolo', `detail/${id}`, { lang });
-        const d = data?.data || data || {};
+        const info = data?.videoInfo || data?.data || data || {};
         return {
-            id: String(d.id || id),
-            title: d.name || '',
-            poster: d.cover || '',
-            intro: d.introduction || 'Deskripsi tidak tersedia.',
-            totalEpisodes: d.episode || 0,
-            tags: d.label || []
+            id: String(info.id || id),
+            title: info.name || '',
+            poster: info.cover || '',
+            intro: info.introduction || 'Deskripsi tidak tersedia.',
+            totalEpisodes: info.episode || 0,
+            tags: info.label || []
         };
     },
     async stream({ fetchApi, lang }, dramaId, episodeId) {
-        const data = await fetchApi('velolo', 'stream', { id: dramaId, episode: episodeId, lang });
-        const d = data || {};
-        return { source: d.m3u8 || '', qualities: {}, subtitles: [] };
+        const data = await fetchApi('velolo', `detail/${dramaId}`, { lang });
+        const rows = data?.episodesInfo?.rows || [];
+        const epIndex = parseInt(episodeId, 10) - 1;
+        const ep = rows.find(r => r.orderNumber === epIndex)
+            || rows[epIndex]
+            || rows.find(r => String(r.id) === String(episodeId));
+        const url = ep?.videoAddress || '';
+        const subtitles = [];
+        if (ep?.zimu) {
+            subtitles.push({
+                language: 'id',
+                label: 'Indonesia',
+                url: ep.zimu,
+                format: ep.zimu.toLowerCase().endsWith('.vtt') ? 'vtt' : 'srt'
+            });
+        }
+        return { source: url, qualities: {}, subtitles };
     }
 };

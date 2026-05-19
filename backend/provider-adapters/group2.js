@@ -5,13 +5,18 @@
 import { normalizeSubtitle, filterValid } from './_helpers.js';
 
 function dwItem(d) {
+    // dramawave / freereels list items use `key` (a short hash like
+    // "bwl0UcvGOW") as the canonical id used by detail / play endpoints.
+    // Some sectioned wrappers also expose a numeric `id`, but that's the
+    // *internal* row id and the play endpoint will 404 on it. Prefer key.
     return {
-        id: String(d.id || d.key || ''),
+        id: String(d.key || d.id || ''),
         title: d.name || d.title || '',
         poster: d.cover || '',
         episode_count: d.episode_count || d.episodeCount || '?'
     };
 }
+
 
 function dwSubs(list) {
     const out = [];

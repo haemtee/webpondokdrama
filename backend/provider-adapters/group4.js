@@ -160,7 +160,12 @@ export const flextv = {
 
 // ----- vigloo -----
 // /vigloo/api/v1
-// home tabs: payloads -> ranking + recommend; drama/:id; play -> { payload.url }
+// home tabs: payloads -> ranking + recommend
+// drama/:id      -> { drama:{ id, title, episodeCount, seasons:[{id,programId,...}], ... } }
+// play?seasonId=&ep= -> { payload:{ url, cookies:{ CloudFront-Policy, CloudFront-Signature, CloudFront-Key-Pair-Id } } }
+//   The URL is a CloudFront-signed master m3u8 that will 403 unless those
+//   cookies are sent as HTTP Cookie headers. We piggy-back them through our
+//   media proxy via the `__dr_cookies` query parameter (see proxy.js).
 function vgItem(d) {
     return {
         id: String(d.id || d.programId || ''),
@@ -168,6 +173,14 @@ function vgItem(d) {
         poster: d.thumbnail || d.bannerImage || d.titleImage || '',
         episode_count: d.episodeCount || d.totalEpisode || '?'
     };
+}
+function vgEncodeCookies(cookies) {
+    if (!cookies || typeof cookies !== 'object') return '';
+    try {
+        return Buffer.from(JSON.stringify(cookies)).toString('base64');
+    } catch (_) {
+        return '';
+    }
 }
 export const vigloo = {
     name: 'Vigloo',
@@ -204,21 +217,35 @@ export const vigloo = {
         };
     },
     async stream({ fetchApi, lang }, dramaId, episodeId) {
-        const data = await fetchApi('vigloo', 'play', { programId: dramaId, episode: episodeId, lang });
-        const d = data?.payload || data?.data || {};
-        return {
-            source: d.url || '',
-            qualities: {},
-            subtitles: []
-        };
+        // Vigloo's play endpoint is keyed on seasonId, not the program/drama
+        // id we expose to the frontend. Resolve it via the drama detail.
+        const detail = await fetchApi('vigloo', `drama/${dramaId}`, { lang });
+        const seasons = detail?.drama?.seasons || [];
+        const seasonId = seasons[0]?.id;
+        if (!seasonId) return { source: '', qualities: {}, subtitles: [] };
+
+        const data = await fetchApi('vigloo', 'play', { seasonId, ep: episodeId, lang });
+        const payload = data?.payload || data?.data || {};
+        let url = payload.url || '';
+        if (url && payload.cookies) {
+            const enc = vgEncodeCookies(payload.cookies);
+            if (enc) {
+                const sep = url.includes('?') ? '&' : '?';
+                url = `${url}${sep}__dr_cookies=${enc}`;
+            }
+        }
+        return { source: url, qualities: {}, subtitles: [] };
     }
 };
 
 // ----- sereal -----
-// /sereal/api  watch/:contentId/:ep -> { ok, data:{ url } }
-// home: index/home_page -> data.records[].records[] (banners)
-// search: index/search/:q -> data.list[]
-// content_detail: ?contentId=...
+// /sereal/api  paths use slashes, not underscores:
+//   index/home/:page          -> { data:{ records:[{ records:[{contentId,...}] }], indexClassInfos:[...] } }
+//   index/for-you/:page       -> same shape (more rows)
+//   index/search/:q           -> { data:{ list:[...] } }
+//   index/content-search/:id/:page -> { data:{ records:[...] } }
+//   content/detail?contentId= -> detail page
+//   watch/:contentId/:ep      -> { data:{ url } }
 function srItem(d) {
     return {
         id: String(d.contentId || d.id || ''),
@@ -230,35 +257,37 @@ function srItem(d) {
 export const sereal = {
     name: 'Sereal',
     async home({ fetchApi, lang }) {
-        const data = await fetchApi('sereal', 'index/home_page', { lang });
+        const data = await fetchApi('sereal', 'index/home/1', { lang });
         const records = data?.data?.records || [];
         const items = records.flatMap(r => r.records || []);
         return { dramas: filterValid(items.map(srItem)) };
     },
     async categories({ fetchApi, lang }) {
-        const data = await fetchApi('sereal', 'index/home_page', { lang });
+        const data = await fetchApi('sereal', 'index/home/1', { lang });
         const list = data?.data?.indexClassInfos || [];
         return { categories: list.map(c => ({ id: String(c.id), name: c.className })) };
     },
     async categoryContent({ fetchApi, lang }, { id }) {
-        const data = await fetchApi('sereal', `index/content_search/${id}/page`, { lang, page: 1 });
+        const data = await fetchApi('sereal', `index/content-search/${id}/1`, { lang });
         const list = data?.data?.list || data?.data?.records || [];
-        return { dramas: filterValid(list.map(srItem)) };
+        // content-search occasionally wraps items the same way `home` does.
+        const flat = list.flatMap(r => r.records ? r.records : [r]);
+        return { dramas: filterValid(flat.map(srItem)) };
     },
     async search({ fetchApi, lang }, q) {
-        const data = await fetchApi('sereal', `index/search/${encodeURIComponent(q)}`, { q, lang });
-        const list = data?.data?.list || [];
+        const data = await fetchApi('sereal', `index/search/${encodeURIComponent(q)}`, { lang });
+        const list = data?.data?.list || data?.data?.records || [];
         return { dramas: filterValid(list.map(srItem)) };
     },
     async detail({ fetchApi, lang }, id) {
         const data = await fetchApi('sereal', 'content/detail', { contentId: id, lang });
         const d = data?.data || {};
         return {
-            id: String(d.id || id),
+            id: String(d.contentId || d.id || id),
             title: d.contentName || '',
             poster: d.contentCoverUrl || '',
             intro: d.introduce || 'Deskripsi tidak tersedia.',
-            totalEpisodes: d.chapterNum || 0,
+            totalEpisodes: d.chapterNum || d.chapterNumber || 0,
             tags: (d.tagList || []).map(t => t.name)
         };
     },

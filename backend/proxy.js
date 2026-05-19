@@ -250,6 +250,14 @@ app.post('/api/track', async (c) => {
 // -------------- API PROXY (REAL) --------------
 const BASE_URL = 'https://captain.sapimu.au';
 
+// Captain's edge sometimes filters out clients that don't look like a browser
+// (returns 403 / empty body). Setting a desktop-Chrome UA on every outbound
+// request keeps things uniform across provider API calls, the media proxy,
+// and the subtitle proxy.
+const PROXY_USER_AGENT =
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+export { PROXY_USER_AGENT };
+
 // Map our short provider keys to the upstream path prefix on captain.
 // Most providers use `/{provider}/api/v1/<path>`. A handful differ.
 const PROVIDER_BASE_PATH = {
@@ -300,7 +308,8 @@ async function fetchProviderApi(provider, path, queryParams = {}) {
     const res = await fetch(urlString, {
         headers: {
             'Accept': 'application/json',
-            'Authorization': `Bearer ${token}`
+            'Authorization': `Bearer ${token}`,
+            'User-Agent': PROXY_USER_AGENT
         }
     });
 
@@ -326,11 +335,74 @@ function buildAdapterCtx(c) {
     };
 }
 
+// -------------- CAPTAIN STATUS --------------
+// Hit captain's /api/status to find out which upstreams are in maintenance.
+// Cached for 60s so we don't hammer it on every page load.
+async function fetchCaptainStatus() {
+    const cacheKey = 'captain:status';
+    const cached = await cache.get(cacheKey);
+    if (cached) return cached;
+
+    const token = process.env.API_KEY;
+    const res = await fetch(`${BASE_URL}/api/status`, {
+        headers: {
+            'Accept': 'application/json',
+            'Authorization': `Bearer ${token}`,
+            'User-Agent': PROXY_USER_AGENT
+        }
+    });
+    if (!res.ok) {
+        throw new Error(`Status fetch failed: ${res.status}`);
+    }
+    const data = await res.json();
+    await cache.set(cacheKey, data, 60);
+    return data;
+}
+
+// Public-ish endpoint the frontend polls to know which provider tiles to gray
+// out. Returns the captain payload plus a normalized `byId` map keyed by the
+// upstream provider id for cheap O(1) lookups.
+app.get('/api/status', async (c) => {
+    try {
+        const data = await fetchCaptainStatus();
+        const byId = {};
+        for (const api of data.apis || []) {
+            if (api?.id) byId[api.id] = !!api.maintenance;
+        }
+        return c.json({
+            total: data.total ?? null,
+            active: data.active ?? null,
+            maintenance: data.maintenance ?? null,
+            apis: data.apis || [],
+            byId
+        });
+    } catch (e) {
+        console.error('[status]', e.message);
+        // Fail-open: empty list means the frontend treats every provider as
+        // available rather than blocking the entire UI on a captain hiccup.
+        return c.json({ total: null, active: null, maintenance: null, apis: [], byId: {} }, 200);
+    }
+});
+
 // -------------- PROVIDERS LIST --------------
-app.get('/api/providers', authMiddleware, (c) => {
+app.get('/api/providers', authMiddleware, async (c) => {
+    let maintenanceById = {};
+    try {
+        const status = await fetchCaptainStatus();
+        for (const api of status.apis || []) {
+            if (api?.id) maintenanceById[api.id] = !!api.maintenance;
+        }
+    } catch (_) { /* fail-open: assume everything is up */ }
+
     const list = PROVIDER_LIST
         .filter(p => p !== 'stardust') // hide alias, keep canonical 'stardusttv'
-        .map(id => ({ id, name: getAdapter(id)?.name || id }));
+        .map(id => ({
+            id,
+            name: getAdapter(id)?.name || id,
+            // captain's stardusttv id matches ours; if a provider is missing
+            // from captain's response we default to "not in maintenance".
+            maintenance: maintenanceById[id] === true
+        }));
     return c.json({ providers: list });
 });
 
@@ -524,22 +596,202 @@ app.get('/api/video/:provider/:dramaId/:episodeId', authMiddleware, async (c) =>
 });
 
 
-// -------------- MEDIA PROXY (Bypass CORS) --------------
-app.get('/api/proxy-media', async (c) => {
+// -------------- MEDIA PROXY (Bypass CORS + Auth) --------------
+//
+// This endpoint is the single chokepoint that fetches every piece of upstream
+// media (MP4 / HLS playlist / TS segment / fMP4 init / DRM-free fragmented
+// MP4) and re-emits it to the browser with permissive CORS. It also lets
+// adapters smuggle authentication context to upstream by encoding it into
+// query parameters that we strip *before* forwarding:
+//
+//   __dr_cookies  base64(JSON {name:value}) -> serialised into Cookie:
+//   __dr_headers  base64(JSON {Header: value}) -> arbitrary request headers
+//                 (e.g. Referer, Origin, Authorization, X-Custom-Token).
+//
+// All `__dr_*` params are scrubbed before the request reaches the CDN, and
+// re-attached to nested URLs we discover inside an HLS manifest so child
+// segments inherit the same auth context. If the adapter doesn't supply a
+// Referer/Origin we synthesise one from the URL's own origin which is enough
+// to satisfy the most common "referer-locked" CDNs.
+const INTERNAL_PARAMS = ['__dr_cookies', '__dr_headers'];
+
+// Hop-by-hop headers + a few headers that must come from `fetch` itself; we
+// never forward these from the browser request to the upstream.
+const HOP_BY_HOP = new Set([
+    'connection', 'keep-alive', 'proxy-authenticate', 'proxy-authorization',
+    'te', 'trailer', 'transfer-encoding', 'upgrade',
+    'host', 'content-length', 'accept-encoding'
+]);
+
+function decodeB64Json(b64) {
+    if (!b64) return null;
+    try {
+        const obj = JSON.parse(Buffer.from(b64, 'base64').toString('utf8'));
+        return obj && typeof obj === 'object' ? obj : null;
+    } catch (_) {
+        return null;
+    }
+}
+
+// `__dr_cookies` (when present, base64-encoded JSON of {name: value} pairs)
+// is stripped from the upstream URL we forward and instead serialised into
+// a `Cookie:` header. Some signed CDNs (CloudFront for vigloo) require this.
+function buildCookieHeader(b64) {
+    const obj = decodeB64Json(b64);
+    if (!obj) return '';
+    return Object.entries(obj)
+        .filter(([k, v]) => k && v !== undefined && v !== null)
+        .map(([k, v]) => `${k}=${v}`)
+        .join('; ');
+}
+
+// Decode `__dr_headers` (base64 JSON) into a plain {Header: value} object.
+function buildExtraHeaders(b64) {
+    const obj = decodeB64Json(b64);
+    if (!obj) return {};
+    const out = {};
+    for (const [k, v] of Object.entries(obj)) {
+        if (!k || v === undefined || v === null) continue;
+        // Disallow hop-by-hop overrides from sneaking in via the encoded blob.
+        if (HOP_BY_HOP.has(k.toLowerCase())) continue;
+        out[k] = String(v);
+    }
+    return out;
+}
+
+// Synthesise a sensible default Referer/Origin from the target URL itself.
+// Lots of CDNs (especially in CN/SEA region) only check that *something*
+// is present and that it matches the upstream host, so URL.origin works.
+function defaultRefererFor(url) {
+    try {
+        const u = new URL(url);
+        return `${u.protocol}//${u.host}/`;
+    } catch (_) {
+        return '';
+    }
+}
+
+function defaultOriginFor(url) {
+    try {
+        const u = new URL(url);
+        return `${u.protocol}//${u.host}`;
+    } catch (_) {
+        return '';
+    }
+}
+
+// Strip our private query parameters from the URL we hand back to the
+// upstream CDN. They were ours, not theirs.
+function stripInternalParams(rawUrl) {
+    try {
+        const u = new URL(rawUrl);
+        for (const p of INTERNAL_PARAMS) u.searchParams.delete(p);
+        return u.toString();
+    } catch (_) {
+        return rawUrl;
+    }
+}
+
+// Standard CORS headers we attach to every proxy response. We use `*` because
+// the proxy must be reachable from any origin (file:// players, mobile
+// webview, etc.) and we never forward the user's cookies upstream.
+function applyCorsHeaders(headers) {
+    headers.set('Access-Control-Allow-Origin', '*');
+    headers.set('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
+    headers.set('Access-Control-Allow-Headers', 'Range, Content-Type, Accept, Origin, Referer, User-Agent, Authorization');
+    headers.set('Access-Control-Expose-Headers', 'Content-Length, Content-Range, Content-Type, Accept-Ranges, ETag, Last-Modified, Date');
+    headers.set('Access-Control-Max-Age', '86400');
+    headers.set('Cross-Origin-Resource-Policy', 'cross-origin');
+    headers.set('Timing-Allow-Origin', '*');
+}
+
+// CORS preflight. Browsers send OPTIONS for any cross-origin Range request
+// and a 403/redirect here breaks HLS playback completely.
+app.options('/api/proxy-media', (c) => {
+    const headers = new Headers();
+    applyCorsHeaders(headers);
+    return new Response(null, { status: 204, headers });
+});
+
+async function handleProxyMedia(c, { method }) {
     const targetUrl = c.req.query('url');
-    if (!targetUrl) return c.text('Missing URL', 400);
+    if (!targetUrl) {
+        const headers = new Headers();
+        applyCorsHeaders(headers);
+        return new Response('Missing URL', { status: 400, headers });
+    }
+
+    // Pull __dr_cookies / __dr_headers out of the target URL (if any) before
+    // forwarding. Whatever is left becomes the real upstream URL.
+    let cleanedTargetUrl = targetUrl;
+    let cookieHeader = '';
+    let extraHeaders = {};
+    try {
+        const u = new URL(targetUrl);
+        const drC = u.searchParams.get('__dr_cookies');
+        const drH = u.searchParams.get('__dr_headers');
+        if (drC) cookieHeader = buildCookieHeader(drC);
+        if (drH) extraHeaders = buildExtraHeaders(drH);
+        for (const p of INTERNAL_PARAMS) u.searchParams.delete(p);
+        cleanedTargetUrl = u.toString();
+    } catch (_) { /* leave url as-is */ }
 
     try {
-        const response = await fetch(targetUrl);
-        if (!response.ok) {
-            return c.text(`Failed to fetch media: ${response.status}`, response.status);
+        // Build the upstream request headers. Order matters: defaults first,
+        // then explicit `__dr_headers` overrides win (case-insensitive).
+        const upstreamHeaders = new Headers();
+        upstreamHeaders.set('User-Agent', PROXY_USER_AGENT);
+        upstreamHeaders.set('Accept', '*/*');
+        upstreamHeaders.set('Accept-Language', 'en-US,en;q=0.9,id;q=0.8');
+
+        // Auto-Referer / Origin so referer-locked CDNs accept the request.
+        const autoReferer = defaultRefererFor(cleanedTargetUrl);
+        const autoOrigin = defaultOriginFor(cleanedTargetUrl);
+        if (autoReferer) upstreamHeaders.set('Referer', autoReferer);
+        if (autoOrigin) upstreamHeaders.set('Origin', autoOrigin);
+
+        // Forward the browser's Range header so seek/partial requests work.
+        const range = c.req.header('range');
+        if (range) upstreamHeaders.set('Range', range);
+
+        if (cookieHeader) upstreamHeaders.set('Cookie', cookieHeader);
+
+        // Adapter-supplied headers always take precedence (e.g. a provider
+        // that requires a very specific Referer or Authorization).
+        for (const [k, v] of Object.entries(extraHeaders)) {
+            upstreamHeaders.set(k, v);
+        }
+
+        const response = await fetch(cleanedTargetUrl, {
+            method: method === 'HEAD' ? 'HEAD' : 'GET',
+            headers: upstreamHeaders,
+            redirect: 'follow'
+        });
+        if (!response.ok && response.status !== 206) {
+            const headers = new Headers();
+            applyCorsHeaders(headers);
+            return new Response(`Failed to fetch media: ${response.status}`, {
+                status: response.status,
+                headers
+            });
         }
 
         const contentType = response.headers.get('content-type') || '';
+        const isManifest =
+            cleanedTargetUrl.toLowerCase().includes('.m3u8') ||
+            contentType.includes('mpegurl') ||
+            contentType.includes('x-mpegurl');
 
-        if (targetUrl.includes('.m3u8') || contentType.includes('mpegurl') || contentType.includes('x-mpegURL')) {
+        if (isManifest && method !== 'HEAD') {
             let m3u8Content = await response.text();
-            const baseUrl = new URL(targetUrl);
+            const baseUrl = new URL(cleanedTargetUrl);
+
+            // Helper: re-attach __dr_cookies / __dr_headers so child segments
+            // and variant playlists keep authenticating with the same context.
+            const wrap = (absoluteUri) => {
+                const full = appendInternalParams(absoluteUri, /*from=*/ targetUrl);
+                return `/api/proxy-media?url=${encodeURIComponent(full)}`;
+            };
 
             const lines = m3u8Content.split('\n');
             for (let i = 0; i < lines.length; i++) {
@@ -547,35 +799,92 @@ app.get('/api/proxy-media', async (c) => {
                 if (line && !line.startsWith('#')) {
                     try {
                         const absoluteUri = new URL(line, baseUrl).toString();
-                        lines[i] = `/api/proxy-media?url=${encodeURIComponent(absoluteUri)}`;
+                        lines[i] = wrap(absoluteUri);
                     } catch (_) { /* skip */ }
-                } else if (line.startsWith('#EXT-X-STREAM-INF:') || line.startsWith('#EXT-X-I-FRAME-STREAM-INF:') || line.startsWith('#EXT-X-MEDIA:')) {
-                    const uriMatch = line.match(/URI="([^"]+)"/);
-                    if (uriMatch) {
+                } else if (
+                    line.startsWith('#EXT-X-STREAM-INF:') ||
+                    line.startsWith('#EXT-X-I-FRAME-STREAM-INF:') ||
+                    line.startsWith('#EXT-X-MEDIA:') ||
+                    line.startsWith('#EXT-X-MAP:') ||
+                    line.startsWith('#EXT-X-KEY:') ||
+                    line.startsWith('#EXT-X-SESSION-KEY:') ||
+                    line.startsWith('#EXT-X-PART:') ||
+                    line.startsWith('#EXT-X-PRELOAD-HINT:')
+                ) {
+                    // Rewrite every URI="..." attribute on the line. Some tags
+                    // (#EXT-X-MAP, #EXT-X-KEY) carry a single URI; #EXT-X-MEDIA
+                    // can have one. Using a global replace keeps this generic.
+                    lines[i] = line.replace(/URI="([^"]+)"/g, (_m, u) => {
                         try {
-                            const absoluteUri = new URL(uriMatch[1], baseUrl).toString();
-                            const proxyUri = `/api/proxy-media?url=${encodeURIComponent(absoluteUri)}`;
-                            lines[i] = line.replace(`URI="${uriMatch[1]}"`, `URI="${proxyUri}"`);
-                        } catch (_) { /* skip */ }
-                    }
+                            const absoluteUri = new URL(u, baseUrl).toString();
+                            return `URI="${wrap(absoluteUri)}"`;
+                        } catch (_) {
+                            return `URI="${u}"`;
+                        }
+                    });
                 }
             }
 
-            c.header('Content-Type', 'application/vnd.apple.mpegurl');
-            c.header('Access-Control-Allow-Origin', '*');
-            return c.text(lines.join('\n'));
+            const headers = new Headers();
+            applyCorsHeaders(headers);
+            headers.set('Content-Type', 'application/vnd.apple.mpegurl');
+            headers.set('Cache-Control', 'no-store');
+            return new Response(lines.join('\n'), { status: 200, headers });
         }
 
-        c.header('Content-Type', contentType || 'application/octet-stream');
-        c.header('Access-Control-Allow-Origin', '*');
-        return new Response(response.body, {
-            status: 200,
-            headers: c.res.headers
+        // Forward useful upstream headers (length, ranges, ETag/Last-Modified)
+        // so the browser's range player can seek without us re-buffering. We
+        // explicitly *don't* forward `Transfer-Encoding` / `Connection`
+        // because they're hop-by-hop; leaving them in place sometimes makes
+        // the dev-server proxy fail with "Invalid character in chunk size".
+        const passthroughHeaders = new Headers();
+        applyCorsHeaders(passthroughHeaders);
+        passthroughHeaders.set('Content-Type', contentType || 'application/octet-stream');
+        passthroughHeaders.set('Accept-Ranges', 'bytes');
+        for (const k of ['content-length', 'content-range', 'etag', 'last-modified', 'cache-control']) {
+            const v = response.headers.get(k);
+            if (v) passthroughHeaders.set(k, v);
+        }
+
+        return new Response(method === 'HEAD' ? null : response.body, {
+            status: response.status, // preserve 200 / 206
+            headers: passthroughHeaders
         });
     } catch (e) {
-        return c.text(`Media Proxy Error: ${e.message}`, 500);
+        const headers = new Headers();
+        applyCorsHeaders(headers);
+        return new Response(`Media Proxy Error: ${e.message}`, { status: 500, headers });
     }
-});
+}
+
+app.get('/api/proxy-media', (c) => handleProxyMedia(c, { method: 'GET' }));
+app.on('HEAD', '/api/proxy-media', (c) => handleProxyMedia(c, { method: 'HEAD' }));
+
+// Copy the original request's `__dr_cookies` / `__dr_headers` query strings
+// onto a child URL so nested manifest entries (variant playlists, segments,
+// audio/subtitle tracks, encryption keys) inherit the same auth context on
+// their way back through the proxy.
+function appendInternalParams(childUrl, originalProxyInputUrl) {
+    try {
+        const orig = new URL(originalProxyInputUrl);
+        const child = new URL(childUrl);
+        let touched = false;
+        for (const p of INTERNAL_PARAMS) {
+            const v = orig.searchParams.get(p);
+            if (v && !child.searchParams.has(p)) {
+                child.searchParams.set(p, v);
+                touched = true;
+            }
+        }
+        return touched ? child.toString() : childUrl;
+    } catch (_) {
+        return childUrl;
+    }
+}
+
+// Backwards-compatible alias; older code paths still call appendDrCookies.
+const appendDrCookies = appendInternalParams;
+
 
 // -------------- SUBTITLE PROXY (SRT -> VTT) --------------
 // Frontend always loads subtitles via this endpoint, which transcodes SRT to
@@ -718,6 +1027,43 @@ app.get('/api/admin/analytics/providers', authMiddleware, isAdmin, async (c) => 
         console.error('[admin/analytics/providers]', e.message);
         return c.json({ error: 'Database error' }, 500);
     }
+});
+
+// -------------- ADMIN CACHE TOOLS --------------
+// Flush every cache entry that mentions the given provider id. Useful after
+// patching a broken adapter so the next request doesn't get served stale
+// upstream JSON / a stale stream URL.
+//
+//   POST /api/admin/cache/flush                 -> flush captain status only
+//   POST /api/admin/cache/flush?provider=velolo -> flush all velolo keys
+//   POST /api/admin/cache/flush?provider=all    -> flush every api_req + stream key
+app.post('/api/admin/cache/flush', authMiddleware, isAdmin, async (c) => {
+    const provider = (c.req.query('provider') || '').trim().toLowerCase();
+    const patterns = [];
+
+    if (!provider) {
+        // Just the captain-status snapshot.
+        patterns.push('captain:status');
+    } else if (provider === 'all') {
+        patterns.push('api_req:*', 'stream:*', 'subtitle:*', 'captain:status');
+    } else {
+        // The api_req: keys are full URLs that contain the provider slug, so
+        // a substring match works. The stream: keys start with stream:<provider>:.
+        patterns.push(`api_req:*${provider}*`, `stream:${provider}:*`, 'captain:status');
+    }
+
+    let total = 0;
+    const perPattern = {};
+    for (const pat of patterns) {
+        try {
+            const n = await cache.delByPattern(pat);
+            perPattern[pat] = n;
+            total += n;
+        } catch (e) {
+            perPattern[pat] = `error: ${e.message}`;
+        }
+    }
+    return c.json({ ok: true, provider: provider || null, deleted: total, perPattern });
 });
 
 // Run with Bun

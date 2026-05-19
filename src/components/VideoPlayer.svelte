@@ -49,7 +49,15 @@
     // upstream signed URL has expired and playback fails.
     let needsRefresh = false;
 
+    // Drives the loading placeholder overlay. True from the moment we start
+    // fetching a new source until the <video> element reports it's ready to
+    // play. Errors also clear it so the overlay doesn't get stuck on screen.
+    let videoLoading = true;
+    let videoErrored = false;
+
     async function fetchVideoStream(res, l, { force = false } = {}) {
+        videoLoading = true;
+        videoErrored = false;
         try {
             const params = new URLSearchParams({
                 res: res || "",
@@ -71,26 +79,72 @@
                 // Reset active track when episode/source changes.
                 detachActiveTrack();
                 applySubtitlePrefs();
+            } else {
+                videoLoading = false;
+                videoErrored = true;
             }
         } catch (e) {
             console.error("Failed to fetch video stream", e);
+            videoLoading = false;
+            videoErrored = true;
+        }
+    }
+
+    // Heuristic: do we need HLS.js (m3u8) or can we just point <video src>?
+    // The proxy URL looks like `/api/proxy-media?url=<encoded>`; check both
+    // the wrapping query and any trailing extension hint.
+    function looksLikeHls(src) {
+        if (!src) return false;
+        try {
+            const u = new URL(src, window.location.origin);
+            const inner = u.searchParams.get("url") || src;
+            const lower = inner.toLowerCase();
+            return lower.includes(".m3u8") || lower.includes("mpegurl");
+        } catch (_) {
+            return src.toLowerCase().includes(".m3u8");
         }
     }
 
     function loadVideo(source) {
-        if (!Hls.isSupported()) {
+        // Tear down any previous HLS instance up front so a switch from m3u8
+        // to mp4 (or vice versa) doesn't leave a dangling decoder attached.
+        if (hls) {
+            try {
+                hls.destroy();
+            } catch (_) {
+                /* ignore */
+            }
+            hls = null;
+        }
+
+        // MP4 (or non-HLS) source: just point the <video> tag at it. This is
+        // also the path Safari takes for HLS via its native player.
+        if (!looksLikeHls(source) || !Hls.isSupported()) {
             videoElement.src = source;
             initPlyr();
+            if (lastPosition > 0) {
+                try {
+                    videoElement.currentTime = lastPosition;
+                } catch (_) {
+                    /* ignore */
+                }
+            }
             if (player) {
                 player
                     .play()
                     .catch((err) => console.warn("Autoplay prevented", err));
             }
+            // Track the start once the element is wired up. Without this the
+            // mp4 path would never fire `video_start`.
+            if (!startTracked) {
+                startTracked = true;
+                track("video_start", {
+                    provider,
+                    drama_id: dramaId,
+                    episode_id: videoId,
+                });
+            }
             return;
-        }
-
-        if (hls) {
-            hls.destroy();
         }
 
         hls = new Hls();
@@ -172,6 +226,13 @@
         if (videoElement) {
             isPortrait = videoElement.videoWidth < videoElement.videoHeight;
         }
+    }
+
+    // Hides the placeholder once the browser has buffered enough to play.
+    // `canplay` fires for both HLS.js (after manifest + initial fragment)
+    // and native MP4, so it's a reliable single hook for both code paths.
+    function handleCanPlay() {
+        videoLoading = false;
     }
 
     function handlePointerUp(e) {
@@ -266,6 +327,8 @@
     // ?refresh=1 to get a freshly signed URL.
     function handleVideoError() {
         if (!videoElement || !videoElement.error) return;
+        videoErrored = true;
+        videoLoading = false;
         if (staleRetryDone) return;
         // MEDIA_ERR_NETWORK = 2, MEDIA_ERR_SRC_NOT_SUPPORTED = 4 — both can
         // mean the CDN returned 403/404 mid-load.
@@ -638,11 +701,54 @@
             bind:this={videoElement}
             on:timeupdate={syncHistory}
             on:loadedmetadata={handleLoadedMetadata}
+            on:canplay={handleCanPlay}
+            on:playing={handleCanPlay}
             on:error={handleVideoError}
             class="w-full h-full"
             crossorigin="anonymous"
             playsinline
         ></video>
+
+        <!-- Loading / error placeholder overlay. Sits above the <video> tag
+             until playback is ready, so the user sees a branded skeleton
+             instead of a black rectangle while signed URLs are being fetched. -->
+        {#if videoLoading || videoErrored}
+            <div
+                class="absolute inset-0 z-20 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm pointer-events-none"
+            >
+                <div class="absolute inset-0 video-placeholder-shimmer"></div>
+                {#if videoErrored}
+                    <svg
+                        class="w-12 h-12 text-dracin-primary mb-3 relative"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                    >
+                        <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                        ></path>
+                    </svg>
+                    <p class="text-white font-bold text-sm relative">
+                        Gagal memuat video
+                    </p>
+                    <p class="text-gray-400 text-xs mt-1 relative">
+                        Coba ganti resolusi atau muat ulang halaman.
+                    </p>
+                {:else}
+                    <div
+                        class="w-14 h-14 rounded-full border-4 border-white/10 border-t-dracin-primary animate-spin relative"
+                    ></div>
+                    <p
+                        class="text-gray-300 text-xs mt-4 uppercase tracking-widest font-bold relative"
+                    >
+                        Memuat video…
+                    </p>
+                {/if}
+            </div>
+        {/if}
 
         <!-- Custom subtitle overlay. Sits on top of <video>, position and
              font-size are bound to user preferences. We only render when
@@ -700,5 +806,29 @@
     }
     .dracin-sub-line {
         display: inline;
+    }
+
+    /* Subtle moving gradient on the loading overlay so it doesn't feel
+       static while waiting on the upstream stream URL. */
+    .video-placeholder-shimmer {
+        background: linear-gradient(
+            110deg,
+            rgba(225, 29, 72, 0) 0%,
+            rgba(225, 29, 72, 0.08) 45%,
+            rgba(225, 29, 72, 0.18) 50%,
+            rgba(225, 29, 72, 0.08) 55%,
+            rgba(225, 29, 72, 0) 100%
+        );
+        background-size: 200% 100%;
+        animation: video-shimmer 2.4s linear infinite;
+    }
+
+    @keyframes video-shimmer {
+        0% {
+            background-position: 200% 0;
+        }
+        100% {
+            background-position: -200% 0;
+        }
     }
 </style>

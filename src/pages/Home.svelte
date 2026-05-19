@@ -6,10 +6,46 @@
     import { lang } from "../stores/lang.js";
     import { track } from "../stores/analytics.js";
 
+    const BROKEN_KEY = "dracin_broken_providers";
+
+    function getBrokenProviders() {
+        try {
+            const raw = localStorage.getItem(BROKEN_KEY);
+            const list = raw ? JSON.parse(raw) : [];
+            return Array.isArray(list) ? list : [];
+        } catch (e) {
+            return [];
+        }
+    }
+
+    function markProviderBroken(id) {
+        if (!id) return;
+        const broken = getBrokenProviders();
+        if (!broken.includes(id)) {
+            broken.push(id);
+            try {
+                localStorage.setItem(BROKEN_KEY, JSON.stringify(broken));
+            } catch (e) {
+                /* storage full / disabled — ignore */
+            }
+        }
+    }
+
+    function markProviderHealthy(id) {
+        if (!id) return;
+        const broken = getBrokenProviders().filter((p) => p !== id);
+        try {
+            localStorage.setItem(BROKEN_KEY, JSON.stringify(broken));
+        } catch (e) {
+            /* ignore */
+        }
+    }
+
     let provider = localStorage.getItem("dracin_provider") || "flickreels";
     let dramas = [];
     let categories = [];
     let providers = [];
+    let brokenProviders = getBrokenProviders();
     let loading = true;
     let loadingCats = false;
     let error = "";
@@ -37,12 +73,28 @@
             if (res.ok) {
                 const data = await res.json();
                 providers = data.providers || [];
-                // If saved provider is no longer supported, fall back to first.
-                if (
-                    !providers.find((p) => p.id === provider) &&
-                    providers.length
-                ) {
-                    provider = providers[0].id;
+
+                const isUsable = (p) =>
+                    p && !p.maintenance && !brokenProviders.includes(p.id);
+
+                const current = providers.find((p) => p.id === provider);
+
+                // Saved provider gone, in maintenance, or known-broken — pick a
+                // healthy one so a refresh doesn't strand the user on the
+                // broken provider's error screen.
+                if ((!current || !isUsable(current)) && providers.length) {
+                    const fallback =
+                        providers.find(isUsable) ||
+                        providers.find((p) => !p.maintenance) ||
+                        providers[0];
+                    if (fallback && fallback.id !== provider) {
+                        provider = fallback.id;
+                        try {
+                            localStorage.setItem("dracin_provider", provider);
+                        } catch (e) {
+                            /* ignore */
+                        }
+                    }
                 }
             }
         } catch (e) {
@@ -71,16 +123,23 @@
     async function fetchHome() {
         loading = true;
         error = "";
+        const requested = provider;
         try {
-            const res = await fetch(`/api/home/${provider}?lang=${$lang}`);
+            const res = await fetch(`/api/home/${requested}?lang=${$lang}`);
             if (res.ok) {
                 const data = await res.json();
                 dramas = data.dramas || [];
+                markProviderHealthy(requested);
+                brokenProviders = getBrokenProviders();
             } else {
                 error = "Failed to load dramas";
+                markProviderBroken(requested);
+                brokenProviders = getBrokenProviders();
             }
         } catch (e) {
             error = "Network error";
+            markProviderBroken(requested);
+            brokenProviders = getBrokenProviders();
         } finally {
             loading = false;
         }
@@ -165,6 +224,8 @@
         selectedCategoryId = "";
         selectedCategoryName = "";
         categories = [];
+        dramas = [];
+        error = "";
         fetchData();
     }
 
@@ -194,46 +255,87 @@
             push(`/watch/${provider}/${heroDrama.id}/1`);
         }
     }
+
+    // Translate vertical mouse-wheel deltas into horizontal scroll on the
+    // provider pill rail. Without this the row only scrolls via touchpad/drag,
+    // which is invisible to users on a desktop mouse.
+    function handleProviderWheel(e) {
+        const el = e.currentTarget;
+        // Only intercept when the row actually overflows.
+        if (el.scrollWidth <= el.clientWidth) return;
+        // If the user is already scrolling horizontally (shift+wheel, trackpad),
+        // let the browser handle it natively.
+        if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) return;
+        e.preventDefault();
+        el.scrollBy({ left: e.deltaY, behavior: "auto" });
+    }
 </script>
 
 <div class="min-h-screen bg-dracin-dark pb-20">
-    {#if loading && !dramas.length}
-        <div class="flex justify-center items-center h-screen">
+    {#if loading && !dramas.length && !error}
+        <!-- Hero Banner Placeholder -->
+        <div
+            class="relative w-full h-[60vh] md:h-[80vh] bg-dracin-card/40 overflow-hidden hero-skeleton"
+        >
+            <div class="absolute inset-0 shimmer"></div>
             <div
-                class="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-dracin-primary"
+                class="absolute inset-0 bg-gradient-to-t from-dracin-dark via-dracin-dark/40 to-transparent"
             ></div>
-        </div>
-    {:else if error}
-        <div class="container mx-auto pt-32 px-4">
             <div
-                class="bg-red-500/10 border border-red-500/50 text-red-400 p-8 rounded-2xl text-center max-w-lg mx-auto"
+                class="absolute bottom-0 left-0 w-full p-6 md:p-16 pb-12 md:pb-24 z-10 flex flex-col justify-end"
             >
-                <svg
-                    class="w-16 h-16 mx-auto mb-4 text-red-500 opacity-80"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                    ><path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
-                    ></path></svg
-                >
-                <p class="font-bold text-xl mb-2">
-                    Oops! Something went wrong.
-                </p>
-                <p class="mb-6 opacity-80">{error}</p>
-                <button
-                    on:click={fetchData}
-                    class="bg-red-600 hover:bg-red-700 text-white font-bold px-8 py-3 rounded-full transition-colors shadow-lg"
-                    >Try Again</button
-                >
+                <div class="max-w-3xl space-y-4">
+                    <div class="flex items-center gap-3">
+                        <div
+                            class="h-6 w-24 bg-white/10 rounded-sm animate-pulse"
+                        ></div>
+                        <div
+                            class="h-4 w-20 bg-white/10 rounded animate-pulse"
+                        ></div>
+                    </div>
+                    <div
+                        class="h-10 md:h-14 w-3/4 bg-white/10 rounded animate-pulse"
+                    ></div>
+                    <div
+                        class="h-6 md:h-8 w-1/2 bg-white/10 rounded animate-pulse"
+                    ></div>
+                    <div class="flex gap-4 pt-2">
+                        <div
+                            class="h-12 w-40 bg-white/15 rounded animate-pulse"
+                        ></div>
+                        <div
+                            class="h-12 w-36 bg-white/10 rounded animate-pulse"
+                        ></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Content Grid Placeholder -->
+        <div class="container mx-auto px-4 md:px-8 mt-[-2rem] relative z-20">
+            <div
+                class="mb-10 max-w-2xl h-14 bg-dracin-card/60 rounded-full animate-pulse"
+            ></div>
+            <div class="flex gap-3 mb-6 overflow-hidden">
+                {#each Array(6) as _}
+                    <div
+                        class="h-11 w-28 bg-dracin-card/60 rounded-full animate-pulse flex-shrink-0"
+                    ></div>
+                {/each}
+            </div>
+            <div
+                class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 md:gap-6"
+            >
+                {#each Array(12) as _}
+                    <div
+                        class="aspect-[2/3] bg-dracin-card/60 rounded-lg animate-pulse"
+                    ></div>
+                {/each}
             </div>
         </div>
     {:else}
         <!-- Hero Section -->
-        {#if heroDrama && !searchQuery}
+        {#if heroDrama && !searchQuery && !error}
             <div class="relative w-full h-[60vh] md:h-[80vh] bg-black">
                 <!-- Hero Background -->
                 <div class="absolute inset-0">
@@ -358,16 +460,48 @@
                 </h2>
                 <div
                     class="flex gap-3 overflow-x-auto pb-4 scrollbar-hide -mx-4 px-4 md:mx-0 md:px-0"
+                    on:wheel={handleProviderWheel}
                 >
                     {#each providers as prov}
+                        {@const isBroken =
+                            !prov.maintenance &&
+                            brokenProviders.includes(prov.id) &&
+                            provider !== prov.id}
                         <button
-                            class="whitespace-nowrap px-6 py-3 rounded-full text-sm font-bold transition-all border {provider ===
-                            prov.id
-                                ? 'bg-white text-black border-white shadow-lg'
-                                : 'bg-dracin-card/50 text-gray-300 border-white/10 hover:bg-white/10 hover:text-white'}"
-                            on:click={() => switchProvider(prov.id)}
+                            class="whitespace-nowrap px-6 py-3 rounded-full text-sm font-bold transition-all border {prov.maintenance
+                                ? 'bg-gray-700/40 text-gray-500 border-white/5 cursor-not-allowed opacity-60'
+                                : provider === prov.id
+                                  ? 'bg-white text-black border-white shadow-lg'
+                                  : isBroken
+                                    ? 'bg-dracin-card/30 text-gray-500 border-red-500/30 hover:bg-white/10 hover:text-white'
+                                    : 'bg-dracin-card/50 text-gray-300 border-white/10 hover:bg-white/10 hover:text-white'}"
+                            disabled={prov.maintenance}
+                            title={prov.maintenance
+                                ? $lang === "id"
+                                    ? "Sedang dalam pemeliharaan"
+                                    : "Under maintenance"
+                                : isBroken
+                                  ? $lang === "id"
+                                      ? "Sumber ini error sebelumnya — klik untuk coba lagi"
+                                      : "This source errored previously — click to retry"
+                                  : prov.name}
+                            on:click={() =>
+                                !prov.maintenance && switchProvider(prov.id)}
                         >
                             {prov.name}
+                            {#if prov.maintenance}
+                                <span
+                                    class="ml-1 text-[10px] uppercase tracking-wider opacity-80"
+                                    >· {$lang === "id"
+                                        ? "Maintenance"
+                                        : "Maintenance"}</span
+                                >
+                            {:else if isBroken}
+                                <span
+                                    class="ml-1 text-[10px] text-red-400 uppercase tracking-wider"
+                                    >⚠</span
+                                >
+                            {/if}
                         </button>
                     {/each}
                 </div>
@@ -414,7 +548,42 @@
             {/if}
 
             <!-- Content Grid / Rows -->
-            {#if dramas.length === 0}
+            {#if error}
+                <div
+                    class="bg-red-500/10 border border-red-500/40 text-red-300 p-8 rounded-2xl text-center"
+                >
+                    <svg
+                        class="w-12 h-12 mx-auto mb-3 text-red-500 opacity-80"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                        ><path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                        ></path></svg
+                    >
+                    <p class="font-bold text-lg mb-1 text-white">
+                        {providerLabel}
+                        {$lang === "id"
+                            ? "tidak dapat dimuat"
+                            : "couldn't be loaded"}
+                    </p>
+                    <p class="mb-5 opacity-80 text-sm">{error}</p>
+                    <p class="mb-5 text-gray-400 text-sm">
+                        {$lang === "id"
+                            ? "Pilih sumber lain di atas, atau coba lagi."
+                            : "Pick another source above, or try again."}
+                    </p>
+                    <button
+                        on:click={fetchData}
+                        class="bg-red-600 hover:bg-red-700 text-white font-bold px-6 py-2.5 rounded-full transition-colors shadow-lg"
+                    >
+                        {$lang === "id" ? "Coba Lagi" : "Try Again"}
+                    </button>
+                </div>
+            {:else if dramas.length === 0}
                 <div
                     class="text-center p-16 bg-dracin-card/30 border border-white/5 rounded-2xl"
                 >
@@ -464,5 +633,27 @@
     .scrollbar-hide {
         -ms-overflow-style: none;
         scrollbar-width: none;
+    }
+
+    /* Hero placeholder shimmer sweep. Keeps the skeleton feeling alive
+       while we wait for the first batch of dramas to come back. */
+    .hero-skeleton .shimmer {
+        background: linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0) 0%,
+            rgba(255, 255, 255, 0.05) 50%,
+            rgba(255, 255, 255, 0) 100%
+        );
+        background-size: 200% 100%;
+        animation: shimmer-sweep 2s linear infinite;
+    }
+
+    @keyframes shimmer-sweep {
+        0% {
+            background-position: 200% 0;
+        }
+        100% {
+            background-position: -200% 0;
+        }
     }
 </style>

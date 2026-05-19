@@ -34,5 +34,25 @@ export const cache = {
             await client.set(key, JSON.stringify(value));
         }
     },
+    // Delete every key that matches a glob pattern (e.g. `api_req:*velolo*`).
+    // Walks the keyspace via SCAN so big stores don't get blocked, then issues
+    // a single DEL per batch. Returns the total number of deleted keys.
+    delByPattern: async (pattern) => {
+        if (!isConnected) await cache.connect();
+        let deleted = 0;
+        let cursor = '0';
+        do {
+            const reply = await client.scan(cursor, { MATCH: pattern, COUNT: 200 });
+            // node-redis v4 returns { cursor, keys }
+            cursor = String(reply.cursor ?? reply[0] ?? '0');
+            const keys = reply.keys ?? reply[1] ?? [];
+            if (keys.length) {
+                await client.del(keys);
+                deleted += keys.length;
+            }
+        } while (cursor !== '0');
+        return deleted;
+    },
     client
 };
+

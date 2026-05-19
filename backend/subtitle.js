@@ -4,6 +4,12 @@
 // from a provider has to be transcoded on the fly. We do this in the proxy
 // layer so the frontend always receives `text/vtt`.
 
+// Pinned to a desktop-Chrome UA so subtitle CDNs (which sometimes 403 on
+// non-browser clients) treat us like a real visitor. Kept in sync with the
+// User-Agent used by the rest of the proxy layer.
+const SUBTITLE_USER_AGENT =
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+
 // Convert SubRip (.srt) text to WebVTT (.vtt) text.
 //
 // SRT example:
@@ -60,7 +66,12 @@ export function isSrtUrl(url) {
 // Fetch a remote subtitle file and, if it's an SRT, transcode to VTT.
 // Returns { body, contentType }.
 export async function fetchSubtitleAsVtt(url) {
-    const res = await fetch(url, { headers: { 'Accept': '*/*' } });
+    const res = await fetch(url, {
+        headers: {
+            'Accept': '*/*',
+            'User-Agent': SUBTITLE_USER_AGENT
+        }
+    });
     if (!res.ok) {
         throw new Error(`Subtitle fetch failed: ${res.status}`);
     }

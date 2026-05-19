@@ -20,13 +20,22 @@ export const flickreels = {
         return { dramas: filterValid(list.map(frItem)) };
     },
     async categories({ fetchApi, lang }) {
+        // The upstream nav contains a synthetic "home" entry whose backing
+        // for-you call returns no dramas through our normalised flow, plus
+        // the standard real categories. Drop it here so the frontend pill
+        // row only shows useful tabs.
         const data = await fetchApi('flickreels', 'navigation', { lang });
         const list = data?.data || [];
         return {
-            categories: list.map(c => ({
-                id: String(c.id || c.nav_id || ''),
-                name: c.name || c.nav_name || c.display_name || ''
-            }))
+            categories: list
+                .filter(c => {
+                    const n = (c.name || c.nav_name || c.display_name || '').toLowerCase();
+                    return n && n !== 'home' && n !== 'beranda' && n !== 'for you';
+                })
+                .map(c => ({
+                    id: String(c.id || c.nav_id || ''),
+                    name: c.name || c.nav_name || c.display_name || ''
+                }))
         };
     },
     async categoryContent({ fetchApi, lang }, { id, name }) {
